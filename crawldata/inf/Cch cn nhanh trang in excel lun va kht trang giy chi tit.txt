@@ -1,0 +1,84 @@
+Cách căn nhanh trang in excel luôn vừa khít trang giấy chi tiết
+ĐỪNG BỎ LỠ 1 số mẫu Tai nghe đang giảm lớn, số lượng có hạn tại TGDĐ:
+Căn nhanh trang in Excel là một trong những thủ thuật văn phòng mà “dân” công sở nên biết để có thể tiết kiệm thời gian và tránh lãng phí giấy. Bài viết dưới đây sẽ hướng dẫn chi tiết cách thực hiện. Mời bạn tìm hiểu qua nhé.
+Tìm hiểu thêm về các lưu ý trước khi in file Excel, mời bạn xem bài viết: Cách in file Excel và những lưu ý trước khi in .
+1. Căn chỉnh nhanh trang in Excel
+Hướng dẫn: Ctrl + P .
+Bạn có thể dễ dàng xem được Preview (xem trước bản in), sau đó quay trở lại tệp dữ liệu, bạn sẽ thấy các nét đứt trên trang in của bạn.
+Xem trước bản in
+Sau đó thực hiện kéo dữ liệu vào trong đường nét đứt đó để chuẩn bị in.
+Đường nét đứt giúp phân biệt vùng in
+SĂN NGAY MÃ GIẢM SỐC TGDĐ TẠI ĐÂY!!
+2. Căn chỉnh lại khổ giấy in vừa khít trang giấy
+Hướng dẫn: Chọn Page Layout > Chọn Margins > Chọn Custom Margins .
+Tại đây, bạn có thể căn chỉnh các lề: Left (trái), Right (phải), Top (trên), Bottom (dưới).
+Chỉnh lề cho bản in
+3. Sử dụng công cụ Breaks để ngắt trang
+Hướng dẫn: Chọn Page Layout > Chọn Breaks > Chọn Insert Page Break .
+Với công cụ Breaks, bạn có thể ngắt trang in ra thành nhiều phần khi dữ liệu trên Excel của bạn quá dài.
+Ngắt trang với công cụ Breaks
+4. Căn chỉnh nhanh khu vực in Excel
+Hướng dẫn: Chọn phần muốn in bằng cách bôi đen > Chọn Page Layout > Chọn Print Area > Chọn Set Print Area .
+Chỉnh khu vực in bằng Print Area
+5. In ngang thay vì in dọc
+Hướng dẫn: Chọn Page Layout > Chọn Orientation > Chọn Landscape .
+Với cách làm này, bạn sẽ chọn chế độ in ngang thay vì in dọc theo mặc định của Excel. Như vậy, trang in sẽ vừa khớp với giấy in của bạn.
+Chuyển sang chế độ in ngang
+6. Thiết lập căn chỉnh kích thước của bảng Excel
+Hướng dẫn: Chọn Page Layout > Chọn Page Setup > Tại màn hình Page Setup , chọn “ Fit to 1 page(s) wide by 0 tall ” > Chọn OK .
+Chọn Page Setup trong Page Layout
+Chọn Fit to 1 page(s) wide by 0 tall. Trang in của bạn sẽ vừa khít giấy A4.
+Chọn Fit to 1 page(s) wide by 0 tall
+7 . Xóa hoặc ẩn những cột thừa
+Hướng dẫn: Chọn toàn bộ cột cần ẩn/xóa > Bấm chuột phải chọn Delete (xóa) hoặc Hide (ẩn).
+Ẩn hoặc xóa những cột không mong muốn in
+8. Một số lỗi về máy in khác
+Để hạn chế các lỗi xảy ra, người dùng sử dụng máy in chính hãng từ Canon , HP , Brother , Samsung hay Epson.
+- Máy tính Windows không tìm thấy máy in trong mạng LAN
+Với những người lần đầu kết nối máy tính và máy in, có thể sẽ gặp lỗi không tìm thấy máy in trong mạng LAN .
+Một số cách khắc phục bạn có thể áp dụng như là:
++ Khắc phục lỗi do hệ điều hành không tương thích.
++ Kiểm tra địa chỉ IP của máy tính chủ.
++ Khắc phục lỗi do máy chủ tạo nên.
++ Khắc phục lỗi mạng LAN bị limited.
++ Khắc phục lỗi do máy chủ nhiễm Virus.
+Để hiểu rõ hơn về cách khắc phục không tìm thấy máy in, mời bạn xem qua bài viết: Cách xử lý lỗi máy tính Windows không tìm thấy máy in trong mạng LAN .
+- Lỗi máy in chỉ in được 1 trang
+Sai khổ giấy chính là nguyên nhân chính khiến máy in chỉ in được 1 trang. Để giải quyết trình trạng này, mời bạn xem qua hướng dẫn nhanh ở bài viết: Lỗi máy in chỉ in được 1 trang nguyên nhân và cách khắc phục đơn giản .
+- Lỗi máy in báo Ready To Print nhưng không in được
+Các nguyên nhân có thể là lỗi do cáp kết nối, trong máy có quá nhiều lệnh in và máy in chưa nhận được lệnh in chính xác. Do đó, người dùng cần phải khởi động lại tiến trình Print Spooler để khắc phục.
+Mời bạn tìm hiểu thêm bài viết để biết rõ hơn về chi tiết từng lỗi và cách khắc phục tương ứng: Lỗi máy in báo Ready To Print nhưng không in được và cách khắc phục .
+Máy in có thể gặp lỗi báo Ready To Print khi in
+- Cách khắc phục lỗi bản in bị sọc, sai màu trên máy in phun màu Canon
+Một số cách khắc phục thường thấy cho lỗi bản in bị sọc, sai màu:
++ Kiểm tra lượng mực trong máy in.
++ In bản kiểm tra đầu in.
++ Làm sạch đầu in.
+Tìm hiểu ngay bài viết sau đây để khắc phục nhanh chóng lỗi bản in bị sọc, bị sai màu: Cách khắc phục lỗi bản in bị sọc, sai màu trên máy in phun màu Canon .
+- Lỗi máy in không nhận lệnh in
+Một số nguyên nhân máy in không nhận lệnh in thường gặp: Máy tính của bạn đang bị lỗi hệ điều hành, dây cáp kết nối máy in với máy tính có thể bị hỏng hoặc bị lỏng, máy in chưa được bật nguồn,...
+Một số cách khắc phục: Kiểm tra dây cáp kết nối, khởi động lại máy tính, kiểm tra nguồn điện máy in, đảm bảo máy in không bị kẹt giấy,...
+Tìm hiểu thêm về các nguyên nhân và cách khắc phục lỗi máy in không nhận lệnh in, mời bạn tham khảo bài viết: Lỗi máy in không nhận lệnh in - Cách khắc phục nhanh chóng và hiệu quả .
+Máy in gặp lỗi không nhận lệnh in bắt nguồn từ nhiều nguyên nhân
+- Máy in in ra giấy trắng
+Nguyên nhân máy in ra giấy trắng: Hộp mực đã hết mực, hộp mực bị hỏng, trục từ máy in đã hỏng,...
+Với mỗi nguyên nhân sẽ tương ứng với từng cách khắc phục riêng, mời bạn xem thêm tại: Máy in in ra giấy trắng - Nguyên nhân và cách khắc phục nhanh chóng .
+- Máy in không kéo giấy
+Nguyên nhân có thể bắt nguồn từ lỗi đặt giấy vào khay quá nhiều, giấy in không phù hợp với máy, đặt sai khổ giấy in,...
+Cách khắc phục lỗi được đề cập chi tiết tại Máy in không kéo giấy - Nguyên nhân và cách khắc phục hiệu quả , xem ngay nhé!
+- Máy in bị mờ chữ, không đậm, không rõ nét
+Nguyên nhân thường thấy khi máy in bị mờ chữ: Máy in hết mực, đổ mực không đúng cách, nạp mực không đúng loại, trục từ bị hỏng, bị mòn trong quá trình sử dụng,...
+Để hiểu rõ hơn về chi tiết từng lỗi và cách khắc phục tương ứng, mời bạn tham khảo bài viết: Cách khắc phục lỗi máy in bị mờ chữ, không đậm, không rõ nét .
+Máy in gặp lỗi bị mờ chữ khi in và các lỗi khác
+- Máy in kéo nhiều tờ giấy cùng một lúc
+Máy in kéo nhiều tờ giấy cùng một lúc bắt nguồn từ nhiều nguyên nhân khác nhau. Xem ngay tại Máy in kéo nhiều tờ giấy cùng một lúc - Nguyên nhân và cách khắc phục để hiểu rõ hơn từng lỗi và cách khắc phục đề xuất nhé.
+- Hướng dẫn cách in 2 mặt khớp nhau trong Word
+In 2 mặt khớp nhau trong Word bằng tính năng Layout và một số lưu ý khi căn lề để in. Tất cả được đề cập trong bài viết Hướng dẫn cách in 2 mặt khớp nhau trong Word đơn giản, nhanh chóng .
+- Máy in không in được file PDF
+Máy in không in được file PDF có thể là do lỗi Driver , tùy chọn mặc định của máy,...
+Từng nguyên nhân và cách khắc phục hiệu quả được đề cập trong bài viết Máy in không in được file PDF - Nguyên nhân và cách khắc phục hiệu quả , mời bạn tìm hiểu qua.
+Máy in không in được như mong muốn có thể do sai định dạng in
+Xem thêm : Cách chia sẻ máy in qua mạng LAN trên máy tính đơn giản, chi tiết Cách kết nối, cài đặt máy in với điện thoại Samsung đơn giản Hướng dẫn cách khắc phục lỗi máy tính không nhận máy in hiệu quả Cách viết, ẩn số 0 ở đầu dãy số, văn bản trong Excel 2010, 2016,...
+Hy vọng với các hướng dẫn trên, bạn có thể dễ dàng căn nhanh trang in Excel để luôn vừa khít trang giấy. Cảm ơn bạn đã theo dõi và hẹn gặp lại ở những bài viết sau.
+13.390 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

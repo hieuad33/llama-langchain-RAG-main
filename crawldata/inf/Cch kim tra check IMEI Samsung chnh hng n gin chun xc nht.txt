@@ -1,0 +1,135 @@
+Cách kiểm tra, check IMEI Samsung chính hãng đơn giản, chuẩn xác nhất
+ĐỪNG BỎ LỠ 1 số điện thoại Samsung đang GIẢM SỐC tại TGDĐ:
+Hiện nay, Samsung là một trong những dòng điện thoại được nhiều người ưa chuộng bởi tính năng và phân khúc giá cả của nó. Để biết điện thoại của mình có phải chính hãng, hay đã từng bị sửa chữa, thay thế hay không thì việc kiểm tra IMEI Samsung là một việc rất quan trọng. Bài viết sẽ hướng dẫn bạn cách check IMEI Samsung chính hãng đơn giản và chuẩn xác nhất. Cùng theo dõi nhé!
+1. IMEI là gì?
+- IMEI (viết tắt của International Mobile Equipment Identity) là một dãy các số được in trên vỏ hộp điện thoại, tem máy, pin và bạn có thể xem trong phần thông tin cài đặt điện thoại.
+Mã IMEI là duy nhất cho từng thiết bị.
+- Tác dụng, chức năng của IMEI :
++ IMEI giúp nhận dạng thiết bị di động.
++ Giúp phân biệt từng sản phẩm điện thoại.
+- Lợi ích của việc kiểm tra IMEI trên điện thoại :
++ Xác định tình trạng và xuất xứ của điện thoại: Sử dụng mã IMEI bạn có thể kiểm tra thời gian kích hoạt máy hay thời hạn bảo hành của thiết bị. Chính vì thế check IMEI là một trong những cách kiểm tra điện thoại Samsung chính hãng vô cùng chính xác.
++ Giúp điện thoại đọc được SIM để có thể nghe và gọi: IMEI có chức năng đọc số IMSI trên SIM . Sau đó thông qua công nghệ 3GPP và iDEN để gửi thông tin đến nhà mạng. Do đó, nếu mất mã IMEI, thiết bị đó sẽ không thể nghe gọi và không thể bảo hành được nữa.
+IMEI là một dãy các số được in trên vỏ hộp điện thoại
+Xem thêm : TOP 15 trang web rút gọn link trên điện thoại, laptop miễn phí
+2. Cách kiểm tra IMEI Samsung
+Kiểm tra IMEI điện thoại Samsung
+- Cách 1: Check IMEI trên hộp, thân máy
+Thông thường, tất cả điện thoại Samsung đều được in mã IMEI ở ngoài vỏ hộp và thân máy. Do đó, bạn có thể xem vỏ hộp điện thoại để kiểm tra IMEI nhé!
+IMEI Samsung được in trên vỏ hộp, thân máy
+- Cách 2: Check IMEI Samsung bằng cách gọi *#06#
+Ngoài xem thông tin trên vỏ hộp điện thoại, bạn còn có thể kiểm tra IMEI bằng cách: Mở Điện thoại > Nhập *#06# > Bấm gọi > Xem thông tin IMEI trả về.
+Check IMEI Samsung bằng cách gọi *#06#
+- Cách 3: Check IMEI từ phần cài đặt
+Bạn cũng có thể check IMEI trực tiếp tại phần Cài đặt của điện thoại. Cách thực hiện như sau:
+Vào Cài đặt > Chọn Thông tin điện thoại > Xem thông tin IMEI.
+Kiểm tra thông tin IMEI từ phần cài đặt
+Máy tính bảng
+Các thông tin của máy tính bảng, cũng nằm phía sau mặt lưng sản phẩm.
+Với kiểu máy bắt đầu với kí tự SM- hoặc GT- , số máy bắt đầu với kí tự R gồm chữ và số. Số IMEI sẽ gồm 15 số bắt đầu với 35 (với thiết bị hỗ trợ 4G).
+Mã code thông tin máy tính bảng nằm phía sau mặt lưng sản phẩm
+Đồng hồ thông minh
+Các mã thông tin sản phẩm của các thiết bị đeo đều được hiển thị phía mặt dưới của sản phẩm. Với kiểu máy sẽ bắt đầu với SM- , số máy gồm chữ và số và được viết tắt là S/N .
+Số IMEI được thể hiện phía mặt dưới của sản phẩm
+Gear VR
+Đối với các sản phẩm Gear VR, thông tin sản phẩm sẽ hiển thị ở giữa mặt sản phẩm. Với kiểu máy bắt đầu với ký tự SM-R , số máy được viết tắt là S/N gồm các kí tự chữ và số.
+Các thông tin về Gear VR nằm ở giữa mặt trước sản phẩm
+Màn hình
+Đối với các dòng sản phẩm này, các mã code về thông tin được hiển thị phía sau màn hình. Với kiểu máy được bắt đầu với LC , số máy được viết tắt bằng ký tự S/N và tiếp theo là các kí tự chữ và số theo sau.
+Đối với các sản phẩm IT, thông tin được hiển thị phía sau sản phẩm
+3. Cách kiểm tra thời hạn bảo hành bằng IMEI
+Thông qua Website của Samsung
+Sau khi đã biết được mã IMEI của thiết bị, bạn có thể dùng mã này để kiểm tra tình trạng và thời gian bảo hành thiết bị. Cách thực hiện như sau:
+Bước 1 : Truy cập vào trang web kiểm tra bảo hành của Samsung TẠI ĐÂY .
+Bước 2 : Tại mục Để kiểm tra thời hạn bảo hành , bạn click chọn nhóm sản phẩm cần kiểm tra.
+Kiểm tra thời gian bảo hành Thông qua Website của Samsung
+Bước 3 : Nhập số IMEI đã tra cứu > Tick chọn I'm not a robot (Tôi không phải là người máy) > Thực hiện bước xác minh bằng CAPTCHA > Click chọn Kiểm tra .
+Nhập IMEI để kiểm tra thông tin bảo hành
+Bước 4 : Thông tin bảo hành sẽ được hiển thị ở phía dưới, bao gồm mã số thiết bị, trạng thái kích hoạt bảo hành (Ngày kích hoạt, ngày hết hạn).
+Thông tin bảo hành
+Thông qua Website iUnlocker
+iUnlocker là một dịch vụ kiểm tra IMEI giúp bạn xác minh thông tin thiết bị Samsung một cách đơn giản. Các bước để kiểm tra thời hạn bảo hành sản phẩm trên website iUnilocker như sau:
+Bước 1 : Truy cập vào trang web iUnilocker TẠI ĐÂY có giao diện như sau:
+Truy cập vào iUnlocker
+Bước 2 : Nhập số IMEI vào ô trống như hình.
+Nhập mã IMEI của thiết bị vào khoảng trắng
+Bước 3 : Chờ trong giây lát, mọi thông tin sản phẩm sẽ được hiển thị. Thời gian bảo hành sẽ nằm ở mục Warranty Status
+Warranty Status sẽ hiển thị thời gian bảo hành thiết bị bạn
+Bằng cách nhập số IMEI hoặc số Sê-ri của thiết bị, bạn có thể kiểm tra một số thông tin bên dưới như: - Past First Activation : Điện thoại đã được kích hoạt sẽ là Yes, No là chưa kích hoạt. - Apple Care : Có Apple Care là Yes, No là không. - Warranty Name : Nếu như còn hạn bảo hành sẽ hiện tên các gói bảo hành, nếu như hết bảo hành sẽ hiện Out of Warranty. - Repairs and Service Coverage : Hạn bảo hành, sửa chữa. - Estimated Expiration Date : Ngày hết hạn dự kiến. - Telephone Technical Support : Giúp đỡ và hỗ trợ kỹ thuật điện thoại còn hạn hay không (Expired là hết hạn nhé). - Estimated Purchase Date : Khoảng thời gian mua máy. - GSMA Blacklist Status : CLEAN có nghĩa là máy sạch, không nằm trong danh sách những chiếc điện thoại bị đánh cắp, nghĩa là điện thoại của bạn chưa từng bị ăn cắp hoặc không có vấn đề gì xuất hiện. - Find My iPhone/iCloud : Tìm kiếm iPhone. - Demo Unit : Đơn vị thử nghiệm - Refurbished : Điện thoại đã được tân trang là Yes, No là chưa tân trang. - Replacement Device : Thiết bị đã từng bị thay thế là Yes, No là chưa từng. - Country of purchase : Xuất xứ của điện thoại. - Sold By : Được bán bởi đâu?
+Thông qua Website IMEI.info
+IMEI.info là một website được tích hợp cơ sở dữ liệu TAC toàn cầu lớn nhất. Kiểm tra IMEI miễn phí ở website này để xem mọi thông tin bảo hành, nhà cung cấp dịch vụ và nhiều chi tiết khác về thiết bị di động của bạn.
+Các bước thực hiện kiểm tra trên website IMEI.info như sau:
+Bước 1 : Truy cập trang web IMEI TẠI ĐÂY . Nhập số IMEI thiết bị di động vào khoảng trắng. Sau đó, đánh dấu vào ô xác minh "I am a human" (Tôi là con người) và nhấn nút Check .
+Truy cập trang web và nhập số IMEI
+Bước 2 : Chọn tùy chọn Samsung Warranty/SN/Carrier Check .
+Chọn Samsung Warranty/SN/Carrier Check
+Bước 3 : Tiếp theo, bấm vào View Sample .
+Chọn View Sample
+Bước 4 : Ngay lập tức, thông tin về điện thoại sẽ hiển thị trên màn hình, cho bạn biết tình trạng bảo hành của điện thoại Samsung ( Warranty Status ) mà bạn đang sử dụng.
+Thông tin về bảo hành sản phẩm sẽ được hiển thị ngay
+- Model : Mẫu của điện thoại. - Brand : Hãng của thiết bị. - IMEI : Số IMEI của điện thoại. - Device type : Loại điện thoại, - Design : Thiết kế, - Released : Năm phát hành, - SIM card size : Sim điện thoại đang sử dụng - GSM : Giao diện di động toàn cầu - Tiêu chuẩn kết nối mạng di động phổ biến trên toàn thế giới. - HSDPA : Hệ thống dữ liệu di động tốc độ cao - Công nghệ cải tiến cho tốc độ tải xuống dữ liệu di động. - LTE : Mạng di động thế hệ tiếp theo - Tiêu chuẩn mạng di động đem lại tốc độ truyền dẫn nhanh hơn và hiệu suất tốt hơn. - Dimensions (H/L/W) : Kích thước chiều cao, chiều dài và chiều rộng của thiết bị. - Màn hình : Hiển thị thông tin trên thiết bị. - Display : Hiển thị thông tin trên thiết bị. - Touch screen : Khả năng phản hồi khi chạm vào màn hình - Weight : Trọng lượng thiết bị - Time GSM (talk/stand-by) : Thời lượng pin khi sử dụng mạng GSM và thời gian chờ. - Time UMTS (talk/stand-by) : Thời lượng pin khi sử dụng mạng UMTS (hệ thống di động thế hệ thứ ba) và thời gian chờ. - Battery : Pin thiết bị - Non-removable battery : Pin có thể tháo rời hay không? - Built-in memory : Bộ nhớ tích hợp - Khả năng lưu trữ dữ liệu trực tiếp trên thiết bị. - RAM Memory : Bộ nhớ RAM - Bộ nhớ tạm thời được sử dụng khi thiết bị hoạt động. - OS : Hệ điều hành - Chipset : Bộ vi xử lý chính điều khiển hoạt động của thiết bị. - CPU #1 freq. : Tần số hoạt động của bộ vi xử lý chính. - GPU type :Bộ xử lý đồ họa cho hiển thị hình ảnh và video. - GPU freq. : Tần số hoạt động của bộ xử lý đồ họa
+Thông qua tổng đài Samsung
+Ngoài việc truy cập vào trang web để kiểm tra, hiện nay Samsung cũng đã thiết lập mạng lưới hỗ trợ trực tuyến trên toàn cầu, và Việt Nam cũng được hưởng lợi từ điều này. Vì vậy, bạn có thể sử dụng dịch vụ tổng đài chăm sóc khách hàng để kiểm tra IMEI của thiết bị Samsung.
+Để kiểm tra IMEI và xem thông tin bảo hành trên thiết bị Samsung qua tin nhắn, bạn chỉ cần gửi số IMEI đến số 6060 . Trong đó, "số IMEI" là chuỗi 15 số bạn đã tìm ra trước đó. Sau khoảng 3-5 phút chờ, bạn sẽ nhận được tin nhắn thông báo về tình trạng bảo hành của thiết bị. Nếu không nhận được phản hồi hoặc nhận thông báo "sai cú pháp," có thể thiết bị không phải của Samsung.
+Gửi IMEI đến số 6060
+Ngoài ra, bạn cũng có thể gọi trực tiếp đến số tổng đài 1800 588 889 để yêu cầu kiểm tra IMEI của thiết bị Samsung. Chỉ cần tuân theo hướng dẫn, bạn sẽ nhận được thông tin về tình trạng bảo hành một cách dễ dàng.
+Bạn có thể gọi số điện thoại của tổng đài nhờ hỗ trợ kiểm tra
+4. Cách kiểm tra xuất xứ Samsung bằng IMEI
+Đối chiếu với bảng mã
+Khi bạn đã có số IMEI, để kiểm tra xuất xứ của điện thoại Samsung, bạn có thể thực hiện 4 bước như sau:
+Bước 1 : Đảm bảo số IMEI có 15 chữ số từ trái sang phải để xác nhận tính chính xác.
+Bước 2 : Xác định chữ số thứ 7 và 8 trong số IMEI bằng cách đếm từ bên trái.
+Bước 3 : So sánh 2 chữ số vừa xác định với bảng mã dưới đây:
+STT Mã số Ý nghĩa xuất xứ 1 00, 03 hoặc 30 Hàn Quốc 2 01 hoặc 10 Phần Lan 3 02 hoặc 20 Emirates 4 04 hoặc 40 Trung Quốc 5 05 hoặc 50 Brazil, Mỹ hoặc Phần Lan 6 06 hoặc 60 Hồng Kông, Trung Quốc hoặc Mexico 7 08 hoặc 80 Đức 8 13 Azerbaijan
+Bước 4 : Xác định quốc gia sản xuất trong cột "Ý nghĩa xuất xứ" dựa trên mã số tương ứng. Ví dụ, nếu chữ số thứ 7 và 8 là 04 hoặc 40, nó tương ứng với xuất xứ từ Trung Quốc.
+Bạn có thể kiểm tra xuất xứ của Samsung bằng IMEI thông qua việc đối chiếu với bảng mã
+Sử dụng ứng dụng Phone INFO
+Ngoài việc sử dụng bảng mã như đã đề cập, bạn hoàn toàn có thể áp dụng ứng dụng Phone INFO để kiểm tra xuất xứ của điện thoại Samsung qua 4 bước dưới đây:
+Bước 1 : Truy cập vào cửa hàng ứng dụng CH Play . Tìm kiếm Phone INFO trong thanh tìm kiếm của cửa hàng ứng dụng.
+Tìm kiếm Phone INFO trên CH play
+Bước 2 : Tải và cài đặt ứng dụng Phone INFO cho thiết bị Samsung của bạn.
+Tải về máy
+Bước 3 : Khởi động ứng dụng Phone INFO sau khi đã cài đặt. Bạn sẽ thấy phần kiểm tra xuất xứ của điện thoại Samsung ngay trên giao diện ứng dụng.
+Check mục Manufactuer để biết thông tin xuất xứ của sản phẩm
+Kiểm tra qua Website iUnlocker
+Bước 1 : Truy cập vào trang web iUnlocker TẠI ĐÂY , giao diện của trang web sẽ hiển thị như hình minh họa. Nhập số IMEI thiết bị của bạn vào ô trống.
+Nhập số IMEI thiết bị vào ô trống
+Bước 2 : Bạn chỉ cần chờ khoảng 10 giây . Mọi thông tin về sản phẩm sẽ được hiển thị. Và nơi sản xuất sẽ được hiển thị ở mục Country of purchase .
+Kiểm tra nơi xuất xứ sản phẩm tại Country of purchase
+Kiểm tra qua Website IMEI.info
+Như đã đề cập ở trên, bạn có thể dễ dàng kiểm tra nguồn gốc của điện thoại Samsung thông qua trang web imei.info qua 4 bước sau:
+Bước 1 : Truy cập vào trang web IMEI.info TẠI ĐÂY . Giao diện của trang web sẽ hiển thị như hình minh họa.
+Truy cập website
+Bước 2 : Nhập số IMEI của điện thoại vào ô trống. Sau đó, đánh dấu vào ô xác minh "I am a human" (Tôi là con người) và nhấn nút Check .
+Nhập số IMEI của bạn và ấn Check
+Bước 3 : Chọn tùy chọn Samsung Warranty/SN/Carrier Check .
+Chọn theo hướng dẫn
+Bước 4 : Tiếp theo, bấm vào View Sample .
+Nhấn chọn View Sample
+Bước 5 : Ngay lập tức, thông tin về điện thoại sẽ hiển thị trên màn hình, cho bạn biết nơi sản xuất ở mục Manufacturer của điện thoại Samsung mà bạn đang sử dụng.
+Thông tin nơi sản xuất được hiện ra ở mục Manufacturer
+Kiểm tra qua Website IMEI24.com
+Một trang web nữa để bạn có thể kiểm tra thông tin thông số máy chính là IMEI24.com
+Bước 1 : Mở trình duyệt và truy cập vào trang web IMEI24.com TẠI ĐÂY . Giao diện của trang web sẽ hiển thị như hình minh họa.
+Bước 2 : Nhập số IMEI của điện thoại vào ô trống. Sau đó, đánh dấu vào ô xác minh "I am a human" (Tôi là con người) và nhấn nút "Check" .
+Truy cập IMEI24 và nhập số IMEI của thiết bị của bạn
+Bước 3 : Chờ khoảng 30s, mọi thông tin sản phẩm sẽ được hiện ra. Và nơi sản xuất sẽ hiển thị ở mục Country and carrier.
+Xem nơi sản xuất tại mục Country and carrier
+5. Cách kiểm tra thời hạn bảo hành các sản phẩm Samsung tại trang Web Thế Giới Di Động
+Ngoài ra nếu bạn có thể kiểm tra thời hạn bảo hành Samsung tại trang Web Thế Giới Di Động. Để kiểm tra, bạn hãy nhập mã IMEI vào trang web Bảo hành-Thế Giới Di Động TẠI ĐÂY, nếu là hàng chính hãng thì sẽ có thời hạn bảo hành cụ thể.
+Tham khảo thêm : Cách kiểm tra thời hạn bảo hành tại trang Web Thế Giới Di Động.
+Kiểm tra thời hạn bảo hành tại trang Web Thế Giới Di Động
+6. Giải đáp một số câu hỏi liên quan
+Có thể đổi IMEI máy được không?
+- Trả lời : Không. Mỗi số IMEI chỉ tương ứng với 1 thiết bị duy nhất và được quy định bởi nhà sản xuất.
+IMEI trên thân máy không giống IMEI check từ cài đặt?
+- Trả lời : Trường hợp này có thể là do máy của bạn đã từng thay vỏ.
+Nếu người khác biết IMEI máy tôi thì có rủi ro gì không?
+- Trả lời : IMEI là một trong những thông tin quan trọng khi sử dụng điện thoại. Nếu bạn để lộ IMEI với người khác, nhất là những kẻ xấu, thiết bị của bạn có thể bị khóa từ xa. Do đó, bạn nên bảo mật thông tin IMEI để tránh các rắc rối, rủi ro phát sinh trong quá trình sử dụng.
+Xem thông tin thiết bị qua IMEI
+SĂN NGAY MÃ GIẢM SỐC TGDĐ TẠI ĐÂY!!
+ĐỪNG BỎ LỠ 1 số Đồng hồ thông minh Samsung khuyến mãi giảm sốc đang kinh doanh tại TGDĐ:
+Xem thêm : [Video] Cách phát WiFi từ điện thoại Samsung dễ dàng, nhanh chóng Hướng dẫn tải và cài đặt Driver Samsung USB cho máy tính Windows Samsung Bixby là gì? Dùng để làm gì? Cách kích hoạt và sử dụng [Video] Cách bật, tắt tiên đoán từ trên điện thoại Samsung cực dễ dàng Cách kiểm tra (check) bảo hành điện thoại Xiaomi bằng IMEI đơn giản
+Bài viết trên đây hướng dẫn cách kiểm tra mã IMEI trên điện thoại Samsung. Hy vọng những thông tin này có thể giúp ích cho bạn. Nếu có thắc mắc gì, hãy để lại câu hỏi ở dưới phần bình luận nhé!
+335.340 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

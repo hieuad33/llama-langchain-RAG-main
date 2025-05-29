@@ -1,0 +1,48 @@
+9 cách khắc phục lỗi laptop không lên màn hình cực hiệu quả, đơn giản
+ĐỪNG BỎ LỠ 1 số Sạc, cáp chất lượng đang giảm giá, số lượng có hạn tại TGDĐ:
+Một ngày đẹp trời laptop của bạn bỗng nhiên có vấn đề, khởi động mãi nhưng vẫn không lên màn hình. Bạn loay hoay không biết laptop của mình bị gì và cách khắc phục ra sao. Dưới đây là 9 nguyên nhân laptop không lên màn hình và cách khắc phục hiệu quả.
+1. Do laptop hoạt động quá công suất
+Nguyên nhân: Rất có thể do bạn thực hiện các tác vụ nặng vượt quá yêu cầu của máy hoặc do laptop có tản nhiệt kém, bám nhiều bụi bặm. Những yếu tố này khiến máy quá nóng dẫn đến tắt đột ngột và mở không lên.
+Cách khắc phục: Bạn nên đợi một lúc cho máy nguội rồi mới thử mở lại máy. Bên cạnh đó, bạn cũng nên thường xuyên vệ sinh laptop; tra keo tản nhiệt CPU , GPU ; nâng cấp máy để dùng được các tác vụ nặng,...
+Laptop quá nóng do hoạt động quá công suất
+Có thể bạn quan tâm : Top 7 laptop màn hình 15.6 inch giá rẻ tại Thế Giới Di Động năm 2021
+2. Do nguồn điện không ổn định
+Nguyên nhân: Nguồn điện không ổn định có khả năng gây ra cháy bộ phận cấp nguồn, cháy nguồn CPU, nguồn RAM , nguồn chipset. Điều này sẽ dẫn đến lỗi laptop không lên nguồn cũng như nhiều lỗi nghiêm trọng khác.
+Cách khắc phục: Người dùng nên thay nguồn mới cho mainboard (bo mạch chủ) của máy và nên dùng sử dụng các nguồn điện ổn định.
+Nguồn điện không ổn định
+3. Màn hình laptop bị hư
+Nguyên nhân: Laptop vẫn chạy nhưng màn hình bị những vết bầm tối đen trên màn hình hoặc không bật lên được, có dấu hiệu của những vết nứt. Nguyên nhân cho tình trạng này rất có thể là do màn hình hỏng, vỡ khi máy va đập mạnh hoặc cấn móp.
+Màn hình laptop bị hỏng
+Cách khắc phục: Tìm một màn hình rời, sau đó xuất màn từ cổng HDMI hoặc VGA trên laptop qua chiếc màn hình rời đó. Nếu màn hình rời hiển bình thường thì laptop bạn đã bị hỏng màn hình, cần thay mới.
+4. Pin laptop bị hư
+Nguyên nhân: Khi mở laptop, bạn đang không cắm sạc adapter và màn hình lại không lên thì rất có thể pin laptop đã bị hư.
+Cách khắc phục: Người dùng nên thay pin laptop mới.
+Pin laptop bị hỏng
+5. Lỗi mainboard laptop
+Nguyên nhân: Mainboard được xem như cột sống của laptop, máy tính . Gần như tất cả linh kiện đều được gắn trên mainboard, nên nếu như bạn gặp lỗi laptop không lên màn hình thì có thể do mainboard laptop đã bị hư.
+Mainboard của laptop bị lỗi
+Cách khắc phục: Nếu bạn tự tin có thể thay được mainboard và biết cách gắn lại các linh kiện lên mainboard thì bạn có thể tự thay. Còn nếu bạn không có kiến thức và kĩ năng về mảng này thì nên đem máy ra các trung tâm sửa chữa, bảo hành uy tín.
+6. Cao áp màn hình bị hỏng
+Nguyên nhân: Cao áp màn hình laptop có chức năng cấp nguồn cho bóng đèn soi panel từ đó hiển thị hình ảnh làm sáng màn hình. Nếu như khi bạn mở laptop và nghe quạt thông gió chạy, nghe tiếng khởi động Windows nhưng màn hình lại không lên thì rất có thể là do cao áp màn hình bị hỏng.
+Hỏng board cao áp khiến màn hình laptop mở không lên
+Cách khắc phục: Với những lỗi liên quan đến phần board mạch thì bạn nên đem laptop ra tiệm sửa hoặc đem ra trung tâm bảo hành của hãng nếu máy bạn còn bảo hành. Chi phí sửa board mạch cũng không quá cao. Người dùng không nên tự sửa bởi quá trình này khá phức tạp.
+Xem thêm : 7 cách sửa lỗi Failure configuring Windows updates cực hiệu quả
+7. Lỗi do RAM
+Nguyên nhân: RAM bị hư hoặc cắm lỏng, cắm sai chỗ đều sẽ khiến màn hình laptop không lên.
+RAM bị lỏng cũng khiến laptop mở không lên
+Cách khắc phục: Nếu có thể, bạn hãy tháo máy ra để vệ sinh, kiểm tra xem RAM đã cắm đúng chỗ hay đã được cắm chặt vào mainboard chưa. Bạn cũng có thể thử cắm RAM vào một máy tính khác, nếu màn hình máy tính đó không lên thì RAM lúc này đã bị hư và cần thay mới.
+Bạn có thể tham khảo bài viết sau để biết cách vệ sinh RAM laptop: Tại sao phải vệ sinh RAM, Hướng dẫn bảo vệ laptop chỉ với vài thao tác
+8. Lỗi do card màn hình
+Nguyên nhân: Card màn hình (card đồ họa/GPU) có nhiệm vụ xử lý các vấn đề về hình ảnh như màu sắc, độ phân giải, chất lượng hiển thị,... Nếu màn hình không lên thì nguyên nhân có thể do card màn hình bị hư.
+Cách khắc phục: Người dùng nên mang ra tiệm để người có chuyên môn sửa chữa.
+Card màn hình bị lỗi
+SĂN NGAY MÃ GIẢM SỐC TGDĐ TẠI ĐÂY!!
+9. Lỗi BIOS
+Nguyên nhân: Trong quá trình khởi động laptop, màn hình chỉ hiện đến giao diện BIOS (giao diện nền đen chữ trắng) rồi ngừng lại thì có thể là do chipset cấp nguồn BIOS đã bị hư.
+Để biết cách vào BIOS trên các dòng laptop hiện nay, bạn có thể tham khảo hướng dẫn: Cách vào BIOS
+Laptop chỉ hiện đến giao diện BIOS
+Cách khắc phục: Tháo laptop ra và kiểm tra chipset cấp nguồn cho BIOS, nếu không rành bạn nên nhờ thợ có kinh nghiệm làm. Nếu không phải do chipset thì rất có thể do BIOS hết pin hoặc chưa cập nhật. Để khắc phục bạn chỉ cần thay pin mới cho BIOS và cập nhật BIOS lên phiên bản mới nhất.
+Xem thêm : 7 nguyên nhân laptop không lên nguồn và cách khắc phục hiệu quả Hướng dẫn kiểm tra độ chai pin laptop Windows 10 không cần phần mềm Hướng dẫn cách xoay màn hình và khắc phục lỗi laptop bị xoay màn hình Cách sửa lỗi Windows 10 không vào được Garena LOL đơn giản, hiệu quả
+Trên đây là 9 nguyên nhân và cách khắc phục lỗi laptop không lên màn hình. Cảm ơn bạn đã theo dõi và hẹn gặp lại ở các bài viết sau.
+66.646 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

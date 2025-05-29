@@ -1,0 +1,57 @@
+Cách mở bàn phím ảo trên máy tính Windows, Macbook nhanh, đơn giản
+ĐỪNG BỎ LỠ 1 số Bàn phím đang giảm mạnh, số lượng có hạn tại TGDĐ:
+Bàn phím máy tính đôi khi trục trặc, hư hỏng dẫn đến việc không thể sử dụng được nên cần phải bật bàn phím ảo để chữa cháy. Bài viết này sẽ hướng dẫn cách các bạn cách mở bàn phím ảo Win 11, Win 10, Win 8, Win7 và Macbook nhanh, dễ dàng.
+✏️ Điểm chính trong bài : - Mở bàn phím ảo trên máy Win: Cách 1 : Nhấn Windows + Ctrl + O Cách 2 : Windows + R > Nhập "osk" > Nhấn Enter Cách 3 : Trên thanh Taskbar gõ "osk" hoặc "On Screen Keyboard" > Chọn App On-Screen Keyboard. - Mở bàn phím ảo trên máy Mac: Cách 1 : Option + Command + F5 > Chọn bàn phím trợ năng (Accessibility Keyboard). Cách 2 : Nhấn vào logo Apple góc trái trên màn hình > Chọn Cài đặt hệ thống (System Settings) > Chọn trợ năng (Accessibility) > Chọn Bàn phím > Bật bàn phím trợ năng.
+1. Cách mở bàn phím ảo trên máy tính, laptop Windows
+Bài viết được thực hiện trên laptop MSI Modern hãng MSI chạy Windows 11. Bạn có thể thực hiện tương tự trên các laptop , máy tính để bàn khác chạy hệ điều hành Windows .
+Video hướng dẫn cách mở bàn phím ảo trên máy tính Windows
+Dùng phím tắt mở bàn phím ảo
+Cách này áp dụng ở tất cả phiên bản Windows như Win 11, Win 10, Win 8/8.1, Win 7.
+Để mở bàn phím ảo trên máy tính laptop, bạn bấm tổ hợp phím Windows + Ctrl + O .
+Dùng phím tắt mở bàn phím ảo
+Mở bàn phím ảo bằng hộp thoại Run
+Cách này áp dụng ở tất cả phiên bản Windows như Win 11, Win 10, Win 8/8.1, Win 7.
+Bước 1 : Nhấn tổ hợp phím Windows + R để mở cửa sổ lệnh Run.
+Bước 2 : Trong cửa sổ lệnh Run, nhập " osk " > Nhấn Enter để mở bàn phím ảo.
+Nhập OSK vào > Nhấn Enter để mở bàn phím ảo.
+Sau khi thực hiện các bước bàn phím ảo sẽ được mở như hình minh họa.
+Hình minh họa bàn phím ảo
+Mở bàn phím ảo trong thanh tìm kiếm Start Menu
+Cách này áp dụng ở tất cả phiên bản Windows như Win 11, Win 10, Win 8/8.1, Win 7.
+Chọn biểu tượng Tìm kiếm trên thanh Taskbar > Gõ " osk " hoặc " On Screen Keyboard " > Chọn App On-Screen Keyboard .
+Vào ứng dụng On-screen keyboard
+Sau khi thực hiện bàn phím ảo trên máy tính sẽ hiện lên màn hình như hình minh họa.
+Hình minh họa về bàn phím ảo
+Mở bàn phím ảo trong phần Cài đặt (Settings)
+Lưu ý: Cách này chỉ áp dụng để mở bàn phím ảo Win 10 và bàn phím ảo Win 11. Đây là tính năng bàn phím cảm ứng (touch keyboard) phù hợp với những mẫu laptop màn hình cảm ứng hơn nhưng với những mẫu laptop phổ thông vẫn có thể sử dụng bình thường. Lợi ích của thao tác này là để ghim biểu tượng bàn phím ảo trên thanh taskbar, giúp bạn mở bàn phím ảo nhanh chỉ với một cú nhấp chuột trong những lần sử dụng sau.
+Bước 1: Mở Start Menu , chọn Settings . hoặc mở nhanh bằng tổ hợp phím Windows + I .
+Settings
+Bước 2: Cửa sổ Settings mở, chọn Personalization > Chọn Taskbar.
+Chọn Personalization > Chọn Taskbar
+Bước 3: Tại mục Touch Keyboard, chọn Never chuyển sang Always để hiển thị biểu tượng bàn phím ảo trên thanh Taskbar.
+Tại mục Touch Keyboard chuyển sang Always
+Bước 4: Trên thanh taskbar ở góc trái dưới, bạn nhấp chuột vào biểu tượng bàn phím ảo để mở lên.
+Mở bàn phím ảo trên thanh taskbar
+Vậy là bạn đã hoàn thành việc mở bàn phím ảo rồi đấy. Về sau khi cần sử dụng, bạn chỉ cần nhấp chuột vào biểu tượng bàn phím ảo trên thanh taskbar.
+Thành công mở bàn phím ảo
+Xem thêm : Tại sao bàn phím ảo không gõ được tiếng Việt ? Cách khắc phục cực dễ
+2. Cách mở bàn phím ảo trên Macbook
+Bài viết được thực hiện trên Macbook Air chạy MacOS . Bạn có thể thực hiện tương tự trên các máy Macbook , iMac khác.
+Dùng phím tắt mở bàn phím ảo
+Bước 1: Nhấn tổ hợp phím Option + Command + F5.
+Nhấn tổ hợp phím Option + Command + F5
+Bước 2: Cửa sổ Phím tắt trợ năng xuất hiện, chọn Bàn phím trợ năng (Accessibility Keyboard) và nhấn Xong (OK) để mở bàn phím ảo.
+Chọn Bàn phím trợ năng > Nhấn Xong
+Mở bàn phím ảo trong Settings (Cài đặt)
+Bước 1: Nhấn vào logo Apple góc trái trên màn hình > Chọn Cài đặt hệ thống (System Settings).
+Chọn logo Apple góc trái trên > Mở Cài đặt hệ thống (System Settings)
+Bước 2: Bên trái cửa sổ cài đặt tìm chọn Trợ năng (Accessibility) > Bên phải chọn Bàn phím (Keyboard) .
+Chọn Trợ năng (Accessibility) > Chọn Bàn phím (Keyboard)
+Bước 3: Tại phần Bàn phím trợ năng (Accessibility Keyboard) bật nút công tắc mở bên phải, bàn phím ảo trên Macbook sẽ xuất hiện.
+Bật mở Bàn phím trợ năng (Accessibility Keyboard)
+SĂN NGAY MÃ GIẢM SỐC TGDĐ TẠI ĐÂY!!
+Một số mẫu Bàn phím đẹp đang kinh doanh tại Thế Giới Di Động:
+Xem thêm : Cách bật đèn bàn phím Laptop Dell Phím Fn là gì? Cách bật, tắt và sử dụng như thế nào trên laptop?
+Chỉ với các thao tác đơn giản chúng ta đã có thể mở bàn phím ảo trên máy tính rồi. Hy vọng bài viết sẽ hữu ích cho bạn. Cảm ơn các bạn đã theo dõi và hẹn gặp lại các bạn ở những bài viết kế tiếp!
+84.898 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

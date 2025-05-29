@@ -1,0 +1,76 @@
+Cách bật, tắt chế độ ẩn danh trên điện thoại, PC
+ĐỪNG BỎ LỠ 1 số Sạc dự phòng chất lượng đang giảm giá, số lượng có hạn tại TGDĐ:
+Bạn muốn sử dụng trình duyệt web mà không muốn lưu lại thông tin, dữ liệu của mình trên đó để đảm bảo tính an toàn mà không biết làm cách nào. Bài viết bên dưới sẽ hướng dẫn bạn cách bật, tắt chế độ ẩn danh Chrome, Cốc cốc, Firefox , Safari trên điện thoại và máy tính cực dễ.
+1. Chế độ ẩn danh là gì? Có bảo mật tuyệt đối?
+Chế độ ẩn danh (tab riêng tư) là chế độ sẽ không lưu lại lịch sử duyệt web, cookies , thông tin đăng nhập và các dữ liệu khác trên thiết bị sau khi đóng cửa sổ, giúp bạn yên tâm hơn khi chia sẻ máy tính , điện thoại .
+Tuy nhiên, lưu ý rằng chế độ này không đảm bảo bảo mật tuyệt đối. Nhà cung cấp dịch vụ internet, chính phủ, quản trị mạng và một số trang web (như Facebook , Google) vẫn có thể theo dõi hoạt động trực tuyến của bạn. Bạn vẫn có nguy cơ bị tấn công bởi tin tặc.
+Tóm lại, chế độ ẩn danh hữu ích để bảo vệ thông tin khỏi người dùng khác cùng thiết bị, nhưng không ẩn hoạt động của bạn khỏi các bên thứ ba. Nếu muốn lưu lại lịch sử duyệt web, hãy tắt chế độ ẩn danh.
+2. Lợi ích khi mở tab ẩn danh trên trình duyệt
+- Không bị lưu lại bất kì lịch sử, cookie hay cache nào.
+- Điện thoại chạy mượt hơn, tốc độ xử lý nhanh hơn.
+- Bảo mật được thông tin duyệt web của bạn.
+Lợi ích khi mở tab ẩn danh
+3. Cách bật, tắt chế độ ẩn danh trên trình duyệt trên máy tính
+Trên Chrome
+Cách bật, tắt chế độ ẩn danh trên Macbook
+Cách bật : Nhấn vào File trên Mac > Chọn New Incognito Windows hoặc dùng phím tổ hợp phím ⌘ + Shift + N để mở trang Ẩn danh.
+Cách tắt : Ở trên cùng bên phải, hãy nhấp vào biểu tượng Đóng.
+Nhấn vào File và chọn New Incognito Windows
+Cách bật, tắt chế độ ẩn danh trên máy tính Windows
+Cách bật : Mở trình duyệt Chrome > Nhấn vào dấu ba chấm > Chọn Cửa sổ Ẩn danh mới. Ngoài ra bạn cũng có thể dùng tổ hợp phím Ctrl + Shift + N để mở trang Ẩn danh.
+Nhấn vào dấu ba chấm và chọn Cử sổ Ẩn danh mới
+Cách tắt : Để tắt tab Ẩn danh trên máy tính Windows, bạn chỉ cần nhấn vào dấu X tại tab đó, còn nếu bạn muốn tắt hết các tab cùng một lúc hãy nhấn vào dấu X ở ngoài cùng bên góc phải là được.
+Để tắt tab Ẩn danh trên máy tính Windows, bạn chỉ cần nhấn vào dấu X
+Cách bật, tắt chế độ ẩn danh trên điện thoại Android
+Cách bật : Truy cập vào trình duyệt Chrome trên Android > Nhấn vào biểu tượng ba chấm > Chọn Thẻ Ẩn danh mới .
+Cách tắt : Để tắt tab Ẩn danh trên điện thoại Androids, tại giao diện trang web Ẩn danh, nhấn vào ô vuông phía trên góc bên phải, bạn hãy nhấn vào biểu tượng Đóng là có thể trở về giao diện bình thường.
+Nhấn vào ô vuông phía trên góc bên phải > Nhấn vào biểu tượng Đóng
+Cách bật, tắt chế độ ẩn danh trên iPhone
+Cách bật : Trên iPhone hoặc iPad , mở ứng dụng Chrome > Nhấn biểu tượng Thêm > Chọn Bật Chế độ ẩn danh .
+Nhấn biểu tượng Thêm và chọn Bật Chế độ ẩn danh
+Cách tắt : Người dùng có thể dễ dàng tắt chế độ ẩn danh trên iPhone hoặc iPad bằng cách nháy vào chữ Tắt ở giữa màn hình để đóng chế độ xem riêng tư.
+Nhấn Tắt để đóng tab ẩn danh
+Trên Safari
+Cách bật : Tại màn hình chính của iPhone và iPad, bạn nhấn giữ trong khoảng 2s vào biểu tượng của Safari. Sau khi hiển thị hộp thoại, người dùng nhấn chọn Tab riêng tư mới.
+Cách tắt : Để tắt chế độ ẩn danh trên trình duyệt Safari bạn nhấn vào nút Tab và chọn vào mục Riêng tư và mở 1 tab bình thường khác để tắt được chế độ ẩn danh.
+Nhấn giữ biểu tượng Safari để mở tab ẩn danh
+Xem thêm : Cách duyệt web riêng tư trong Safari
+Trên Microsoft Edge
+Cách bật : Mở trình duyệt Microsoft Edge > Nhấn vào dấu ba chấm > Chọn Cửa sổ InPrivate mới. Ngoài ra người dùng cũng có thể dùng tổ hợp phím Ctrl + Shift + N để mở trình duyệt riêng tư.
+Cách tắt : Để tắt tab Ẩn danh, bạn chỉ cần nhấn vào dấu X tại tab đó, còn nếu bạn muốn tắt hết các tab cùng một lúc hãy nhấn vào dấu X ở ngoài cùng bên góc phải màn hình.
+Mở tab ẩn danh trên Microsoft Edge
+Trên Cốc Cốc
+Để bật chế độ ẩn danh trên trình duyệt Cốc Cốc bạn có thể thực hiện theo các bước sau:
+- Trên máy tính: Vào trình duyệt Cốc Cốc > Chọn vào biểu tượng Cốc Cốc ở góc trên phía bên trái màn hình > Chọn Cửa sổ ẩn danh mới.
+- Trên điện thoại: Vào ứng dụng Cốc Cốc > Chọn vào biểu tượng 3 gạch > Chọn vào Tab ẩn danh mới.
+Xem thêm : Cách mở tab ẩn danh trên trình duyệt Cốc Cốc
+Cách bật chế độ ẩn danh trên trình duyệt Cốc Cốc
+Trên Firefox
+Để bật chế độ ẩn danh trên trình duyệt Firefox bạn có thể thực hiện theo các bước sau:
+- Trên máy tính: Vào trình duyệt Firefox > Chọn vào biểu tượng 3 gạch ở góc trên phía bên phải màn hình > Chọn Cửa sổ riêng tư mới.
+- Trên điện thoại: Vào ứng dụng Firefox > Chọn biểu tượng hình mắt ở góc trên phía bên phải.
+Xem thêm : Cách mở tab ẩn danh trên trình duyệt Firefox
+Cách bật chế độ ẩn danh trên trình duyệt Firefox
+4. Cách bật, tắt chế độ ẩn danh một số ứng dụng trên điện thoại
+YouTube
+Cách bật : Sau khi mở ứng dụng Youtube, người dùng nhấn chọn vào biểu tượng Bạn > Nháy chọn Bật Chế độ ẩn danh.
+Nháy chọn Bạn > Bật Chế độ ẩn danh
+Cách tắt : Người dùng tiếp tục nhấn vào biểu tượng Bạn > Nháy chọn Tắt Chế độ ẩn danh.
+Chọn vào biểu tượng Bạn > Tắt Chế độ ẩn danh
+Google Maps
+Cách bật : Truy cập vào ứng dụng Google Maps, để bật chế độ ẩn danh, người dùng nhấn vào biểu tượng hồ sơ (góc phải trên cùng) > nhấn chọn Bật Chế độ ẩn danh.
+Cách tắt : Thực hiện tương tự cách bật, nháy chọn Tắt Chế độ ẩn danh.
+Nhấn vào biểu tượng hồ sơ > Bật Chế độ ẩn danh
+4. Một số câu hỏi liên quan
+Có khôi phục lại được trang web ẩn danh không?
+Bạn không thể khôi phục lại trang web ẩn danh bởi vì chế độ ẩn danh không thể lưu Cookie và dữ liệu trang web.
+Chế độ ẩn danh có dùng được tiện ích không?
+Bạn có thể sử dụng tiện ích một cách bình thường trong chế độ ẩn danh.
+Xem thêm : Kích hoạt extension trong chế độ ẩn danh
+Tệp tải xuống và dấu trang có được lưu không?
+Khi bạn tải xuống một nào đó sẽ không được lưu vào web riêng tư nhưng nó vẫn được lưu ở thư mục tải xuống của bạn và tất cả các dấu trang bạn tạo sẽ được lưu vào Chrome.
+Một số mẫu điện thoại giúp bạn duyệt web một cách nhanh chóng:
+Xem thêm : Cách xem mật khẩu đã lưu trên Google Chrome Cách duyệt web riêng tư trong Safari
+Bài viết vừa rồi đã hướng dẫn bạn cách bật, tắt chế độ ẩn danh Chrome, Cốc cốc, Firefox , Safari cực dễ. Chúc các bạn thực hiện thành công!
+43.594 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

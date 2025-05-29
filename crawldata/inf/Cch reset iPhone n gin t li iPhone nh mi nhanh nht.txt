@@ -1,0 +1,99 @@
+Cách reset iPhone đơn giản, đặt lại iPhone như mới nhanh nhất
+ĐỪNG BỎ LỠ 1 số mẫu điện thoại iPhone bán chạy, giảm sốc tại TGDĐ:
+Đối với người sử dụng iPhone thì sẽ máy bị lỗi, chạy chậm sau một thời gian sử dụng hay đang kiểm tra iPhone thì khôi phục cài đặt gốc (Reset) iPhone là giải pháp hữu ích và nhanh chóng trong trường hợp này. Bài viết này sẽ hướng dẫn bạn cách reset iPhone từ reset mềm, reset cứng cho đến reset trong cài đặt, kể cả khi bạn quên mật khẩu. Xem ngay!
+1. Khi nào cần reset iPhone?
+Khi iPhone của bạn bắt đầu hoạt động chậm chạp, ứng dụng thường xuyên bị lỗi hoặc lag, việc reset máy có thể giúp khắc phục tình trạng này. Dưới đây là một số trường hợp bạn nên cân nhắc việc reset iPhone:
+iPhone chạy chậm, đơ, lag, ứng dụng bị lỗi, hay tự động thoát. iPhone bị treo, không phản hồi thao tác, màn hình đen hoặc trắng. Muốn xóa sạch dữ liệu cá nhân trước khi bán máy hoặc cho người khác mượn, đảm bảo quyền riêng tư. Gặp các vấn đề về phần mềm, cài đặt, hoặc muốn đặt lại cài đặt gốc. Chuẩn bị cập nhật lên phiên bản iOS mới (đôi khi giúp quá trình cập nhật mượt mà hơn).
+2. Cách reset - Đặt lại iPhone như mới
+Reset iPhone là cách hiệu quả để khắc phục lỗi phần mềm, cải thiện hiệu suất hoặc khi muốn bán lại điện thoại . Dưới đây là hướng dẫn chi tiết từng bước để thực hiện reset iPhone, bao gồm cả việc xóa toàn bộ dữ liệu hoặc chỉ đặt lại cài đặt.
+Để reset và đặt lại iPhone : Đi tới Cài đặt > Cài đặt chung > Chuyển hoặc đặt lại iPhone > Đặt lại
+Hướng dẫn chi tiết :
+Bước 1 : Truy cập Cài đặt > Vào Cài đặt chung .
+Vào Cài đặt > Chọn Cài đặt chung
+Bước 2 : Chọn Chuyển hoặc đặt lại iPhone > Chọn Đặt lại .
+Chọn mục Chuyển hoặc đặt lại iPhone > Chọn mục Đặt lại
+Bước 3 : Chọn Đặt lại tất cả cài đặt để đặt lại toàn bộ cài đặt máy. Ngoài ra, còn có các tùy chọn đặt lại từng phần của máy như:
+Đặt lại cài đặt mạng. Đặt lại từ điển bàn phím. Đặt lại bố cục Màn hình chính. Đặt lại vị trí & quyền riêng tư.
+Chọn mục Đặt lại tất cả cài đặt
+Ngoài ra, nếu bạn muốn xoá hoàn toàn cả dữ liệu và cài đặt thì làm tương tự nhưng chọn Xóa tất cả nội dung và cài đặt . Khi đó toàn bộ dữ liệu của máy sẽ bị xóa, đặt về trạng thái ban đầu.
+Lưu ý : Khi thực thao tác Xóa tất cả và đặt lại hệ thống sẽ xóa tất cả dữ liệu trong máy, bao gồm cả các cài đặt. Bạn không thể khôi phục lại dữ liệu khi thực hiện thao tác này.
+Chọn mục Xóa tất cả nội dung và cài đặt
+3. Cách reset iPhone bằng phím cứng
+Reset iPhone bằng phím cứng là cách khởi động lại thiết bị khi không thể tương tác trực tiếp với màn hình.
+Lưu ý : Reset bằng phím cứng không xóa dữ liệu mà chỉ khởi động lại máy để khắc phục lỗi như treo máy hoặc không phản hồi.
+Để reset lại iPhone nhanh nhất, hãy nhấn giữ đồng thời nút Nguồn và nút Giảm âm lượng khoảng 5 giây thì iPhone sẽ được tự động reset lại (Hoặc giữ đồng thời nút Home và nút Nguồn đối với các dòng iPhone còn dùng nút Home).
+Nhấn đồng thời nút Tăng/Giảm âm lượng và nút Nguồn
+Chọn Trượt để tắt nguồn
+4. Cách reset iPhone bằng chế độ DFU (Device Firmware Update)
+Chế độ DFU cho phép khôi phục iPhone ở mức độ sâu hơn so với chế độ Recovery, đặc biệt hiệu quả khi thiết bị gặp lỗi phần mềm nghiêm trọng.
+Trường hợp 1: Máy không bật "Tìm iPhone" trên iCloud
+Bước 1 : Kết nối iPhone với máy tính > Ấn đồng thời Nguồn và Home trong 10 giây > Thả phím Nguồn ra, vẫn tiếp tục nhấn giữ phím Home cho tới khi màn hình xuất hiện thông báo mới > Thả phím Home ra > Lúc này màn hình iPhone chỉ một màu đen, và không hiển thị gì.
+Bật chế độ DFU trên iPhone
+Bước 2 : Mở iTunes > Chọn thông báo Restore iPhone > Nhấn Restore.
+Nhấn nút Restore
+Bước 3 : Nhấn giữ phím Shift (Windows) hoặc Option (Mac) + Restore > Chọn file firmware đã tải về trước đó và chờ quá trình cài đặt hoàn tất.
+Shift + Restore iPhone
+Tìm đến đường dẫn lưu firmware
+Bước 4 : Đợi cài đặt cập nhật và restore.
+Đợi cài đặt cập nhật và restore
+Trường hợp 2: Máy bật "Tìm iPhone" trên iCloud
+Vào trang web: icloud.com > Đăng nhập tài khoản > Tìm iPhone > Chọn tên iPhone đang sử dụng > Xóa iPhone.
+Sau khi xóa qua iCloud, thực hiện các bước kết nối, đưa máy vào chế độ DFU và restore qua iTunes như Trường hợp 1.
+Đăng nhập tài khoản > Tìm iPhone > Chọn tên iPhone đang sử dụng > Xóa iPhone
+5. Cách reset iPhone khi quên mật khẩu máy
+Bước 1 : Kết nối iPhone với máy tính đã từng đồng bộ và mở iTunes > Nhấn Back up now để tạo bản sao lưu mới nếu thiết bị bị vô hiệu hóa.
+Nhấn Back up now để tạo bản sao lưu mới
+Bước 2 : Chọn Restore Backup để bắt đầu quá trình reset iPhone.
+Chọn Restore Backup
+Bước 3 : Nếu tính năng Find My iPhone đang bật, truy cập icloud.com > Đăng nhập Apple ID > Tắt tính năng này trước khi tiếp tục.
+Tắt tính năng Find My Phone
+6. Cách reset iPhone khi quên mật khẩu iCloud bằng Tenorshare 4uKey
+Bước 1 : Tải và khởi chạy phần mềm Tenorshare 4uKey > Chọn mục Remove Apple ID trên giao diện chính.
+Chọn mục Remove Apple ID
+Bước 2 : Kết nối iPhone với máy tính > Nhấn Start Remove để bắt đầu quá trình reset.
+Nhấn Start Remove
+Bước 3 : Kiểm tra tính năng Find My iPhone:
+Nếu Find My đã tắt, phần mềm sẽ xóa Apple ID và yêu cầu tải firmware qua nút Download. Nếu Find My đang bật > Chọn Remove iCloud Activation Lock để vượt qua khóa kích hoạt.
+Yêu cầu tải firmware qua nút Download
+Bước 4 : Đợi phần mềm thực hiện quá trình khôi phục, iPhone sẽ được reset mà không cần mật khẩu iCloud.
+Sau khi hoàn tất, iPhone đã được cài đặt lại và sẵn sàng thiết lập mới.
+Sau khi hoàn tất, iPhone đã được cài đặt lại
+7. Cách reset iPhone bằng máy tính qua iTunes
+Bước 1 : Tải và cài đặt phần mềm iTunes TẠI ĐÂY .
+Tải và cài đặt iTunes
+Bước 2 : Kết nối iPhone với máy tính bằng cáp . Đảm bảo cáp của bạn phải còn sử dụng tốt, đủ điều kiện lưu hành của Apple.
+Kết nối iPhone với máy tính
+Bước 3 : Chọn Khôi phục iPhone .
+Chọn Khôi phục iPhone
+Bước 4 : Chọn Khôi phục và Cập nhật .
+Chọn Khôi phục và Cập nhật
+Bước 5 : Chọn Tiếp tục .
+Chọn Tiếp tục
+Sau đó chọn Đồng ý . Đợi tải bản cập nhật và cài đặt cập nhật iPhone.
+Chọn Đồng ý
+4. Lưu ý quan trọng trước khi reset iPhone
+Sao lưu dữ liệu
+Qua iCloud : Vào Cài đặt > [Tên của bạn] > iCloud > Sao lưu iCloud, bật Sao lưu iCloud, nhấn Sao lưu bây giờ. Qua iTunes/Finder : Kết nối iPhone với máy tính, mở iTunes/Finder, chọn thiết bị và nhấn Back Up Now.
+Kiểm tra pin và đăng xuất iCloud
+Đảm bảo pin trên 50% hoặc cắm sạc. Nếu bán hoặc chuyển nhượng máy, vào Cài đặt > [Tên của bạn] > Đăng xuất và nhập mật khẩu Apple ID.
+Ghi nhớ Apple ID và mật khẩu
+Bạn sẽ cần Apple ID và mật khẩu để kích hoạt lại máy sau khi reset. Nếu quên, truy cập iforgot.apple.com để đặt lại.
+5. Câu hỏi thường gặp
+Reset iPhone có làm mất dữ liệu không?
+Việc reset iPhone có thể làm mất dữ liệu tùy thuộc vào phương pháp thực hiện:
+Khôi phục cài đặt gốc (Restore) : Xóa toàn bộ dữ liệu và cài đặt. Để tránh mất dữ liệu, hãy sao lưu trước qua iCloud hoặc iTunes. Đặt lại tất cả cài đặt : Chỉ khôi phục cài đặt gốc, không ảnh hưởng đến dữ liệu trong máy.
+Reset xong thì iPhone có bị cập nhật lên iOS mới nhất không?
+Khi reset, iPhone thường tự động cập nhật lên phiên bản iOS mới nhất nếu có kết nối mạng. Để tránh nâng cấp, hãy xóa bản cập nhật iOS trong Cài đặt > Cài đặt chung > Dung lượng iPhone.
+Làm sao để reset iPhone mà không cần mật khẩu?
+Có thể reset mà không cần mật khẩu bằng các cách sau:
+Sử dụng iTunes : Kết nối với máy tính, đưa máy vào chế độ Recovery và chọn Restore. Chế độ DFU : Sử dụng phần mềm như Tenorshare 4uKey để khôi phục cài đặt gốc.
+iPhone bị treo táo sau khi reset phải làm sao?
+Nếu iPhone bị treo táo sau khi reset:
+Thử khởi động lại bằng phím cứng. Cập nhật hoặc restore qua iTunes/Finder. Nếu không khắc phục được, hãy mang máy đến trung tâm bảo hành để kiểm tra phần cứng
+Restore và reset iPhone có gì khác nhau?
+Restore: Thao tác restore cần kết nối với iTunes trên máy tính (phiên bản khôi phục cài đặt gốc cấp cao). Reset: Thao tác reset được thực hiện ngay trên máy, không cần kết nối với iTunes (phiên bản khôi phục cài đặt cấp thấp).
+ĐỪNG BỎ LỠ 1 số mẫu Điện thoại nổi bật tại Thế Giới Di Động:
+Xem thêm : Cách bật, tắt nút home ảo trên iPhone Cách định vị, tìm iPhone Cách dùng tính năng cảnh báo khoảng cách màn hình Cách khởi động lại iPhone Cách kiểm tra xuất xứ iPhone qua số seri
+Như vậy, với những thao tác cơ bản trên là có thể reset iPhone của bạn. Hy vọng bài viết hữu ích đối với bạn. Cảm ơn bạn đã theo dõi.
+1.373.391 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

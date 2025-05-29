@@ -1,0 +1,94 @@
+Samsung Bixby là gì? Dùng để làm gì? Cách kích hoạt và sử dụng
+Một số mẫu điện thoại Samsung đang kinh doanh tại Thế Giới Di Động:
+Không chỉ xuất hiện trên các thiết bị điện thoại , Bixby cũng xuất hiện trên cả các sản phẩm thông minh khác có trong gia đình bạn, chẳng hạn như TV hay là tủ lạnh . Vậy chính xác thì Samsung Bixby là gì, chức năng là gì, làm thế nào để kích hoạt và sử dụng cho hiệu quả? Hãy cùng tìm hiểu nhé!
+Thông tin được cập nhật vào ngày 20/06/2021, danh sách thiết bị, ngôn ngữ hỗ trợ và các tính năng có thể có sự thay đổi trong tương lai.
+1. Samsung Bixby là gì?
+Samsung Bixby là trợ lý ảo của Samsung , được tích hợp trên rất nhiều sản phẩm thông minh của hãng, và lần đầu được giới thiệu tại sự kiện Galaxy Unpacked 2017 cùng với bộ đôi Samsung Galaxy S8 và S8+. Samsung cũng từng ra mắt trợ lý giọng nói của mình vào năm 2012 có tên là S Voice , và Bixby được xem như là một bước nhảy vọt so với phiên bản tiền nhiệm này.
+Hiện nay, Bixby hỗ trợ các thiết bị điện thoại Samsung và máy tính bảng Samsung đang chạy hệ điều hành Android và các thiết bị thông minh khác đang chạy hệ điều hành Tizen của Samsung. Các sản phẩm mới nhất của Samsung như Samsung Galaxy S21 Ultra 5G hay là Samsung Galaxy Tab S7 cũng được trang bị trợ lý ảo cao cấp này.
+Trợ lý ảo Bixby của Samsung
+Dưới đây là danh sách ngôn ngữ mà Samsung Bixby đang hỗ trợ.
+- Tiếng Anh (Anh)
+- Tiếng Anh (Mỹ)
+- Tiếng Anh (Ấn Độ)
+- Tiếng Pháp (Pháp)
+- Tiếng Đức (Đức)
+- Tiếng Ý (Ý)
+- Tiếng Hàn (Hàn Quốc)
+- Tiếng Trung Phổ thông (Trung Quốc)
+- Tiếng Tây Ban Nha (Tây Ban Nha)
+- Tiếng Bồ Đào Nha (Bra-xin)
+- Tiếng Việt
+Các thiết bị có hỗ trợ Samsung Bixby được bán tại Thế Giới Di Động:
+2. Các tính năng chính của Samsung Bixby
+- Bixby Voice
+Với Bixby Voice, có thể dễ dàng điều khiển điện thoại, máy tính bảng Samsung của bạn với các thao tác như gửi tin nhắn, thực hiện cuộc gọi, mở nhạc trên Spotify , tra cứu thông tin, thời tiết,...
+Ngoài ra, nếu như bạn sở hữu các sản phẩm thuộc hệ sinh thái Samsung SmartThings , thông qua Bixby có trên điện thoại, bạn cũng có thể dễ dàng điều khiển và quản lý các sản phẩm như điều hòa, tủ lạnh, máy giặt ,...
+Bixby Voice
+- Bixby Vision
+Tương tự như cách mà Google Lens hoạt động, Bixby Vision sẽ sử dụng camera chính có trên điện thoại để quét các đoạn văn bản, mã QR , địa danh, vật thể có trong khung hình. Kết quả là sau khi quét, thiết bị sẽ có khả năng dịch các đoạn văn bản đó theo thời gian thực, hoặc sẽ đưa ra các thông tin liên quan đến địa danh, đồ vật, chẳng hạn như tên, các trang bán hàng sản phẩm,...
+Bixby Vision
+- Bixby Home
+Đây là màn hình phụ, nằm ở phía bên trái màn hình chính của điện thoại Samsung. Đây là nơi tập hợp các thông tin về thời tiết, thời gian tập thể thao và các nút tắt để điều khiển các thiết bị smarthome trong gia đình bạn.
+Các thông tin này được sắp xếp theo hàng dọc, sắp xếp dựa theo thói quen sử dụng của bạn, và bạn cần cuộn lên/xuống để truy cập các thông tin này có trong Bixby Home.
+Bixby Home
+- Bixby Routines
+Đúng như tên của tính năng là Routines (Thói quen hằng ngày), tính năng này sẽ giúp bạn thiết lập thói quen sử dụng điện thoại hay các thiết bị IoT có trong nhà hoạt động theo mốc thời gian nhất định. Các thói quen này có thể được gợi ý thông qua quá trình học hỏi của AI , hoặc bạn có thể tự thiết lập với câu lệnh If/Then (Nếu/Thì).
+Bixby Routines
+Xem ngay các chương trình, mã khuyến mãi và mã giảm giá tại Thế Giới Di Động : Tổng hợp khuyến mãi hấp dẫn dành cho tất cả ngành hàng Tổng hợp tất cả mã giảm giá, mã khuyến mãi tại TGDĐ
+3. Samsung Bixby có gì đặc sắc?
+- Cho phép thực hiện hết các tác vụ ứng dụng có liên kết trực tiếp với thiết bị
+Chỉ với các câu lệnh đơn giản, bạn đã có thể truy cập sâu vào các ứng dụng có trên máy, chẳng hạn như hẹn báo thức, thực hiện cuộc gọi, hay là nhắn tin cho người khác. Ngoài các ứng dụng của chính chủ Samsung, bạn cũng có thể điều khiển được các ứng dụng bên thứ ba như là YouTube hay là Spotify.
+Bạn có thể điều khiển các ứng dụng bằng Bixby Voice
+- Xuất hiện trên hầu hết các thiết bị Samsung
+Các sản phẩm được Samsung sản xuất từ năm 2017 trở về sau hầu như đều được trang bị Samsung Bixby. Và nhờ là nhà sản xuất nắm rõ phần cứng và phần mềm có trên thiết bị mình, Samsung có thể tối ưu cho trợ lý ảo Bixby có thể hoạt động mượt mà và sâu hơn trên sản phẩm của hãng.
+- Là một phần trong hệ sinh thái Samsung SmartThings
+Samsung Bixby giống như là một kênh kết nối người dùng với lại các sản phẩm trong hệ sinh thái của Samsung SmartThings, nhờ vậy người dùng Samsung có thể điều khiển các thiết bị thông minh có trong gia đình bạn mà không cần chạm. Đơn giản, bạn chỉ cần nhấc chiếc điện thoại Samsung của mình lên và ra lệnh cho Bixby, mọi thứ đã có thể được hoàn thành.
+Bixby là một phần trong Samsung SmartThings
+4. Cách kích hoạt và sử dụng Samsung Bixby
+Lưu ý : Để có thể sử dụng được Samsung Bixby, bạn cần phải đăng nhập tài khoản Samsung Account trong thiết bị của mình. Thiết bị của bạn cần phải được kết nối với Internet và microphone phải hoạt động.
+- Bixby Home
+Cách kích hoạt Bixby Home
+Trong trường hợp màn hình của bạn không có Bixby Home, bạn hãy nhấn giữ vào khoảng trống của màn hình trong vòng vài giây > Kéo sang trái để thấy Bixby Home > Chọn bật Bixby Home .
+Cách kích hoạt Bixby Home
+Cách sử dụng Bixby Home
+Để truy cập vào Bixby Home, bạn vuốt sang trái từ màn hình chính là đã có thể truy cập được Bixby Home rồi.
+- Bixby Voice
+Cách kích hoạt Bixby Voice
+Thông thường, các thiết bị của Samsung đều được bật sẵn tính năng Bixby Voice, tuy nhiên nếu bạn đã vô tình tắt tính tính năng này trên điện thoại của mình thì đây là cách để kích hoạt lại tính năng Bixby Voice.
+Bạn truy cập vào Settings > Chọn mục Advanced > Chọn Bixby key > Chọn bật Single press to open Bixby .
+Cách kích hoạt Bixby Voice
+Cách sử dụng Bixby Voice
+Để sử dụng Bixby Voice, bạn có thể nhấn vào phím cứng Bixby (nếu có), hoặc bạn cũng có thể gọi Bixby bằng câu lệnh “ Hi Bixby ”. Bạn cũng có thể kết hợp câu lệnh khác cùng với câu lệnh gọi Bixby. Chẳng hạn, “ Hi Bixby, call Mom ” (tạm dịch là “Chào Bixby, gọi cho mẹ”).
+- Bixby Vision
+Cách kích hoạt Bixby Vision
+Bước 1 : Truy cập vào Ứng dụng Camera > Nhấn chọn biểu tượng Bixby Vision ở bên trái màn hình.
+Nhấn chọn Bixby Vision
+Bước 2 : Chọn Start > Đọc Điều khoản và Điều kiện, sau đó nhấn OK .
+Chọn Start > Đọc Điều khoản và Điều kiện, sau đó nhấn OK
+Bước 3 : Cấp các quyền truy cập vào hình ảnh , phim và vị trí cho Bixby Vision.
+Cách sử dụng Bixby Vision
+Cách thứ nhất để sử dụng là bạn cần truy cập vào Ứng dụng Camera > Chọn Auto Mode > Nhấn vào nút Bixby Vision .
+Cách thứ hai đơn giản hơn là bạn có thể ra lệnh cho trợ lý ảo này bằng các câu lệnh như “ Describe the scene in Bixby Vision ” (tạm dịch là “Hãy miêu tả khung cảnh với Bixby Vision”) hay “ Read the text in Bixby Vision ” (tạm dịch là “Đọc đoạn văn bản với Bixby Vision”).
+- Bixby Routines
+Cách kích hoạt Bixby Routines
+Để bật tính năng Bixby Routines, bạn truy cập vào Settings > Tìm chọn mục Advanced > Bật tính năng Bixby Routines .
+Cách kích hoạt Bixby Routines
+Cách sử dụng Bixby Routines
+Để có thể sử dụng được Bixby Routines, bạn cần tìm hiểu trước cơ chế đặt lệnh theo kiểu If/Then (Nếu/Thì).
+Tìm hiểu kỹ hơn về cách sử dụng Bixby Routines tại bài viết: Cách dùng Bixby Routines trên Samsung để xài điện thoại sướng hơn
+5. Các thiết bị có hỗ trợ Samsung Bixby được bán tại TGDĐ
+Dưới đây là danh sách các thiết bị điện thoại AI và máy tính bảng được hỗ trợ Bixby.
+Lưu ý : Bạn có thể tham khảo toàn bộ các thiết bị hỗ trợ Samsung Bixby từ trang tin uy tín Android Authority .
+Loại điện thoại Tên điện thoại Samsung Galaxy S series Samsung Galaxy S24 Ultra Samsung Galaxy S24 Plus Samsung Galaxy S24 Samsung Galaxy S23 Ultra Samsung Galaxy S23 Plus Samsung Galaxy S23 Samsung Galaxy S23 FE Samsung Galaxy S22 Ultra 5G Samsung Galaxy S22+ 5G Samsung Galaxy S22 5G Samsung Galaxy S21 FE 5G Samsung Galaxy S20 FE Samsung Galaxy S25 Samsung Galaxy S25 Plus Samsung Galaxy S25 Ultra Samsung Galaxy A series Samsung Galaxy A73 5G Samsung Galaxy A53 5G Samsung Galaxy A52s 5G Samsung Galaxy A33 5G
+Ngoài các sản phẩm điện thoại và máy tính bảng ra, các thiết bị trong hệ sinh thái SmartThings khác của Samsung cũng có hỗ trợ trợ lý ảo Bixby, chẳng hạn đồng hồ thông minh Samsung Galaxy Watch , loa thông minh Samsung Galaxy Home, TV, tủ lạnh, máy giặt,... (xuất hiện ở hầu hết các thiết bị được sản xuất từ năm 2017 trở đi).
+6. Chính sách bảo hành điện thoại tại Thế Giới Di Động
+Khi mua điện thoại tại Thế Giới Di Động sản phẩm sẽ được bảo hành như sau:
+- Bảo hành chính hãng điện thoại 12 - 18 tháng (tùy sản phẩm) tại các trung tâm bảo hành hãng.
+- Hư gì đổi nấy 12 tháng tại hệ thống các siêu thị toàn quốc (miễn phí tháng đầu).
+Chính sách bảo hành được cập nhật vào ngày 22 /06/2022 , có thể thay đổi nếu bạn tham khảo vào ngày khác, xem cập nhật chính xác nhất TẠI ĐÂY .
+Chính sách bảo hành hấp dẫn
+Samsung sắp ra mắt dòng sản phẩm mới, điện thoại Flagship 2024 hiện đại Samsung S24 Ultra , Samsung Galaxy S24 , S24 Plus , thu hút sự quan tâm từ hàng triệu người dùng với nhiều đồn đoán về tính năng và thiết kế. Xem ngay những update hoàn toàn mới từ chiếc điện thoại Flagship này nhé!
+Xem thêm : Siri là gì? Cách sử dụng Siri và những tính năng nổi bật của Siri Google Assistant là gì? Hoạt động ra sao? Cách mở như thế nào? Cách kiểm tra, check IMEI Samsung chính hãng đơn giản, chuẩn xác nhất
+Vừa rồi là các thông tin về Samsung Bixby mà có thể bạn chưa biết. Hy vọng bài viết hữu ích với bạn, cảm ơn bạn đã theo dõi, hẹn gặp lại trong những bài viết khác!
+33.234 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

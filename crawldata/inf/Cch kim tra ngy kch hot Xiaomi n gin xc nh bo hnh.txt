@@ -1,0 +1,110 @@
+Cách kiểm tra ngày kích hoạt Xiaomi đơn giản xác định bảo hành
+ĐỪNG BỎ LỠ 1 số điện thoại Xiaomi đang kinh doanh tại TGDĐ:
+Bạn muốn biết điện thoại Xiaomi của mình đã kích hoạt khi nào? Việc kiểm tra ngày kích hoạt điện thoại bằng mã IMEI giúp bạn xác định thời gian bảo hành, tránh mua nhầm máy cũ và đảm bảo thiết bị chính hãng. Bài viết này sẽ hướng dẫn bạn các cách kiểm tra ngày kích hoạt Xiaomi đơn giản và chính xác nhất.
+Tại sao cần check ngày kích hoạt Xiaomi?
+Kiểm tra ngày kích hoạt điện thoại Xiaomi giúp bạn:
+Xác định thời gian bảo hành: Xiaomi thường bảo hành sản phẩm trong 12 - 24 tháng kể từ ngày kích hoạt. Kiểm tra ngày kích hoạt giúp bạn biết thiết bị còn trong thời gian bảo hành hay không. Giúp bạn tận dụng quyền lợi bảo hành, tránh mất phí sửa chữa. Kiểm tra máy mới hay đã qua sử dụng: Nếu bạn mua máy mới nhưng phát hiện ngày kích hoạt đã lâu, có thể bạn đã mua phải máy cũ hoặc hàng trưng bày . Đảm bảo bạn không bị lừa mua phải máy đã qua sử dụng với giá máy mới, giúp bạn đưa ra quyết định mua hàng chính xác hơn. Hỗ trợ khi cần sửa chữa: Nếu thiết bị gặp lỗi, biết ngày kích hoạt giúp bạn xác định liệu có thể yêu cầu bảo hành miễn phí hay không. Tránh trường hợp mất phí sửa chữa khi lẽ ra bạn vẫn có thể được bảo hành miễn phí từ Xiaomi và được hỗ trợ nhanh chóng hơn. Xác minh sản phẩm chính hãng: Nếu bạn mua máy xách tay hoặc từ bên thứ ba, kiểm tra ngày kích hoạt giúp xác nhận thiết bị có phải là hàng chính hãng hay không. Giúp bạn tránh mua phải hàng giả, hàng dựng hoặc máy bị khóa do bảo hành không hợp lệ. Cập nhật phần mềm kịp thời: Ngày kích hoạt giúp bạn phân biệt giữa các phiên bản điện thoại Xiaomi và kiểm tra sản phẩm có được cập nhật phần mềm mới nhất hay không. Cập nhật thường xuyên giúp bạn bảo vệ thiết bị, tối ưu hiệu suất và bổ sung tính năng mới.
+Kiểm tra ngày kích hoạt giúp bạn xác định thời gian bảo hành, tránh mua nhầm máy cũ và đảm bảo thiết bị chính hãng
+Cách lấy số IMEI của điện thoại Xiaomi
+ĐỪNG BỎ LỠ 1 số điện thoại Xiaomi dòng Mi đang kinh doanh tại TGDĐ:
+Lấy mã IMEI trực tiếp từ điện thoại
+Kiểm tra IMEI trên vỏ hộp và thân máy: Hầu hết các điện thoại Xiaomi đều có mã IMEI được in trên vỏ hộp và thân máy. Bạn có thể kiểm tra mặt sau của thiết bị hoặc vỏ hộp để tìm dãy số này. Kiểm tra IMEI trên khay SIM: Một số dòng Xiaomi còn in mã IMEI trên viền khay SIM. Bạn có thể tháo khay SIM ra và kiểm tra xem có dãy số IMEI hay không.
+Chọn đúng số IMEI để kiểm tra: Điện thoại Xiaomi thường có hai mã IMEI: IMEI 1 và IMEI 2. Để kiểm tra ngày kích hoạt và bảo hành, bạn cần sử dụng IMEI 1, vì đây là số được dùng để xác định thông tin bảo hành chính hãng của Xiaomi.
+Bạn có thể lấy mã IMEI trực tiếp từ điện thoại từ vỏ hộp, thân máy, khay SIM
+Lấy mã IMEI trong mục Cài đặt
+Hướng dẫn nhanh: Lấy số IMEI: Vào Cài đặt > Giới thiệu điện thoại > Thông tin và số chi tiết > Trạng thái > Thông tin IMEI.
+Vào Cài đặt > Giới thiệu điện thoại > Thông tin và số chi tiết
+Vào Cài đặt, chọn Giới thiệu điện thoại, chọn Thông tin và số chi tiết
+Trong mục Thông tin và số chi tiết, bạn kéo xuống dưới cùng để chọn Trạng thái.
+Trong Thông tin và số chi tiết, kéo xuống chọn Trạng thái
+Trong mục Trạng thái > Chọn Thông tin IMEI (khe cắm thẻ SIM 1), sao chép mã IMEI là hoàn thành.
+Trong Trạng thái, chọn IME, sao chép mã IMEI
+Lấy mã IMEI từ bàn phím gọi
+Bạn vào bàn phím gọi và bấm *#06#, sau đó mã IMEI sẽ tự động hiển thị ra, bạn chỉ cần copy mã là xong.
+Bấm *#06# trên bàn phím gọi, sao chép mã IMEI
+Hướng dẫn cách kiểm tra ngày kích hoạt điện thoại Xiaomi
+ĐỪNG BỎ LỠ 1 số điện thoại Xiaomi Redmi đang kinh doanh tại TGDĐ:
+Kiểm tra ngày kích hoạt Xiaomi qua trang web
+Hướng dẫn nhanh: Vào web > Nhập IMEI (và mã xác nhận) > Kiểm tra.
+Kiểm tra trên web imei.info:
+Bạn truy cập vào trang web: https://www.imei.info/ . Nhập mã IMEI vào ô tìm kiếm > Bấm Check IMEI.
+Truy cập web www.imei.info, nhập số IMEI, bấm Check IMEI
+Chọn tick xác nhận không phải robot.
+Chọn tick xác nhận không phải robot
+Kết quả sẽ hiển thị thông tin về tên, mã sản phẩm cũng như số IMEI.
+Thông tin về tên, mã sản phẩm cũng như số IMEI
+Bạn kéo xuống phần tiếp theo sẽ thấy thông tin về cấu hình của điện thoại .
+Bảng thông số kỹ thuật của điện thoại
+Bạn chọn Expand info để hiển thị đầy đủ thông số kỹ thuật.
+Bảng thông số kỹ thuật của điện thoại chi tiết đầy đủ
+Để xem ngày kích hoạt và thời hạn bảo hành, hãy kéo xuống phần Advanced checks. Đây là phần kiểm tra có phí, bạn cần thanh toán để nhận đầy đủ thông tin.
+Trả phí để có đầy đủ thông tin về ngày kích hoạt và thời hạn bảo hành
+Kiểm tra trẹn web mi.com:
+Truy cập trang web kiểm tra của Xiaomi: https://www.mi.com/global/verify . Nhập số IMEI vào ô tìm kiếm, nhập mã xác nhận rồi bấm vào Verify (Kiểm tra).
+Truy cập web www.mi.com, nhập số IMEI, nhập mã xác nhận và bấm Verify
+Sau khi kết quả sẽ hiển thị, bạn sẽ nhận được thông tin chính hãng của điện thoại.
+Kết quả hiển thị sau khi nhập IMEI trên web www.mi.com
+Kiểm tra ngày kích hoạt Xiaomi tại cửa hàng mua điện thoại
++ Kiểm tra tại cửa hàng chính hãng Xiaomi:
+Bạn có thể đến trực tiếp cửa hàng Xiaomi chính hãng tại Việt Nam để nhận hỗ trợ từ nhân viên. Tại đây, bạn sẽ được cung cấp các thông tin quan trọng như:
+Ngày kích hoạt của điện thoại Xiaomi Thời gian bảo hành còn lại Các loại giấy tờ cần thiết để sử dụng trong quá trình bảo hành
+Kiểm tra ngày kịch hoạt tại cửa hàng chính hãng Xiaomi
++ Kiểm tra tại các siêu thị Thế Giới Di Động:
+Nếu bạn mua điện thoại tại các cửa hàng Thế Giới Di Động , bạn cũng có thể yêu cầu các bạn nhân viên kiểm tra ngày kích hoạt của thiết bị. Các bạn có thể giúp bạn xác minh:
+Điện thoại đã kích hoạt chưa hay còn nguyên seal Thời gian bảo hành của sản phẩm Hướng dẫn về các giấy tờ bảo hành
+Kiểm tra ngày kịch hoạt tại các siêu thị Thế Giới Di Động
++ Kiểm tra tại trung tâm bảo hành Xiaomi:
+Trung tâm bảo hành Xiaomi cũng có thể giúp bạn tra cứu ngày kích hoạt. Quy trình kiểm tra gồm:
+Bước 1: Chuẩn bị thiết bị và tìm địa điểm phù hợp
+Xác định cửa hàng sửa chữa, trung tâm bảo hành chính thức hoặc đại lý ủy quyền của Xiaomi gần nhất. Mang theo điện thoại Xiaomi cần kiểm tra.
+Bước 2: Yêu cầu nhân viên kiểm tra
+Cung cấp số IMEI của thiết bị cho nhân viên. Nhân viên sẽ sử dụng hệ thống của Xiaomi để tra cứu thông tin thiết bị.
+Bước 3: Nhận kết quả kiểm tra
+Bạn sẽ biết ngày kích hoạt, thời gian bảo hành còn lại và các hướng dẫn bảo trì nếu cần thiết. Nếu phát hiện có vấn đề, bạn có thể được tư vấn về các phương án sửa chữa hoặc gia hạn bảo hành.
+Lợi ích của việc kiểm tra tại cửa hàng: Nhanh chóng, chính xác, không cần thao tác phức tạp Nhận tư vấn chi tiết từ nhân viên có chuyên môn Được hỗ trợ thêm về bảo hành và bảo trì sản phẩm
+Kiểm tra ngày kịch hoạt tại trung tâm bảo hành Xiaomi
+Câu hỏi liên quan hướng dẫn kiểm tra ngày kịch hoạt Xiaomi
+Mã số IMEI trên điện thoại Xiaomi có thay đổi được không?
+Mã IMEI là dãy số nhận diện duy nhất của mỗi điện thoại do nhà sản xuất gán khi xuất xưởng. Theo nguyên tắc, IMEI không thể thay đổi hợp pháp. Tuy nhiên, một số kỹ thuật viên có thể sử dụng phần mềm hoặc can thiệp phần cứng để thay đổi IMEI, nhưng điều này là bất hợp pháp tại nhiều quốc gia và có thể khiến thiết bị bị khóa mạng, mất bảo hành hoặc bị từ chối sửa chữa từ hãng.
+Cách kiểm tra tên và dòng máy Xiaomi
+Bạn có thể kiểm tra thông tin thiết bị Xiaomi bằng những cách sau:
+Cách 1: Kiểm tra trong cài đặt
+Vào Cài đặt > Giới thiệu điện thoại.
+Kiểm tra tên và dòng máy Xiaomi: Vào cài đặt, vào Giới thiệu điện thoại, chọn Thông tin và thông số chi tiết
+Tại đây, bạn sẽ thấy tên máy, mã model, phiên bản MIUI hoặc Xiaomi HyperOS ,...
+Kiểm tra tên và dòng máy Xiaomi: Từ Thông tin và thông số chi tiết, chọn Trạng thái
+Cách 2: Kiểm tra bằng mã lệnh
+Mở ứng dụng Gọi điện và nhập *#*#4636#*#* rồi nhấn gọi.
+Kiểm tra tên và dòng máy Xiaomi bằng mã lệnh: Bấm gọi *#*#4636#*#*
+Thông tin chi tiết về dòng máy sẽ hiển thị.
+Kiểm tra tên và dòng máy Xiaomi bằng mã lệnh: Kiểm tra thông tin chi tiết
+Cách 3: Kiểm tra bằng IMEI (thực hiện như các bước bên trên)
+Truy cập trang web chính thức của Xiaomi: https://www.mi.com/global/verify#/en/tab/imei.
+Nhập số IMEI để tra cứu thông tin thiết bị.
+Kiểm tra tên và dòng máy Xiaomi bằng mã IMEI
+Mua Xiaomi xách tay có được bảo hành không?
+Xiaomi xách tay có được bảo hành hay không phụ thuộc vào từng trường hợp:
++ Có bảo hành chính hãng nếu:
+Máy là phiên bản quốc tế chính hãng được nhập khẩu hợp pháp. Bạn có hóa đơn mua hàng hợp lệ. Máy nằm trong danh sách các model được Xiaomi Việt Nam hỗ trợ bảo hành.
++ Không được bảo hành chính hãng nếu:
+Máy là phiên bản nội địa Trung Quốc hoặc không thuộc hệ thống Xiaomi Việt Nam. Máy bị thay đổi phần cứng hoặc phần mềm (unlock bootloader, cài ROM không chính hãng). Máy không có hóa đơn hợp lệ hoặc đã qua sửa chữa bên thứ ba.
+Lưu ý: Nếu Xiaomi Việt Nam không bảo hành, bạn vẫn có thể sửa chữa tại các trung tâm bảo hành Xiaomi không chính hãng hoặc các cửa hàng sửa chữa uy tín.
+Trung tâm bảo hành Xiaomi tại Việt Nam
+Để tìm trung tâm bảo hành Xiaomi gần nhất, bạn có thể:
+Hotline Xiaomi: 1800400410 Email: service.vn@support.mi.com
+Danh sách trung tâm bảo hành Xiaomi chính hãng:
++ Hồ Chí Minh:
+307/6 Nguyễn Văn Trỗi, Phường 1, Tân Bình, TP. HCM - 02888883307 194 Ba Tháng Hai, Phường 12, Quận 10, TP. HCM - 1900555567 322 Hoàng Văn Thụ, Phường 4, Quận Tân Bình, TP. HCM - 19000118 (bấm phím 2)
++ Hà Nội:
+Tòa nhà VNCC, 243 La Thành, Phường Láng Thượng, Quận Đống Đa, TP. Hà Nội - 02477789989 Số 25 Phố Thọ Tháp , Phường Dịch Vọng, Quận Cầu Giấy, TP. Hà Nội - 19000118 (bấm phím 3) Số 132 Lê Duẩn, Phường Nguyễn Du, Quận Hai Bà Trưng, TP. Hà Nội - 02877700489
++ Lâm Đồng: Số 01-03 Đường Hai Bà Trưng, Phường 6, Thành Phố Đà Lạt, Tỉnh Lâm Đồng - 02637300073
++ Khánh Hòa: 133 Thái Nguyên, Phường Phước Tân, TP. Nha Trang, Tỉnh Khánh Hòa - 02587779898
++ Đồng Nai: 1070 Phạm Văn Thuận, khu phố 2, phường Tân Mai, Thành phố Biên Hòa, Đồng Nai - 02877700589
++ Bình Dương: Tòa Nhà Becamex, 230 Đại Lộ Bình Dương, Phú Hòa, TP Thủ Dầu Một, Tỉnh Bình Dương - 02877700689
++ Tiền Giang: PG 01.38 Khu đô thị Vincom, Số 01A, đường Hùng Vương, Phường 1, TP. Mỹ Tho, Tỉnh Tiền Giang - 02877708289
++ Cần Thơ: PG1-12 Xuân Khánh Vincom - 209, Đường 30/4,Phường Xuân Khánh, quận Ninh Kiều,TP Cần Thơ - 02927778678
+Xem thêm: Cách kiểm tra xuất xứ điện thoại Xiaomi đơn giản, chính xác Cách kiểm tra (check) bảo hành điện thoại Xiaomi bằng IMEI đơn giản Cách tìm điện thoại bị mất với tài khoản Mi trên MIUI đơn giản
+Một số mẫu điện thoại đang kinh doanh tại Thế Giới Di Động:
+Kiểm tra ngày kích hoạt Xiaomi là cách hiệu quả để xác định thời gian bảo hành, nguồn gốc sản phẩm và tránh rủi ro khi mua điện thoại. Bạn có thể thực hiện bằng nhiều cách như kiểm tra IMEI trên trang web chính hãng, qua cài đặt hoặc tại trung tâm bảo hành. Hãy kiểm tra ngay để bảo vệ quyền lợi của mình!
+269 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

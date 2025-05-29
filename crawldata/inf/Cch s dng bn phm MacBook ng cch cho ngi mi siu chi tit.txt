@@ -1,0 +1,87 @@
+Cách sử dụng bàn phím MacBook đúng cách cho người mới siêu chi tiết
+Tham khảo một số mẫu MacBook đang kinh doanh tại Thế Giới Di Động:
+Nếu hiểu rõ chức năng của từng phím hoặc nhóm phím sẽ giúp bạn sử dụng thành thạo và làm tăng năng suất làm việc. Cùng theo dõi bài viết để hiểu chi tiết các chức năng trên bàn phím của MacBook nhé!
+1. Các phần cơ bản trên bàn phím MacBook
+Bộ phận phím chức năng (Màu xanh nhạt) : Đây là hệ thống phím được Apple thiết kế giúp bạn dễ dàng truy cập vào nhiều chức năng khác nhau trên MacBook hoặc hệ thống Mac OS.
+Bộ phận phím bổ trợ (Màu vàng nhạt) :
+- Phím Shift cho phép gõ chữ hoa và các ký tự bổ sung khác.
+- Command và Alt/ Option được sử dụng trong các phím tắt, cũng như phím Control , hầu như chỉ được sử dụng trong các chương trình Mac OS X và Apple.
+- Riêng với phím Return và Shift trái có hai cách dùng khác nhau ở hai khu vực. Nếu ở Hoa Kỳ và Đông Á thì sẽ sử dụng phím Return ngang và Shift dài. Còn nếu ở Châu Âu, Trung Đông và Châu Phi thì sẽ sử dụng phím Return dọc và Shift trái ngắn.
+Các phần cơ bản trên bàn phím MacBook
+Đối với một số phiên bản MacBook đời mới thì bàn phím có chút thay đổi so với các bản cũ, cụ thể là: MacBook Air M1 2020 có hàng phím trên và dưới nhỏ hơn để phù hợp với kích thước máy tính xách tay nhỏ hơn; MacBook Pro mới nhất với Touch Bar không có hàng phím F phía trên, thay vào đó, chúng có màn hình cảm ứng thay đổi các tùy chọn hiển thị dựa trên ngữ cảnh.
+2. Sự khác nhau giữa bàn phím MacBook và Windows
+Có 5 phím thể hiện rõ sự khác nhau rõ rệt nhất giữa bàn phím MacBook và Windows, các phím này khác nhau ở tên gọi, biểu tượng tuy nhiên nếu xét về các chức năng thì 5 phím này lại tương đương với các phím ở trên Windows.
+Phần khác nhau cơ bản giữa bàn phím MacBook và bàn phím Windows
+3. Các phím tương đương chức năng của MacBook và Windows
+- Phím Control và Ctrl : Hai phím này đều là những phím thuộc vùng phím bổ trợ giúp cho việc sử dụng laptop của bạn tối ưu và dễ dàng hơn. Tuy nhiên, trong hầu hết các trường hợp thì phím Command trên MacBook lại giống với phím Ctrl trên Windows với các lệnh như: Command + C (Copy), Command + V (Paste).
+- Phím Option và Alt : Muốn thao tác trên bàn phím Mac được thực hiện thành thục, thì hai phím tương đương trên Mac và Windows là Option và Alt cũng phải ghi nhớ. Trên máy Mac sẽ có phím Option, nhưng ở trên Windows thì phím này là Alt.
+Bàn phím MacBook có nhiều điểm khác biệt sơ với bàn phím Windows
+- Phím Command và Windows : Phím Command ở trên MacBook có chức năng tương đương với phím Windows giúp bạn thực hiện các câu lệnh như: Command + tab vs alt + tab trên Windows.
+- Phím Delete và Backspace : Phím Delete trên Mac tuy có tên gọi khác nhưng lại có chức năng tương đương với phím Backspace trên Windows.
+- Phím Return và Enter : Phím Return trên MacBook có chức năng giống với phím Enter trên Windows.
+4. Một số tổ hợp phím thông dụng trên MacBook
+- Tổ hợp phím chụp màn hình :
+Command + Shift + 3 : Chụp toàn bộ màn hình;
+Command + Shift + 4 : Chỉ chụp vùng đã chọn. Con trỏ của bạn chuyển sang dấu + và bạn có thể chỉ định khu vực bạn muốn chụp;
+Command + Shift + 4 + Space : Chụp cửa sổ đã chọn.
+- Tổ hợp phím quay video:
+Shift + Command + 5 : Quay màn hình Macbook một phần, hoặc toàn màn hình.
+- Một số tổ hợp phím khác trên MacBook :
+Command + W : Đóng bất kỳ các cửa sổ đang hoạt động trong Safari hoặc bất kỳ trình duyệt, ứng dụng khác;
+Command + H : Ẩn ứng dụng đang hoạt động;
+Option + Shift + F11/ F12 : Tuỳ chỉnh âm lượng của loa;
+Control + Option + Command + 8 : Đảo ngược màu sắc trên màn hình;
+Option + Delete : Xóa toàn bộ từ trong khi bạn chỉnh sửa văn bản;
+Control + Command + V : Dán văn bản đã sao chép mà không cần định dạng;
+Control + Command + Option + Eject / Shutdown : Tắt MacBook mà không cần nhập tên người dùng và mật khẩu;
+Command + mũi tên lên / mũi tên xuống : Chuyển đến đầu hoặc cuối trang. Điều này tương đương với phím Pg Up và Pg Dn khi bạn sử dụng bàn phím của các dòng máy thuộc hệ điều hành Windows.
+Kết hợp giữa các phím đề tạo nên các tổ hợp phím thích hợp
+Command + Shift + A : Mở thư mục Ứng dụng trong Trình tìm kiếm;
+Command + Shift + U : Mở thư mục Utilities trong Finder;
+Command + Shift + D : Mở thư mục Desktop trong Finder;
+Command + Shift + I : Khi sử dụng Safari, tổ hợp phím tắt này sao chép URL, mở ứng dụng Mail và tạo một mục thư mới với nội dung có URL vừa sao chép dán dưới dạng liên kết trong thư;
+Command + Option + M : Thu nhỏ tất cả các cửa sổ đang mở, hiển thị trên Desktop;
+Command + Option + Shift + Esc : Giữ chúng trong 3 giây để thoát khỏi bất kỳ ứng dụng nào một cách bắt buộc;
+Command + Tab : Mở thứ tự các ứng dụng đang hiển thị từ phải sang trái;
+Phím Command + Shift + Tab : Mở thứ tự các ứng dụng đang hiển thị từ phải sang trái;
+Command + Q : Thoát ứng dụng đang hoạt động;
+Command + T : Mở một tab mới trong Finder. Hay mở tab mới trong trình duyệt web;
+Kết hợp các phím chức năng giúp tốc độ làm việc của bạn tối ưu hơn
+Command + N : Tạo cửa sổ Finder mới;
+Command + Shift + N : Tạo thư mục mới trong Finder;
+Command + Space : khởi chạy Spotlight;
+Command + Option + Space : Chuyển sang ngôn ngữ bàn phím tiếp theo (nếu bạn cài đặt nhiều hơn một ngôn ngữ bàn phím);
+Command + Control + Space : Trong một số trang web và ứng dụng, điều này sẽ cung cấp cho bạn biểu tượng cảm xúc trên bàn phím.
+Command + Delete : Đưa các tệp / thư mục đã chọn vào thùng rác.
+Fn + Delete : Xóa văn bản từ trái sang phải.
+Command + mũi tên lên + L : Đánh dấu địa chỉ web.
+5. Bảng các ký hiệu bàn phím MacBook
+Bảng các ký hiệu của bàn phím MacBook STT Ý nghĩa Lưu ý 1 Giảm độ sáng màn hình 2 Tăng độ sáng màn hình 3 Khởi chạy Kiểm soát Nhiệm vụ Biểu tượng này có sẵn trên MacBook Unibody 4 Khởi chạy Trang tổng quan Biểu tượng có sẵn trên MacBook Unibody 5 Tắt đèn nền bàn phím 6 Bật đèn nền bàn phím 7 Tua lại 8 Tạm dừng 9 Tua nhanh 10 Chỉ huy Trên MacBook thế hệ 1, logo này được thay thế bằng logo Apple 11 Tắt loa 12 Giảm âm lượng loa 13 Tăng âm lượng loa
+Số thứ tự các ký hiệu bàn phím trên MacBook
+Xem ngay Macbook Air M2 và Macbook Pro M2 , MacBook Pro M3 Series ( MacBook Pro M3 , MacBook Pro M3 Pro , MacBook Pro M3 Max ) giá rẻ, chính hãng, nhiều ưu đãi hấp dẫn: Đánh giá MacBook Air M2 2022 8GB/512GB - Chiếc laptop khủng nhà Apple Đánh giá MacBook Pro M2 2022 8GB/512GB - Liệu có đáng để nâng cấp
+6. Bản đồ các ký tự đặc biệt và dấu trọng âm của bàn phím MacBook
+Nếu bạn muốn nhập các ký tự đặc biệt hoặc dấu, hãy thay đổi ngôn ngữ bàn phím của bạn sang US International PC (cảm ơn, Steve!) và sử dụng bản đồ bên dưới để nhận chúng.
+Bản đồ các ký tự đặc biệt
+7. Cách đổi vị trí phím để dễ sử dụng
+Bước 1 : Nhấn vào biểu tượng Apple ở góc trái màn hình và chọn Tuỳ chọn hệ thống (System Preferences).
+Mở System Preferences
+Bước 2 : Chọn Bàn phím (Keyboard) > Chọn Phím bổ trợ (Modifier Keys).
+Trên giao diện của Tuỳ chọn hệ thống bạn hãy chọn Bàn phím (Keyboard).
+Chọn Bàn phím
+Trong cửa sổ Bàn phím bạn hãy chọn Phím bổ trợ (Modifier Keys).
+Chọn vào phím bổ trợ
+Bước 3 : Trong mục Control (^) Key , bạn hãy chuyển thành Command rồi sau đó chuyển mục Command Key thành Control và bấm OK.
+Chuyển thành Control
+8. Cách sử dụng bàn phím Windows trên MacBook
+Bước 1 : Nhấn vào biểu tượng Apple ở góc trái màn hình và chọn Tuỳ chọn hệ thống (System Preferences).
+Mở Tuỳ chọn hệ thống
+Bước 2 : Chọn Bàn phím (Keyboard).
+Mở Bàn phím
+Bước 3 : Chọn vào Thiết lập bàn phím Bluetooth , khi đó cửa sổ nhận diện bàn phím sẽ mở ra.
+Chọn thiết lập bàn phím
+Để sử dụng được bàn phím Windows cho MacBook thì bạn phải đảm bảo được bàn phím đó có thể kết nối Bluetooth .
+Bàn phím Windows có tính năng Bluetooth thì màn hình sẽ hiển thị đã kết nối.
+Xem thêm : Có nên mua MacBook không? Kinh nghiệm chọn mua MacBook cho người mới Cách bật, tắt âm thanh khi khởi động trên MacBook Tìm hiểu về Force Touch Trackpad trên MacBook Cách sử dụng MacBook Air M1 2020 cho người mới cực đầy đủ, chi tiết Có nên vừa sạc vừa dùng MacBook không? Cách sạc, bảo vệ pin đúng cách Có nên dùng bàn phím rời cho laptop? Kinh nghiệm khi mua bàn phím rời Cách quay màn hình trên Macbook đơn giản, không cần phần mềm
+Mong rằng với nhưng thông tin được chia sẻ trong bài viết này sẽ giúp bạn dễ dàng làm quen với bàn phím của MacBook. Cảm ơn bạn đã theo dõi và hẹn gặp lại ở những chủ đề tiếp theo!
+3.384 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

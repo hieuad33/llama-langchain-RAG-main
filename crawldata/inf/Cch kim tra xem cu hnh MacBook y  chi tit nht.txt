@@ -1,0 +1,162 @@
+Cách kiểm tra, xem cấu hình MacBook đầy đủ, chi tiết nhất
+Một số mẫu MacBook đang được kinh doanh tại Thế Giới Di Động:
+Cấu hình của máy tính bộ , laptop cung cấp những thông tin hữu ích liên quan đến thiết bị mà bạn đang sử dụng. Vậy nếu bạn đang sử dụng MacBook nhưng vẫn chưa biết cách kiểm tra cấu hình MacBook thì phải làm như thế nào? Đừng lo, bài viết này sẽ hướng dẫn bạn xem cấu hình MacBook một cách chi tiết và đầy đủ nhất. Cùng xem nhé!
+Hướng dẫn trong bài viết dưới đây được thực hiện trên MacBook Pro 2020 , hệ điều hành macOS Big Sur phiên bản 11.2.3 . Với các dòng MacBook chạy phiên bản khác (như MacBook Pro M3 , MacBook Pro M3 Pro , MacBook Pro M3 Max ,...), bạn có thể thực hiện tương tự. Tuy nhiên, giao diện sẽ hơi khác đôi chút. Bài viết được hướng dẫn bằng tiếng Việt (bao gồm phần giao diện và chỉ dẫn bằng chữ). Nếu máy tính bạn đang sử dụng tiếng Anh, bạn có thể tham khảo cách thay đổi ngôn ngữ máy từ Anh sang Việt tại: Cách cài đặt giao diện tiếng Việt cho MacBook
+1. Cách kiểm tra, xem cấu hình MacBook
+Để xem cấu hình máy Mac, bạn làm theo hướng dẫn sau:
+Bước 1 : Nhấn vào biểu tượng Apple ở góc trái màn hình > Chọn Giới thiệu về máy Mac Này .
+Nhấn vào biểu tượng Apple, chọn Giới thiệu về máy Mac Này
+Sau đó, màn hình sẽ hiển thị một bảng thông tin tổng quát nhất về máy tính của bạn. Bạn có thể nhấn vào để xem thông tin trong từng mục như Tổng quan , Màn hình , Ổ lưu trữ , Hỗ trợ , Dịch vụ .
+Vào Tổng quan, Màn hình, Ổ lưu trữ, Hỗ trợ, Dịch vụ để xem cấu hình máy
+- Tổng quan
+Vào mục này, bạn sẽ thấy những thông tin chi tiết trên MacBook của bạn.
+Thông tin tại mục Tổng quan
+Tại đây, bao gồm các thông tin sau:
++ Phiên bản hệ điều hành đang chạy. Mục này sẽ cho bạn biết phiên bản macOS máy tính bạn đang sử dụng là phiên bản nào. Một số phiên bản macOS có thể kể đến như macOS Mojave , macOS Catalina , macOS Big Sur ,…
++ Tên, đời máy MacBook.
++ Bộ xử lý : Bạn sẽ thấy một thông số đi kèm với đơn vị GHz , chúng thể hiện số chu kỳ xử lý mỗi giây mà CPU có thể thực hiện được. Ngoài ra, mục này còn cung cấp cho bạn biết bộ vi xử lý trên máy tính. Bộ vi xử lý phổ biến của MacBook được sản xuất bởi Intel , chia thành những dòng như Intel Core i3 , Intel Core i5 , Intel Core i7 ,… Thông thường, những con chip có hệ số càng cao thì hiệu suất hoạt động càng cao. Bên cạnh đó, một số MacBook đã được tích hợp chip M1 do Apple phát hành thay vì sử dụng chip Intel.
++ Bộ nhớ : Mục này cho bạn biết dung lượng RAM , BUS RAM và loại RAM của máy.
++ Đồ họa : Cho biết loại card màn hình (VGA) của máy tính. VGA càng mạnh, càng tốt thì tốc độ xử lý càng nhanh, hình ảnh hiển thị càng sắc nét và chi tiết.
++ Số Sê ri : Là một chuỗi ký tự bao gồm số và chữ cái. Mỗi sản phẩm đều có mã số Sê ri khác nhau. Dựa vào mã số này mà nhà sản xuất dễ dàng theo dõi và kiểm tra chất lượng sản phẩm.
+- Màn hình
+Bao gồm các thông tin như kiểu màn hình, kích thước và độ phân giải màn hình.
+Thông tin ở mục Màn hình
+- Ổ lưu trữ
+Bao gồm thông tin về dung lượng ổ lưu trữ Flash, các loại thông tin được lưu trữ. Bạn còn có thể biết được dung lượng bộ nhớ đã sử dụng và mức dung lượng còn trống trên MacBook của bạn.
+Thông tin tại Ổ lưu trữ
+- Hỗ trợ
+Nhận quyền hỗ trợ cho phần mềm macOS và phần cứng của máy Mac .
+- Dịch vụ
+Kiểm tra các tùy chọn dịch vụ, hỗ trợ và sửa chữa cho MacBook của bạn.
+Xem thêm : Cách check MacBook cũ trước khi mua chuẩn chính hãng, chi tiết nhất
+2. Kiểm tra đời máy MacBook
+Mã số Sê ri của máy có thể giúp bạn biết được đời máy Mac chính xác nhất. Để xem mã số Sê ri của máy, bạn nhấn vào biểu tượng Apple ở góc trái màn hình > Chọn Giới thiệu về máy Mac Này .
+Nhấn vào biểu tượng Apple, chọn Giới thiệu về máy Mac Này
+Sau đó, bạn nhấn vào mục Tổng quan và xem Số Sê ri .
+Chọn Tổng quan, xem Số Sê ri
+Bạn có thể tham khảo một số cách kiểm tra số Sê ri khác tại: Cách kiểm tra mã Serial MacBook chính xác nhất từ Apple đơn giản
+Sau khi xem được mã số Sê ri, bạn bôi đen , sao chép mã số này.
+Tiếp theo, bạn truy cập vào trang Check Your Service and Support Coverage rồi dán dãy số đó dưới mục Enter your serial number , nhập mã xác nhận rồi nhấn Continue để xem đời máy Mac.
+Dán mã vào Enter your serial number, nhập mã xác nhận rồi nhấn Continue
+3. Cách nhận biết vi xử lý của MacBook
+Để kiểm tra vi xử lý MacBook chi tiết, bạn thực hiện như sau:
+Bước 1 : Nhấn vào biểu tượng Apple ở góc trái màn hình > Chọn Giới thiệu về máy Mac Này .
+Nhấn vào biểu tượng Apple, chọn Giới thiệu về máy Mac Này
+Bước 2 : Bạn nhấn vào mục Tổng quan và xem tên, đời máy MacBook và thông tin bộ xử lý.
+Xem tên, đời máy và thông tin bộ xử lý tại mục Tổng quan
+Bước 3 : Vào TẠI ĐÂY > Chọn hình phù hợp để xác nhận > Chọn loại chip Intel của máy bạn tại mục Intel-Based Macs (ví dụ là Core i5 ).
+Chọn chip Intel trên MacBook của bạn (ví dụ Core i5)
+Bước 4 : Nhấn vào dòng máy có năm sản xuất và thông số bộ xử lý giống với máy Mac của bạn (ví dụ là MacBook Pro 13-Inch ''Core i5'' 1.4 2020 2 TB 3 ).
+Chọn máy có thông tin giống máy bạn (ví dụ MacBook Pro 13-Inch ''Core i5'' 1.4 2020 2 TB 3)
+Sau đó, bạn sẽ xem được mọi thông tin chi tiết liên quan đến bộ xử lý trên máy tính của mình.
+4. Kiểm tra card đồ hoạ (GPU) của MacBook
+Để xem chi tiết thông tin về card đồ họa trên MacBook, bạn thực hiện như sau:
+Bước 1 : Nhấn vào biểu tượng Apple ở góc trái màn hình > Chọn Giới thiệu về máy Mac Này .
+Nhấn vào biểu tượng Apple, chọn Giới thiệu về máy Mac Này
+Bước 2 : Chọn Báo cáo Hệ thống tại mục Tổng quan .
+Vào Tổng quan rồi chọn Báo cáo Hệ thống
+Bước 3 : Vào mục Đồ họa/Màn hình . Sau đó, bạn sẽ thấy toàn bộ thông tin chi tiết, chính xác về GPU của máy.
+Vào Đồ họa/Màn hình để xem thông tin card đồ họa MacBook
+Bạn có thể thấy các thông tin sau:
+- Kiểu máy Bộ vi mạch
+Ví dụ như trong hướng dẫn này thì máy được tích hợp card đồ họa Intel Iris Plus Graphics 645 .
+Iris Plus là loại card đồ họa hướng tới nhóm khách hàng cần một chiếc laptop mỏng nhẹ , hiệu năng ổn định để làm công việc văn phòng, giải trí,...
+Ngoài ra, còn có một số card đồ họa khác như Intel HD Graphics 6000 , Intel HD Graphics 5000 ,…
+- VRAM
+Đây là bộ nhớ truy cập ngẫu nhiên được sử dụng để lưu trữ hình ảnh và video đang được máy tính hiển thị. VRAM máy tính càng cao nghĩa là nó có thể xử lý nhiều đồ họa với tốc độ nhanh hơn.
+Dung lượng này bao nhiêu là đủ tùy thuộc vào nhu cầu sử dụng và khối lượng công việc bạn thao tác trên máy.
+Tìm hiểu thêm về VRAM tại: VRAM là gì? Cách tăng VRAM cho máy tính Windows đơn giản
+- Bộ Metal
+Metal hay còn là một giao diện lập trình ứng dụng (API), nó nhằm cung cấp các trò chơi và ứng dụng, cho phép truy cập trực tiếp vào GPU của máy, giúp tăng khả năng hiển thị, tốc độ khung hình và một số lợi ích khác.
+Một số thông tin khác ở mục này như ID Thiết bị , ID Bản chỉnh sửa , Nhà cung cấp ,…
+5. Kiểm tra màn hình MacBook
+Nếu muốn xem thông tin về màn hình trên máy Mac, bạn vào làm theo cách sau:
+Bước 1 : Nhấn vào biểu tượng Apple ở góc trái màn hình > Chọn Giới thiệu về máy Mac Này .
+Nhấn vào biểu tượng Apple, chọn Giới thiệu về máy Mac Này
+Bước 2 : Chọn Báo cáo Hệ thống tại mục Tổng quan .
+Vào Tổng quan rồi chọn Báo cáo Hệ thống
+Bước 3 : Vào mục Đồ họa/Màn hình để xem các thông số của màn hình máy Mac.
+Vào Đồ họa/Màn hình để xem thông tin màn hình MacBook
+Mục này gồm những thông tin sau:
+- Loại màn hình
+Cho bạn biết loại màn hình trên máy. Đa số loại màn hình trên các thiết bị của Apple như iPhone , iPad , iMac hay MacBook đều được trang bị màn hình Retina , thực chất đây là màn hình IPS LCD do Apple thiết kế. Màu sắc hiển thị trên màn hình này được cho là rực rỡ hơn những màn IPS LCD thông thường, hình ảnh tái hiện cũng chân thực, sắc nét hơn.
+Ví dụ máy tính được dùng trong bài viết này được trang bị màn hình LCD Retina .
+- Độ phân giải
+Phần này cho bạn biết chỉ số các điểm ảnh hiển thị trên màn hình và được gọi là pixel. Độ phân giải không phản ánh đầy đủ chất lượng hình ảnh trên máy mà còn phụ thuộc vào những yếu tố như công nghệ màn hình, kích thước màn hình,… Trong bài viết này thì máy Mac có độ phân giải là 2560 × 1600 Retina .
+Ngoài ra, bạn có thể xem một số thông tin khác như Độ sâu vùng đệm khung , Màn hình Chính , Tự động Điều chỉnh Độ sáng ,…
+6. Kiểm tra RAM MacBook
+Để kiểm tra bộ nhớ RAM của Mac, bạn thao tác như sau:
+Bước 1 : Nhấn vào biểu tượng Apple ở góc trái màn hình > Chọn Giới thiệu về máy Mac Này .
+Nhấn vào biểu tượng Apple, chọn Giới thiệu về máy Mac Này
+Bước 2 : Chọn Báo cáo Hệ thống tại mục Tổng quan .
+Vào Tổng quan rồi chọn Báo cáo Hệ thống
+Bước 3 : Nhấn vào Bộ nhớ .
+Chọn Bộ nhớ để xem chi tiết RAM trên MacBook
+Tại đây, bạn sẽ xem được:
+- Kích cỡ
+Thể hiện dung lượng RAM tối đa. Có thể với các mức dung lượng như 4 GB , 8 GB , 16 GB . Ví dụ với mức dung lượng là 8 GB thì được chia làm hai khe , mỗi khe chứa 4 GB .
+- Kiểu
+Máy được sử dụng trong hướng dẫn sử dụng RAM LPDDR3 . Một số loại RAM khác như LPDDR4 , DRAM , SDR SDRAM , DDR SDRAM ,…
+- Tốc độ
+Tốc độ RAM hay còn gọi là BUS RAM là tốc độ truyền tải dữ liệu của RAM, BUS RAM cảng lớn thì dữ liệu được xử lý càng nhanh, từ đó máy tính sẽ hoạt động nhanh hơn.
+Trong hướng dẫn này thì MacBook có tốc độ RAM là 2133 MHz , ngoài ra còn có những mức khác như 2400 MHz , 2600 MHz ,…
+- Trạng thái
+Nhằm xem RAM có đang hoạt động bình thường hay không.
+7. Kiểm tra bộ nhớ MacBook
+Các mẫu ổ cứng di động đang kinh doanh tại TGDĐ:
+Kiểm tra nhanh
+Kiểm tra nhanh bộ nhớ MacBook bằng cách:
+Bước 1 : Vào biểu tượng Apple ở góc trái màn hình > Chọn Giới thiệu về máy Mac Này .
+Nhấn vào biểu tượng Apple, chọn Giới thiệu về máy Mac Này
+Bước 2 : Chọn Ổ lưu trữ . Tại đây, bạn sẽ thấy dung lượng ổ lưu trữ Flash .
+Xem dung lượng ổ lưu trữ Flash
+Ngoài ra, bạn có thể di chuyển con trỏ qua những vùng màu để biết số lượng dung lượng mỗi danh mục sử dụng.
+Đưa con trỏ qua vùng màu khác nhau để xem dung lượng đã dùng
+Giữa các máy sẽ có sự khác nhau nên các danh mục dưới đây có thể không tương ứng với các danh mục cụ thể trên máy bạn. Nếu bạn đã phân vùng ổ đĩa cứng, danh mục này sẽ hiển thị mức dung lượng cho các ứng dụng được cài đặt trên phân vùng macOS (ổ đĩa khởi động).
+Tại đây, sẽ có những mục như:
+- Tài liệu
+Chứa các tệp trong thư mục chính của bạn không được bao gồm trong danh mục khác, ví dụ như tài liệu Pages và PDF. Đồng thời chứa các video và ảnh không được thư viện ảnh quản lý.
+- Ứng dụng
+Chứa tất cả các ứng dụng được cài đặt trên máy của bạn (không gồm các ứng dụng hệ thống).
+- Ảnh
+Chứa các ảnh trong thư viện hệ thống.
+- Hệ thống
+Chứa tệp và ứng dụng hệ thống macOS. Các ví dụ bao gồm Mail, Terminal, Máy tính và Ảnh chụp nhanh cục bộ Time Machine.
+- Khác
+Danh mục này chủ yếu bao gồm các tệp và dữ liệu được hệ thống sử dụng, chẳng hạn như tệp bản ghi, bộ nhớ đệm, tệp VM và các tài nguyên hệ thống thời gian chạy khác. Bạn không thể quản lý nội dung của danh mục này.
+Phần khoảng trắng biểu thị cho mức dung lượng còn trống.
+Kiểm tra chi tiết
+Để xem chi tiết dung lượng bộ nhớ, bạn làm như hướng dẫn sau:
+Bước 1 : Vào biểu tượng Apple ở góc trái màn hình > Chọn Giới thiệu về máy Mac Này .
+Nhấn vào biểu tượng Apple, chọn Giới thiệu về máy Mac Này
+Bước 2 : Chọn Báo cáo Hệ thống tại mục Tổng quan .
+Vào Tổng quan rồi chọn Báo cáo Hệ thống
+Bước 3 : Chọn Dung lượng > Chọn tên ổ đĩa (ví dụ là Macintosh – Data ).
+Mục này sẽ mô tả chính xác về dung lượng trống và tổng dung lượng của máy, nhưng sẽ không phân loại dung lượng đã dùng như mục Ổ lưu trữ .
+Nhấn vào Dung lượng rồi chọn tên ổ đĩa (ví dụ Macintosh - Data)
+8. Kiểm tra tình trạng pin của MacBook
+Kiểm tra tình trạng pin MacBook trên thanh menu
+Nếu máy đang dùng macOS Catalina , phiên bản 10.15 trở lên thì bạn có thể xem tình trạng pin như sau:
+Bấm vào biểu tượng Pin trên thanh menu > Xem tình trạng pin.
+Nhấn biểu tượng Pin trên thanh menu rồi kiểm tra pin
+Bạn sẽ thấy một trong hai tình trạng sau:
+- Bình thường tức pin đang hoạt động bình thường.
+- Đề xuất bảo trì tức pin đang hoạt động bình thường nhưng khả năng giữ được điện tích kém hơn khi còn mới. Bạn có thể thay pin nếu gặp tình trạng này.
+Kiểm tra tình trạng pin MacBook trong Tùy chọn Hệ thống
+Với cách kiểm tra này thì sẽ áp dụng cho máy Mac sử dụng macOS Big Sur , phiên bản 11.0 trở lên .
+Để xem tình trạng pin của máy, bạn thực hiện theo hướng dẫn dưới đây:
+Bước 1 : Nhấn vào biểu tượng Apple ở góc trái màn hình > Chọn Tùy chọn Hệ thống .
+Nhấn vào biểu tượng Apple, chọn Tùy chọn Hệ thống
+Bước 2 : Chọn Pin .
+Vào mục Pin
+Bước 3 : Chọn Pin thêm lần nữa > Nhấn vào Tình trạng pin .
+Chọn Pin rồi vào Tình trạng pin
+Sau đó, bạn có thể thấy một trong hai tình trạng sau:
+- Bình thường tức pin đang hoạt động bình thường.
+- Đề xuất bảo trì tức pin đang hoạt động bình thường nhưng khả năng giữ được điện tích kém hơn khi còn mới. Bạn có thể thay pin nếu gặp tình trạng này.
+Tình trạng pin bình thường
+Ngoài ra, bạn có thể kiểm tra số lần sạc trên MacBook và kiểm tra pin chai trên MacBook thông qua bài viết: Cách kiểm tra pin chai trên MacBook nhanh nhất
+Xem thêm : Cách kiểm tra, đo nhiệt độ CPU MacBook đơn giản và chính xác nhất Cách xóa File trên MacBook giúp giảm dung lượng bộ nhớ nhanh chóng Hướng dẫn sử dụng MacBook cho người mới từ A đến Z cực đơn giản MacBook mã SA/A là của nước nào? Xuất xứ ở đâu? Dùng có tốt không?
+Vừa rồi là những hướng dẫn giúp bạn có thể xem chi tiết, kiểm tra cấu hình MacBook đầy đủ nhất. Hy vọng chúng hữu ích với bạn. Cảm ơn vì đã theo dõi và hẹn gặp lại trong chủ đề tiếp theo.
+4.810 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

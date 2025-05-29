@@ -1,0 +1,66 @@
+Loa laptop bị mất tiếng, không nghe được - 8 cách khắc phục
+ĐỪNG BỎ LỠ 1 số mẫu Loa có loại sản phẩm loa bluetooth đang giảm giá tại TGDĐ:
+Việc laptop bị mất tiếng, không có âm thanh là lỗi khá phổ biến và hay gặp trong quá trình sử dụng. Khi gặp phải tình huống này bạn đừng lúng túng, hãy tham khảo bài viết sau đây để biết cách khắc phục hiệu quả nhé!
+1. Kiểm tra cổng kết nối
+Biện pháp khắc phục đầu tiên mà chúng tôi muốn gợi ý đến bạn là hãy kiểm tra các cổng kết nối như tai nghe , loa ngoài ... xem có cắm đúng cổng Line-out không. Nếu kết nối không đúng, laptop của bạn sẽ mất âm thanh.
+Kiểm tra các cổng kết nối xem có cắm đúng cổng Line-out không
+Lưu ý : Nếu loa tích hợp trên laptop không có âm thanh, bạn cũng nên kiểm tra xem laptop của bạn đang kết nối với tai nghe Bluetooth không nhé.
+2. Kiểm tra cài đặt âm thanh của laptop
+Lưu ý : Trong quá trình sử dụng, có thể bạn vô tình tắt loa của laptop, vì vậy hãy kiểm tra cả loa trong và loa ngoài của laptop có bị tắt không, ngoài ra kiểm tra xem bạn có tắt âm thanh của ứng dụng không nhé.
+Cách kiểm tra cài đặt âm thanh của laptop khá đơn giản như sau:
+- Bước 1 : Nhấn chuột phải vào biểu tượng loa ở thanh Taskbar > Chọn Open Volume Mixer .
+Chọn Open Volume Mixer khi kích chuột phải vào biểu tượng loa ở thanh Taskbar
+- Bước 2 : Kiểm tra xem có ứng dụng nào bị tắt loa không, nếu có thì nhấn chuột vào biểu tượng loa để bật lại.
+Kiểm tra và bật lại những ứng dụng bị tắt loa không
+Xem thêm : Tổng hợp 7 cách mở loa máy tính bị khóa không nghe được hiệu quả nhất Cách sửa bàn phím laptop bị liệt 1 số nút đơn giản, nhanh chóng 11 Cách khắc phục máy tính bị mất âm thanh Windows 11 nhanh, hiệu quả
+3. Khởi động lại laptop
+Sự xung đột giữa các ứng dụng khi chạy cũng có thể là nguyên nhân khiến laptop bị mất tiếng. Vì vậy, hãy thử khởi động lại máy tính nhé.
+Khởi động lại laptop cũng là một trong những cách khắc phục
+4. Kiểm tra Playback Devices
+Dưới đây là video tham khảo nhanh cách kiểm tra Playback Devices.
+Cách thực hiện chi tiết như sau:
+- Bước 1 : Click chuột phải vào biểu tượng loa ở thanh Taskbar > Chọn Open Sound settings .
+Chọn Open Sound settings khi kích chuột phải vào biểu tượng loa ở thanh Taskbar
+- Bước 2 : Tại setting , chọn Sound Control Panel .
+Chọn Sound Control Panel tại giao diện Setting
+- Bước 3 : Tại tab Playback của giao diện Sound, chọn biểu tượng loa (Speakers/HP) > Chọn Properties .
+Nhấn chọn Speakers/HP tại tab Playback
+- Bước 4 : Tại tab General , mục Device usage , chọn Use this Device (enable) > Nhấn OK .
+Kiểm tra và chọn Use this Device (enable)
+5. Tắt tính năng tự động cải thiện âm thanh
+Tương tự như cách kiểm tra Playback Devices , để tắt tính năng tự động cải thiện âm thanh thực hiện như sau:
+- Bước 1 : Click chuột phải vào biểu tượng loa ở thanh Taskbar > Chọn Open Sound settings .
+Chọn Open Sound settings khi kích chuột phải vào biểu tượng loa ở thanh Taskbar
+- Bước 2 : Tại setting , chọn Sound Control Panel .
+Chọn Sound Control Panel tại giao diện Setting
+- Bước 3 : Tại tab Playback của giao diện Sound, chọn biểu tượng loa (Speakers/HP) > Chọn Properties .
+Nhấn chọn Speakers/HP tại tab Playback
+- Bước 4 : Chọn tab Advanced > Tích chọn Enable audio enhancements > Nhấn OK .
+Tiếp tục click chọn Enable audio enhancements
+6. Cài đặt lại Driver âm thanh
+Dưới đây là video hướng dẫn cách cài đặt lại Driver âm thanh.
+- Bước 1 : Mở ô tìm kiếm Start Menu > Gõ tìm kiếm " Device manager " > Chọn Device manager .
+Mở Device manager bằng thanh tìm kiếm
+- Bước 2 : Tại giao diện Device manager , chọn Sound, video and game controllers > Nhấn chuột phải Realtek(R) Audio > Chọn Uninstall device .
+Chọn Uninstall device tại mục Sound, video and game controllers
+- Bước 3 : Tiếp theo, nhấn chuột phải vào Sound, video and game controllers > Chọn Scan for hardware changes để hệ thống tìm lại Driver.
+Tiếp tục chọn Scan for hardware changes để hệ thống tìm lại Driver
+- Bước 4 : Khởi động lại laptop.
+7. Sử dụng Microsoft FixIt Troubleshooters
+Dưới đây là video hướng dẫn nhanh cách sử dụng Microsoft Fixlt Troubleshooters.
+Nhấn chuột phải vào biểu tượng loa ở thanh Taskbar > Chọn Troubleshoot sound problems để hệ thống tự động kiểm tra lỗi âm thanh.
+Có thể sử dụng Microsoft FixIt Troubleshooters để khắc phục tình trạng loa laptop bị mất tiếng
+Chờ ít phút cho hệ thống tự chạy và sửa lỗi âm thanh. Nếu hệ thống không tự động sửa lỗi được, sẽ thông báo nguyên nhân lỗi cho bạn.
+Quá trình mất ít phút
+8. Khởi động lại Audio Services
+- Bước 1 : Bạn mở hộp thoại Run bằng tổ hợp phím Windows + R > Gõ " services.msc " > Nhấn OK .
+Dùng tổ hợp phím Windows + R để mở hộp thoại Run
+- Bước 2 : Nhấn chuột phải vào Windows Audio > Chọn Stop .
+Chọn Stop sau khi nhấn chuột phải vào Windows Audio
+- Bước 3 : Nhấn chuột phải vào Windows Audio > Chọn Start để khởi động lại Audio Services.
+Tiếp tục chọn Start để khởi động lại Audio Services
+Một số sản phẩm Laptop đang kinh doanh tại Thế Giới Di Động:
+Xem thêm : Máy tính bị chậm - Nguyên nhân và cách khắc phục hiệu quả, đơn giản Cách tắt ứng dụng chạy ngầm trên máy tính Windows 10 hiệu quả 7 cách sửa lỗi Windows 10 không có Enhancements cực hiệu quả, đơn giản
+Vậy là vừa rồi chúng tôi đã chia sẻ một số cách khắc phục tình trạng laptop bị mất tiếng, không có âm thanh hiệu quả nhất. Hy vọng bài viết này sẽ có ích cho bạn.
+49.958 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

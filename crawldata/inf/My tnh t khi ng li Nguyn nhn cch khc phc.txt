@@ -1,0 +1,51 @@
+Máy tính tự khởi động lại: Nguyên nhân, cách khắc phục
+Một số mẫu laptop đang kinh doanh tại Thế Giới Di Động:
+Bạn đang gặp phải tình trạng máy tính tự khởi động lại hoặc bị tắt nguồn liên tục trong khi làm việc, chơi game một cách thường xuyên mà không có bất kỳ thông báo nào. Đừng quá lo lắng, hãy theo dõi bài viết này để biết được nguyên nhân và cách khắc phục tình trạng máy tính tự khởi động lại nhé!
+1. Ổ cứng bị lỗi
+Nếu ổ cứng máy tính của bạn đang bị lỗi và file làm việc đang nằm trong vùng bị lỗi thì có thể gặp tình trạng máy tính bị khởi động lại liên tục.
+Cách khắc phục :
+Cách 1 : Ấn tổ hợp phím Windows + E , nhấn chuột phải vào ổ C > Chọn Properties .
+Nhấn chuột phải vào ổ C
+Chọn tab Tools > Nhấn vào mục Check để kiểm tra lỗi ổ cứng.
+Chọn tab Tools, nhấn vào mục Check
+Xem thêm : 9 cách khắc phục Macbook không nhận ổ cứng ngoài dễ dàng, nhanh chóng
+Cách 2 : Sử dụng phần mềm hỗ trợ kiểm tra ổ cứng, ví dụ: CrystalDiskInfo, Repair Disk Manager.
+Nếu phát hiện ổ cứng bị lỗi thì người dùng nên copy dữ liệu quan trọng sang ổ khác trước khi tiến hành thay ổ cứng khác.
+2. Nhiệt độ máy quá cao
+Khi máy tính hoạt động liên tục trong một khoảng thời gian quá dài cũng khiến máy tính bị nóng lên, gây ra tình trạng tự động reset hoặc shutdown để bảo vệ an toàn cho hệ thống và chip.
+Cách khắc phục :
++ Tháo máy tính và vệ sinh các linh kiện, tránh bụi bẩn tích tụ lâu ngày.
++ Thay thế lớp keo tản nhiệt cho CPU.
++ Bổ sung thêm quạt gió tản nhiệt máy tính khi hoạt động.
++ Để máy tính tại nơi thoáng mát, nhiệt độ thấp, xa nguồn nhiệt để máy luôn duy trì nhiệt độ ổn định.
+Hoạt động liên tục trong một khoảng thời gian quá dài
+3. Nguồn điện yếu hoặc không ổn định
+Yếu tố quan trọng giúp đảm bảo thiết bị vận hành ổn định chính là bộ nguồn. Nếu gặp tình trạng máy tính khởi động lại liên tục không lên màn hìn h có thể xảy ra do lỗi bộ nguồn bị yếu hoặc đang gắn thêm các thiết bị ngoại vi khác như dàn loa, ổ HDD rời,… khiến nguồn điện bị giảm sút.
+Cách khắc phục : Sử dụng bộ nguồn có điện áp cao hơn bộ nguồn cũ, sử dụng thêm bộ ổn áp công suất nhỏ hoặc bộ lưu điện UPS cỡ nhỏ,…
+Lỗi bộ nguồn bị yếu hoặc đang gắn thêm các thiết bị ngoại vi
+4. Do virus gây ra
+Nhiều người dùng thường gặp lỗi máy tính bị khởi động lại liên tục do máy tính hoặc phần mềm bị nhiễm virus, dính mã độc hại, ảnh hưởng nghiêm trọng đến hoạt động của máy.
+Cách khắc phục : Bạn nên sử dụng các phần mềm diệt virus để xử lý vấn đề này, đồng thời đảm bảo an toàn cho thiết bị. Nếu sau khi cài phần mềm diệt virus mà máy vẫn bị lỗi khởi động lại thì bạn nên cài lại Win để khắc phục triệt để lỗi này.
+Nên sử dụng các phần mềm diệt virus
+5. Lỗi card màn hình
+Card màn hình máy tính có thể bị lỗi do hoạt động quá nhiều ứng dụng, khiến thiết bị quá tải, bị khởi động lại liên tục. Nếu gặp trường hợp này thì bạn nên tắt bớt các ứng dụng không cần thiết và tháo card màn hình ra để vệ sinh linh kiện.
+Cách khắc phục : Bạn hãy tắt bớt các ứng dụng không cần thiết và tháo card màn hình ra để vệ sinh linh kiện và kiểm tra thật kỹ trước khi lắp ráp linh kiện trở lại như cũ.
+Lỗi do hoạt động quá nhiều ứng dụng
+6. RAM có vấn đề
+Card màn hình máy tính có thể bị lỗi do hoạt động quá nhiều ứng dụng, khiến thiết bị quá tải, bị khởi động lại liên tục. Nếu gặp trường hợp này thì bạn nên tắt bớt các ứng dụng không cần thiết và tháo card màn hình ra để vệ sinh linh kiện.
+Cách khắc phục : Tiến hành tháo máy tính để lấy thanh RAM và tiến hành vệ sinh chân RAM (phần chân đồng) và khe cắm RAM,... và các bộ phận xung quanh thật sạch sẽ.
+Lỗi do hoạt động quá nhiều ứng dụng
+7. Pin CMOS hết
+Nguyên nhân tiếp theo gây ra tình trạng máy tính khởi động lại liên tục do hết pin CMOS. Bạn hãy tháo PIN CMOS khỏi máy tính, rồi lau khô, sạch và thử bằng bút điện xem còn điện hay không.
+Cách khắc phục : Nếu không còn điện thì đã đến lúc bạn cần thay pin mới. Ngược lại nếu PIN vẫn còn hoạt động tốt thì nên vệ sinh, cạo sạch các sét gỉ tại vị trí tiếp xúc giữa pin CMOS và mainboard để tăng khả năng tiếp xúc của pin với mainboard.
+Nếu không còn điện thì đã đến lúc bạn cần thay pin mới
+8. Do hư pin
+Sau một thời gian dài sử dụng, pin laptop sẽ bị “lờn” đi, nhiều người gọi hiện tượng là “chai pin”, khiến cho pin không còn hoạt động hiệu quả như trước, thậm chí là không thể hoạt động nếu không cắm trực tiếp vào nguồn điện như máy tính bàn.
+Cách khắc phục : Nếu gặp phải tình trạng máy tính tự khởi động do pin hư, bạn chỉ cần thay pin mới là có thể tiếp tục sử dụng rồi.
+Bạn chỉ cần thay pin mới là có thể tiếp tục sử dụng rồi
+Xem thêm : Chính sách bảo hành laptop tại Thế Giới Di Động Hướng dẫn mua hàng tại Thế Giới Di Động
+Một số mẫu PC đang kinh doanh tại Thế Giới Di Động:
+Xem thêm : 7 cách sửa lỗi laptop không có Imaging Device trên Windows 10 hiệu quả 8 cách sửa lỗi máy tính không tạo được new folder cực hiệu quả Hướng dẫn tắt tính năng tự khởi động máy khi mở màn hình laptop Lenovo
+Bài viết này đã giúp cho bạn biết được nguyên nhân và cách khắc phục tình trạng máy tính tự khởi động lại. Hẹn gặp lại bạn vào các bài viết sau!
+27.339 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

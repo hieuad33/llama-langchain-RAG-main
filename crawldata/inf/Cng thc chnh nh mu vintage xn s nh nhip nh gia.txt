@@ -1,0 +1,282 @@
+Công thức chỉnh ảnh màu vintage "xịn sò" như nhiếp ảnh gia
+Một số mẫu iPhone đang kinh doanh tại Thế Giới Di Động
+Đã bao giờ bạn muốn chỉnh màu ảnh theo phong cách vintage (cổ điển) chưa? Việc này hoàn toàn đơn giản bằng những phần mềm chỉnh ảnh trên điện thoại phổ biến hiện nay. Nếu bài viết trước đã giúp bạn biết cách chỉnh ảnh trên iPhone thì bài viết sau là tổng hợp những công thức chỉnh ảnh màu "xịn sò" như nhiếp ảnh gia mà bạn nên thử.
+- Tại sao nên chỉnh ảnh màu vintage? Những bức ảnh màu vintage phù hợp với các bộ ảnh hoài cổ, mang hơi thở vừa mới lạ vừa quen thuộc. Ảnh sẽ trở nên sâu lắng và "nghệ" hơn. - Những bức ảnh như thế nào thì nên chỉnh màu vintage? Đường phố, quang cảnh, dáng chụp không phải selfie (chụp cả người đang đi/chạy, chụp nửa dáng, chụp trước gương),...
+1. Chỉnh ảnh màu vintage Instagram
+Công thức 1: Tone đen trắng
+Công thức bởi: @chjjkzz.
+Thông số
+- Moom: 41.
+- Độ sáng: -100.
+- Tương phản: -100.
+- Độ ẩm: -16.
+- Độ bão hoà: -5.
+- Làm nhạt màu: 30.
+- Làm rõ nét: 50.
+Công thức 1
+Công thức 2:
+Cung cấp bởi: @Vietnamlovers.
+Thông số
+- Độ sáng: +30.
+- Tương phản: +30.
+- Độ bão hoà: -30.
+- Làm nhạt màu: +30.
+- Tô sáng: +30.
+Công thức 2
+Công thức 3:
+Cung cấp bởi: @Filters.VSCO.
+Thông số
+- Filter: Clarendon + 60.
+- Brightness: 20.
+- Contrast: 15.
+- Saturation: 40.
+- Highlights: -16.
+Công thức 3
+Xem thêm : 9 công thức chỉnh ảnh trên iPhone làm điên đảo người dùng TikTok
+2. Chỉnh ảnh màu vintage Lightroom
+Công thức 1:
+Cung cấp bởi: @Mynnsan.
+Thông số
+- Expo: -0.53.
+- Contrast: +39.
+- Shadow: +12.
+- Whites: -100.
+- Blacks: +72.
+- Temp: +13.
+- Tint: -14.
+- Vibrance: +57.
+- Saturation: -26.
+Color Mix
+Red
+- Hue: +56.
+- Saturation: -28.
+- Luminance: -36.
+Yellow
+- Hue: -100.
+- Saturation: -100.
+- Luminance: +17.
+Orange
+- Saturation: -27.
+- Luminance: +22.
+Green
+- Hue: -100.
+- Luminance: -100.
+Blue
+- Hue: -35.
+- Saturation: -42.
+- Luminance: +36.
+Lightblue
+- Hue: -33.
+- Saturation: -29.
+- Luminance: +31.
+Purple
+- Saturation: -96.
+- Luminance: +33.
+- Texture: +20.
+- Clarity: -12.
+- Dehaze: +24.
+Split Tone
+- Highlights H: 220 S:7.
+- Balance: -28.
+Chi tiết công thức 1
+Công thức 2:
+Cung cấp bởi: @nlan412.
+Công thức
+Light
+- Contrast: -20.
+- Highlights: -19.
+- Shadows: +35.
+- Whites: -20.
+- Blacks: -10.
+Color
+- Vibrance: -5.
+- Saturation: -10.
+Color mix
+Red
+- Saturation: +20.
+- Luminance: +29.
+Orange
+- Saturation: -30.
+- Luminance: +30.
+Yellow
+- Saturation: -50.
+- Luminance: -40.
+Green
+- Saturation: +50.
+Lightblue
+- Saturation: -50.
+- Luminance: -30.
+Blue
+- Saturation: -50.
+Effect
+- Clarity: +31.
+- Dehaze: -5.
+Chi tiết công thức 2
+Công thức 3:
+Cung cấp bởi: @mosochow.
+Thông số
+- High: +57.
+- Sha: -43.
+- White: +51.
+- Black: -9.
+- Temp: -5.
+- Tint: -10.
+- Vỉbrance: +15.
+- Sat: -10.
+Red
+- S: -10.
+- L: -10.
+Orange
+- S: -10.
+Yellow
+- H: +31.
+- S: -46.
+- L: +19.
+Green
+- H: +27.
+- S: -50.
+- L: -24.
+LBlue
+- S: -11.
+- L: +55.
+Blue
+- S: -14.
+- L: +61.
+- Purple
+- S: -26.
+Pink
+- S: -18.
+- High
+- H:95 S: 17.
+Sha
+- H:56 S:3.
+- Balance: +20.
+- Sharpen: 9.
+Chi tiết công thức 3
+3. Chỉnh ảnh màu vintage VSCO
+Công thức 1:
+- DOG1 : +9,3.
+- Exposure: -3,9.
+- Tone: +2,2.
+- While: +3,7.
+- Saturation: - 1,1.
+- Split tone: Hightlights: +1,1.
+- Split tone: Shadows: +3,8.
+Ánh minh hoạ công thức 1
+Công thức 2:
+- H6 : +9,0.
+- Exposure: -3,4.
+- Contrast: -3.0.
+- Tone: +2,6.
+- While Balance Temperature: : +2.0.
+- While Balance tint: +4,5.
+- Saturation: - 1,1.
+- Split tone: Hightlights: +2,6.
+- Split tone: Shadows: +2,6.
+Ánh minh hoạ công thức 2
+Công thức 3:
+- Exposure: -3,7.
+- Contrast: -1,8.
+- While Balance Temperature: : +1,1.
+- While Balance tint: -1,1.
+- Saturation: - 2,7.
+- Split tone: Hightlights: +1,7.
+- Split tone: Shadows: +1,0.
+Ánh minh hoạ công thức 3
+4. Chỉnh ảnh màu vintage Snapseed
+Công thức 1: Tone vàng
+Công thức bởi @Ann Hii.
+Thông số
+- Độ sáng: +20.
+- Độ tương phản: -12.
+- Độ bão hòa: +9.
+- Môi trường: -11.
+- Vùng sáng: +47.
+- Vùng tối: +40.
+Tone vàng vintage
+Công thức 2: Tone nâu trầm
+Công thức bởi @Lan Hương Đoàn.
+Thông số
+- Độ sáng: -20.
+- Độ tương phản: +40.
+- Độ bão hòa: -20.
+- Môi trường: +60.
+- Vùng sáng: -35.
+- Vùng tối: +55.
+Tone nâu trầm
+Công thức 3: Tone trắng - xám
+Công thức bởi @Yến Nhi.
+Thông số
+- Cấu trúc: +50.
+- Tương phản: -30.
+- Bão hoà: -50.
+- Môi trường: +30.
+- Vùng sáng: +20.
+Công thức màu tone trắng -xám
+5. Chỉnh ảnh màu vintage Foodie
+Công thức 1:
+Công thức bởi @Congthucmau_minhanhle
+Thông số
+- Filter: SS4.
+- Độ sáng: -17.
+- Độ tương phản: -45.
+- Độ bão hoà: -19.
+- Bóng: -29.
+- Nhấn sáng: +27.
+- Độ ẩm: +6.
+- Làm nét ảnh: +19.
+Chi tiết công thức 1
+Công thức 2:
+Công thức bởi @Pinterest
+Thông số
+- Filter: B01.
+- Độ sáng: -43.
+- Độ tương phản: -100.
+- Độ bão hoà: -53.
+- Nhấn sáng: +29.
+- Bóng: +9.
+- Độ ẩm: -18.
+Công thức 3:
+Công thức bởi @congthucmauLHT
+Thông số
+- Filter: RO4.
+- Độ sáng: -26.
+- Độ tương phản: -20.
+- Độ bão hoà: -20.
+- Nhấn sáng: -30.
+- Bóng: -10.
+- Làm nét ảnh: +15.
+Chi tiết công thức 3
+6. Một số app chuyên về filter vintage
+Dưới đây là tổng hợp một số app có nhiều filter vintage cực đẹp cho bạn tải xuống hoàn toàn miễn phí.
+- HUJI Cam
+HUJI Cam làm cho khoảnh khắc của bạn như quý như cảm xúc của bộ phim với những kỷ niệm cũ.
+Giao diện chỉnh sửa app Huji Cam
+App được đánh giá 4,3/5 sao trên App Store và 4,2/5 sao trên Google Play.
+Các thiết bị iPhone, iPad tải app về TẠI ĐÂY , các thiết bị Android tải về TẢI ĐÂY .
+- 1998 Cam - Vintage Camera
+Chụp ảnh theo phong cách film analog đang là trào lưu được rất nhiều bạn trẻ trên thế giới yêu thích hiện nay. Bạn sẽ giống như một nhiếp ảnh gia chuyên nghiệp với những bức ảnh "vintage" không thể chất hơn ngay trên điện thoại của mình với nhiều hiệu ứng tuyệt vời khác như Film Kiosk, Polaroid Camera, Grainy Filter,...
+App được đánh giá 4,9/5 sao trên App Store và 4,6/5 sao trên Google Play.
+Các thiết bị iPhone, iPad tải app về TẠI ĐÂY, các thiết bị Android tải về TẢI ĐÂY .
+- Lomo - Retro cam, Phim tương tự, Polaroid
+Bây giờ ngay cả khi không có máy ảnh tức thì chúng ta vẫn có thể chụp một loạt ảnh hoài cổ. Lomo Cam là một ứng dụng mô phỏng cho máy ảnh phim retro cũ ngày xưa.
+Một vài bức ảnh chụp từ app Lomo
+App được đánh giá 4,8/5 sao trên Google Play.
+Tải về TẠI ĐÂY .
+- Vintage Camera-Lomo,Light Leak,Photo Editor,Retro
+Một ứng dụng lọc ảnh giúp bạn biến những khoảnh khắc yêu thích thành những kỷ niệm đẹp một cách dễ dàng và thú vị. Hiện app chỉ có trên Google Play.
+Giao diện chụp ảnh app Vintage Camera- Lomo
+App được đánh giá 4,5/5 sao trên Google Play.
+Tải về TẠI ĐÂY
+- FIMO
+FIMO ghi lại vẻ đẹp và sự kỳ diệu của những hình ảnh cổ điển, bạn sẽ tạo ra những bức ảnh trông giống như những cuộn phim thực sự được đưa ra khỏi kho 30 năm trước.
+App được đánh giá 4,9/5 sao trên App Store và 4,5/5 sao trên Google Play.
+Các thiết bị iPhone, iPad tải app về TẠI ĐÂY , các thiết bị Android tải về TẢI ĐÂY .
+- Retro Cam Vintage Camera Filters & Photo Effects
+Retro Cam cho phép bạn bắt chước nhiếp ảnh tương tự của những năm 80 - 90 một cách dễ dàng. App có những hoạ tiết filter như rò rỉ ánh sáng, vế xước hoặc bụi cho bạn thoả sức sáng tạo theo ý của mình.
+Một vài bức ảnh được chỉnh sửa bằng App Retro Cam
+App được đánh giá 4,7/5 sao trên App Store và 4,1/5 sao trên Google Play.
+Các thiết bị iPhone, iPad tải app về TẠI ĐÂY , các thiết bị Android tải về TẢI ĐÂY .
+Xem thêm : Cách khắc phục lỗi không kết nối được App Store của iPhone 6 cách xử lý khi iPhone không tải được ứng dụng trên App Store 7 Cách khắc phục lỗi dịch vụ Google Play đã dừng lại hiệu quả Công thức chỉnh ảnh trên iPhone làm điên đảo người dùng TikTok
+Trên đây là tổng hợp các công thức và một vài app bạn có thể tải về miễn phí để chỉnh ảnh theo phong cách vintage (cổ điển). Hy vọng bài viết sẽ cung cấp thêm thông tin đến bạn!
+8.629 lượt xem

@@ -1,0 +1,21 @@
+
+python-dotenv # environment variable
+langchain
+#langchain_community
+langchain-ollama
+langchain-openai
+pypdf # pdf loading; https://python.langchain.com/docs/modules/data_connection/document_loaders/pdf/
+#pysqlite3-binary # fix bugs in streamlit
+#pysqlite3
+chromadb # vector storage
+openai # embeddings
+tiktoken  # embeddings
+streamlit # for front-end
+replicate # for ml models
+PyPDF2
+# hoặc
+pdfplumber
+sentence-transformers
+matplotlib
+
+google-generativeai

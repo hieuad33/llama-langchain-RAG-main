@@ -1,0 +1,72 @@
+Hướng dẫn cách khắc phục điện thoại sụt pin nhanh đơn giản, hiệu quả
+Một số mẫu điện thoại đang kinh doanh tại Thế Giới Di Động:
+Điện thoại của bạn sau một khoảng thời gian sử dụng có hiện tượng sụt pin nhanh hơn so với lúc bình thường. Bạn đang rất lo lắng về vấn đề này mà không biết phải làm sao? Đừng lo lắng, hãy tham khảo bài viết bên dưới để biết nguyên nhân và cách khắc phục điện thoại sụt pin nhanh đơn giản, hiệu quả.
+Tóm tắt nội dung bài viết: Bài viết này sẽ giúp bạn tìm hiểu nguyên nhân điện thoại sụt pin nhanh và hướng dẫn cách khắc phục hiệu quả. Nguyên nhân phổ biến : Ứng dụng chạy ngầm, pin bị chai, sạc/cáp kém chất lượng, hệ điều hành không tối ưu, độ sáng màn hình cao hoặc kết nối mạng liên tục. Cách khắc phục : Tắt ứng dụng chạy ngầm, kiểm tra độ chai pin, dùng sạc chính hãng, tắt cập nhật tự động, kiểm soát mức tiêu hao pin và thực hiện các biện pháp tiết kiệm năng lượng. Khi nào nên thay pin? Nếu pin tụt quá nhanh, điện thoại tự tắt dù còn pin hoặc máy bị nóng bất thường, hãy cân nhắc thay pin hoặc mang máy đi kiểm tra.
+1. Nguyên nhân điện thoại sụt pin nhanh
+Đây là dấu hiệu của việc điện thoại sụt pin nhanh. Để khắc phục triệt để, trước tiên chúng ta cần tìm hiểu nguyên nhân. Những lý do phổ biến khiến pin điện thoại tụt nhanh
+Ứng dụng chạy ngầm liên tục – Các ứng dụng như Facebook, Messenger, TikTok, Gmail luôn hoạt động ngay cả khi bạn không sử dụng. Pin bị chai sau thời gian dài sử dụng – Nếu điện thoại đã hơn 2 năm tuổi, pin có thể đã bị chai đáng kể. Bộ sạc hoặc cáp sạc kém chất lượng – Sử dụng sạc không chính hãng có thể gây sạc không đủ dòng điện, làm pin hao hụt nhanh hơn. Hệ điều hành cập nhật không tương thích – Một số bản cập nhật iOS hoặc Android mới có thể khiến máy tiêu hao pin hơn do tối ưu kém. Cài đặt màn hình & kết nối mạng không tối ưu – Màn hình sáng quá mức, bật 4G/WiFi liên tục làm pin hao nhanh.
+2. Cách khắc phục điện thoại sụt pin nhanh
+Tắt ứng dụng chạy ngầm
+Khi bạn thoát một ứng dụng nào đó bằng cách nhấn nút Home mà không tắt hẳn thì đây chính là nguyên nhân khiến pin điện thoại của bạn nhanh hết. Để tắt các ứng dụng chạy ngầm bạn thực hiện các bước sau.
+- Cách 1: Tắt những ứng dụng chạy ngầm
+Bước 1 : Nhấn vào nút Đa nhiệm trên màn hình.
+Nhấn vào Đa nhiệm
+Bước 2 : Vuốt lên để tắt ứng dụng hoặc nhấn vào Đóng tất cả .
+Vuốt lên hoặc nhấn Đóng tất cả để tắt ứng dụng ngầm
+- Cách 2: Tắt những ứng dụng đang chạy
+Bước 1 : Nhấn giữ Ứng dụng muốn chọn > Chọn Thông tin ứng dụng .
+Nhấn giữ ứng dụng va chọn Thông tin ứng dụng
+Bước 2 : Nhấn vào Buộc dừng > Chọn OK để hoàn tất.
+Nhấn Buộc dừng và chọn OK để hoàn tất
+Khởi động lại điện thoại
+Việc khởi động lại điện thoại là một trong những cách khắc phục được ưu tiên khi thiết bị xảy ra một lỗi nào đó. Đa phần người dùng sử dụng cách này và rất hữu ích, vậy nên bạn hãy khởi động lại máy và kiểm tra xem pin của bạn còn tụt nhanh không nhé.
+Khởi động lại điện thoại
+Tắt tự động Update
+Đây cũng là một trong những nguyên nhân làm cho điện thoại của bạn hao pin rất nhanh. Khi có phiên bản mới thì điện thoại của bạn sẽ tự động sử dụng mạng 4G hay WiFi để tải bản update về máy. Để tắt tính năng này, mời các bạn thực hiện theo cách sau:
+Bước 1 : Vào Cài đặt > Chọn Ứng dụng .
+Vào Cài đặt và chọn Ứng dụng
+Bước 2 : Chọn Cửa hàng Google Play > Nhấn vào biểu tượng Ba chấm .
+Chọn vào Cửa hàng Google Play
+Bước 3 : Chọn Gỡ cài đặt cập nhật .
+Nhán Gỡ cài đặt ứng dụng
+Kiểm soát tình trạng pin
+Tính năng này giúp kiểm soát những ứng dụng không cần thiết và giảm hiệu năng của máy để tăng được thời lượng pin.
+Bước 1 : Vào Cài đặt > Chọn Chăm sóc thiết bị .
+Vào Cài đặt và chọn Chăm sóc thiết bị
+Bước 2 : Nhấn vào Pin > Chọn Mức sử dụng pin .
+Vào Pin và chọn Mức sử dụng Pin
+Bước 3 : Nhấn vào Ứng dụng mong muốn > Bật mục Đặt ứng dụng vào chế độ nghỉ .
+Nhấn vào Ứng dụng và chọn Đặt ứng dụng vào chế độ nghỉ
+Đặt ứng dụng bạn chọn vào chế độ nghỉ ngay lập tức khi không sử dụng sẽ giúp bạn kiểm soát được lượng pin đáng kể.
+Xem ngay các chương trình, mã khuyến mãi và mã giảm giá tại Thế Giới Di Động : Tổng hợp khuyến mãi hấp dẫn dành cho tất cả ngành hàng Tổng hợp tất cả mã giảm giá, mã khuyến mãi tại TGDĐ
+Thực hiện các biện pháp tiết kiệm pin
+- Thời gian sáng màn hình
+Cài đặt thời gian màn hình sáng sao cho phù hợp để có thể tối ưu được lượng pin sử dụng hơn.
+Bước 1 : Vào Cài đặt > Chọn Màn hình .
+Vào Cài đặt và chọn Màn hình
+Bước 2 : Nhấn vào Thời gian sáng màn hình > Lựa chọn Thời gian hợp lý.
+Nhấn vào Thời gian sáng màn hình vầ lựa chọn Thời gian
+- Tắt 3G/WiFi khi không dùng đến
+Việc kết nối mạng 3G/WiFi khiến điện thoại của bạn tốn rất nhiều pin, vậy để để kéo dài thời lượng pin cho máy bạn nên tắt chúng đi khi không có nhu cầu sử dụng nhé.
+Tắt 3G/WiFi
+- Điều chỉnh độ sáng tự động
+Tính năng này khá hữu ích và góp phần giúp bạn tiết kiệm pin đáng kể. Khi sử dụng trong môi trường có cường độ ánh sáng khác nhau thì điện thoại sẽ tự điều chỉnh độ sáng sao cho phù hợp.
+Bước 1 : Vào Cài đặt > Chọn Màn hình .
+Vào Cài đặt và chọn Màn hình.
+Bước 2 : Bật công tắc ở phần Độ sáng tương thích lên.
+Bật công tắc ở phần Độ sáng tương thích lên.
+Đảm bảo mức hao pin ở ngưỡng cho phép
+Lượng pin trong tất cả các thiết bị lúc nào cũng phải hao tổn 1 phần nào đó để duy trì hệ thống và một số tính năng khác của điện thoại. Để kiểm tra mức hao pin các bạn thực hiện theo cách sau:
+- Sạc đầy 100% pin.
+- Tắt 3G/WiFi, rút sạc.
+- Để yên trong vòng 8h.
+Sau 8h bạn kiểm tra lượng pin trên máy xem còn bao nhiêu phần trăm. Nếu còn hơn 90% thì pin của bạn đang tốt.
+Đảm bảo mức hao pin ở ngưỡng cho phép
+3. Khi nào nên thay pin hoặc mang máy đi sửa?
+Nếu bạn đã thử tất cả các cách trên mà pin vẫn tụt nhanh, có thể điện thoại của bạn gặp vấn đề phần cứng. Dưới đây là dấu hiệu cảnh báo:
+Pin tụt từ 100% xuống 0% quá nhanh (dưới 3 giờ sử dụng bình thường). Điện thoại tự tắt dù pin vẫn còn. Máy nóng bất thường ngay cả khi không dùng. Sạc chậm hoặc không vào pin.
+Xem thêm : Hard Reset là gì? Dùng để làm gì? Có gì khác so với Factory Reset? Cách khóa ứng dụng trên điện thoại Android cực đơn giản, nhanh chóng Cách khắc phục lỗi sự cố xác thực WiFi trên điện thoại Android 8 cách sửa lỗi sạc nhanh iPhone 12 bị nóng máy, hao pin nhanh hiệu quả Khôi phục cài đặt gốc nhiều lần có sao không? Có an toàn không?
+Một số mẫu điện thoại hiện đang kinh doanh tại Thế Giới Di Động:
+Bài viết vừa rồi đã hướng dẫn bạn cách khắc phục điện thoại sụt pin nhanh đơn giản, hiệu quả. Chúc các bạn thực hiện thành công !
+507.340 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

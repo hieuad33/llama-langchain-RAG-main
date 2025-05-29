@@ -1,0 +1,71 @@
+GPS băng tần kép trên đồng hồ thông minh là gì? Thiết bị nào hỗ trợ?
+Các mẫu đồng hồ có định vị băng tần kép GPS bạn có thể tham khảo:
+GPS băng tần kép là công nghệ hiện đại phục vụ cho việc định vị, cho phép các thiết bị như
+đồng hồ thông minh
+đạt được độ chính xác cao hơn trong việc xác định vị trí. Công nghệ này hoạt động bằng cách sử dụng hai băng tần tín hiệu khác nhau, giúp cải thiện tốc độ và độ chính xác của dữ liệu định vị so với những thiết bị chỉ sử dụng một băng tần. Cùng TGDĐ tìm hiểu về công nghệ GPS băng tần kép trên các mẫu đồng hồ thông minh hiện nay nhé!
+1. GPS băng tần kép là gì?
+GPS băng tần kép là một công nghệ định vị toàn cầu tiên tiến, giúp định vị và điều hướng chính xác hơn do có tốc độ chip mã dao động tín hiệu Galileo E5a và GPS L5C lớn hơn gấp 10 lần so với các tín hiệu GPS khác. Đây chính là điểm đặc biệt của các thiết bị sử dụng công nghệ GPS băng tần kép vì chúng đáp ứng được nhu cầu điều hướng, định vị chính xác và tiện lợi của người dùng.
+GPS băng tần kép là một công nghệ định vị toàn cầu tiên tiến
+2. Cách thức hoạt động của GPS băng tần kép
+GPS băng tần kép (hay dual frequency GPS) không chỉ sử dụng một băng tần là L1 để truyền tín hiệu như các công nghệ GPS khác mà còn sử dụng thêm một băng tần L5 (hoặc E5a trong hệ thống Galileo). Khi nhận tín hiệu từ hai nguồn, kết quả đo đạc và xác định vị trí được thực hiện nhanh chóng hơn, chính xác hơn và ít rủi ro hơn.
+Sở dĩ GPS băng tần kép hoạt động nhanh chóng hơn là do tốc độ chip của L5C và Galileo E5a cao hơn gấp 10 lần so với tốc độ chip của tín hiệu L1. Tốc độ chip của băng tần càng cao, khả năng phân biệt các tín hiệu GPS tại đầu thu sẽ càng tốt, việc định vị sẽ trở nên chính xác hơn.
+Thêm vào đó, việc thu tín hiệu từ hai nguồn độc lập cũng giúp cho công nghệ này luôn có sẵn, hạn chế rơi vào tình trạng đi vào vùng không phủ sóng. Ngoài ra, khi một tín hiệu hoặc hệ thống gặp sự cố hay đưa ra thông tin nhiễu, sai lệch, vẫn còn có tín hiệu và hệ thống khác tiếp tục định vị.
+GPS băng tần kép hoạt động nhanh chóng hơn
+3. Lợi ích của GPS băng tần kép trên đồng hồ thông minh
+Phạm vi phủ sóng toàn cầu với 6 cảm biến vệ tinh
+Các thiết bị đeo tay sử dụng GPS băng tần kép được trang bị công nghệ định vị toàn cầu tiên tiến, có khả năng nhận tín hiệu từ hai nguồn khác nhau, đem lại kết quả định vị nhanh chóng và chính xác hơn. Nhờ vào tốc độ chip mã động dao động cao, các thiết bị này có thể cải thiện khả năng phân biệt các tín hiệu GPS, từ đó tăng độ chính xác trong điều hướng và định vị.
+Sự kết hợp của hai băng tần cũng đảm bảo rằng công nghệ này luôn sẵn sàng và hạn chế rơi vào tình trạng không phủ sóng. Bên cạnh đó, khi có sự cố hoặc thông tin nhiễu từ một tín hiệu, vẫn còn tín hiệu và hệ thống khác tiếp tục cung cấp dữ liệu chính xác, giúp người dùng an tâm khi sử dụng các chức năng định vị trên thiết bị của mình.
+Các thiết bị đeo của Amazfit có thể thu được tín hiệu của 6 cảm biến vệ tinh toàn cầu
+Xem được bản đồ khi ngoại tuyến
+Các mẫu đồng hồ thông minh có tích hợp GPS băng tần kép sẽ được trang bị bản đồ ngoại tuyến, cho phép người dùng điều hướng một cách chính xác ngay cả khi không có kết nối internet. Tính năng này đặc biệt hữu ích trong các khu vực có tín hiệu yếu hoặc bị chặn bởi các công trình xây dựng cao tầng.
+Người dùng có thể tải bản đồ vào thiết bị của mình trước khi thực hiện các hoạt động ngoài trời, đảm bảo an toàn và độc lập trong việc điều hướng dù không phụ thuộc vào kết nối mạng.
+Đồng hồ thông minh của Amazfit được tích hợp bản đồ ngoại tuyến
+4. Một số sản phẩm đồng hồ thông minh có GPS băng tần kép đang kinh doanh tại TGDĐ
+Đồng hồ thông minh Apple Watch Ultra 2
+Trả chậm 0%
+DEAL ĐỈNH GIÁ XINH Apple Watch Ultra 2 GPS + Cellular 49mm viền Titanium đen dây Trail 22.490.000₫ 22.990.000₫ Xem đặc điểm nổi bật Màn hình: OLED, 1.92 inch Theo dõi sức khỏe: Ước tính ngày rụng trứng, Đếm số bước chân, Đo nồng độ oxy (SpO2) Chế độ luyện tập: Đạp xe, Đi bộ, Yoga Thông báo ứng dụng: Zalo, Viber, Tin nhắn Xem chi tiết
+- Màn hình : OLED, 1.92 inch, 410 x 502 pixels
+- Thời lượng pin: Khoảng 36 giờ (ở chế độ sử dụng thông thường), khoảng 72 giờ (chế độ năng lượng thấp)
+- Kết nối với hệ điều hành : Tương thích với iPhone Xs trở lên, sử dụng iOS phiên bản mới nhất
+- Mặt : Kính Sapphire, kích thước 49 mm
+- Tiện ích : Đạp xe, đi bộ, yoga, chạy bộ, bơi lội, lặn, nghe gọi độc lập với eSIM, màn hình luôn hiển thị, phát hiện té ngã, nghe nhạc, kết nối bluetooth với tai nghe, theo dõi sức khoẻ như điện tâm đồ, đo nồng độ oxy (SpO2), theo dõi nhịp thở 24/7
+Apple Watch Ultra 2 là mẫu
+Apple Watch
+nổi bật với công nghệ GPS băng tần kép giúp tăng cường độ chính xác vị trí trong nhiều môi trường khác nhau. Điều này làm cho nó trở thành lựa chọn lý tưởng cho những người yêu thích phiêu lưu và hoạt động ngoài trời cần định vị tin cậy.
+Với khung viền titanium bền chắc và màn hình OLED sáng rõ, chiếc đồng hồ này đảm bảo độ bền và hiển thị tốt trong mọi điều kiện, thể hiện cam kết của Apple về thiết kế chất lượng cao, bền vững.
+Giao diện của đồng hồ thông minh Apple Watch Ultra 2 GPS
+Đồng hồ thông minh Huawei Watch GT 5
+Trả chậm 0%
+Huawei Watch GT 5 41mm viền thép dây Woven 4.690.000₫ 5.990.000₫ -21% Xem đặc điểm nổi bật Màn hình: AMOLED, 1.32 inch Theo dõi sức khỏe: Ước tính ngày rụng trứng, Đếm số bước chân, Đo nồng độ oxy (SpO2) Thông báo ứng dụng: Zalo, Tin nhắn, Messenger (Facebook) Xem chi tiết
+- Màn hình : AMOLED, 1.32 inch, 466 x 466 pixels
+- Thời lượng pin : Khoảng 7 ngày (sử dụng tối đa), khoảng 3 ngày (khi bật Always On Display)
+- Kết nối với hệ điều hành : Tương thích với iOS 13 trở lên và Android 9 trở lên
+- Mặt : Kính cường lực, kích thước 41 mm
+- Tiện ích : Đạp xe, đi bộ, quần vợt, nhảy dây, leo núi, bóng rổ, chạy bộ, bơi lội, bóng đá, trượt tuyết, trượt băng, nghe gọi ngay trên đồng hồ, màn hình luôn hiển thị, nghe nhạc, kết nối bluetooth với tai nghe, đo nồng độ oxy (SpO2), ước tính ngày rụng trứng, theo dõi nồng độ oxy trong máu 24h, theo dõi nhịp thở 24/7, phân tích rối loạn nhịp tim, theo dõi nhịp tim 24h, tính lượng calories tiêu thụ, theo dõi giấc ngủ, theo dõi mức độ stress, theo dõi chu kỳ kinh nguyệt.
+Đồng hồ thông minh Huawei Watch GT 5 là một thiết bị đeo thông minh hoàn hảo kết hợp giữa phong cách thời trang và công nghệ tiên tiến:
+GPS băng tần kép : Cung cấp định vị chính xác cao, đảm bảo bạn luôn tìm đúng hướng trong mọi hoạt động ngoài trời.
+Màn hình AMOLED 1.32 inch : Màn hình sắc nét với độ phân giải 466 x 466 pixels, hiển thị rõ ràng dưới mọi điều kiện ánh sáng.
+Theo dõi sức khỏe toàn diện : Tích hợp cảm biến theo dõi nhịp tim, SpO2, giấc ngủ và mức độ căng thẳng, giúp bạn giữ gìn sức khỏe tối ưu.
+Thiết kế sang trọng và bền bỉ : Viền thép không gỉ và dây đeo Woven tạo vẻ ngoài lịch sự, phù hợp với mọi tình huống từ thể thao đến công sở.
+Tuổi thọ pin ấn tượng : Dùng liên tục đến 7 ngày chỉ với một lần sạc, hoàn hảo cho những chuyến đi dài ngày.
+Hỗ trợ hơn 100 chế độ thể thao : Từ chạy bộ, đạp xe đến bóng đá, cung cấp dữ liệu tập luyện chính xác, giúp bạn theo dõi tiến trình luyện tập.
+Huawei Watch GT 5 có nhiều tiện ích khác nhau
+Đồng hồ thông minh Amazfit Cheetah Square 44mm
+Trả chậm 0%
+Amazfit Cheetah Square 44mm dây silicone 3.290.000₫ 5.490.000₫ -40% Xem đặc điểm nổi bật Màn hình: AMOLED, 1.75 inch Theo dõi sức khỏe: Đếm số bước chân, Đo nồng độ oxy (SpO2), Đo nhịp tim Chế độ luyện tập: Đạp xe, Đi bộ đường dài, Đi bộ Thông báo ứng dụng: Zalo, Tin nhắn, Messenger (Facebook) Xem chi tiết
+- Màn hình : AMOLED, 1.75 inch, 390 x 450 pixels
+- Thời lượng pin : Khoảng 28 giờ (chế độ GPS tiết kiệm năng lượng), khoảng 8 ngày (ở chế độ cơ bản)
+- Kết nối với hệ điều hành : Zepp OS 2.0
+- Mặt : Kính cường lực Panda
+- Tiện ích : Bản đồ ngoại tuyến, công nghệ MaxTrack, điều khiển chơi nhạc, thay mặt đồng hồ, trợ lý ảo giọng nói Amazon Alexa, huấn luyện viên Zepp (Zepp Coach), thuật toán thể thao PeakBeats
+Với thiết kế mặt vuông có góc bo tròn,
+đồng hồ thông minh Amazfit Cheetah Square 44mm
+mang nét cá tính và năng động nhưng vẫn không thiếu sự mềm mại. Thiết bị có dung lượng pin lớn, có thể sử dụng liên tục trong khoảng 8 ngày khi sử dụng ở chế độ cơ bản.
+Không dừng lại ở đó, bộ định vị GPS băng tần kép, công nghệ MaxTrack và bản đồ ngoại tuyến của đồng hồ thông minh Amazfit Cheetah Square 44mm cũng là những điểm sáng không thể bỏ qua. Có thể thấy, thiết bị này sở hữu khả năng thực hiện tất cả các tác vụ cần có của một chiếc đồng hồ thông minh.
+Đồng hồ thông minh Amazfit Cheetah Square 44mm mang nét cá tính và năng động
+SĂN NGAY MÃ GIẢM SỐC TGDĐ TẠI ĐÂY!!
+ĐỪNG BỎ LỠ một số mẫu đồng hồ thông minh đang được kinh doanh tại Thế Giới Di Động:
+Xem thêm :
+Cách kiểm tra đồng hồ thông minh Huami Amazfit chính hãng cực đơn giản TOP 7 đồng hồ thông minh Huami Amazfit tốt đang kinh doanh tại TGDĐ Đồng hồ thông minh Huami Amazfit là của nước nào? Có tốt không?
+Trên đây là toàn bộ bài viết về GPS băng tần kép trên đồng hồ Amazfit. Hy vọng rằng những thông tin trên sẽ hữu ích cho bạn đọc. Cảm ơn bạn đã theo dõi bài viết và hẹn gặp lại bạn ở các bài viết khác nhé!
+74 lượt xem

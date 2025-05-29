@@ -1,0 +1,30 @@
+Lịch iPhone bị lỗi? Xem ngay cách khôi phục lịch iPhone cực dễ
+Khi sử dụng ứng dụng Lịch bỗng dưng bạn thấy xuất hiện năm BE hoặc năm Reiwa mà chưa biết làm cách nào để sửa? Hãy tham khảo bài viết dưới đây để hiểu rõ hơn nhé!
+1. Các loại lịch sẵn có trên iPhone
+Năm BE trên iPhone là năm được ký hiệu trong lịch Phật giáo hay lịch mặt trăng, Phật lịch . Đây là loại lịch được sử dụng chủ yếu ở Đông Nam Á đại lục. Phật lịch được tính vào năm Đức Phật nhập niết bàn (năm 544 trước Tây lịch) và lấy năm này làm năm 0 sau đó cộng với năm dương lịch ở thời điểm hiện tại.
+Hiện tại, trên iPhone có 3 loại lịch là:
+- Lịch Gregory: Hay còn gọi là lịch Gregorius , dương lịch và thường được sử dụng rộng rãi ở các nơi trên thế giới. Thông thường, nếu trên iPhone của bạn sử dụng lịch này thì ứng dụng lịch sẽ hiển thị các năm bình thường như 2021, 2020, 2019,...
+- Lịch Nhật Bản: Đây là loại lịch được đánh số năm theo niên hiệu và số năm trị vì của các vị Nhật Hoàng đương thời ở Nhật Bản. Hiện tại, lịch Nhật Bản đang là Reiwa (bắt đầu từ 01/05/2019) và trên iPhone cũng được ký hiệu là Reiwa.
+- Lịch Phật giáo: Đây là loại lịch Phật giáo hay còn gọi là Phật lịch (BE) . Theo công thức trên, năm BE 2562 được tính bằng cách lấy 2562 - 554 = 2018. Vậy năm BE 2562 là năm 2018 dương lịch , 2563 BE là năm 2019 và 2564 BE là năm 2020.
+2. Cách chỉnh lịch trên iPhone
+Bước 1: Vào Cài đặt > Chọn Cài đặt chung > Chọn Ngôn ngữ & Vùng.
+Vào Cài đặt chung và chọn Ngôn ngữ & Vùng
+Bước 2 : Chọn Lịch > Nhấn chọn lịch Gregory.
+Chọn Lịch và chọn lịch Gregory
+3. Một số câu hỏi liên quan
+- Đã chỉnh lại lịch nhưng vẫn không được thì làm sao?
+Trả lời : Nếu bạn đã chỉnh lại lịch nhưng vẫn không được thì rất có thể điện thoại của bạn đã bị lỗi xung đột phần mềm hoặc chưa bật chỉnh ngày giờ.
+Tham khảo thêm cách khắc phục lỗi không chỉnh được ngày giờ trên iPhone: Không chỉnh được ngày giờ trên iPhone - Nguyên nhân và cách khắc phục
+- Màn hình khóa iPhone hiện ngày tháng là tiếng Anh thì làm sao?
+Hiện tượng màn hình khóa iPhone hiện ngày tháng là tiếng Anh có thể là do bạn đã vô tình chỉnh ngôn ngữ thành tiếng Anh nên mới xảy ra trường hợp này. Để hiển thị Tiếng Việt, hãy thực hiện theo các thao tác dưới đây:
+Bước 1: Vào Cài đặt (Settings) > Chọn Cài đặt chung (General) > Chọn Ngôn ngữ & Vùng (Language & Region) .
+Vào Settings và chọn General
+Bước 2 : Chọn Ngôn ngữ của iPhone (iPhone Language) > Nhấn chọn Tiếng Việt > Chọn Đổi thành Tiếng Việt (Change to Vietnamese) .
+Đổi ngôn ngữ thành Tiếng Việt trên iPhone
+- Xóa nhầm ứng dụng Lịch làm sao tải lại?
+Khi bạn lỡ tay xóa nhầm các ứng dụng Lịch trên iPhone, bạn hãy vào App Store và gõ "Lịch" hoặc "Calendar" trong mục tìm kiếm > Nhấn Tải về .
+Một số mẫu iPhone đang kinh doanh tại Thế Giới Di Động
+Xem thêm : Hướng dẫn cách sử dụng ứng dụng máy tính trên iPhone chi tiết TOP 12 ứng dụng hay cho iPhone, bạn sẽ tiếc vì không biết sớm hơn [Video] Cách tải lại ứng dụng đã xóa trên iPhone đơn giản, nhanh chóng Cách xem, thêm lịch âm trên iPhone, cực dễ làm Hướng dẫn giới hạn thời gian sử dụng ứng dụng trên iPhone
+Như vậy mình đã hướng dẫn xong cho bạn năm BE trên iPhone là gì? Lịch iPhone bị lỗi và cách chỉnh sửa cực dễ. Cảm ơn bạn đã theo dõi và hẹn gặp lại ở các bài viết tiếp theo!
+93.346 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

@@ -1,0 +1,31 @@
+Tìm hiểu chi tiết chip Ryzen AI 9 HX 370
+AMD Ryzen AI 9 HX 370 không chỉ là một con chip mạnh mẽ, mà còn là một bước tiến vượt bậc trong lĩnh vực xử lý hiệu năng cao trên
+laptop
+. Với kiến trúc Zen 5 tiên tiến, đồ họa tích hợp Radeon 890M, khả năng AI vượt trội và thời lượng pin ấn tượng, dùng chip Ryzen 9 HX 370 đáp ứng mọi nhu cầu, từ chơi game đến xử lý tác vụ sáng tạo nội dung.
+1. Thông số kỹ thuật của Ryzen AI 9 HX 370
+Thông số Chi tiết Tên AMD Ryzen AI 9 HX 370 Series Dòng Ryzen AI 300 Số nhân CPU 12 Xung nhịp tối đa Lên đến 5,1 GHz Tiến trình sản xuất TSMC 4nm FinFET
+Ryzen AI 9 HX 370
+2. Đặc điểm nổi bật của Ryzen AI 9 HX 370
+Máy chạy mát và pin lâu
+HX 370 có hiệu quả sử dụng năng lượng rất tốt, giúp máy chạy mát và pin lâu. Nhiệt độ máy thấp hơn 5-10 độ so với Intel Core Ultra, ngay cả khi chơi game.
+Trên Vivobook S14 OLED dùng chip Ryzen AI 9 HX 370, thời lượng pin đạt 9 tiếng 15 phút với bài test văn phòng, lướt web và YouTube, ngang ngửa MacBook Air M3 và tốt hơn Zenbook 14 OLED dùng chip Intel. Đây là một bước tiến lớn của AMD, giúp laptop Windows đạt thời lượng pin tương đương MacBook.
+Bên cạnh đó, chip Ryzen AI 9 HX 370 giúp máy ít bị nóng gây khó chịu và duy trì hiệu năng cao lâu hơn, tác vụ dù nặng vẫn được xử lý tốt.
+Test thời gian dùng pin trên laptop dùng chip Ryzen AI 9 HX 370
+(Nguồn ảnh: Kênh YouTube Duy Luân Dễ Thương)
+Đồ họa tích hợp là điểm mạnh
+Bộ xử lý đồ họa tích hợp Radeon 890M là một điểm mạnh của HX 370, vượt trội so với Intel Iris Xe và bỏ xa Snapdragon X Elite. Trên Vivobook S14 OLED, Radeon 890M cho FPS cao hơn đáng kể so với Intel Core Ultra 7 155H trên Zenbook 14 OLED, mang lại trải nghiệm chơi game mượt mà hơn. Thậm chí, nó còn đủ mạnh để xử lý video và đồ họa nhẹ nhàng.
+Hiệu năng đa lõi ấn tượng
+Ryzen AI 9 HX 370 có dải
+TDP
+rộng, cho phép nhà sản xuất tùy chỉnh theo kích thước, hình dáng của máy. Trên các
+laptop gaming
+, TDP cao hơn, trong khi laptop mỏng nhẹ sẽ có TDP thấp hơn. Tuy nhiên, ngay cả ở TDP thấp, HX 370 vẫn cho hiệu năng ấn tượng, sánh ngang Intel Core Ultra 7, thậm chí vượt Core Ultra 9 khi được cấp đủ điện. Sức mạnh này đáp ứng tốt mọi tác vụ, từ văn phòng đến đồ họa, kỹ thuật và gaming.
+Chiến game tốt
+Ryzen AI 9 HX 370 không chỉ mạnh về xử lý tác vụ thông thường, mà còn rất tốt trong việc chơi game. Kể cả với các tựa game CPU-bound như Counter Strike 2, hoặc các game đòi hỏi CPU ít hơn như các tựa game AAA, HX 370 đều đáp ứng tốt. Đáng chú ý là khả năng chơi game mượt mà ngay cả khi tắt card đồ họa rời, đạt trên 30
+FPS
+(Chỉ số khung hình hiển thị trên mỗi giây) với tựa game nặng như Sniper Ghost Warrior Contract 2.
+AI sẵn sàng cho tương lai
+Ryzen AI 9 HX 370 được trang bị NPU mạnh nhất hiện nay trên laptop (50 TOPS), vượt cả Intel Core Ultra và Snapdragon X Elite. Mặc dù hỗ trợ phần mềm còn hạn chế, nhưng HX 370 đã sẵn sàng cho các ứng dụng AI trong tương lai. Latop Vivobook S14 OLED chip HX 370 cũng đáp ứng các tiêu chuẩn của Microsoft cho Copilot, hứa hẹn sẽ được cập nhật các tính năng AI mới.
+3. Laptop dùng chip Ryzen AI 9 HX 370
+Dưới đây là danh sách laptop dùng chip Ryzen AI 9 HX 370 giá tốt tại Thế Giới Di Động:
+70 lượt xem

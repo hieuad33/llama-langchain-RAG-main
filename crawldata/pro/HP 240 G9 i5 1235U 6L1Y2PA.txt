@@ -1,0 +1,238 @@
+Tên sản phẩm: HP 240 G9 i5 1235U (6L1Y2PA) , Giá: 12.990.000₫ VNĐ, thông tin chi tiết của sản phẩm: Đóng
+1/7
+1/17
+Tham khảo thêm sản phẩm cũ, trưng bày
+Laptop HP 240 G9 i5 1235U/8GB/512GB/Win11 (6L1Y2PA)
+Giá từ
+12.480.000₫
+Bảo hành Chính hãng đến 23/02/2026
+Thông số kỹ thuật
+Bài viết đánh giá
+Bộ xử lý
+Công nghệ CPU:
+Intel Core i5 Alder Lake
+- 1235U
+Số nhân:
+10
+Số luồng:
+12
+Tốc độ CPU:
+1.3GHz
+Tốc độ tối đa:
+Turbo Boost 4.4 GHz
+Bộ nhớ RAM, Ổ cứng
+RAM:
+8 GB
+Loại RAM:
+DDR4 2 khe (1 khe 8 GB + 1 khe rời)
+Tốc độ Bus RAM:
+3200 MHz
+Hỗ trợ RAM tối đa:
+16 GB
+Ổ cứng:
+512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)
+Màn hình
+Màn hình:
+14"
+Độ phân giải:
+Full HD (1920 x 1080)
+Tần số quét:
+60Hz
+Công nghệ màn hình:
+Tấm nền IPS
+Chống chói Anti Glare
+250 nits
+Đồ họa và Âm thanh
+Card màn hình:
+Card tích hợp
+- Intel UHD Graphics (Iris Xe Graphics chỉ hoạt động với RAM kênh đôi)
+Công nghệ âm thanh:
+Realtek High Definition Audio
+Cổng kết nối & tính năng mở rộng
+Cổng giao tiếp:
+USB Type-C
+Jack tai nghe 3.5 mm
+HDMI
+LAN (RJ45)
+2 x USB 3.1
+Kết nối không dây:
+Bluetooth 5.2
+Wi-Fi 6 (802.11ax)
+Webcam:
+HD webcam
+Tính năng khác:
+TPM 2.0
+Đèn bàn phím:
+Không có đèn
+Kích thước - Khối lượng - Pin
+Kích thước:
+Dài 324 mm - Rộng 225.9 mm - Dày 19.9 mm - 1.47 kg
+Chất liệu:
+Vỏ nhựa
+Thông tin Pin:
+3-cell, 41Wh
+Hệ điều hành:
+Windows 11 Home SL
+Thời điểm ra mắt:
+2022
+Hướng Dẫn Sử Dụng Tiếng Việt
+[PDF, 6.7MB]
+Laptop HP 240 G9 i5 (6L1Y2PA)
+sẽ là chiếc
+laptop học tập - văn phòng
+khó lòng chối từ nếu bạn là sinh viên hoặc dân văn phòng bởi trang bị bộ vi xử lý Intel Gen 12 tân tiến cùng những thông số kỹ thuật ấn tượng.
+Hiệu năng đáp ứng mọi nhu cầu học tập, văn phòng
+Sự xuất hiện của chip
+Intel Gen 12
+kết hợp giữa nhân hiệu năng mạnh
+P-core
+và nhân tiết kiệm điện
+E-core
+, mang đến hiệu suất hoạt động cao hơn đáng kể so với các thế hệ tiền nhiệm đồng thời giảm lượng tiêu thụ điện lên đến
+50%
+, giải quyết mọi tác vụ từ cơ bản đến nâng cao một cách nhẹ nhàng.
+Laptop HP
+được trang bị
+Intel Core i5 1235U
+, một bộ vi xử lý thuộc
+dòng U
+tiết kiệm điện năng nhưng lại sở hữu cấu trúc
+10 nhân
+,
+12 luồng
+tối ưu cho hiệu năng mạnh mẽ, mang đến cho mình trải nghiệm mượt mà, xử lý tốt từ các tác vụ như Word, Excel, Powerpoint cho đến chỉnh sửa hình ảnh 2D trên Photoshop, Canva, Figma,... Mình đo đạc hiệu năng bằng công cụ
+Cinebench R23
+được con số
+7031 điểm
+, vượt trội hơn hẳn so với bộ vi xử lý
+Intel Core i5 1165G7
+.
+Đối với một người dùng là sinh viên như mình thì card tích hợp
+Intel UHD
+cũng đáp ứng đủ các nhu cầu về đồ họa như chỉnh hiệu ứng cơ bản trên Photoshop, thiết kế slide trên PowerPoint và thỉnh thoảng giải trí chơi game. Nhưng nếu bạn muốn nâng cao khả năng xử lý đồ họa của máy thì có thể lắp thêm một thanh RAM khác để kích hoạt
+Dual Channel
+và nâng cấp lên card
+Iris Xe
+mạnh mẽ hơn
+2.7 lần
+.
+Hệ thống tản nhiệt của máy được làm tốt khi mình chơi game trong thời gian dài nhưng nhiệt độ chỉ duy trì ở mức
+70 độ C
+, đối với những bạn chỉ làm việc văn phòng hoặc sử dụng trong phòng máy lạnh thì có thể yên tâm bởi máy sẽ không bị ấm hoặc nóng lên quá nhiều, đảm bảo cho bạn cảm giác thoải mái khi đặt tay soạn thảo và cũng tối ưu được hiệu năng, làm cho các ứng dụng hoạt động nhịp nhàng và trơn tru hơn.
+Laptop RAM 8 GB
+đảm nhiệm tốt khả năng vận hành các ứng dụng văn phòng như Word, Excel, PowerPoint,... cũng như nghe nhạc trên Spotify, YouTube và tìm kiếm thông tin trên Chrome. Bạn có thể lắp thêm một thanh
+RAM 8 GB
+khác nếu ngành học hoặc công việc đòi hỏi phải chạy những ứng dụng nặng.
+Ổ cứng
+SSD 512 GB
+với người dùng là sinh viên như mình cũng đủ để lưu trữ mọi tài liệu học tập cũng như công việc, nhưng nếu có nhu cầu lưu trữ nhiều ứng dụng hoặc tài liệu cỡ nặng thì bạn hoàn toàn có thể tháo ổ SSD trong máy để lắp thanh khác tối đa
+1 TB
+, thoả thích lưu trữ mà không lo hết dung lượng bộ nhớ.
+Màn hình 14 inch sắc nét
+Màn hình của HP 240 G9 có kích thước
+14 inch
+tạo cho mình một không gian vừa đủ để sử dụng, do là tấm nền
+IPS
+nên góc nhìn được mở rộng lên đến
+178 độ
+, trong quá trình sử dụng rất thoải mái, chia sẻ thông tin với những người ngồi bên cạnh đều thấy rõ nội dung hiển thị.
+Màn hình có độ phân giải
+Full HD
+thể hiện được rõ nét khi mình sử dụng để làm việc cũng như giải trí, xem phim. Công nghệ chống chói
+Anti Glare
+cho phép mình sử dụng máy ở những nơi như quán cà phê, văn phòng có đèn sáng cao mà vẫn đảm bảo nội dung hiển thị rõ nét, không bị chói gây khó chịu.
+Tuy vậy nhưng màn hình chỉ đáp ứng được các tác vụ đồ họa ở mức cơ bản với các thông số mình đo bằng công cụ Spyder 5 như
+65% sRGB, 48% Adobe RGB, 48% P3
+, đủ để mình chỉnh sửa các hiệu ứng hoặc layer đơn giản trên Photoshop với mục đích đăng lên mạng xã hội, không cần sự chính xác màu sắc tuyệt đối.
+Máy sở hữu pin
+41 Wh
+nhưng do được trang bị bộ vi xử lý Intel dòng U tối ưu mức điện năng tiêu thụ nên cho mình thời gian sử dụng lên đến 6 tiếng đối với các tác vụ cơ bản làm việc văn phòng hoặc xem phim, đáp ứng đủ nhu cầu sử dụng cho một buổi học, sạc vào giờ nghỉ để tiếp tục sử dụng cho buổi học còn lại.
+Thiết kế linh hoạt, dễ dàng mang theo mọi nơi
+Chiếc
+laptop HP cơ bản
+này vẫn giữ nguyên thiết kế đặc trưng của các mẫu HP thế hệ trước, máy sở hữu lớp vỏ nhựa màu bạc sáng tạo vẻ sang trọng cùng khối lượng chỉ
+1.47 kg
+, thoải mái để bạn bỏ gọn trong một ngăn của balo để mang theo đi học, đi làm hay đi họp nhóm cùng bạn bè ở quán cà phê.
+Bàn phím của
+laptop
+được làm tốt, khoảng cách giữa các phím rộng rãi giúp mình tăng tốc độ soạn thảo văn bản. TouchPad (bàn di chuột) cũng được hoàn thiện tốt, tuy nhiên kích thước hơi nhỏ một chút và hai nút chuột trái phải khi nhấn hơi cứng. Trên thực tế mình cũng không dùng nhiều đến bàn di chuột mà sắm luôn một con chuột để học tập, làm việc thêm chuyên nghiệp.
+Laptop HP có hệ thống cổng kết nối đáp ứng hoàn hảo nhu cầu của mình như: USB 3.1, HDMI, Jack tai nghe 3.5 mm, LAN (RJ45) và USB Type-C. Đặc biệt là cổng mạng LAN thường sẽ hiếm xuất hiện trên các mẫu máy văn phòng nhưng cũng chính trang bị này đã khiến mình chọn mua em máy vì sự tiện dụng khi dùng ở nhà cũng như văn phòng, cho đường truyền kết nối nhanh và ổn định hơn so với mạng không dây.
+Laptop cũng được trang bị chip
+TPM 2.0
+tân tiến, mang đến cho mình cảm giác yên tâm khi sử dụng với khả năng bảo mật tốt hơn, bảo vệ dữ liệu lưu trữ trong máy cũng như tránh được các cuộc tấn công mạnh từ hacker.
+Laptop HP 240 G9 i5 (6L1Y2PA) chinh phục một người dùng là sinh viên như mình bởi bộ vi xử lý
+Intel Gen 12
+tân tiến cùng những thông số kỹ thuật ấn tượng, sẵn sàng đáp ứng mọi nhu cầu học tập - văn phòng.
+Xem thêm
+Đánh giá Laptop HP 240 G9 i5 1235U/8GB/512GB/Win11 (6L1Y2PA)
+4.9
+/5
+3,3k khách hài lòng
+Ai là Khách hàng hài lòng?
+Gồm các khách hàng đã đánh giá 5 sao và khách hàng mua hàng nhưng chưa đánh giá từ 01/2022.
+55 đánh giá
+5
+99.1%
+4
+0.6%
+3
+0.1%
+2
+0%
+1
+0%
+Đánh giá sản phẩm
+Laptop HP 240 G9 i5 1235U/8GB/512GB/Win11 (6L1Y2PA)
+Rất tệ
+Tệ
+Tạm ổn
+Tốt
+Rất tốt
+0 chữ
+Gửi ảnh thực tế
+(tối đa 3 ảnh)
+Tôi sẽ giới thiệu sản phẩm cho bạn bè, người thân
+Tôi đồng ý với
+Chính sách xử lý dữ liệu cá nhân
+của Thế Giới Di Động
+Gửi đánh giá
+Quy định đánh giá
+Chính sách bảo mật thông tin
+Cảm nhận về sản phẩm chưa được nhập, bạn sẵn lòng chia sẻ thêm chứ?
+Không, gửi đánh giá
+Có, viết cảm nhận
+Chờ đã! Bạn chưa gửi đánh giá của mình, bạn có muốn gửi đi không?
+Có
+Không
+Cảm ơn bạn đã đánh giá sản phẩm
+Hệ thống sẽ kiểm duyệt đánh giá của bạn về
+Laptop HP 240 G9 i5 1235U/8GB/512GB/Win11 (6L1Y2PA)
+và đăng lên sau 24h nếu phù hợp với
+quy định đánh giá
+Đóng
+Xem tất cả ảnh
+Đã mua tại TGDĐ
+Sẽ giới thiệu cho bạn bè, người thân
+Đã mua tại ĐMX
+Sẽ giới thiệu cho bạn bè, người thân
+2 ảnh từ khách hàng
+Tất cả
+5
+4
+3
+2
+1
+Thắm
+Đã mua tại TGDĐ
+Sẽ giới thiệu cho bạn bè, người thân
+Làm sao để cài tiếng Việt ạ
+Hữu ích
+Đã dùng khoảng 1 ngày
+Phùng Thị Hương
+Đã mua tại ĐMX
+Sẽ giới thiệu cho bạn bè, người thân
+Mình dùng 1 thời gian thấy máy chạy êm, hoạt động tốt.
+Hữu ích (2)
+Đã dùng khoảng 2 tháng
+Xem 55 đánh giá
+Viết đánh giá

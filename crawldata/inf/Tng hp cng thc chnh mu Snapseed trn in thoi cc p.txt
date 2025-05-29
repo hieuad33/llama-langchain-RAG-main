@@ -1,0 +1,154 @@
+Tổng hợp công thức chỉnh màu Snapseed trên điện thoại cực đẹp
+Snapseed ngày càng được mọi người yêu thích vì là ứng dụng hữu ích tạo nên những bức ảnh sinh động trên điện thoại . Cùng tìm hiểu các công thức chỉnh màu vintage, chỉnh màu chân dung chỉ với điện thoại cùng Snapseed để có thể thỏa sức “sống ảo” nào!
+1. Công thức chỉnh màu vintage trên Snapseed
+Tone vàng
+Công thức bởi @Ann Hii.
+Thông số
+- Độ sáng: +20.
+- Độ tương phản: -12.
+- Độ bão hòa: +9.
+- Môi trường: -11.
+- Vùng sáng: +47.
+- Vùng tối: +40.
+Tone vàng vintage
+Tone trắng - xám
+Công thức bởi @Yến Nhi.
+Thông số
+- Cấu trúc: +50.
+- Tương phản: -30.
+- Bão hoà: -50.
+- Môi trường: +30.
+- Vùng sáng: +20.
+Công thức màu tone trắng -xám
+Tone nâu trầm
+Công thức bởi @Lan Hương Đoàn.
+Thông số
+- Độ sáng: -20.
+- Độ tương phản: +40.
+- Độ bão hòa: -20.
+- Môi trường: +60.
+- Vùng sáng: -35.
+- Vùng tối: +55.
+Tone nâu trầm
+Tone trầm buồn
+Công thức bởi @Ngọc Em.
+Thông số
+- Độ sáng: -53.
+- Độ tương phản: +7.
+- Độ bão hòa: -6.
+- Môi trường: +23.
+- Vùng sáng: -18.
+- Vùng tối: +25.
+- Độ ấm: -12.
+Công thức tone trầm buồn
+Bên cạnh đó, Snapseed có sẵn một số bộ lọc màu vintage cho chúng ta có thể chỉnh ảnh một cách nhanh chóng và đơn giản chỉ với 3 bước sau:
+Bước 1 : Chọn 1 tấm ảnh mà bạn muốn chỉnh sửa.
+Chạm bất kì để mở ảnh
+Bước 2 : Chọn CÔNG CỤ > Cổ điển .
+Nhấn CÔNG CỤ và chọn Cổ điển
+Bước 3 : Lựa chọn bộ lọc mà bạn thích > Bấm vào biểu tượng dấu tick để lưu ảnh.
+Chọn bộ lọc phù hợp và lưu ảnh
+2. Công thức chỉnh màu chân dung trên Snapseed
+Công thức 1
+Công thức bởi @My Duyen.
+Thông số
+- Độ sáng: -55.
+- Độ tương phản: -50.
+- Độ bão hòa: -10.
+- Môi trường: +20.
+- Vùng sáng: -30.
+- Vùng tối: -35.
+- Độ ấm: -5.
+Công thức 1
+Công thức 2
+Công thức bởi @My Duyen.
+Thông số
+- Độ sáng: -30.
+- Độ tương phản:+20.
+- Độ bão hòa: -15.
+- Môi trường: -45.
+- Vùng sáng: -20.
+- Vùng tối: -50.
+Công thức 2
+Công thức 3
+Công thức bởi @Uyên Nhi.
+Thông số
+- Độ sáng: -46.
+- Độ tương phản: -62.
+- Độ bão hòa: +11.
+- Môi trường: -54.
+- Vùng sáng: +23.
+- Vùng tối: -26.
+Công thức 3
+Công thức 4
+Công thức bởi @nhuquynh.
+Thông số
+- Độ sáng: +50.
+- Độ tương phản: +20.
+- Độ bão hòa: -20.
+- Môi trường: +20
+- Vùng sáng: -30.
+- Vùng tối:+20.
+- Độ ấm: -20.
+Công thức 4
+Công thức 5
+Công thức bởi @My Duyen.
+Thông số
+- Độ sáng: +20.
+- Độ bão hòa: -15.
+- Môi trường: +50.
+- Vùng sáng: -40.
+- Vùng tối: -20.
+- Cấu trúc: -10.
+- Tăng độ sắc nét: +75
+Công thức 5
+Công thức 6
+Công thức bởi @My Duyen.
+Thông số
+- HDR Scape: Tự nhiên
+- Độ mạnh bộ lọc: +55.
+- Độ sáng: +5.
+- Độ bão hoà: -20.
+Công thức 6
+Công thức 7
+Công thức bởi @My Duyen.
+Thông số
+- Độ sáng: -20.
+- Độ tương phản: +35.
+- Độ bão hòa: +20.
+- Môi trường: +20.
+- Vùng sáng:+50.
+- Vùng tối: +15.
+Công thức 7
+Công thức 8
+Công thức bởi @Minh Huong.
+Thông số
+- Độ sáng: -24.
+- Độ tương phản: +20.
+- Độ bão hòa: -20.
+- Môi trường: +10.
+- Vùng sáng: -32.
+- Vùng tối: +22.
+Công thức 8
+Công thức 9
+Công thức bởi @MinhAnh.
+Thông số
+- PORTRAIT
+- HDR Scape: +63.
+- Độ sáng: +13.
+- Độ bão hòa: +19.
+Công thức 9
+Công thức 10
+Công thức bởi @Thư Hí.
+Thông số
+- Độ sáng: +26.
+- Độ tương phản: -85.
+- Môi trường: +44.
+- Vùng sáng: -55.
+- Vùng tối: -30.
+- Độ ấm: -10.
+Công thức 10
+Một số mẫu điện thoại giúp bạn lưu lại những tấm ảnh xinh xắn:
+Xem thêm : TOP 9 app chỉnh ảnh đẹp trên iPhone năm 2021 mà bạn không thể bỏ qua 10 cách chụp ảnh đẹp bằng điện thoại khiến nhiều người phải xiêu lòng TOP 8 ứng dụng chụp ảnh film đẹp nhất dành cho iPhone năm 2021
+Bài viết trên đã cung cấp cho các bạn những công thức chỉnh màu thông dụng và xinh xắn. Chúc các bạn có những bức ảnh thật đẹp.
+8.317 lượt xem

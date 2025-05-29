@@ -1,0 +1,42 @@
+Thẻ SD là gì? Các ký hiệu trên thẻ nhớ SD và MicroSD
+Có rất nhiều loại thẻ nhớ trên thị trường, thẻ SD là một trong những loại phổ biến nhất. Vậy thẻ SD là gì, có tác dụng gì và khác gì với thẻ nhớ MicroSD ? Cùng đọc bài viết dưới đây để giải đáp tất cả nhé!
+✏️ Thông tin chính : - Thẻ SD (Secure Digital) là thẻ nhớ dùng để lưu trữ dữ liệu chủ yếu cho máy ảnh và các thiết bị lớn khác. - Thẻ nhớ SD theo phân loại kích thước gồm có: SD: Kích thước tiêu chuẩn 32 x 24 x 2.1mm hoặc 32 x 24 x 1.4mm MiniSD: Kích thước nhỏ hơn, 21.5 x 20 x 1.4mm MicroSD: Kích thước nhỏ nhất, 15 x 11 x 1.0mm. - Thẻ MicroSD: Thẻ nhớ kích thước nhỏ hơn thẻ SD, thường được sử dụng trong điện thoại và máy tính bảng . - Thẻ SD và MicroSD có 3 loại cấp tốc độ để xếp hạng tốc độ cho thẻ nhớ: Cấp tốc độ, Cấp tốc độ UHS và Cấp tốc độ video.
+1. Thẻ SD là gì? Công dụng của thẻ nhớ SD?
+Thẻ SD (Secure Digital Card) là một định dạng thẻ nhớ flash được phát triển bởi Hiệp hội Thẻ SD (SDA) vào năm 2000. Hiện nay, nó đã trở thành chuẩn mực cho lưu trữ.
+Công dụng của thẻ SD là lưu trữ và truyền tải dữ liệu. Thẻ SD cho phép bạn mở rộng không gian lưu trữ của thiết bị, lưu trữ nhiều hình ảnh, video, tài liệu hơn so với bộ nhớ trong. Việc chuyển dữ liệu giữa các thiết bị cũng trở nên dễ dàng hơn nhờ thẻ SD.
+Công dụng của thẻ SD là lưu trữ và truyền tải dữ liệu
+2. Phân biệt thẻ SD với thẻ MicroSD
+- Giống nhau :
+Đều là thẻ nhớ để lưu trữ dữ liệu như ảnh, video, nhạc và tài liệu, sử dụng công nghệ bộ nhớ flash. Cả hai đều có các lớp tốc độ khác nhau (ví dụ: Class 10, UHS-I, UHS-II) để chỉ ra tốc độ truyền dữ liệu.
+- Khác nhau :
+Tiêu chí SD MicroSD Kích thước 32 x 24 x 2.1mm hoặc 32 x 24 x 1.4mm 15 x 11 x 1.0mm (nhỏ hơn thẻ SD) Ứng dụng Lưu trữ trên máy ảnh Lưu trừ trên điện thoại
+Phân biệt thẻ SD với thẻ MicroSD
+3. Phân loại thẻ SD
+Phân loại theo dung lượng
+SD (SD Standard): Dung lượng tối đa 2GB, sử dụng hệ thống file FAT16/32. SDHC (High Capacity): Dung lượng từ 2GB đến 32GB, sử dụng hệ thống file FAT32. SDXC (eXtended Capacity): Dung lượng từ 32GB đến 2TB, sử dụng hệ thống file exFAT. SDUC (Ultra Capacity): Dung lượng từ 2TB đến 128TB, sử dụng hệ thống file exFAT.
+Phân loại theo kích thước
+SD (Standard): Kích thước tiêu chuẩn 32 x 24 x 2.1mm hoặc 32 x 24 x 1.4mm (loại mỏng). MiniSD: Kích thước nhỏ hơn, 21.5 x 20 x 1.4mm. MicroSD: Kích thước nhỏ nhất, 15 x 11 x 1.0mm.
+4. Các ký hiệu cấp tốc độ trên thẻ SD và MicroSD
+Có 3 loại cấp tốc độ để xếp hạng tốc độ cho thẻ nhớ: Cấp tốc độ, Cấp tốc độ UHS và Cấp tốc độ video.
+Các ký hiệu trên thẻ nhớ
+Cấp tốc độ
+Cấp tốc độ được biểu thị bằng ký hiệu chữ “C”, thường dùng cho quay phim HD.
+Có bốn xếp hạng trong Cấp tốc độ:
+C2 (Class 2) C4 (Class 4) C6 (Class 6) C10 (Class 10)
+Cấp tốc độ Tốc độ ghi tối thiểu Định dạng video tương ứng C2 2MB/giây Video tiêu chuẩn C4 4MB/giây Video tiêu chuẩn, Video Full HD/HD C6 6MB/giây Video tiêu chuẩn, Video Full HD/HD, Video 4K C10 10MB/giây Video tiêu chuẩn, Video Full HD/HD, Video 4K
+Cấp tốc độ UHS
+Cấp tốc độ UHS (Tốc độ cực cao) và được biểu thị bằng biểu tượng chữ “U”, phù hợp cho quay phim Full HD, 4K, 8K:
+U1 (Cấp tốc độ UHS 1) U3 (Cấp tốc độ UHS 3)
+Cấp tốc độ Tốc độ ghi tối thiểu Định dạng video tương ứng UHS 1 10MB/giây Video tiêu chuẩn, Video Full HD/HD, Video 4K UHS 3 30MB/giây Video Full HD/HD, Video 4K, Video 8K
+Trong cấp tốc độ UHS sẽ có thêm yếu đố là bus UHS - Tốc độ truyền dữ liệu, gồm:
+UHS-I UHS-II
+Bus UHS Tốc độ truyền UHS-I 104MB/giây UHS-II 12MB/giây
+Thẻ nhớ U1 và U3 đều có thể sử dụng giao diện bus UHS-I nhưng không tương thích với giao diện bus UHS-II. Tốc độ càng cao, việc truyền tải dữ liệu càng nhanh chóng. Tuy nhiên, tốc độ thực tế còn phụ thuộc vào khả năng hỗ trợ của thiết bị.
+Cấp tốc độ video
+Cấp tốc độ video hỗ trợ độ phân giải video cao hơn và các tính năng quay như luồng nhiều video, chụp 360 độ, nội dung thực tế ảo (VR) và video độ phân giải 4K hoặc 8K. Các cấp tốc độ này thường được ký hiệu bằng biểu tượng chữ "V", gồm:
+V6 (Cấp tốc độ video 6) V10 (Cấp tốc độ video 10) V30 (Cấp tốc độ video 30) V60 (Cấp tốc độ video 60) V90 (Cấp tốc độ video 90)
+Cấp tốc độ Tốc độ ghi tối thiểu Định dạng video tương ứng V6 6MB/giây Video tiêu chuẩn, Video Full HD/HD, Video 4K V10 10MB/giây Video tiêu chuẩn, Video Full HD/HD, Video 4K V30 30MB/giây Video Full HD/HD, Video 4K, Video 8K V60 60MB/giây Video 8K, Video 4K V90 90MB/giây Video 8K
+ĐỪNG BỎ LỠ một số thẻ nhớ đang kinh doanh tại Thế Giới Di Động:
+Xem thêm : TOP thẻ nhớ cho camera Thẻ nhớ là gì? TOP thẻ nhớ MicroSD đáng mua nhất Thẻ nhớ 8GB, 16GB, 32GB, 64GB và 128GB giá bao nhiêu tiền?
+Việc hiểu rõ thẻ SD là gì và các phân loại của nó sẽ giúp bạn lựa chọn được chiếc thẻ nhớ phù hợp nhất với nhu cầu sử dụng và thiết bị của mình. Hãy cân nhắc kỹ các yếu tố dung lượng, tốc độ và kích thước trước khi quyết định mua.
+41 lượt xem

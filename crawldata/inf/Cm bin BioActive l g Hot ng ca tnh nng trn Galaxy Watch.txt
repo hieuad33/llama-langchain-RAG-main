@@ -1,0 +1,34 @@
+Cảm biến BioActive là gì? Hoạt động của tính năng trên Galaxy Watch
+Tham khảo đồng hồ thông minh có cảm biến Bioactive đang kinh doanh tại Thế Giới Di Động:
+Cảm biến BioActive là công nghệ cảm biến sức khỏe trên dòng đồng hồ thông minh Samsung Galaxy Watch đã đánh dấu một kỷ nguyên mới về sự sáng tạo đồng hồ thông minh khi mang đến những tính năng theo dõi sức khỏe toàn diện hơn. Cùng mình tìm hiểu cảm biến BioActive là gì? Cách hoạt động của tính năng này như thế nào nhé!
+1. Cảm biến BioActive là gì?
+Cảm biến BioActive là cảm biến 3 trong 1 mang tính đột phá mới của Samsung khi được sử dụng một con chip duy nhất để chạy đồng thời ba cảm biến sức khỏe mạnh mẽ, bao gồm: Cảm biến nhịp tim quang học (PPG) , cảm biến điện tim (ECG) và cảm biến phân tích trở kháng điện sinh học (BIA) . Hai cảm biến đầu tiên để người dùng có thể theo dõi huyết áp, phát hiện nhịp tim bất thường (loại Afib) , đo nồng độ oxy trong máu (blood oxygen level) và lần đầu tiên người dùng có thể phân tích các thành phần trong cơ thể (BIA).
+Tích hợp cảm biến 3 trong 1: PPG, ECG, BIA
+Tìm hiểu về cảm biến phân tích trở kháng điện sinh học (BIA)
+BIA là viết tắt của Bioelectrical Impedance Analysis nghĩa là phân tích trở kháng điện sinh học, nếu bạn đã từng sử dụng các loại cân thông minh, bạn sẽ biết cảm biến này được tích hợp để đo tổng thể các thành phần trong cơ thể của bạn, chẳng hạn như khối lượng cơ xương hay khối lượng chất béo.
+Về mặt công nghệ trên smartwatch, cảm biến này hoạt động bằng cách gửi các dòng điện vi mô (siêu nhỏ) đến cơ thể của bạn để đo lượng mỡ, khối lượng cơ xương, tỷ lệ trao đổi chất cơ bản, tỷ lệ phần trăm nước trong cơ thể, từ đó Watch 4 sẽ ghi lại dữ liệu cho chúng ta như một cuốn sổ tay sức khỏe để người dùng dễ dàng theo dõi tình trạng cơ thể của mình cũng như cung cấp cho bác sĩ khi cần.
+Tìm hiểu về cảm biến phân tích trở kháng điện sinh học (BIA)
+Bạn có thể kiểm tra thành phần cơ thể của mình từ đồng hồ trong vòng chưa đầy một phút chỉ với một vài thao tác trên hai ngón tay. Ngoài ra, cảm biến BIA của Samsung Galaxy Watch 4 được cho là có thể ghi lại tới 2.400 điểm dữ liệu. Mặc dù tính năng này không gây hại cho người dùng, tuy nhiên theo thông tin hãng đưa ra không nên sử dụng tính năng để đo thành phần cơ thể đối với những người đang mang thai.
+Nhận kết quả phân tích thành phần cơ thể qua phương pháp đo BIA
+Công nghệ BioActive hiện hỗ trợ thiết bị nào:
+Samsung Galaxy Watch4 Samsung Galaxy Watch5/ Watch5 Pro Samsung Galaxy Watch6 / Watch6 Classic Samsung Galaxy Watch7 Đồng hồ thông minh Samsung Galaxy Watch Ultra
+Tham khảo đồng hồ thông minh có cảm biến Bioactive đang kinh doanh tại Thế Giới Di Động:
+2. Cách hoạt động của tính năng này trên Samsung Galaxy Watch
+Tính năng mới về đo thành phần cơ thể của Samsung được tạo ra để cung cấp cho người dùng hiểu biết sâu hơn về sức khỏe nói chung và thể chất của họ. Quá trình đo thành phần cơ thể trên Galaxy Watch cũng khá đơn giản và dễ hiểu. Chỉ cần thực hiện theo một vài bước sau đây:
+Các bước đo thành phần cơ thể trên Galaxy Watch 4
+Lưu ý : Nếu bạn đo thành phần cơ thể lần đầu tiên, bạn cần phải nhập chiều cao và giới tính của mình vào trước. Ngoài ra, bạn có thể xem cách đo chi tiết trên màn hình bằng cách chạm vào Cách đo .
+Để xem thông tin bổ sung, liên quan đến cấu tạo cơ thể, hãy sử dụng vòng xoay bezel hoặc vuốt lên hoặc xuống trên màn hình.
+Hướng dẫn tư thế để đo đúng
+Bước 1 : Đặt cả hai cánh tay của bạn ngang với ngực, để nách của bạn được mở và không tiếp xúc với cơ thể của bạn. Bước 2 : Không để hai ngón tay đang đặt trên phím Trang chính và Trở về chạm vào với nhau. Ngoài ra, không chạm các ngón tay vào những bộ phận khác của đồng hồ ngoại trừ các phím. Bước 3 : Giữ tư thế ổn định và không di chuyển để có kết quả đo chính xác. Bước 4 : Tín hiệu có thể bị gián đoạn khi ngón tay của bạn bị khô. Trong trường hợp này, trước khi đo thành phần cơ thể, bạn hãy thoa toner (nước cân bằng da) hoặc kem dưỡng da tay để làm ẩm da trên các ngón tay. Bước 5 : Lau sạch mặt sau của đồng hồ trước khi đo để có kết quả đo chính xác.
+3. Hệ sinh thái tiện lợi của Galaxy
+Ngoài việc nâng cấp những tính năng theo dõi sức khỏe cho người dùng một cách toàn diện hơn, thì điểm đáng chú ý nữa của nhà Samsung khi trang bị cho bộ đôi Watch 4 chính là thế hệ smartwatch đầu tiên chạy hệ điều hành Wear OS do Samsung và Google cùng phát triển, giúp thiết bị được hỗ trợ các ứng dụng từ Google và người dùng hoàn toàn có thể tải các ứng dụng theo sở thích của mình qua Play Store như: Strava , Adidas , Spotify ,... hoặc sử dụng tính năng chỉ đường bằng Google Maps ngay trên chiếc đồng hồ của mình.
+Hệ sinh thái tiện lợi, trang bị hệ điều hành Wear OS đầu tiên
+Từ trước đến nay, hệ sinh thái Galaxy luôn là một yếu tố khiến phần đông người dùng yêu thích những sản phẩm từ Samsung. Với Galaxy Watch 4 Series cũng vậy, bạn có thể dễ dàng đồng bộ giữa smartwatch và smartphone.
+4. Có nên mua Galaxy Watch không? Mua ở đâu?
+Galaxy Watch là chiếc đồng hồ thông minh được đánh giá cao nhờ thiết kế đẹp, tích hợp những tính năng toàn diện về sức khỏe, hệ điều hành và giao diện người dùng hoàn toàn mới cùng hiệu năng phần cứng được nâng cấp mạnh mẽ, nhất là với những người dùng điện thoại Samsung .
+Nếu bạn đang phân vân không biết nên mua Galaxy Watch chính hãng ở đâu, bạn hãy mua tại Thế Giới Di Động hoặc Điện máy XANH để được đảm bảo về chất lượng sản phẩm cũng như các chính sách bảo hành, chương trình khuyến mãi xuyên suốt năm, giao nhanh toàn quốc.
+Chính sách bảo hành đồng hồ thông minh tại Thế Giới Di Động
+Tham khảo đồng hồ thông minh có cảm biến Bioactive đang kinh doanh tại Thế Giới Di Động:
+Xem thêm: Những lợi ích của đồng hồ thông minh Công nghệ NFC trên đồng hồ thông minh là gì? Cảm biến nhịp tim quang học trên đồng hồ thông minh là gì?
+Hy vọng bài viết trên sẽ giúp bạn hiểu về cảm biến BioActive là gì? Cách hoạt động của tính năng này trên Samsung Galaxy Watch 4. Cảm ơn bạn đã theo dõi bài viết!
+598 lượt xem

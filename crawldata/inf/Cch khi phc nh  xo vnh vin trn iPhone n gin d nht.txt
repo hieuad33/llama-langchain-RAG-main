@@ -1,0 +1,71 @@
+Cách khôi phục ảnh đã xoá vĩnh viễn trên iPhone đơn giản, dễ nhất
+ĐỪNG BỎ LỠ 1 số iPhone siêu hot, bán chạy, giảm lớn tại TGDĐ:
+Đối với nhiều người, ảnh là dữ liệu quan trọng nhất được lưu trữ trên iPhone của họ. Vì vậy việc vô tình xoá phải bức ảnh kỷ niệm có thể trở thành một thảm họa. Thật may mắn, luôn có cách để bạn khôi phục, lấy lại ảnh đã xoá vĩnh viễn trên iPhone một cách dễ dàng. Cùng tìm hiểu qua bài viết dưới đây!
+1. Cách k hôi phục ảnh đã xóa trên iPhone bằng ứng dụng Ảnh
+Apple cung cấp thư mục "Đã xóa gần đây" trong ứng dụng Ảnh, về cơ bản giống như Thùng rác trên máy tính của bạn.
+- Bước 1: Tại ứng dụng ảnh, truy cập mục Đã xoá gần đây > Ấn Chọn .
+Vào Đã xoá gần đây
+- Bước 2: Chọn ảnh bạn muốn khôi phục > Chọn Khôi phục .
+Khôi phục ảnh đã xóa trên iPhone bằng ứng dụng Ảnh
+2. Cách khôi phục ảnh đã xoá trên iPhone bằng iCloud
+Nếu vì lý do nào đó mà ảnh không nằm trong khu vực "Đã xóa gần đây", vẫn có khả năng ảnh có thể được khôi phục qua iCloud. Tuy nhiên, cách này chỉ áp dụng cho iCloud còn dung lượng. Đối với iClound hết dụng lượng thì ảnh đã xóa sau đó sẽ không được lưu trữ trong iCloud.
+- Bước 1: Truy cập iCloud > Đăng nhập với Apple ID và mật khẩu của bạn.
+Đăng nhập iCloud
+- Bước 2: Chọn Ảnh.
+Chọn Ảnh
+- Bước 3: Chọn Recently Deleted > Chọn ảnh mà bạn muốn khôi phục > Chọn Recover để hoàn tất.
+Khôi phục ảnh bằng iCloud
+3. Cách khôi phục ảnh đã xoá trên iPhone bằng iTunes
+- Bước 1: Mở iTunes > Kết nối iPhone với MacBook hoặc máy tính chạy hệ điều hành macOS > Nhấp vào Summary > Vào Restore Back…
+Mở iTunes
+- Bước 2: Nhấp vào Restore để hoàn tất.
+Khôi phục ảnh đã xoá bằng iTunes
+4. Cách khôi phục ảnh đã xóa trên iPhone từ Finder
+Kể từ macOS Catalina , Finder chịu trách nhiệm sao lưu iPhone và khôi phục chúng. Nếu đây là lần đầu tiên bạn khôi phục từ bản sao lưu iPhone bằng Finder, bạn không cần phải lo lắng và quá trình thực hiện cực kỳ dễ dàng.
+- Bước 1: Mở Finder trên MacBook > Kết nối iPhone với máy tính > Chọn iPhone của bạn > Nhấp vào nút Restore iPhone .
+Nhấp vào nút Restore iPhone
+- Bước 2: Nhấp vào Restore để hoàn tất.
+Khôi phục ảnh đã xóa từ Finder
+5. Cách khôi phục ảnh đã xóa vĩnh viễn trên iPhone bằng Disk Drill
+Bước 1: Mở Disk Drill > Kết nối iPhone với máy tính > Chọn Get started để chạy ứng dụng > Trong tìm iPhone của bạn và nhấn vào Search for lost data .
+Nhấn vào Search for lost data
+Bước 2 : Nhấp vào Recover trên iPhone > Trong các tệp mà Disk Drill đã quét hoàn tất > Chọn Photos > Chọn những ảnh cần khôi phục > Nhấn vào Choose folder ... để chọn nơi lưu trữ > Chọn Recover để hoàn tất.
+Chọn Recover để hoàn tất
+6. Cách khôi phục ảnh đã xóa vĩnh viễn trên iPhone bằng Dr.Fone
+Bước 1 : Mở dr.fone > Kết nối iPhone với máy tính và chờ một vài giây > Nhấn vào nút Bước 1 : Mở dr.fone > Kết nối iPhone với máy tính và chờ một vài giây > Nhấn vào nút Start Scan .
+Nhấn vào nút Start Scan
+Bước 2 : Nhấn chọn Camera Roll > Chọn những ảnh bạn muốn khôi phục > Nhấn Restore to Device .
+Nhấn Restore to Device
+7. Khôi phục ảnh đã xoá vĩnh viễn trên iPhone bằng ứng dụng thứ 3
+Ngoài Dr.Fone, Disk Drill ở trên, để khôi phục ảnh đã xóa vĩnh viễn trên iPhone bằng ứng dụng của bên thứ ba, bạn có thể sử dụng các phần mềm như EaseUS MobiSaver , PhoneRescue hoặc Stellar Data Recovery . Các bước thực hiện cơ bản như sau:
+Bước 1: Tải và cài đặt phần mềm khôi phục dữ liệu (ví dụ: EaseUS MobiSaver, Dr.Fone, Disk Drill...) trên máy tính Windows hoặc Mac.
+Bước 2 : Kết nối iPhone với máy tính qua cáp USB và mở phần mềm.
+Bước 3 : Chọn chế độ quét dữ liệu từ thiết bị iOS (thường là “Recover from iOS Device”) hoặc từ bản sao lưu iTunes/iCloud nếu có.
+Bước 4 : Bắt đầu quét dữ liệu , phần mềm sẽ tự động tìm kiếm các ảnh đã xóa.
+Bước 5 : Xem trước và chọn ảnh cần khôi phục , sau đó nhấn "Restore" hoặc "Recover" để lưu ảnh về máy tính hoặc đưa trở lại iPhone.
+Lưu ý :
+Hiệu quả khôi phục phụ thuộc vào thời gian xóa ảnh và việc dữ liệu mới có ghi đè lên bộ nhớ hay chưa. Một số phần mềm yêu cầu trả phí để khôi phục đầy đủ dữ liệu. Nên thao tác càng sớm càng tốt sau khi xóa để tăng khả năng lấy lại ảnh.
+Ứng dụng. EaseUS MobiSaver khôi phục ảnh xoá vĩnh viễn
+8. Cách khôi phục ảnh ẩn trên iPhone
+Bước 1 : Mở ứng dụng Ảnh (Photos) > Cuộn xuống phần Tiện ích (Utilities) > Chọn mục Bị ẩn (Hidden) .
+Chọn mục Bị ẩn
+Bước 2 : Nhấn Chọn (Select) ở góc trên bên phải > Chọn các ảnh muốn khôi phục.
+Chọn các ảnh muốn khôi phục
+Bước 3 : Nhấn dấu Ba chấm ở dưới cùng bên phải màn hình > Chọn Bỏ ẩn là xong.
+Chọn Bỏ ẩn là xong
+9. Một số câu hỏi thường gặp
+Làm sao để tránh mất ảnh?
+Ảnh thường là kỷ vật gắn liền với kỷ niệm. Vì vậy, đôi khi vô ý bạn đã có thể xoá mất nhiều bức ảnh đáng quý trong quá khứ mà không thể tìm lại. Để tránh mất ảnh, bạn có thể sử dụng một số cách dưới đây:
+- Sao lưu iPhone của bạn : Ngoài việc sử dụng iCloud, bạn cũng nên tạo bản sao lưu cục bộ cho iPhone bằng iTunes (macOS 10.14 trở lên) hoặc Finder (macOS 10.15 trở lên).
+- Sử dụng các dịch vụ lưu trữ đám mây của bên thứ ba : Các dịch vụ lưu trữ đám mây như Mega hoặc Google cung cấp một lượng lớn dung lượng lưu trữ miễn phí giúp bạn lưu trữ hình ảnh dễ dàng và an toàn hơn.
+- Bảo vệ iPhone của bạn : Kích hoạt Touch ID và Face ID để hạn chế việc người khác tự tiện truy cập vào điện thoại của bạn.
+- Đừng bẻ khoá iPhone của bạn : Các ứng dụng trên iPhone đã bẻ khóa không phải tuân theo các hạn chế do Apple đưa ra, nghĩa là chúng có thể dễ dàng sửa đổi tệp hệ thống và những ứng dụng khác. Bẻ khoá iPhone đồng nghĩa với việc bạn chấp nhận rủi ro mất ảnh.
+Ảnh đã xoá trên iPhone sẽ đi về đâu?
+Khi bạn xóa ảnh trên iPhone, ảnh sẽ không biến mất ngay lập tức khỏi thiết bị của bạn. Thay vào đó, nó được chuyển đến thư mục Đã xóa gần đây trong vòng 30 ngày . Bạn có thể tìm thấy thư mục này trong ứng dụng Ảnh. Để khôi phục ảnh đã xóa từ ảnh đó, chỉ cần chạm vào ảnh đó và chọn Khôi phục.
+Có thể khôi phục ảnh đã xoá vĩnh viễn trên iPhone không?
+Có thể. Đầu tiên bạn nên kiểm tra album Đã xóa gần đây trong ứng dụng Ảnh, trên iPhone. Bạn cũng có thể sử dụng ứng dụng khôi phục dữ liệu như Disk Drill để khôi phục ảnh đã xóa không có trong album Đã xóa gần đây. Cuối cùng, bạn có thể khôi phục chúng từ bản sao lưu iCloud của mình.
+ĐỪNG BỎ LỠ 1 số điện thoại siêu hot, bán chạy, giảm lớn tại TGDĐ:
+Xem thêm: [Video] Cách khôi phục ghi chú trên iPhone bị mất cực đơn giản 5 cách khắc phục lỗi màn hình điện thoại bị nhấp nháy cực hiệu quả Tổng hợp bảng giá iPhone hiện nay mới nhất 2023 cập nhật liên tục Hướng dẫn cách kết nối iPhone với MacBook nhanh chóng, đơn giản Tải kho hình nền iPhone đẹp miễn phí
+Trên đây là bài viết về 7 cách khôi phục, lấy lại ảnh đã xoá trên iPhone. Chúc bạn thực hiện thành công!
+132.151 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

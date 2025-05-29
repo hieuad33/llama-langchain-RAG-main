@@ -1,0 +1,37 @@
+Cách sử dụng ứng dụng KIDCARE VN chi tiết, hữu ích cho bậc phụ huynh
+Tham khảo các mẫu đồng hồ Định vị trẻ em GIÁ SỐC tại Thế Giới Di Động
+Đồng hồ KIDCARE cùng với ứng dụng KIDCARE VN là một giải pháp giúp phụ huynh dễ dàng quản lý và theo dõi con cái, đồng thời mang đến sự an tâm trong suốt quá trình trưởng thành của trẻ. Hãy cùng tìm hiểu cách sử dụng ứng dụng KIDCARE VN một cách chi tiết và hiệu quả nhất cho phụ huynh trong bài viết dưới đây.
+1. Giới thiệu về ứng dụng KIDCARE VN
+Ứng dụng KIDCARE VN là một công cụ mạnh mẽ giúp phụ huynh theo dõi và quản lý hoạt động của trẻ thông qua chiếc đồng hồ KIDCARE. Đây là một giải pháp tuyệt vời cho những bậc phụ huynh giúp quản lý việc học tập, theo dõi sự an toàn của con mà không cần giám sát liên tục.
+Tính năng chính của ứng dụng KIDCARE VN:
+Định vị chính xác : Sử dụng GPS và GLONASS để xác định vị trí chính xác của trẻ. Cuộc gọi video và tin nhắn thoại : Giúp cha mẹ giao tiếp trực tiếp với con cái qua video call và tin nhắn thoại. Chế độ SOS : Đảm bảo con bạn có thể gửi tín hiệu khẩn cấp khi cần sự trợ giúp. Quản lý cuộc gọi và tin nhắn : Cho phép quản lý và kiểm soát cuộc gọi, tin nhắn từ và đến thiết bị của trẻ.
+2. Cài đặt và đăng ký tài khoản trên ứng dụng KIDCARE VN
+Lưu ý: Đồng hồ Kid Care đã được lắp SIM Nano và đăng ký gói cước 4G để kết nối và sử dụng với ứng dụng.
+Dưới đây là cách đăng ký tải khoản KIDCARE VN để sử dụng:
+Bước 1: Đăng ký ứng dụng
+Tải ứng dụng KIDCARE VN từ Google Play Store hoặc App Store . Mở ứng dụng KIDCARE VN và chọn “Đăng ký”. Sau đó, Nhập địa chỉ email và mật khẩu của bạn. Sau đó bạn bạn nhập mã xác minh gửi qua email và nhập vào ứng dụng để hoàn tất đăng ký.
+Nhập email của bạn sau đó nhập mã xác minh
+Bước 2: Kết nối với đồng hồ thông minh
+Trên ứng dụng, bạn chọn "Kết nối đồng hồ", sau đó quét mã QR hiển thị trên màn hình đồng hồ. Ở bước này, bạn cần đảm bảo rằng đồng hồ KIDCARE đã được lắp SIM Nano và đăng ký gói cước 4G.
+Quét mã QR hoặc nhập mã CODE để kết nối với ứng dụng
+3. Cách sử dụng các tính năng trên đồng hồ KIDCARE
+Ứng dụng KIDCARE VN hiện có 4 tính năng chính bao gồm: Quản lý kết nối, quản lý lịch học, định vị, trò chuyện
+Quản lý kết nối với tính năng Thêm
+Tính năng này giúp phụ huynh dễ dàng thêm và quản lý thiết bị đồng hồ KIDCARE VN của trẻ trong ứng dụng. Bạn có thể kết nối đồng hồ với ứng dụng bằng cách quét mã QR và theo dõi tình trạng kết nối của thiết bị. Đồng thời, bạn cũng có thể hủy kết nối và chuyển đổi giữa các thiết bị khác nhau khi cần thiết.
+Các chức năng trên ứng dụng
+Bên cạnh đó, trong mục Thêm còn có chức năng Cuộc Gọi Bí Mật: Đồng hồ tự động gọi vào số điện thoại phụ huynh đã nhập. Tính năng chụp ảnh bí mật, cho phép Đồng hồ tự động chụp ảnh xung quanh và gửi về ứng dụng để bạn cập nhật kịp thời nơi trẻ đang ở.
+Các chức năng trên tính năng Thêm
+Thêm lịch học
+Tính năng Thêm lịch học giúp phụ huynh tạo và quản lý lịch học. Bạn có thể thêm các môn học, giờ học và các hoạt động ngoại khóa vào ứng dụng, giúp theo dõi chặt chẽ lịch trình học tập của trẻ. Điều này giúp bạn đảm bảo trẻ tuân thủ lịch học và có thời gian học tập hợp lý.
+Các chức năng trong phần lịch học
+Thiết lập định vị
+Thiết lập định vị cho phép bạn theo dõi vị trí của trẻ mọi lúc, mọi nơi thông qua GPS. Bạn có thể xác định chính xác nơi trẻ đang ở và kiểm tra lịch sử di chuyển của trẻ.Đặc biệt, nếu trẻ ra ngoài khu vực an toàn đã được thiết lập, bạn sẽ nhận được thông báo ngay lập tức.
+Tính năng định vị GPS trên ứng dụng
+Trò chuyện
+Tính năng Trò chuyện giúp phụ huynh và trẻ có thể liên lạc trực tiếp thông qua ứng dụng. Bạn có thể gửi tin nhắn thoại hoặc thực hiện cuộc gọi video với trẻ một cách dễ dàng, giúp duy trì sự kết nối giữa gia đình và trẻ ngay cả khi ở xa.
+Các chức năng trong phần Trò chuyện
+Tham khảo các mẫu đồng hồ Định vị trẻ em GIÁ SỐC tại Thế Giới Di Động
+Xem thêm : Top 10 đồng hồ thông minh hỗ trợ nghe gọi cho trẻ em nên mua nhất 2022 Top 7 đồng hồ định vị trẻ em tốt nhất Thế Giới Di Động hiện nay TOP 10 đồng hồ trẻ em màu hồng dành tặng bé đáng yêu nhất tại TGDĐ Gợi ý bạn TOP 12 mẫu đồng hồ cho con gái nhân ngày 20/10 rất ý nghĩa
+Như vậy, với bài viết trên, hi vọng rằng bạn đã biết cách sử dụng đồng hồ KIDCARE một cách hiệu quả hơn. Nếu bạn muốn cập nhật thêm những thông tin hữu ích về công nghệ, đừng quên theo dõi Thế Giới Di Động hàng ngày nhé.
+17 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

@@ -1,0 +1,82 @@
+Lỗi cuộc gọi bị hủy – Nguyên nhân và cách xử lý nhanh chóng
+Bạn đang thực hiện một cuộc gọi nhưng chưa thành công thì gặp lỗi cuộc gọi tự động kết thúc. Nếu bạn chưa biết phải giải quyết vấn đề này như thế nào thì hãy cùng Thế Giới Di Động tìm hiểu khắc khắc phục qua bài viết sau đây nhé!
+Trước khi đi đến khắc phục lỗi điện thoại tự kết thúc cuộc gọi, bạn hãy kiểm tra và đảm bảo một số yếu tố như: + Lỗi không phải do tài khoản của người thực hiện cuộc gọi đã hết + Điện thoại còn đủ pin để thực hiện cuộc gọi + Người gọi không sử dụng dịch vụ hay cài đặt giới hạn thời gian gọi trên điện thoại + Chế độ máy bay đã được tắt và không được bật lên trong quá trình gọi điện Nếu việc cuộc gọi bị huỷ, tự kết thúc không phải sự cố nhất thời do một trong các nguyên nhân trên, hãy xem tiếp các hướng xử lý sau nhé!
+1. Đảm bảo cuộc gọi không bị vô tình ấn hủy
+Nguyên nhân :
+Một số người dùng có thói quen để điện thoại ở trước miệng và bật loa lớn để nói chuyện thay vì để sát bên tai. Khi bạn đặt điện thoại xa tai thì màn hình sẽ tự động bật lên. Có thể bạn đã vô tình chạm vào màn hình bằng ngón tay hoặc khuôn mặt khiến cuộc gọi kết thúc mà không để ý.
+Ngoài ra, với một số điện thoại Android , có thể bạn đã bật chế độ "Ấn nút nguồn tắt cuộc gọi" và vô tình ấn nút nguồn khi đang thực hiện cuộc gọi dẫn đến cuộc gọi vô tình bị kết thúc.
+Cuộc gọi vô tình bị ấn hủy
+Cách khắc phục :
+Giữ khoảng cách nhất định với thiết bị của bạn khi đang thực hiện cuộc gọi.
+Nếu bạn đã bật chế độ "Ấn nút nguồn tắt cuộc gọi" trên điện thoại Android thì có thể tắt như sau:
+Bước 1 : Vào Cài đặt > Chọn Cài đặt bổ sung > Chọn Trợ năng .
+Chọn Trợ năng trong Cài đặt bổ sung
+Bước 2 : Tắt tính năng Nút nguồn kết thúc cuộc gọi .
+Tắt tính năng ấn nút nguồn kết thúc cuộc gọi
+2. Kiểm tra tín hiệu mạng, di chuyển đến nơi thích hợp
+Nguyên nhân :
+Thông thường, nguyên nhân lớn nhất khiến cuộc gọi bị hủy chính là do tín hiệu mạng. Khi mạng Internet bị lỗi thì dù bạn đang thực hiện cuộc gọi cũng sẽ lập tức bị gián đoạn thậm chí sẽ kết thúc ngay lập tức.
+Kiểm tra tín hiệu mạng và di chuyển đến nơi thích hợp
+Cách khắc phục :
+Bạn nên kiểm tra lại kết nối mạng trên chính thiết bị cũng như mượn điện thoại của bạn bè, người xung quanh có cùng nhà mạng với bạn để xem thử tín hiệu mạng có ổn định hay không.
+Nếu tín hiệu không ổn định, bạn có thể di chuyển đến một nơi khác thích hợp hơn để thực hiện cuộc gọi.
+3. Khởi động lại điện thoại
+Nguyên nhân :
+Do điện thoại của bạn đang bị lỗi hệ thống hoặc quá nhiều phần mềm đang chạy cùng một lúc, gây nên xung đột mà bạn không thể kiểm soát được. Điều này dẫn đến việc điện thoại của bạn tự kết thúc trong khi có cuộc gọi đến.
+Khởi động lại điện thoại
+Cách khắc phục :
+Bạn cần khởi động lại điện thoại ngay lập tức vì hành động này sẽ giúp điện thoại khởi chạy lại hệ thống, tắt đi các ứng dụng đang sử dụng, giúp cho điện thoại hoạt động ổn định và mượt mà hơn.
+Tham khảo thêm qua các bài viết sau: Cách khởi động lại điện thoại Android mọi dòng máy Hướng dẫn cách khởi động lại iPhone đầy đủ, chi tiết nhất
+4. Thử gọi cho người khác hoặc gọi ở thời điểm khác
+Nguyên nhân :
+Đôi khi, do đường truyền tín hiệu từ nhà mạng bị chập chờn, không ổn định khiến bạn gọi lúc được lúc không được hoặc do sóng điện thoại ở chỗ bạn đang gặp vấn đề hoặc đang sửa chữa, bảo trì khiến bạn không thể thực hiện các cuộc gọi ngay được.
+Thử gọi cho người khác hoặc gọi ở thời điểm khác
+Cách khắc phục :
+Nếu cần thiết bạn thử gọi đến một số điện thoại khác xem đường truyền có ổn định hay không. Nếu ổn định thì hãy thử gọi lại số mà bạn muốn gọi.
+Giả sử nếu không có việc gấp cần phải gọi ngay thì bạn nên đợi đến một thời điểm khác rồi hãy gọi lại nhé!
+5. Kiểm tra lại cài đặt cuộc gọi
+Trước đây, một số người dùng thường cài đặt để ẩn đi số điện thoại mỗi khi thực hiện cuộc gọi. Vì thế, khi có cuộc gọi đến người nhận chỉ thấy UNKNOWN , BLOCKED ,...
+Nhưng nay bạn không thể ẩn số đi được vì chỉ có thuê bao trả sau mới có thể áp dụng và phải liên hệ đến nhà mạng để thực hiện điều này.
+Trên điện thoại Android, bạn vào phần Cài đặt bổ sung trong phần cài đặt sẽ thấy mục Số của tôi dùng để ẩn số điện thoại bị làm mờ. Đó là vì nhà mạng đã ngăn chặn điều này.
+Tìm đến mục Số của tôi dùng để ẩn số điện thoại bị làm mờ
+Trên iPhone cũng tương tự như vậy, khi bạn vào mục Điện thoại trong phần cài đặt, sẽ thấy mục Hiện ID người gọi của tôi bị làm mờ đi, không thể tắt tính năng này được.
+Bật Hiện ID người gọi của tôi trên iPhone
+Tuy nhiên, đối với những người dùng cũ có thể đã cài đặt ẩn số ở một thời điểm nào đó trước đây và bây giờ nó xảy ra lỗi hủy cuộc gọi. Nếu bạn thuộc trường hợp này thì hãy liên hệ đến các tổng đài nhà mạng để được tư vấn và giúp đỡ.
+Số điện thoại tổng đài của các nhà mạng phổ biến tại Việt Nam: - Viettel : 1800 8168 (Cước phí: Miễn phí) - Vinaphone : 18001091 (Cước phí: Miễn phí) - Mobifone : 9090 (Cước phí: 200 đồng/phút, miễn phí đối với các thuê bao trả sau)
+6. Kiểm tra, vệ sinh SIM điện thoại
+Nguyên nhân :
+SIM điện thoại sau một thời gian sẽ bám đầy bụi bẩn hoặc có thể SIM bị lỗi khi cắt. Điều này khiến tín hiệu truyền từ cột sóng nhà mạng đến điện thoại bị yếu gây ảnh hưởng đến cuộc gọi của bạn.
+Cách khắc phục :
+Hãy tháo SIM ra và vệ sinh SIM cũng như khe cắm SIM rồi thử thực hiện lại một cuộc gọi khác. Nếu bạn vẫn không thực hiện được cuộc gọi thì hãy thay SIM cho điện thoại của mình nhé.
+Kiểm tra, vệ sinh SIM điện thoại
+7. Đặt lại cài đặt mạng
+Nguyên nhân :
+Đôi khi thiết bị của bạn gặp một vài lỗi về mạng khiến cuộc gọi gặp trục trặc trong quá trình gọi. Vì thế việc đặt lại cài đặt mạng sẽ đưa các cài đặt WiFi , 3G , 4G , mạng di động, Bluetooth ,... trở về cài đặt ban đầu.
+Cách khắc phục :
+Bạn cần tiến hành đặt lại cài đặt mạng cho thiết bị của mình khi gặp phải sự cố này nhé!
+Để đặt lại cài đặt mạng trên điện thoại Android, bạn thực hiện như sau:
+Bước 1 : Vào phần Cài đặt > Chọn Hệ thống .
+Chọn Hệ thống trong phần Cài đặt
+Bước 2 : Chọn Tùy chọn đặt lại > Chọn Đặt lại Wi-Fi, di động và Bluetooth .
+Chọn Đặt lại Wi-Fi, di động và Bluetooth
+Bước 3 : Nhấn nút Đặt lại các tùy chọn cài đặt > Xác nhận Đặt lại các tùy chọn cài đặt .
+Đặt lại cài đặt mạng trên Android
+Để đặt lại cài đặt mạng trên điện thoại iPhone, bạn thực hiện như sau:
+Bước 1 : Vào Cài đặt > Chọn Cài đặt chung > Chọn Đặt lại .
+Chọn Đặt lại trong Cài đặt chung
+Bước 2 : Nhấn vào Đặt lại cài đặt mạng > Nhập mật khẩu màn hình iPhone (nếu có).
+Nhấn vào Đặt lại cài đặt mạng
+Bước 3 : Nhấn Đặt lại cài đặt mạng .
+Đặt lại cài đặt mạng iPhone
+8. Đem điện thoại đến trung tâm bảo hành, sửa chữa
+Nguyên nhân :
+Đôi khi điện thoại của bạn bị hư tổn những phần cứng bên trong mà bạn không thể nào kiểm tra chính xác để khắc phục được nếu không có chuyên môn kỹ thuật.
+Cách khắc phục :
+Bạn cần mang điện thoại đến các trung tâm uy tín để được kỹ thuật viên hỗ trợ kiểm tra và tiến hành sửa chữa.
+Thế Giới Di Động là một trong những trung tâm uy tín, đáng tin cậy để bạn có thể tin tưởng gửi gắm thiết bị của mình.
+Thế Giới Di Động là trung tâm uy tín để bạn tin cậy
+Tham khảo một số mẫu điện thoại đang kinh doanh tại Thế Giới Di Động:
+Xem thêm : Cách khôi phục font chữ mặc định cho điện thoại Android cực đơn giản [Video] Cách đăng xuất tài khoản Google trên điện thoại, máy tính Cách xóa vĩnh viễn tài khoản Outlook trên máy tính, điện thoại
+Trên đây là một số cách khắc phục khi bạn gặp sự cố cuộc gọi đang thực hiện nhưng bị hủy hoặc tự kết thúc. Cảm ơn bạn đã theo dõi và hẹn gặp lại ở các bài viết sau.
+95.679 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

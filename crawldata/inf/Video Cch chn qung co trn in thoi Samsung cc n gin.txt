@@ -1,0 +1,54 @@
+[Video] Cách chặn quảng cáo trên điện thoại Samsung cực đơn giản
+ĐỪNG BỎ LỠ 1 số mẫu Sạc dự phòng có tiện ích sạc nhanh đang được giảm giá tại Thế Giới Di Động:
+Khi sử dụng điện thoại thông minh có thể bạn sẽ gặp những quảng cáo gây bất tiện khi sử dụng. Trong bài viết này, Thế Giới Di Động  sẽ hướng dẫn bạn cách chặn quảng cáo trên điện thoại Samsung cực đơn giản và nhanh chóng.
+1. Cách tắt quảng cáo trên điện thoại Samsung
+Trong phần này, Thế Giới Di Động sẽ hướng dẫn bạn cách chặn quảng cáo trên trình duyệt Samsung Internet, Trình duyệt Chrome, tắt quảng cáo xuất hiện trên màn hình khóa điện thoại Samsung.
+Trên trình duyệt Samsung Internet
+Video hướng dẫn chặn quảng cáo trên trình duyệt Samsung Internet.
+Để tắt quảng cáo trên điện thoại Samsung trên trình duyệt Samsung Internet, các bạn phải tải về máy một tiện ích mở rộng tên là Adblock Plus for Samsung Internet . Đây là tiện ích được cung cấp bởi bên thứ ba và có thể chặn được nhiều loại quảng cáo như: quảng cáo hình ảnh, video, pop-up,... nhằm tăng trải nghiệm lướt web cho người dùng Samsung.
+Bước 1 : Vào ứng dụng Internet có sẵn trên Samsung > Nhấn vào mục 3 dấu gạch ngang .
+Vào Internet và chọn mục 3 dấu gạch ngang
+Bước 2 : Chọn Bộ chặn quảng cáo > Tải xuống Bộ chặn quảng cáo bạn muốn.
+Nhấn vào Bộ chặn quảng cáo và tải nó xuống
+Bước 3 : Nhấn Cài đặt để bộ chặn quảng cáo sẽ tự động tải và cài đặt vào máy.
+Nhấn Cài đặt để ứng dụng tự cài vào trình duyệt
+Bước 4 : Gạt bật công tắc để kích hoạt chế độ chặn quảng cáo.
+Gạt công tắt để kích hoạt ứng dụng
+Trên trình duyệt Chrome
+Google Chrome có trang bị trình chặn quảng cáo trên điện thoại Samsung nói riêng và dành cho điện thoại Android nói chung. Với chức năng chính là loại bỏ các quảng cáo và cửa sổ bật lên (pop-up) xâm nhập, nhằm bảo vệ quyền riêng tư khi lướt web cũng như tránh truy cập vào những trang web độc hại, gây rò rỉ thông tin. Thực hiện theo các bước bên dưới để bật trình chặn quảng cáo Chrome:
+Bước 1 : Mở Google Chrome trên thiết bị Samsung của bạn.
+Mở ứng dụng Google Chrome trên điện thoại
+Bước 2 : Nhấn vào menu hồ sơ ở góc trên bên trái để mở Cài đặt . Cuộn màn hình xuống phần Cài đặt trang web .
+Chọn hình hồ sơ ở góc trên bên trái để mở Cài đặt
+Bước 3 : Chọn vào Quảng cáo .
+Ở giao diện Cài đặt trang web, chọn Quảng cáo
+Bước 4 : Bật nút chuyển đổi để kích hoạt tính năng như hình minh họa phía dưới.
+Gạt sang phải để kích hoạt
+2. Cách tắt quảng cáo xuất hiện trên màn hình khóa điện thoại Samsung
+Nguyên nhân xuất hiện quảng cáo trên màn hình điện thoại Samsung : - Do những ứng dụng mà bạn đã cài đặt ở trên máy và đã vi phạm các điều khoản chính sách của Google. - Nhà phát triển can thiệp vào quyền truy cập trên điện thoại khi bạn tải ứng dụng về máy.
+Video hướng dẫn cách tắt quảng cáo xuất hiện trên màn hình khóa điện thoại Samsung.
+Việc hiển thị quảng cáo trên màn hình khóa điện thoại Samsung thường xảy ra ở những chiếc smartphone giá rẻ hoặc tầm trung của Samsung như dòng Samsung Galaxy A hoặc Galaxy M . Samsung sẽ kích hoạt dịch vụ màn hình Glance Lock để hiển thị quảng cáo trên màn hình khóa.
+Mặc dù chúng không gây khó chịu cho bạn nhưng chắc chắn chúng sẽ làm máy bạn nhanh hết pin. Thực hiện ngay các bước dưới đây để khắc phục tình trạng màn hình khóa điện thoại Samsung bị hiện quảng cáo liên tục sẽ chấm dứt ngay lập tức:
+Tìm ra các ứng dụng tạo quảng cáo bằng CH Play
+Bước 1 : Vào CH Play > Chọn vào biểu tượng Tài khoản của bạn.
+Vào CH Play và chọn biểu tượng Tài khoản
+Nếu chưa có tài khoản CH Play thì mời bạn tham khảo thêm bài viết: [Video] Cách tạo tài khoản Google trên điện thoại, máy tính đơn giản .
+Bước 2 : Chọn Ứng dụng và trò chơi của tôi > Chọn tab Đã cài đặt .
+Chọn Ứng dụng và trò chơi của tôi và chọn tab Đã cài đặt
+Bước 3 : Sử dụng Bộ lọc > Chuyển sang chế độ xem ứng dụng Lần sử dụng cuối .
+Sử dụng Bộ lọc và chuyển sang chế độ xem ứng dụng Lần sử dụng cuối
+Bước 4 : Các ứng dụng chứa quảng cáo bạn thường không sử dụng mà nó vẫn xuất hiện trên cùng > Nhấn Gỡ cài đặt chúng để tắt quảng cáo.
+Gỡ bỏ các ứng dụng không được sử dụng nằm ở trên cùng
+Kiểm tra lại thiết lập hệ thống
+Bước 1 : Vào Cài đặt > Chọn Ứng dụng .
+Vào Cài đặt và chọn Ứng dụng
+Bước 2 : Chọn biểu tượng dấu 3 chấm dọc > Chọn Truy cập đặc biệt .
+Chọn biểu tượng dấu 3 chấm dọc và chọn Truy cập đặc biệt
+Bước 3 : Chọn Xuất hiện trên cùng > Nhấn Tắt quyền truy cập hoặc gỡ cài đặt những ứng dụng mà bạn nghi ngờ chứa quảng cáo.
+Chọn Xuất hiện trên cùng và nhấn Tắt quyền truy cập
+SĂN NGAY MÃ GIẢM SỐC TGDĐ TẠI ĐÂY!!
+Một số mẫu điện thoại Samsung đang kinh doanh tại Thế Giới Di Động:
+Xem thêm : Tại sao không nạp được thẻ điện thoại? Nguyên nhân và cách khắc phục Cách khắc phục điện thoại bị nóng khi chơi game cực đơn giản, hiệu quả Cách cài đặt ngày giờ trên điện thoại Samsung Galaxy J7 cực đơn giản 4 cách chặn quảng cáo trên điện thoại OPPO đơn giản hiệu quả
+Bài viêt vừa rồi đã hướng dẫn bạn cách chặn quảng cáo trên điện thoại Samsung cực đơn giản. Chúc các bạn thực hiện thành công!
+139.777 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

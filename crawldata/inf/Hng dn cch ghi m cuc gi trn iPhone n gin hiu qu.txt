@@ -1,0 +1,40 @@
+Hướng dẫn cách ghi âm cuộc gọi trên iPhone đơn giản, hiệu quả
+Đôi khi bạn có nhu cầu ghi âm lại cuộc gọi trên iPhone , nhưng không biết làm như thế nào để thực hiện. Bài viết dưới đây sẽ hướng dẫn bạn một số cách để ghi âm lại cuộc gọi trên iPhone một cách đơn giản.
+Lưu ý : Trước khi thực hiện ghi âm cuộc gọi, bạn cần xin phép phía đầu dây bên kia nhằm tôn trọng quyền riêng tư, đồng thời tránh một số rắc rối có thể gặp sau này nhé!
+1. Cách sử dụng iPhone ghi âm khi đang gọi điện
+Cách này áp dụng cho các mẫu iPhone Xs trở về sau, có thể nâng cấp lên iOS 18.1 . Các mẫu điện thoại iPhone Xs trở về trước sẽ chưa sử dụng được tính năng này.
+Bước 1 : Bạn thực hiện cuộc gọi như bình thường > Chọn biểu tượng ghi âm ở góc trái màn hình > Màn hình sẽ hiện thông báo " Cuộc gọi này sẽ được ghi âm ". Sau 3s, cả 2 bên đều nhận được thông báo " Cuộc gọi này sẽ được ghi âm ".
+Chọn vào biểu tượng trên góc trái màm hình > Chờ cuộc thoại bắt đầu ghi âm
+Bước 2: Cuộc gọi sẽ bắt đầu ghi âm và sẽ được lưu sau khi kết thúc cuộc gọi. Nếu bạn muốn bấm dừng trước khi kết thúc cuộc gọi thì chạm vào nút màu đỏ để lưu lại.
+Cuộc gọi sẽ được lưu lại vào Ghi chú
+Bước 3: Để nghe lại ghi âm, bạn mở ứng dụng Ghi chú trên iPhone, chọn Bản ghi cuộc gọi > sau đó chọn bản ghi bạn muốn nghe để nghe lại.
+Chọn Bản ghi cuộc gọi > Chọn tên bản ghi bạn muốn nghe lại
+2. Dùng điện thoại khác để thu âm
+Cách thực hiện vô cùng đơn giản, và bạn chỉ cần chuẩn bị thêm một chiếc điện thoại khác. Trong quá trình thực hiện cuộc gọi, bạn hãy bật loa ngoài và mở ứng dụng Ghi âm trên thiết bị còn lại để ghi âm. Hoặc nếu bạn muốn chất lượng âm thanh tốt hơn, bạn có thể trang bị thêm các thiết bị thu âm chuyên dụng.
+3. Ghi âm cuộc gọi bằng ứng dụng
+Google Voice
+Bạn có thể sử dụng Google Voice để ghi âm cuộc gọi trên iPhone cũng như các thiết bị khác. Tuy nhiên, Google Voice chỉ ghi lại các cuộc gọi đến. Vì vậy bạn sẽ phải yêu cầu người gọi thực hiện cuộc gọi thì mới ghi âm được.
+Để sử dụng Google Voice để ghi âm cuộc gọi trên iPhone 13 các bạn thực hiện như sau:
+- Bước 1 : Tải Google Voice cho thiết bị. Hoặc bạn có thể truy cập vào trang web Voice
+- Bước 2 : Nhấn vào mục Calls (Cuộc gọi) > Thiết lập Ghi âm cuộc gọi bằng cách gạt thanh ngang sang phải ở mục Incoming call options .
+Nhấn vào mục Call rồi kích hoạt mục Incoming call options
+- Bước 3 : Tiến hành cuộc gọi rồi nhấn phím “ 4 ” trên bàn phím cuộc gọi để cho phép ghi âm cuộc gọi.
+Nhấn phím 4 để cho phép ghi âm cuộc gọi
+Khi thực hiện thao tác này, bạn và người ở đầu dây bên kia sẽ nghe thấy một tin nhắn thoại tự động thông báo rằng cuộc gọi sẽ được ghi âm. Bạn có thể dễ dàng dừng ghi bằng cách nhấn lại vào số 4 trên bàn phím hoặc đơn giản bằng cách gác máy.
+- Bước 4 : Bật tab Voicemail (Cuộc gọi và Thư thoại) > Nhấp vào mũi tên để nghe lại cuộc gọi đã ghi âm.
+Bật tab Voicemail rồi nhấp vào mũi tên để nghe lại cuộc gọi đã ghi âm
+TapeACall
+TapeACall là ứng dụng tạo cuộc gọi ba chiều giữa bạn, người gọi bạn muốn ghi âm và dịch vụ của công ty. Khi đang thực hiện một cuộc gọi mà bạn muốn ghi âm, chỉ cần khởi chạy TapeACall và nhấn vào nút ghi âm.
+Tuy nhiên ứng dụng này sẽ có phí, với 11 USD (~254.000 đồng) , bạn sẽ nhận được bản ghi không giới hạn trong một năm, bất kể bạn đang gọi cho ai hoặc ở đâu. Nhưng sau đó chi phí sẽ lên tới 20$ (~462.000 đồng) mỗi năm nên bạn cần cân nhắc thật kỹ.
+Để sử dụng TapeACall ghi âm cuộc gọi các bạn thực hiện như sau:
+- Bước 1 : Khởi chạy TapeACall và nhấn vào nút ghi âm .
+Lưu ý : Ứng dụng này chỉ hoạt động nếu nhà cung cấp dịch vụ của bạn hỗ trợ cuộc gọi hội nghị ba chiều, vì vậy hãy đảm bảo kiểm tra nhà cung cấp dịch vụ của bạn có hỗ trợ ứng dụng này không nhé.
+Nhấn vào biểu tượng ghi âm
+- Bước 2 : Đặt tên cho file ghi âm > Nhấn Save (Lưu bản ghi âm).
+Đặt tên cho file ghi âm rồi nhấn Save
+- Bước 3 : Kiểm tra file ghi âm cuộc gọi sau khi kết thúc trong ứng dụng.
+- Ngoài ra còn một số ứng dụng có tính năng tương tự như: Call Recorder - IntCall, NoNotes,...Bạn có thể tìm hiểu qua bài viết 7 ứng dụng ghi âm cuộc gọi cho iPhone
+Xem thêm : Cách đăng file ghi âm lên Facebook từ iPhone, điện thoại Android Cách gửi file ghi âm qua Zalo trên iPhone, điện thoại Android Cách gửi file ghi âm qua Messenger trên iPhone, điện thoại Android Vừa nghe nhạc vừa ghi âm trên điện thoại được không?
+Vừa rồi là một số cách để bạn có thể ghi âm cuộc gọi của mình trên iPhone. Hy vọng bài viết hữu ích với bạn, cảm ơn bạn đã theo dõi, hẹn gặp lại trong những bài viết khác!
+120.761 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

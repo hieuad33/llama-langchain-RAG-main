@@ -1,0 +1,101 @@
+Cách kết nối WiFi cho máy tính bàn nhanh chóng và chi tiết nhất
+ĐỪNG BỎ LỠ 1 số Sạc, cáp chất lượng đang giảm giá, số lượng có hạn tại TGDĐ:
+Bạn muốn máy tính bàn có thể kết nối được với WiFi như laptop (Window, MacBook ) hoặc điện thoại nhưng không biết phải làm thế nào. Hôm nay, hãy cùng tham khảo một số cách bắt WiFi cho máy tính bàn nhanh chóng và chi tiết nhất.
+1. Những phần cứng giúp kết nối WiFi cho máy tính bàn
+Sử dụng USB WiFi Adapter
+Đây là cách kết nối WiFi cho máy tính bàn thông dụng nhất, thích hợp với người dùng đã mua máy, không muốn tháo máy ra hoặc không muốn nâng cấp.
+Những chiếc USB thu WiFi có kích thước rất nhỏ gọn, bạn chỉ cần cắm vào máy, sử dụng phù hợp trên tất cả các thiết bị máy tính để bàn có cổng USB, cài đặt và sử dụng vô cùng đơn giản cho người dùng.
+Một số WiFi Adapter nổi bật hiện đang kinh doanh tại Thế Giới Di Động:
+Card WiFi cho máy tính bàn
+Bạn cũng có thể sử dụng Card WiFi gắn trên bo mạch chủ để giúp máy tính kết nối WiFi. Cách này tương đối phức tạp hơn cách đầu tiên vì bạn phải mở thùng CPU của máy tính bàn, sau đó gắn Card WiFi vào phần tương thích trên vi mạch. Bạn cũng cần lựa chọn loại Card WiFi tương thích với bộ vi mạch vì nếu không sẽ không thể gắn thành công.
+Card WiFi cho máy tính
+Thiết bị WiFi chuẩn PCI-e
+Một trong những phần cứng khác giúp người dùng kết nối WiFi trên máy tính bàn là loại Card WiFi chuẩn PCI-e. Thiết bị kết nối này là một bảng mạch hình chữ nhật, trang bị ăng ten có thể tháo rời. Hầu hết Card WiFi chuẩn PCI-e thường sử dụng PCI-e x1 là chuẩn PCI-e nhỏ nhất.
+Đối với loại phần cứng kết nối WiFi này sẽ đem lại tốc độ ổn định và nhanh hơn nhưng giá thành cũng khá cao và khó lắp đặt hay tháo rời. Đây là giải pháp hữu hiệu cho chiếc máy tính của bạn nếu bạn đang sử dụng hết cổng USB, vì Card WiFi sử dụng khe cắm PCI.
+Gắn Card mạng không dây PCI
+2. Cách kết nối WiFi cho máy tính bàn
+Cách kết nối WiFi cho máy tính bàn bằng Thanh tác vụ
+Đây là cách thông dụng và nhanh nhất, bạn nên sử dụng cách này để kết nối WiFi.
+Bước 1 : Nhấp vào biểu tượng WiFi ở góc dưới cùng bên phải của Thanh tác vụ. Chọn mạng không dây để kết nối, rồi ấn “ Kết nối ” (Connect).
+Chọn
+Bước 2 : Bạn nhập mật khẩu bảo mật của mạng WiFi để tiến hành kết nối WiFi.
+Nhập mật khẩu > Sau đó chọn Next để kết nối
+Xem thêm : Cách sao chép trên máy tính và dán văn bản, hình trên Windows, MacBook Cách vào BIOS Windows 11 trên nhiều dòng máy cực đơn giản, nhanh chóng
+Cách kết nối WiFi cho máy tính bàn bằng Settings
+Bước 1 : Bạn bấm tổ hợp phím Windows + I để khởi động Cài đặt (Settings), nhấp vào Network & Internet .
+Chọn Network & Internet
+Bước 2 : Chọn mục WiFi > Nhấp chọn “ Hiển thị mạng gần tô i” (Show available networks).
+Chọn Show available networks
+Bước 3 : Sau đó, tương tự như cách kết nối WiFi cho máy tính bàn bằng Thanh tác vụ (hướng dẫn phần trên), bạn cũng chọn mạng WiFi và nhập mật khẩu để kết nối.
+Cách kết nối WiFi bằng Control Panel
+Bước 1 : Bạn truy cập vào Control Panel > Chọn Network and Internet .
+Chọn Network and Internet
+Bước 2 : Chọn Network and Sharing Center .
+Chọn Network and Sharing Center
+Bước 3 : Bạn chọn “ Kết nối đến mạng ” (Connect to a network).
+Chọn Kết nối đến mạng
+Bước 4 : Sau đó, tương tự như cách kết nối WiFi cho máy tính bàn bằng Thanh tác vụ (hướng dẫn phần trên), bạn cũng chọn mạng WiFi và nhập mật khẩu để kết nối.
+Xem thêm : Cách cắm dây nối loa với máy tính chi tiết nhất và cực dễ thực hiện
+Cách kết nối WiFi cho máy tính bằng Command Prompt
+Đây là cách kết nối WiFi khá phức tạp, chỉ nên dùng trong trường hợp cả 3 cách kết nối trên đều bị lỗi, không thể kết nối.
+Bước 1 : Bạn bấm tổ hợp phím Windows + R > Nhập " cmd " và bấm Enter để khởi động Command Prompt.
+Nhập cmd trong hộp thoại Run
+Bước 2 : Nhập lệnh “ netsh wlan show profile ” để xem các cấu hình mạng có sẵn và nhấn Enter > Xác nhận cấu hình mạng WiFi với cài đặt ưa thích của bạn.
+Bước 3 : Nhập lệnh “ netsh wlan connect ssid=YOUR-WIFI-SSID name=PROFILE-NAME ” để kết nối với mạng không dây và nhấn Enter để kết nối.
+Chọn mạng và nhập lệnh tương ứng
+Trong lệnh, hãy nhớ chỉ định tên (SSID) của mạng và tên cấu hình với cài đặt mạng của bạn.
+Ví dụ: Lệnh kết nối với mạng “Red Apple” bằng cách sử dụng cấu hình “Red Apple” như sau:
+netsh wlan connect ssid=Red Apple name=Red Apple
+Cách kết nối WiFi cho máy tính bàn bằng dây
+Hầu hết các máy tính để bàn trên thị trường hiện nay đều có khả năng bắt sóng WiFi, tuy nhiên vẫn có một số dòng máy cũ hơn hoặc máy có lỗi bắt sóng WiFi đòi hỏi phải kết nối bằng dây.
+Để kết nối WiFi cho máy tính bàn bằng dây, các bạn chỉ cần chuẩn bị một dây nối cắm trực tiếp vào bộ phát WiFi và máy tính, thiết bị này có thể được tìm thấy trong hộp của bộ phát WiFi.
+Kết nối WiFi bằng cách dùng dây cáp
+SĂN NGAY MÃ GIẢM SỐC TGDĐ TẠI ĐÂY!!
+3. Một số lỗi máy tính bàn không vào được mạng
+Đặt sai địa chỉ DNS và IP WiFi
+Lỗi đầu tiên khi máy tính bàn không kết nối được WiFi là do có thể bạn đã đặt sai địa chỉ IP WiFi. Có khá nhiều cách để cài đặt modem WiFi, tuy nhiên thông thường sẽ để chế độ mặc định đó là đặt mặc định IP động. Bạn cần lưu ý đặt đúng địa chỉ IP WiFi.
+Hoặc trường hợp thứ 2 có thể xảy ra đó là có một kiểu DNS là IP động. Thông thường thì chúng sẽ được quy định mạng nằm trong giới hạn từ lớp A đến lớp C. Điều này được hiểu đơn giản là nếu bạn đặt WiFi đúng với lớp địa chỉ mạng từ lớp A đến lớp C thì máy sẽ kết nối được mạng. Khi bạn đặt sai thì sẽ không kết nối được mạng.
+Bạn lưu ý kiểm tra chính xác địa chỉ IP khi cài đặt
+Chỉ hiện lên 1 vạch duy nhất
+Lỗi này cũng khá phổ biến với những người dùng máy tính bàn. Trường hợp này xảy ra là do bạn đặt thiết bị WiFi không đúng cách hoặc để quá xa, để những nơi có vách ngăn khiến máy tính kết nối với WiFi bị chậm.
+Có WiFi nhưng không vào được mạng
+Bạn thấy tín hiệu WiFi nhưng lại không thể truy cập vào mạng. Có 2 hướng cơ bản bạn cần xem xét. Thứ nhất là lỗi của thiết bị phát WiFi, có thể thiết bị đang gặp lỗi nên dù phát được tín hiệu nhưng lại không truy cập mạng được. Thứ hai là lỗi đến từ phần tiếp nhận tín hiệu mạng trên máy tính bàn của bạn, bạn cần xem lại thiết bị thu tín hiệu có bị lỗi cài đặt hay không.
+Bạn hãy xem lại thiết bị phát WiFi hoặc bộ nhận tín hiệu nếu không thể truy cập WiFi
+4. Một số cách đơn giản giúp sửa lỗi PC không kết nối được Wifi
+Khởi động lại PC
+Có rất nhiều lỗi ngẫu nhiên, không xác định có thể được giải quyết bằng cách khởi động lại PC. Khi PC xảy ra lỗi không kết nối được WiFi, bạn cũng có thể dùng cách này để khắc phục. Đầu tiên, bạn cần bấm tổ hợp phím Windows + M để thu nhỏ tất cả các cửa sổ đang mở, sau đó bấm tổ hợp Alt + F4 và chọn Restart để khởi động lại PC.
+Khởi động lại PC có thể giải quyết khá nhiều lỗi không xác định
+Xem thêm : 9 Cách kết nối WiFi cho laptop Windows, Macbook bạn không nên bỏ qua
+Cài đặt Driver cho thiết bị Wifi
+Bạn có thể dùng phần mềm Driver Talent để kiểm tra driver lỗi về driver trên máy. Driver Talent giúp bạn biết lỗi xảy ra ở đâu để sửa chữa hoặc tải driver mới nhất sao cho phù hợp với adapter không dây. Hoặc bạn cũng có thể thực hiện các bước sau để cài đặt driver Wifi cho thiết bị:
+Bước 1 : Nhấn tổ hợp phím Windows + R > Nhập devmgmt.msc vào khung tìm kiếm và nhấn OK .
+Gõ
+Bước 2 : Tìm đến mục Network adapters > Click vào dấu tuỳ chọn ở mục Wireless Adapter .
+Chọn Wireless Adapter trong mục Network Adapters
+Bước 3 : Tìm driver Wifi bị lỗi > Chuột phải vào driver bị lỗi > Chọn Uninstall device .
+Gỡ cài đặt Driver cũ
+Bước 4 : Sau đó bạn restart máy > Khi máy khởi động lại sẽ tự dò tìm driver bị thiếu và yêu cầu cài đặt lại mới.
+Restart máy
+Trường hợp bạn muốn cập nhật driver WiFi thủ công, bạn có thể xem hướng dẫn chi tiết tại bài viết Cách tải, cài đặt Driver WiFi cho máy tính Windows đơn giản .
+Kiểm tra chế độ máy bay của Windows
+Bên cạnh đó, việc bật chế độ máy bay khiến máy tính bị ngắt kết nối WiFi cũng rất có thể xảy ra. Bạn có thể kiểm tra đơn giản bằng cách sau:
+Bước 1 : Click vào biểu tượng mạng (WiFi) trên thanh tác vụ.
+Click vào biểu tượng mạng (WiFi)
+Bước 2 : Tại đây bạn kiểm tra xem chế độ máy bay " Airplane mode " có đang ở trạng thái bật không > Nếu có (hiển thị màu xanh) thì bạn hãy click vào biểu tượng máy bay để tắt và Wifi sẽ kết nối lại bình thường.
+Click vào biểu tượng máy bay để tắt và Wifi sẽ kết nối lại bình thường
+5. Một số câu hỏi liên quan
+Chưa cài đặt Driver thiết bị WiFi trên máy tính bàn
+Cài đặt Driver cho những thiết bị hỗ trợ kết nối WiFi là điều cơ bản nhất để có thể sử dụng. Thông thường khi mua thiết bị, nhà sản xuất sẽ đính kèm hướng dẫn cài đặt Driver phù hợp cho thiết bị đó (thường là trên website của hãng hoặc hướng dẫn kèm theo khi mua). Vì thế nên chú ý đọc hướng dẫn để có thể cài đặt driver cho thiết bị.
+Bạn cần cài đặt Driver tương thích để kết nối với WiFi
+Khởi động lại máy tính bàn nếu không bắt được WiFi
+Khởi động lại Windows cũng là một giải pháp tối ưu giúp bạn giải quyết rất nhiều lỗi. Không chỉ riêng trường hợp bị lỗi WiFi, nhiều sự cố khác cũng có thể giải quyết nhanh gọn bằng cách này như lỗi IP.
+Tắt chế độ máy bay của Windows
+Chế độ máy bay cũng có thể là nguyên nhân khiến máy tính bàn không thể kết nối WiFi. Bật chế độ máy bay khiến cho các kết nối khác bị ngăn chặn, tránh nhận thông báo làm phiền. Vì vậy bạn hãy tắt chế độ máy bay trên máy tính trước khi kết nối WiFi.
+Mua WiFi Adapter ở đâu?
+Bạn nên tìm mua WiFi Adapter tại những nơi uy tín để đảm bảo mua được sản phẩm chính hãng với đầy đủ các chính sách hỗ trợ kèm theo.
+Bạn hoàn toàn có thể an tâm khi mua WiFi Adapter tại chuỗi cửa hàng Thế Giới Di Động. Các sản phẩm tại Thế Giới Di Động tập hợp các thương hiệu uy tín, chất lượng tốt, sở hữu giá cả phải chăng, được nhiều người tin tưởng và ưa dùng trong nhiều năm qua.
+Thế Giới Di Động là trung tâm phân phối uy tín
+Xem thêm : Mách bạn 8 cách kết nối iPhone với MacBook đơn giản, nhanh chóng Top 3 phụ kiện giúp máy tính để bàn vi vu lướt mạng WiFi không dây Cách khắc phục lỗi WiFi liên tục ngắt kết nối trên Windows 10, 8, 7 Hướng dẫn cách vệ sinh máy tính để bàn tại nhà đúng cách và đơn giản
+Hy vọng qua bài viết trên bạn đã lựa chọn được giải pháp phù hợp để cài đặt, kết nối WiFi cho máy tính bàn của mình. Chúc bạn thực hiện thành công, hẹn gặp lại bạn ở chủ đề tiếp theo.
+26.878 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

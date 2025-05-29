@@ -1,0 +1,31 @@
+Cách cài lịch âm trên màn hình khóa iPhone tiện lợi, dễ cài đặt
+ĐỪNG BỎ LỠ 1 số Sạc, cáp chất lượng đang giảm giá, số lượng có hạn tại TGDĐ:
+Như các bạn đã biết, hệ điều hành iOS không hỗ trợ để người dùng có thể xem lịch âm trên iPhone như các thiết bị của các hãng khác. Trong bài viết này, mình sẽ hướng dẫn các bạn cách thêm và xem lịch âm trên iPhone đơn giản và dễ dàng.
+Tóm tắt nội dung bài viết: - Bài viết sẽ hướng dẫn bạn cách tải ứng dụng xem lịch âm có sẵn từ App Store và sử dụng tính năng Widget để xem lịch âm, dương trên màn hình khóa. - Bài viết này được hướng dẫn bằng tiếng Việt (bao gồm phần giao diện và chỉ dẫn bằng chữ). Nếu điện thoại bạn đang sử dụng tiếng Anh, bạn có thể xem bài viết cách thay đổi ngôn ngữ máy từ Anh sang Việt - Cách này có thể áp dụng cho nhiều dòng iPhone, bao gồm cả iPhone 16 thường , Plus/Pro/Pro Max.
+1. iPhone có cài sẵn lịch âm không?
+Tính đến thời điểm năm 2025, Apple vẫn chưa hỗ trợ lịch âm Việt Nam trên ứng dụng lịch mặc định của iPhone. Vì vậy, người dùng iPhone chưa thể xem ngày âm và ngày dương song song trực tiếp trên ứng dụng Lịch mặc định.
+Tuy nhiên, bạn không cần lo lắng, bởi hiện nay trên App Store có rất nhiều ứng dụng lịch âm miễn phí, giúp bạn xem ngày âm một cách chính xác, tiện lợi và nhanh chóng. Đây là giải pháp an toàn, dễ sử dụng dành riêng cho người dùng iPhone.
+Ngay sau đây, mình sẽ hướng dẫn chi tiết cách cài lịch âm trên iPhone thông qua App Store, giúp bạn dễ dàng xem lịch âm như hình minh họa bên dưới.
+Lịch âm được hiển thị trên màn hình khóa iPhone
+2. Cách cài đặt và xem lịch âm trên màn hình khóa iPhone
+Bước 1: Tải ứng dụng Lịch âm về máy
+Bạn mở ứng dụng App Store, tìm ứng dụng Lịch Âm . Sau đó tải xuống ứng dụng.
+Tải ứng dụng Lịch Âm trên App Store
+Bước 2: Thêm vào Widget trên màn hình khóa
+Sau khi bạn tải ứng dụng thành công, bạn quay trở ra màn hình khóa > chạm vào màn hình khóa 2-3 giây để mở Cài đặt màn hình khóa.
+Giữ màn hình khóa từ 2-3 giây
+Chọn Tùy chỉnh > Màn hình Khóa
+Giao diện cài đặt nhanh màn hình iPhone
+Bạn chọn Thêm tiện ích > sau đó, lướt xuống tìm chọn ứng dụng Lịch Âm
+Thêm Tiện ích > chọn ứng dụng Lịch Âm
+Tại đây, hệ thống sẽ cho bạn xem trước 2 tùy chọn hiển thị.
+2 tùy chọn hiển thị của ứng dụng
+Hãy chạm hoặc kéo theo nhu cầu và sở thích của bạn. Nhấn vào dấu X để thoát ra, rồi chọn Xong để lưu lại.
+Sau khi cài đặt hoàn tất > chọn Xong để lưu lại
+Sau khi cài đặt, bạn chỉ cần mở màn hình khóa là có thể xem lịch âm, dương trên iPhone tiện lợi.
+Lịch âm, dương được hiển thị sau khi cài đặt
+Lưu ý : Bạn hoàn toàn có thể tải bất kỳ ứng dụng lịch âm nào khác trên App Store , miễn là ứng dụng đó hỗ trợ thêm tiện ích (widget) hiển thị trên màn hình khóa của iPhone để dễ dàng theo dõi và sử dụng hơn.
+Xem thêm: Cách tắt nguồn iPhone mọi dòng máy, nhanh chóng dễ làm Biểu tượng mặt trăng là gì? Cách tắt trên iPhone, điện thoại Android Năm BE trên iPhone là gì? Lịch iPhone bị lỗi và cách chỉnh sửa cực dễ Cách tắt ứng dụng chạy ngầm trên iPhone, iPad nhanh chóng, dễ làm Tổng hợp bảng giá iPhone hiện nay - cập nhật liên tục
+Hy vọng giải pháp cài đặt ứng dụng lịch âm từ App Store và thêm widget tiện ích này sẽ giúp bạn theo dõi các ngày lễ truyền thống, ngày rằm, mùng một, hay các dịp quan trọng một cách tiện lợi nhất. Chúc bạn thực hiện thành công, và đừng quên chia sẻ bài viết này đến bạn bè, người thân đang dùng iPhone nhé!
+289.046 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

@@ -1,0 +1,333 @@
+,pro_id,name,cate,price,url,url_img,ecom
+0,1,iPhone 16 Pro Max,dtdd,34.590.000₫,https://www.thegioididong.com/dtdd/iphone-16-pro-max,https://cdn.tgdd.vn/Products/Images/42/329149/iphone-16-pro-max-black-thumb-600x600.jpg,thegioididong
+1,2,iPhone 16 Pro,dtdd,28.690.000₫,https://www.thegioididong.com/dtdd/iphone-16-pro,https://cdn.tgdd.vn/Products/Images/42/329143/iphone-16-pro-titan-sa-mac.png,thegioididong
+2,3,iPhone 16 Plus,dtdd,25.590.000₫,https://www.thegioididong.com/dtdd/iphone-16-plus,https://cdn.tgdd.vn/Products/Images/42/329138/iphone-16-plus-trang-thumbtgdd-600x600.png,thegioididong
+3,4,iPhone 16,dtdd,22.290.000₫,https://www.thegioididong.com/dtdd/iphone-16,https://cdn.tgdd.vn/Products/Images/42/329135/iphone-16-blue-600x600.png,thegioididong
+4,5,Samsung Galaxy S24 Ultra 5G,dtdd,27.990.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-s24-ultra-5g,https://cdn.tgdd.vn/Products/Images/42/307174/samsung-galaxy-s24-ultra-grey-thumbnew-600x600.jpg,thegioididong
+5,6,Samsung Galaxy A16,dtdd,5.590.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-a16-8gb-128gb,https://cdn.tgdd.vn/Products/Images/42/331207/samsung-galaxy-a16-green-thumbnew-600x600.jpg,thegioididong
+6,7,Samsung Galaxy A16 5G,dtdd,6.990.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-a16-5g,https://cdn.tgdd.vn/Products/Images/42/331204/samsung-galaxy-a16-5g-gold-thumbnew-600x600.jpg,thegioididong
+7,8,Xiaomi Redmi Note 13,dtdd,4.390.000₫,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-13,https://cdn.tgdd.vn/Products/Images/42/309831/xiaomi-redmi-note-13-gold-thumb-600x600.jpg,thegioididong
+8,9,vivo V40 Lite 8GB/256GB,dtdd,7.590.000₫,https://www.thegioididong.com/dtdd/vivo-v40-lite-8gb-256gb?utm_flashsale=1,,thegioididong
+9,10,Xiaomi Redmi Note 13 Pro,dtdd,5.690.000₫,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-13-pro?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/42/314206/xiaomi-redmi-note-13-green-thumb-600x600.jpg,thegioididong
+10,11,OPPO Reno12 5G 12GB/256GB Hồng,dtdd,11.690.000₫,https://www.thegioididong.com/dtdd/oppo-reno12-5g-12gb-256gb-hong,,thegioididong
+11,12,OPPO A3x,dtdd,3.190.000₫,https://www.thegioididong.com/dtdd/oppo-a3x-4gb-64gb?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/42/328449/oppo-a3x-red-thumb-600x600.jpg,thegioididong
+12,13,Xiaomi Redmi 13,dtdd,3.790.000₫,https://www.thegioididong.com/dtdd/xiaomi-redmi-13-6gb-128gb,https://cdn.tgdd.vn/Products/Images/42/325800/redmi-13-blue-thumb-600x600.jpg,thegioididong
+13,14,Samsung Galaxy A55 5G,dtdd,10.890.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-a55-5g,https://cdn.tgdd.vn/Products/Images/42/322096/samsung-galaxy-a55-5g-xanh-thumb-1-600x600.jpg,thegioididong
+14,15,Samsung Galaxy A06,dtdd,2.690.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-a06-4gb-64gb,https://cdn.tgdd.vn/Products/Images/42/328752/samsung-galaxy-a06-blue-thumb-1-600x600.jpg,thegioididong
+15,16,realme Note 50,dtdd,2.090.000₫,https://www.thegioididong.com/dtdd/realme-note-50-64gb,https://cdn.tgdd.vn/Products/Images/42/321434/realme-note-50-blue-thumb-600x600.jpg,thegioididong
+16,17,Xiaomi 14T 5G,dtdd,11.990.000₫,https://www.thegioididong.com/dtdd/xiaomi-14t-5g,https://cdn.tgdd.vn/Products/Images/42/329938/xiaomi-14t-grey-thumb-600x600.jpg,thegioididong
+17,18,iPhone 15 Plus,dtdd,22.790.000₫,https://www.thegioididong.com/dtdd/iphone-15-plus,https://cdn.tgdd.vn/Products/Images/42/303891/iphone-15-plus-128gb-xanh-thumb-600x600.jpg,thegioididong
+18,19,Xiaomi 14T Pro 5G,dtdd,15.490.000₫,https://www.thegioididong.com/dtdd/xiaomi-14t-pro-5g-12gb-256gb,https://cdn.tgdd.vn/Products/Images/42/329940/xiaomi-14t-pro-blue-thumb-600x600.jpg,thegioididong
+19,20,realme Note 60,dtdd,2.990.000₫,https://www.thegioididong.com/dtdd/realme-note-60-4gb-64gb,https://cdn.tgdd.vn/Products/Images/42/329328/realme-note-60-black-thumb-600x600.jpg,thegioididong
+20,21,iPhone 12,dtdd,11.590.000₫,https://www.thegioididong.com/dtdd/iphone-12,https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-xanh-la-new-2-600x600.jpg,thegioididong
+21,22,Samsung Galaxy Z Fold6 5G,dtdd,41.990.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-z-fold6,https://cdn.tgdd.vn/Products/Images/42/320721/samsung-galaxy-z-fold6-xam-thumbn-600x600.jpg,thegioididong
+22,23,Samsung Galaxy A35 5G,dtdd,8.090.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-a35-5g,https://cdn.tgdd.vn/Products/Images/42/321772/samsung-galaxy-a35-5g-xanh-thumb-1-600x600.jpg,thegioididong
+23,24,iPhone 11,dtdd,8.990.000₫,https://www.thegioididong.com/dtdd/iphone-11,https://cdn.tgdd.vn/Products/Images/42/153856/iphone-11-trang-600x600.jpg,thegioididong
+24,25,Samsung Galaxy S24 FE 5G,dtdd,16.990.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-s24-fe,https://cdn.tgdd.vn/Products/Images/42/322789/samsung-galaxy-s24-fe-mint-thumb-1-600x600.jpg,thegioididong
+25,26,OPPO A3,dtdd,4.990.000₫,https://www.thegioididong.com/dtdd/oppo-a3-6gb-128gb,https://cdn.tgdd.vn/Products/Images/42/328453/oppo-a3-purple-thumb-1-600x600.jpg,thegioididong
+26,27,Samsung Galaxy Z Flip6 5G,dtdd,22.990.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-z-flip6,https://cdn.tgdd.vn/Products/Images/42/320722/samsung-galaxy-z-flip6-xanh-thumbn-600x600.jpg,thegioididong
+27,28,OPPO A18 4GB/64GB,dtdd,3.290.000₫,https://www.thegioididong.com/dtdd/oppo-a18,,thegioididong
+28,29,Xiaomi Redmi A3,dtdd,2.090.000₫,https://www.thegioididong.com/dtdd/xiaomi-redmi-a3,https://cdn.tgdd.vn/Products/Images/42/320734/xiaomi-redmi-a3-xanh-l%C3%A1-thumb-600x600.jpg,thegioididong
+29,30,realme C65,dtdd,3.590.000₫,https://www.thegioididong.com/dtdd/realme-c65,https://cdn.tgdd.vn/Products/Images/42/323002/realme-c65-purple-thumb-600x600.jpg,thegioididong
+30,31,vivo Y100,dtdd,6.490.000₫,https://www.thegioididong.com/dtdd/vivo-y100,https://cdn.tgdd.vn/Products/Images/42/302197/vivo-y100-xanh-thumb-1-600x600.jpg,thegioididong
+31,32,vivo Y03,dtdd,3.290.000₫,https://www.thegioididong.com/dtdd/vivo-y03,https://cdn.tgdd.vn/Products/Images/42/322996/vivo-y03-xanh-thumb-1-600x600.jpg,thegioididong
+32,33,Samsung Galaxy M55 5G,dtdd,8.990.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-m55-5g-12gb-256gb,https://cdn.tgdd.vn/Products/Images/42/327372/samsung-galaxy-m55-5g-black-thumb-600x600.jpg,thegioididong
+33,34,iPhone 15,dtdd,19.790.000₫,https://www.thegioididong.com/dtdd/iphone-15,https://cdn.tgdd.vn/Products/Images/42/281570/iphone-15-hong-thumb-1-600x600.jpg,thegioididong
+34,35,OPPO Reno12 F 5G,dtdd,8.890.000₫,https://www.thegioididong.com/dtdd/oppo-reno12-f-5g-12gb-256gb,https://cdn.tgdd.vn/Products/Images/42/327190/oppo-reno12-f-5g-orange-thumb-600x600.jpg,thegioididong
+35,36,iPhone 14,dtdd,17.290.000₫,https://www.thegioididong.com/dtdd/iphone-14,https://cdn.tgdd.vn/Products/Images/42/240259/iPhone-14-thumb-trang-600x600.jpg,thegioididong
+36,37,Samsung Galaxy S24 5G,dtdd,17.990.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-s24-256gb-5g,https://cdn.tgdd.vn/Products/Images/42/319665/samsung-galaxy-s24-yellow-thumbnew-600x600.jpg,thegioididong
+37,38,Samsung Galaxy S24+ 5G,dtdd,18.990.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-s24-plus-5g,https://cdn.tgdd.vn/Products/Images/42/307172/samsung-galaxy-s24-plus-violet-thumbnew-600x600.jpg,thegioididong
+38,39,realme C67,dtdd,3.790.000₫,https://www.thegioididong.com/dtdd/realme-c67?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/42/319658/realme-c67-xanh-thumb-600x600.jpg,thegioididong
+39,40,realme C53 8GB/256GB,dtdd,3.590.000₫,https://www.thegioididong.com/dtdd/realme-c53-8gb,,thegioididong
+40,41,OPPO A38,dtdd,4.490.000₫,https://www.thegioididong.com/dtdd/oppo-a38-6gb,https://cdn.tgdd.vn/Products/Images/42/320836/oppo-a38-black-thumb-600x600.jpg,thegioididong
+41,42,vivo Y36 8GB/256GB,dtdd,5.190.000₫,https://www.thegioididong.com/dtdd/vivo-y36?utm_flashsale=1,,thegioididong
+42,43,OPPO Reno11 Pro 5G 12GB/512GB,dtdd,11.990.000₫,https://www.thegioididong.com/dtdd/oppo-reno11-pro?utm_flashsale=1,,thegioididong
+43,44,Samsung Galaxy A15 8GB/256GB,dtdd,4.990.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-a15-256gb,,thegioididong
+44,45,Samsung Galaxy A05s,dtdd,3.590.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-a05s-6gb,https://cdn.tgdd.vn/Products/Images/42/317530/samsung-galaxy-a05s-sliver-thumbnew-600x600.jpg,thegioididong
+45,46,Samsung Galaxy A15 5G 8GB/256GB,dtdd,5.090.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-a15-5g,,thegioididong
+46,47,Samsung Galaxy A25 5G,dtdd,5.590.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-a25-8gb?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/42/319904/samsung-galaxy-a25-5g-xanh-duong-thumb-600x600.jpg,thegioididong
+47,48,Xiaomi Redmi Note 13 Pro 5G,dtdd,7.790.000₫,https://www.thegioididong.com/dtdd/xiaomi-redmi-note-13-pro-5g,https://cdn.tgdd.vn/Products/Images/42/319670/xiaomi-redmi-note-13-pro-5g-xanhla-thumb-600x600.jpg,thegioididong
+48,49,Samsung Galaxy S23 Ultra 5G 8GB/256GB,dtdd,19.990.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-s23-ultra?utm_flashsale=1,,thegioididong
+49,50,OPPO Reno10 Pro+ 5G 12GB/256GB,dtdd,19.990.000₫,https://www.thegioididong.com/dtdd/oppo-reno10-pro-plus?utm_flashsale=1,,thegioididong
+50,51,Xiaomi 14 5G,dtdd,21.490.000₫,https://www.thegioididong.com/dtdd/xiaomi-14,https://cdn.tgdd.vn/Products/Images/42/298538/xiaomi-14-green-thumbnew-600x600.jpg,thegioididong
+51,52,Benco 4G G3,dtdd,380.000₫,https://www.thegioididong.com/dtdd/benco-4g-g3,,thegioididong
+52,53,Viettel Sumo 4G T2,dtdd,550.000₫,https://www.thegioididong.com/dtdd/viettel-sumo-4g-t2,,thegioididong
+53,54,Masstel Fami 50 4G,dtdd,600.000₫,https://www.thegioididong.com/dtdd/masstel-fami-50,,thegioididong
+54,55,Masstel IZI 10 4G,dtdd,410.000₫,https://www.thegioididong.com/dtdd/masstel-izi-10,,thegioididong
+55,56,Masstel IZI T6 4G,dtdd,500.000₫,https://www.thegioididong.com/dtdd/masstel-izi-t6,,thegioididong
+56,57,Masstel Lux 10,dtdd,420.000₫,https://www.thegioididong.com/dtdd/masstel-lux-10,,thegioididong
+57,58,OPPO A60,dtdd,5.090.000₫,https://www.thegioididong.com/dtdd/oppo-a60-128gb,https://cdn.tgdd.vn/Products/Images/42/323543/oppo-a60-blue-thumb-600x600.jpg,thegioididong
+58,59,iPhone 13,dtdd,13.490.000₫,https://www.thegioididong.com/dtdd/iphone-13,https://cdn.tgdd.vn/Products/Images/42/223602/iphone-13-midnight-2-600x600.jpg,thegioididong
+59,60,Nokia 105 4G Pro,dtdd,680.000₫,https://www.thegioididong.com/dtdd/nokia-105-4g-pro,,thegioididong
+60,61,iPhone 13,dtdd,13.490.000₫,https://www.thegioididong.com/dtdd/iphone-13,https://cdn.tgdd.vn/Products/Images/42/223602/iphone-13-midnight-2-600x600.jpg,thegioididong
+61,62,iPhone 15 Pro Max,dtdd,29.590.000₫,https://www.thegioididong.com/dtdd/iphone-15-pro-max,https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-black-thumbnew-600x600.jpg,thegioididong
+62,63,Nokia 105 4G Pro,dtdd,680.000₫,https://www.thegioididong.com/dtdd/nokia-105-4g-pro,,thegioididong
+63,64,Xiaomi Redmi 14C,dtdd,3.090.000₫,https://www.thegioididong.com/dtdd/xiaomi-redmi-14c-6gb-128gb,https://cdn.tgdd.vn/Products/Images/42/329008/xiaomi-redmi-14c-blue-1-600x600.jpg,thegioididong
+64,65,Mobell M239,dtdd,500.000₫,https://www.thegioididong.com/dtdd/mobell-m239,,thegioididong
+65,66,vivo Y28,dtdd,5.390.000₫,https://www.thegioididong.com/dtdd/vivo-y28,https://cdn.tgdd.vn/Products/Images/42/326016/vivo-y28-vang-thumb-600x600.jpg,thegioididong
+66,67,Nokia 220 4G,dtdd,990.000₫,https://www.thegioididong.com/dtdd/nokia-220-4g,,thegioididong
+67,68,vivo Y19s,dtdd,3.890.000₫,https://www.thegioididong.com/dtdd/vivo-y19s-6gb-128gb,https://cdn.tgdd.vn/Products/Images/42/331200/vivo-y19s-bac-thumb-600x600.jpg,thegioididong
+68,69,Samsung Galaxy M35 5G 8GB/256GB,dtdd,7.040.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-m35-5g?utm_flashsale=1,,thegioididong
+69,70,realme C65s,dtdd,3.590.000₫,https://www.thegioididong.com/dtdd/realme-c65s,https://cdn.tgdd.vn/Products/Images/42/328605/TimerThumb/realme-c65s-(2).jpg,thegioididong
+70,71,Nokia 110 4G Pro,dtdd,750.000₫,https://www.thegioididong.com/dtdd/nokia-110-4g-pro,,thegioididong
+71,72,Nokia HMD 105 4G,dtdd,650.000₫,https://www.thegioididong.com/dtdd/nokia-hmd-105-4g,,thegioididong
+72,73,OPPO Reno12 F 8GB/256GB,dtdd,8.190.000₫,https://www.thegioididong.com/dtdd/oppo-reno12-f-4g-8gb-256gb,,thegioididong
+73,74,Samsung Galaxy S23 FE 5G,dtdd,10.090.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-s23-fe?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/42/306994/samsung-galaxy-s23-fe-mint-thumbnew-600x600.jpg,thegioididong
+74,75,Masstel Fami 60S 4G,dtdd,700.000₫,https://www.thegioididong.com/dtdd/masstel-fami-60s,,thegioididong
+75,76,OPPO Reno12 5G,dtdd,11.690.000₫,https://www.thegioididong.com/dtdd/oppo-reno12-5g-12gb-256gb,https://cdn.tgdd.vn/Products/Images/42/327191/oppo-reno12-5g-sliver-thumb-1-600x600.jpg,thegioididong
+76,77,Tecno Spark GO 1 3GB/64GB,dtdd,1.990.000₫,https://www.thegioididong.com/dtdd/tecno-spark-go-1,,thegioididong
+77,78,HONOR X5 Plus 4GB/64GB,dtdd,2.190.000₫,https://www.thegioididong.com/dtdd/honor-x5-plus?utm_flashsale=1,,thegioididong
+78,79,TCL 406s 4GB/64GB,dtdd,1.890.000₫,https://www.thegioididong.com/dtdd/tcl-406s,,thegioididong
+79,80,Mobell F209 4G,dtdd,620.000₫,https://www.thegioididong.com/dtdd/mobell-f209,,thegioididong
+80,81,HONOR X8b 8GB/512GB,dtdd,6.390.000₫,https://www.thegioididong.com/dtdd/honor-x8b,,thegioididong
+81,82,Tecno Spark 20C 8GB/128GB,dtdd,2.490.000₫,https://www.thegioididong.com/dtdd/tecno-spark-20c,,thegioididong
+82,83,vivo V30 5G 12GB/512GB,dtdd,12.490.000₫,https://www.thegioididong.com/dtdd/vivo-v30,,thegioididong
+83,84,HONOR X6b,dtdd,3.690.000₫,https://www.thegioididong.com/dtdd/honor-x6b-6gb-128gb,https://cdn.tgdd.vn/Products/Images/42/327258/honor-x6b-purple-thumb-600x600.jpg,thegioididong
+84,85,Nokia 3210 4G,dtdd,1.590.000₫,https://www.thegioididong.com/dtdd/nokia-3210-4g,,thegioididong
+85,86,OPPO Reno12 Pro 5G 12GB/512GB,dtdd,17.290.000₫,https://www.thegioididong.com/dtdd/oppo-reno12-pro,,thegioididong
+86,87,vivo V30e 5G,dtdd,9.990.000₫,https://www.thegioididong.com/dtdd/vivo-v30e-12gb,https://cdn.tgdd.vn/Products/Images/42/325136/vivo-v30e-nau-thumb-1-600x600.jpg,thegioididong
+87,88,Xiaomi 14T 5G 12GB/512GB Xanh,dtdd,11.990.000₫,https://www.thegioididong.com/dtdd/xiaomi-14t-5g-12gb-512gb-xanh,,thegioididong
+88,89,Samsung Galaxy M15 5G,dtdd,4.290.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-m15-5g-4gb?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/42/325073/samsung-galaxy-m15-5g-blue-thumb-1-600x600.jpg,thegioididong
+89,90,realme 12,dtdd,6.790.000₫,https://www.thegioididong.com/dtdd/realme-12,https://cdn.tgdd.vn/Products/Images/42/319466/realme-12-green-thumb-600x600.jpg,thegioididong
+90,91,iPhone 14 Plus,dtdd,20.090.000₫,https://www.thegioididong.com/dtdd/iphone-14-plus,https://cdn.tgdd.vn/Products/Images/42/245545/iPhone-14-plus-thumb-xanh-1-600x600.jpg,thegioididong
+91,92,Samsung Galaxy M54 5G 8GB/256GB,dtdd,7.290.000₫,https://www.thegioididong.com/dtdd/samsung-galaxy-m54?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/42/275953/samsung-galaxy-m54-xanh-thumb-600x600.jpg,thegioididong
+92,93,Itel it9310,dtdd,650.000₫,https://www.thegioididong.com/dtdd/itel-it9310,,thegioididong
+93,94,Tecno Spark Go 2024 3GB/64GB,dtdd,1.890.000₫,https://www.thegioididong.com/dtdd/tecno-spark-go-2024,https://cdn.tgdd.vn/Products/Images/42/325154/tecno-spark-go-2024-yellow-thumb-600x600.jpg,thegioididong
+94,95,Itel it9211,dtdd,490.000₫,https://www.thegioididong.com/dtdd/itel-it9211,,thegioididong
+95,96,vivo V40 5G 12GB/256GB,dtdd,-1,https://www.thegioididong.com/dtdd/vivo-v40-5g,https://cdn.tgdd.vn/Products/Images/42/331985/vivo-v40-5g-cam-hong-thumb-600x600.jpg,thegioididong
+96,97,Xiaomi POCO M6 6GB/128GB,dtdd,3.490.000₫,https://www.thegioididong.com/dtdd/xiaomi-poco-m6?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/42/327343/xiaomi-poco-m6-purple-thumb-600x600.jpg,thegioididong
+97,98,vivo Y03T 4GB/128GB,dtdd,3.290.000₫,https://www.thegioididong.com/dtdd/vivo-y03t-4gb-128gb,https://cdn.tgdd.vn/Products/Images/42/329005/vivo-y03t-den-thumb-600x600.jpg,thegioididong
+98,99,Nokia 105,dtdd,610.000₫,https://www.thegioididong.com/dtdd/nokia-105-4g,https://cdn.tgdd.vn/Products/Images/42/240194/nokia-105-4g-blue-600x600.jpg,thegioididong
+99,100,Mobell F309 4G,dtdd,760.000₫,https://www.thegioididong.com/dtdd/mobell-f309,https://cdn.tgdd.vn/Products/Images/42/304608/mobell-f309-trang-thumb-600x600.jpg,thegioididong
+100,101,OPPO A79 5G 8GB/256GB,dtdd,7.190.000₫,https://www.thegioididong.com/dtdd/oppo-a79-5g,https://cdn.tgdd.vn/Products/Images/42/316776/oppo-a79-5g-tim-thumb-1-2-600x600.jpg,thegioididong
+101,102,OPPO A78 8GB/256GB,dtdd,6.490.000₫,https://www.thegioididong.com/dtdd/oppo-a78,https://cdn.tgdd.vn/Products/Images/42/309847/oppo-a78-xanh-thumb-1-600x600.jpg,thegioididong
+102,103,realme C60 4GB/64GB,dtdd,2.790.000₫,https://www.thegioididong.com/dtdd/realme-c60,https://cdn.tgdd.vn/Products/Images/42/322919/realme-c60-blue-thumb-600x600.jpg,thegioididong
+103,104,Mobell Rock 4 4G,dtdd,790.000₫,https://www.thegioididong.com/dtdd/mobell-rock-4,https://cdn.tgdd.vn/Products/Images/42/288631/mobell-rock-4-xanh-la-thumb-600x600.jpg,thegioididong
+104,105,realme C61,dtdd,3.490.000₫,https://www.thegioididong.com/dtdd/realme-c61-4gb-128gb,https://cdn.tgdd.vn/Products/Images/42/327975/realme-c61-gold-thumb-600x600.jpg,thegioididong
+105,106,HONOR 200 5G,dtdd,12.090.000₫,https://www.thegioididong.com/dtdd/honor-200-12gb-256gb,https://cdn.tgdd.vn/Products/Images/42/329133/honor-200-white-thumb-600x600.jpg,thegioididong
+106,107,Xiaomi 14 Ultra 5G 16GB/512GB,dtdd,25.990.000₫,https://www.thegioididong.com/dtdd/xiaomi-14-ultra,https://cdn.tgdd.vn/Products/Images/42/313889/xiaomi-14-ultra-white-thumbnew-600x600.jpg,thegioididong
+107,108,Mobell M539 4G,dtdd,700.000₫,https://www.thegioididong.com/dtdd/mobell-m539,https://cdn.tgdd.vn/Products/Images/42/288630/mobell-m539-vang-thumb-600x600.jpg,thegioididong
+108,109,OPPO Find N3 Flip 5G 12GB/256GB Đen/Vàng đồng,dtdd,22.990.000₫,https://www.thegioididong.com/dtdd/oppo-find-n3-flip,https://cdn.tgdd.vn/Products/Images/42/309835/oppo-n3-flip-vang-thumb-600x600.jpg,thegioididong
+109,110,realme 13+ 5G,dtdd,9.290.000₫,https://www.thegioididong.com/dtdd/realme-13-plus-5g-8gb-256gb,https://cdn.tgdd.vn/Products/Images/42/330620/realme-13-plus-tim-thumb-600x600.jpg,thegioididong
+110,111,OPPO Find N3 5G 16GB/512GB,dtdd,41.990.000₫,https://www.thegioididong.com/dtdd/oppo-find-n3,https://cdn.tgdd.vn/Products/Images/42/302953/oppo-find-n3-vang-dong-thumb-600x600.jpg,thegioididong
+111,112,iPhone 15 Pro,dtdd,28.490.000₫,https://www.thegioididong.com/dtdd/iphone-15-pro-256gb,https://cdn.tgdd.vn/Products/Images/42/303831/iphone-15-pro-black-thumbnew-600x600.jpg,thegioididong
+112,113,OPPO A58 8GB/128GB,dtdd,5.490.000₫,https://www.thegioididong.com/dtdd/oppo-a58-4g,https://cdn.tgdd.vn/Products/Images/42/311354/oppo-a58-4g-green-thumb-600x600.jpg,thegioididong
+113,114,Mobell M331 4G,dtdd,550.000₫,https://www.thegioididong.com/dtdd/mobell-m331,https://cdn.tgdd.vn/Products/Images/42/314697/mobell-m331-thumb-xanh-1-600x600.jpg,thegioididong
+114,115,Itel it2600,dtdd,490.000₫,https://www.thegioididong.com/dtdd/itel-it2600,https://cdn.tgdd.vn/Products/Images/42/328399/itel-it2600-black-thumb-1-600x600.jpg,thegioididong
+115,116,ASUS Zenfone Max M2,dtdd,-1,https://www.thegioididong.com/dtdd/asus-zenfone-max-m2,,thegioididong
+116,117,realme C75,dtdd,5.690.000₫,https://www.thegioididong.com/dtdd/realme-c75-8gb-128gb,https://cdn.tgdd.vn/Products/Images/42/332234/realme-c75-gold-thumb-600x600.jpg,thegioididong
+117,118,Dell Inspiron 15 3520 i5 1235U (N5I5052W1),laptop,16.490.000₫,https://www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-n5i5052w1,,thegioididong
+118,119,Asus Vivobook Go 15 E1504FA R5 7520U (NJ776W),laptop,12.390.000₫,https://www.thegioididong.com/laptop/asus-vivobook-go-15-e1504fa-r5-nj776w?utm_flashsale=1,,thegioididong
+119,120,Lenovo Ideapad Slim 3 15IAH8 i5 12450H (83ER000EVN),laptop,13.390.000₫,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15iah8-i5-83er00evn?utm_flashsale=1,,thegioididong
+120,121,Acer Aspire 3 A315 44P R9W8 R7 5700U (NX.KSJSV.002),laptop,10.690.000₫,https://www.thegioididong.com/laptop/acer-aspire-a315-44p-r9w8-r7-nxksjsv002,,thegioididong
+121,122,HP 15 fd0234TU i5 1334U (9Q969PA),laptop,15.690.000₫,https://www.thegioididong.com/laptop/hp-15-fd0234tu-i5-9q969pa,,thegioididong
+122,123,HP 15 fc0085AU R5 7430U (A6VV8PA),laptop,12.890.000₫,https://www.thegioididong.com/laptop/hp-15-fc0085au-r5-a6vv8pa,,thegioididong
+123,124,Asus Vivobook 15 X1504ZA i3 1215U (NJ102W),laptop,9.990.000₫,https://www.thegioididong.com/laptop/asus-vivobook-15-x1504za-i3-nj102w?utm_flashsale=1,,thegioididong
+124,125,MacBook Air 13 inch M1,laptop,18.490.000₫,https://www.thegioididong.com/laptop/apple-macbook-air-2020-mgn63saa,,thegioididong
+125,126,Lenovo Ideapad 1 15ALC7 R7 5700U (82R400C1VN),laptop,12.790.000₫,https://www.thegioididong.com/laptop/lenovo-ideapad-1-15alc7-r7-82r400c1vn,,thegioididong
+126,127,Acer Aspire Lite 14 51M 59BN i5 1235U (NX.KTXSV.001),laptop,13.490.000₫,https://www.thegioididong.com/laptop/acer-aspire-lite-14-51m-59bn-i5-nxktxsv001,,thegioididong
+127,128,HP 15 fd0303TU i3 1315U (A2NL4PA),laptop,10.590.000₫,https://www.thegioididong.com/laptop/hp-15-fd0303tu-i3-a2nl4pa,,thegioididong
+128,129,Asus Vivobook 15 OLED A1505ZA i5 12500H (MA415W),laptop,16.490.000₫,https://www.thegioididong.com/laptop/asus-asus-vivobook-15-oled-a1505za-i5-ma415w?utm_flashsale=1,,thegioididong
+129,130,Lenovo Ideapad Slim 3 15AMN8 R5 7520U (82XQ00J0VN),laptop,11.790.000₫,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn,,thegioididong
+130,131,Acer Aspire 3 A314 42P R3B3 R7 5700U (NX.KSFSV.001),laptop,11.990.000₫,https://www.thegioididong.com/laptop/acer-aspire-3-a314-42p-r3b3-r7-nxksfsv001,,thegioididong
+131,132,MacBook Air 13 inch M2 2022 8-core CPU,laptop,23.290.000₫,https://www.thegioididong.com/laptop/apple-macbook-air-m2-2022,https://cdn.tgdd.vn/Products/Images/44/282827/apple-macbook-air-m2-2022-xanh-600x600.jpg,thegioididong
+132,133,Dell Inspiron 15 3520 i5 1235U,laptop,16.490.000₫,https://www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-25p231,,thegioididong
+133,134,HP 240 G9 i5 1235U (AG2J7AT),laptop,14.690.000₫,https://www.thegioididong.com/laptop/hp-240-g9-i5-ag2j7at,,thegioididong
+134,135,Acer Aspire 3 A315 58 529V i5 1135G7 (NX.ADDSV.00N),laptop,8.990.000₫,https://www.thegioididong.com/laptop/acer-aspire-3-a315-58-529v-i5-nxaddsv00n?utm_flashsale=1,,thegioididong
+135,136,Lenovo Ideapad Slim 5 14IAH8 i5 12450H (83BF003WVN),laptop,16.190.000₫,https://www.thegioididong.com/laptop/lenovo-ideapad-5-14iah8-i5-83bf003wvn,,thegioididong
+136,137,Asus Gaming Vivobook K3605ZF i5 12500H (RP745W),laptop,17.390.000₫,https://www.thegioididong.com/laptop/asus-vivobook-k3605zf-i5-rp745w?utm_flashsale=1,,thegioididong
+137,138,Asus Vivobook X1404ZA i5 1235U (NK376W),laptop,13.990.000₫,https://www.thegioididong.com/laptop/asus-vivobook-x1404za-i5-nk376w?utm_flashsale=1,,thegioididong
+138,139,HP 245 G10 R5 7530U (A20TDPT),laptop,12.490.000₫,https://www.thegioididong.com/laptop/hp-245-g10-r5-a20tdpt,,thegioididong
+139,140,Acer Aspire Lite 14 51M 36MH i3 1215U (NX.KTVSV.001),laptop,9.190.000₫,https://www.thegioididong.com/laptop/acer-aspire-lite-14-51m-36mh-i3-nxktvsv001,,thegioididong
+140,141,Lenovo Gaming LOQ 15IAX9 i5 12450HX (83GS000JVN),laptop,20.890.000₫,https://www.thegioididong.com/laptop/lenovo-loq-gaming-15iax9-i5-83gs000jvn?utm_flashsale=1,,thegioididong
+141,142,Asus Vivobook X1404ZA i3 1215U (NK246W),laptop,9.690.000₫,https://www.thegioididong.com/laptop/asus-vivobook-x1404za-i3-nk246w?utm_flashsale=1,,thegioididong
+142,143,Acer Aspire Lite 14 51M 36PN i3 1215U (NX.KTWSV.001),laptop,9.690.000₫,https://www.thegioididong.com/laptop/acer-aspire-lite-14-51m-36pn-i3-nxktwsv001,,thegioididong
+143,144,Dell Latitude 3440 i5 1235U (L3440-I51235U-16G512G),laptop,16.490.000₫,https://www.thegioididong.com/laptop/dell-latitude-3440-i5-l3440i51235u16g512g,,thegioididong
+144,145,Lenovo Gaming LOQ 15IAX9 i5 12450HX (83GS00D9VN),laptop,21.990.000₫,https://www.thegioididong.com/laptop/lenovo-loq-15iax9-i5-83gs00d9vn?utm_flashsale=1,,thegioididong
+145,146,HP 15 fd0015TU i7 1355U (A19C5PA),laptop,19.290.000₫,https://www.thegioididong.com/laptop/hp-15-fd0015tu-i7-a19c5pa,,thegioididong
+146,147,MSI Gaming GF63 Thin 12VE i5 12450H (460VN),laptop,17.990.000₫,https://www.thegioididong.com/laptop/msi-gf63-thin-12ve-i5-460vn?utm_flashsale=1,,thegioididong
+147,148,Asus Vivobook 15 X1504ZA i5 1235U (NJ1608W),laptop,13.990.000₫,https://www.thegioididong.com/laptop/asus-x1504za-i5-nj1608w?utm_flashsale=1,,thegioididong
+148,149,HP Pavilion 15 eg3093TU i5 1335U (8C5L4PA),laptop,17.490.000₫,https://www.thegioididong.com/laptop/hp-pavilion-15-eg3093tu-i5-8c5l4pa,,thegioididong
+149,150,Asus Vivobook 16 X1605VA i5 1335U (MB360W),laptop,15.590.000₫,https://www.thegioididong.com/laptop/asus-vivobook-16-x1605va-i5-mb360w?utm_flashsale=1,,thegioididong
+150,151,HP 240 G9 i3 1215U (AG2J5AT),laptop,9.990.000₫,https://www.thegioididong.com/laptop/hp-240-g9-i3-ag2j5at,,thegioididong
+151,152,Lenovo Ideapad Slim 3 15IRH8 i7 13620H (83EM003FVN),laptop,17.290.000₫,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15irh8-i7-83em003fvn,,thegioididong
+152,153,MSI Modern 15 B12MO i5 1235U (628VN),laptop,11.990.000₫,https://www.thegioididong.com/laptop/msi-modern-15-b12mo-i5-628vn,,thegioididong
+153,154,Acer Aspire 5 A514 56P 742F i7 1355U (NX.KHRSV.005),laptop,13.990.000₫,https://www.thegioididong.com/laptop/acer-aspire-5-a514-56p-742f-i7-nxkhrsv005,,thegioididong
+154,155,Acer Predator Helios Neo PHN16 71 53M7 i5 13500HX (NH.QLUSV.005),laptop,25.490.000₫,https://www.thegioididong.com/laptop/acer-predator-helios-neo-phn16-71-53m7-i5-nhqlusv005?utm_flashsale=1,,thegioididong
+155,156,Asus TUF Gaming F15 FX507ZC4 i5 12500H (HN330W),laptop,20.290.000₫,https://www.thegioididong.com/laptop/asus-gaming-tuf-f15-fx507zc4-i5-hn330w?utm_flashsale=1,,thegioididong
+156,157,Acer Gaming Aspire 5 A515 58GM 51LB i5 13420H (NX.KQ4SV.002),laptop,16.490.000₫,https://www.thegioididong.com/laptop/acer-aspire-5-a515-58gm-51lb-i5-nxkq4sv002,,thegioididong
+157,158,Dell Inspiron 15 3530 i7 1355U (P16WD),laptop,22.490.000₫,https://www.thegioididong.com/laptop/dell-inspiron-15-3530-i7-p16wd,,thegioididong
+158,159,Acer Aspire 5 A515 58P 34RJ i3 1315U (NX.KHJSV.003),laptop,9.990.000₫,https://www.thegioididong.com/laptop/acer-aspire-5-a515-58p-34rj-i3-nxkhjsv003,,thegioididong
+159,160,HP Gaming VICTUS 15 fa1139TX i5 12450H (8Y6W3PA),laptop,18.990.000₫,https://www.thegioididong.com/laptop/hp-victus-15-fa1139tx-i5-8y6w3pa,,thegioididong
+160,161,Asus TUF Gaming A15 FA506NF R5 7535HS (HN012W),laptop,16.990.000₫,https://www.thegioididong.com/laptop/asus-tuf-gaming-a15-fa506nf-r5-hn012w?utm_flashsale=1,,thegioididong
+161,162,MSI Gaming Thin 15 B12UCX i5 12450H (2046VN),laptop,15.990.000₫,https://www.thegioididong.com/laptop/msi-thin-15-b12ucx-i5-2046vn,,thegioididong
+162,163,HP Pavilion X360 14 ek2024TU Core 5 120U (9Z2V6PA),laptop,23.490.000₫,https://www.thegioididong.com/laptop/hp-pavilion-x360-14-ek2024tu-core-5-9z2v6pa,,thegioididong
+163,164,Lenovo Ideapad Slim 5 15IRU9 Core 5 120U (83D0000EVN),laptop,17.990.000₫,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-15iru9-core-5-83d0000evn?utm_flashsale=1,,thegioididong
+164,165,Lenovo LOQ 15IAX9E i5 12450HX (83LK000BVN),laptop,17.990.000₫,https://www.thegioididong.com/laptop/lenovo-loq-15iax9e-i5-83lk000bvn,,thegioididong
+165,166,Dell Vostro 3530 i5 1335U (80GG93),laptop,18.490.000₫,https://www.thegioididong.com/laptop/dell-vostro-3530-i5-80gg93,,thegioididong
+166,167,Asus Vivobook 15 X1504ZA i5 1235U (NJ1546W),laptop,13.990.000₫,https://www.thegioididong.com/laptop/asus-vivobook-15-x1504za-i5-nj1546w?utm_flashsale=1,,thegioididong
+167,168,Asus Vivobook 15 X1504ZA i5 1235U (NJ1528W),laptop,14.490.000₫,https://www.thegioididong.com/laptop/asus-vivobook-15-x1504za-i5-nj1528w,,thegioididong
+168,169,HP 240 G10 i5 1335U (9H2E4PT),laptop,16.790.000₫,https://www.thegioididong.com/laptop/hp-240-g10-i5-9h2e4pt?utm_flashsale=1,,thegioididong
+169,170,Acer Gaming Nitro AN515 58 773Y i7 12700H (NH.QFKSV.001.16G),laptop,22.990.000₫,https://www.thegioididong.com/laptop/acer-nitro-an515-58-773y-i7-12700h-nhqfksv00116g,,thegioididong
+170,171,Lenovo Gaming LOQ 15ARP9 R7 7435HS (83JC0040VN),laptop,25.990.000₫,https://www.thegioididong.com/laptop/lenovo-loq-15arp9-r7-83jc0040vn,,thegioididong
+171,172,MSI Gaming Katana 15 B13VFK i7 13620H (676VN),laptop,26.490.000₫,https://www.thegioididong.com/laptop/msi-katana-15-b13vfk-i7-676vn,,thegioididong
+172,173,HP 15s fq5229TU i3 1215U (8U237PA),laptop,10.790.000₫,https://www.thegioididong.com/laptop/hp-15s-fq5229tu-i3-8u237pa?utm_flashsale=1,,thegioididong
+173,174,Dell Inspiron 15 3530 i7 1355U (71043888),laptop,21.490.000₫,https://www.thegioididong.com/laptop/dell-inspiron-15-3530-i7-71043888,,thegioididong
+174,175,Asus Gaming Vivobook K3605ZC i5 12500H (RP629W),laptop,19.390.000₫,https://www.thegioididong.com/laptop/asus-vivobook-k3605zc-i5-rp629w?utm_flashsale=1,,thegioididong
+175,176,Dell Inspiron 15 3530 i5 1334U (N3530-i5U165W11SLU),laptop,18.490.000₫,https://www.thegioididong.com/laptop/dell-inspiron-15-3530-i5-n3530i5u165w11slu,,thegioididong
+176,177,HP 15 fd1063TU Ultra 5 125H (9Z2Y1PA),laptop,18.490.000₫,https://www.thegioididong.com/laptop/hp-15-fd1063tu-ultra-5-9z2y1pa,,thegioididong
+177,178,Acer Aspire 3 A315 59 5283 i5 1235U (NX.K6TSV.00B),laptop,12.490.000₫,https://www.thegioididong.com/laptop/acer-aspire-3-a315-59-5283-i5-nxk6tsv00b,,thegioididong
+178,179,Acer Aspire 5 A515 58P 774R i7 1355U (NX.KHJSV.005),laptop,13.990.000₫,https://www.thegioididong.com/laptop/acer-aspire-5-a515-58p-774r-i7-nxkhjsv005,,thegioididong
+179,180,Asus Zenbook 14 OLED UX3405MA Ultra 5 125H,laptop,26.390.000₫,https://www.thegioididong.com/laptop/asus-zenbook-14-oled-ux3405ma-ultra-5-pp151w?utm_flashsale=1,,thegioididong
+180,181,HP 240 G9 i5 1235U (6L1Y2PA),laptop,12.990.000₫,https://www.thegioididong.com/laptop/hp-240-g9-i5-6l1y2pa?utm_flashsale=1,,thegioididong
+181,182,MSI Gaming GF63 Thin 12UC i7 12650H (887VN),laptop,15.490.000₫,https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-12uc-i7-887vn?utm_flashsale=1,,thegioididong
+182,183,Lenovo Gaming LOQ 15IAX9 i5 12450HX (83GS00DBVN),laptop,20.890.000₫,https://www.thegioididong.com/laptop/lenovo-loq-15iax9-i5-83gs00dbvn,,thegioididong
+183,184,Dell Inspiron 15 3520 i5 1235U (71043883),laptop,16.490.000₫,https://www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-71043883,,thegioididong
+184,185,HP 15s fq5147TU i7 1255U (7C133PA),laptop,14.490.000₫,https://www.thegioididong.com/laptop/hp-15s-fq5147tu-i7-7c133pa?utm_flashsale=1,,thegioididong
+185,186,HP 240 G8 i3 1115G4 (6L1A2PA),laptop,9.990.000₫,https://www.thegioididong.com/laptop/hp-240-g8-i3-6l1a2pa,,thegioididong
+186,187,Asus Vivobook 14 X1404VA i5 1335U (NK050W),laptop,15.490.000₫,https://www.thegioididong.com/laptop/asus-vivobook-14-x1404va-i5-nk050w?utm_flashsale=1,,thegioididong
+187,188,Asus TUF Gaming F15 FX507ZC4 i7 12700H (HN181W),laptop,21.990.000₫,https://www.thegioididong.com/laptop/asus-fx507zc4-i7-hn181w,,thegioididong
+188,189,Acer Aspire 5 A515 58M 56YX i5 13420H (NX.KQ8SV.005),laptop,14.690.000₫,https://www.thegioididong.com/laptop/acer-aspire-5-a515-58m-56yx-i5-nxkq8sv005,,thegioididong
+189,190,MSI Modern 15 B12MO i7 1255U (487VN),laptop,13.990.000₫,https://www.thegioididong.com/laptop/msi-modern-15-b12mo-i7-487vn,,thegioididong
+190,191,Lenovo V14 G4 i7 1355U (83A00012VN),laptop,16.990.000₫,https://www.thegioididong.com/laptop/lenovo-thinkpad-v14-i7-83a00012vn,,thegioididong
+191,192,Asus Vivobook S 16 OLED S5606MA Ultra 5 125H (MX050W),laptop,24.490.000₫,https://www.thegioididong.com/laptop/asus-vivobook-s-16-oled-s5606ma-ultra-5-mx050w,,thegioididong
+192,193,Dell Vostro 3520 i5 1235U (71030559),laptop,16.490.000₫,https://www.thegioididong.com/laptop/dell-vostro-3520-i5-71030559,,thegioididong
+193,194,HP 240 G9 i3 1215U (6L1X7PA),laptop,8.490.000₫,https://www.thegioididong.com/laptop/hp-240-g9-i3-6l1x7pa?utm_flashsale=1,,thegioididong
+194,195,Dell Vostro 15 3520 i5 1235U (5M2TT2),laptop,15.490.000₫,https://www.thegioididong.com/laptop/dell-vostro-15-3520-i5-5m2tt2,,thegioididong
+195,196,Acer Gaming Aspire 5 A515 58GM 53PZ i5 13420H (NX.KQ4SV.008),laptop,15.490.000₫,https://www.thegioididong.com/laptop/acer-aspire-a515-58gm-53pz-i5-nxkq4sv008,,thegioididong
+196,197,MacBook Air 13 inch M3,laptop,29.490.000₫,https://www.thegioididong.com/laptop/macbook-air-13-inch-m3-2024-16gb-256gb,https://cdn.tgdd.vn/Products/Images/44/322633/macbook-air-13-inch-m3-2024-16gb-256gb-050324-110756-600x600.jpg,thegioididong
+197,198,Asus Vivobook 15 OLED A1505VA i5 13500H (MA467W),laptop,17.990.000₫,https://www.thegioididong.com/laptop/asus-vivobook-15-oled-a1505va-i5-ma467w?utm_flashsale=1,,thegioididong
+198,199,HP Pavilion 15 eg3091TU i7 1355U (8C5L2PA),laptop,21.890.000₫,https://www.thegioididong.com/laptop/hp-pavilion-15-eg3091tu-i7-8c5l2pa,,thegioididong
+199,200,Asus Vivobook S 14 OLED S5406MA Ultra 5 125H (PP136W),laptop,24.990.000₫,https://www.thegioididong.com/laptop/asus-vivobook-s-14-oled-s5406ma-ultra-5-pp136w,,thegioididong
+200,201,Acer Gaming Aspire 7 A715 76G 5806 i5 12450H (NH.QMFSV.002),laptop,18.490.000₫,https://www.thegioididong.com/laptop/acer-aspire-7-gaming-a715-76g-5806-i5-nhqmfsv002,,thegioididong
+201,202,MSI Modern 15 B12MO i5 1235U (625VN),laptop,11.490.000₫,https://www.thegioididong.com/laptop/msi-modern-15-b12mo-i5-625vn,,thegioididong
+202,203,MSI Thin 15 B13UC i7 13620H (1411VN),laptop,21.490.000₫,https://www.thegioididong.com/laptop/msi-thin-15-b13uc-i7-1411vn,,thegioididong
+203,204,Lenovo Gaming LOQ 15IRX9 i7 13650HX (83DV00D5VN),laptop,29.290.000₫,https://www.thegioididong.com/laptop/lenovo-loq-15irx9-i7-83dv00d5vn,,thegioididong
+204,205,HP Gaming VICTUS 15 fb1022AX R5 7535HS (94F19PA),laptop,17.990.000₫,https://www.thegioididong.com/laptop/hp-victus-15-fb1022ax-r5-94f19pa,,thegioididong
+205,206,Dell Inspiron 15 3530 i5 1334U (N5I5340W1),laptop,17.990.000₫,https://www.thegioididong.com/laptop/dell-inspiron-15-3530-i5-n5i5340w1,,thegioididong
+206,207,Asus Vivobook 15 OLED A1505VA i5 13500H (L1341W),laptop,17.390.000₫,https://www.thegioididong.com/laptop/asus-vivobook-15-oled-a1505va-i5-l1341w?utm_flashsale=1,,thegioididong
+207,208,Acer Aspire Lite AL16 51P 596H i5 1235U (NX.KWZSV.002),laptop,12.690.000₫,https://www.thegioididong.com/laptop/acer-aspire-lite-al16-51p-596h-i5-nxkwzsv002,,thegioididong
+208,209,Dell Inspiron 15 3530 i7 1355U (N5I7301W1),laptop,21.490.000₫,https://www.thegioididong.com/laptop/dell-inspiron-15-3530-i7-n5i7301w1,,thegioididong
+209,210,HP 15 fd1064TU Ultra 5 125H (9Z2Y2PA),laptop,16.990.000₫,https://www.thegioididong.com/laptop/hp-15-fd1064tu-ultra-5-9z2y2pa?utm_flashsale=1,,thegioididong
+210,211,HP Pavilion 15 eg2088TU i7 1260P (7C0R0PA),laptop,20.990.000₫,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2088tu-i7-7c0r0pa,,thegioididong
+211,212,MSI Gaming Katana 15 B13UDXK i7 13620H (2077VN),laptop,23.990.000₫,https://www.thegioididong.com/laptop/msi-katana-15-b13udxk-i7-2077vn,,thegioididong
+212,213,Asus Vivobook 15 X1504VA i5 1335U (NJ025W),laptop,13.990.000₫,https://www.thegioididong.com/laptop/asus-vivobook-15-x1504va-i5-nj025w,,thegioididong
+213,214,Lenovo Ideapad Slim 5 16IMH9 Ultra 7 155H (83DC001SVN),laptop,25.990.000₫,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-16imh9-ultra-7-83dc001svn,,thegioididong
+214,215,MSI Gaming Thin 15 B12UC i5 12450H (2045VN),laptop,16.990.000₫,https://www.thegioididong.com/laptop/msi-thin-15-b12uc-i5-2045vn,,thegioididong
+215,216,Lenovo Ideapad 3 15IAU7 i7 1255U (82RK00X0VN),laptop,15.990.000₫,https://www.thegioididong.com/laptop/lenovo-ideapad-3-15iau7-i7-82rk00x0vn,,thegioididong
+216,217,Dell Inspiron 15 3530 i5 1334U (71043885),laptop,18.490.000₫,https://www.thegioididong.com/laptop/dell-inspiron-15-3530-i5-71043885,,thegioididong
+217,218,Dell Inspiron 15 3520 i5 1235U (i5U085W11BLU),laptop,15.490.000₫,https://www.thegioididong.com/laptop/dell-inspiron-15-3520-i5u085w11blu,,thegioididong
+218,219,HP Pavilion 15 eg2081TU i5 1240P (7C0Q4PA),laptop,15.690.000₫,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2081tu-i5-7c0q4pa,,thegioididong
+219,220,Asus Zenbook 14 OLED UX3402VA i5 13500H (KM657W),laptop,23.490.000₫,https://www.thegioididong.com/laptop/asus-zenbook-14-oled-i5-km657w?utm_flashsale=1,,thegioididong
+220,221,MSI Modern 14 C13M i5 1335U (611VN),laptop,13.490.000₫,https://www.thegioididong.com/laptop/msi-modern-14-c13m-i5-611vn,,thegioididong
+221,222,Asus TUF Gaming A15 FA506NCR R7 7435HS (HN097W),laptop,19.990.000₫,https://www.thegioididong.com/laptop/asus-fa506ncr-r7-hn097w,,thegioididong
+222,223,Asus Vivobook S 14 Flip TP3402VA i5 13500H (LZ031W),laptop,18.990.000₫,https://www.thegioididong.com/laptop/asus-vivobook-s-14-flip-tp3402va-i5-lz031w,,thegioididong
+223,224,MacBook Air 13 inch M2 10GPU,laptop,26.890.000₫,https://www.thegioididong.com/laptop/apple-macbook-air-m2-2022-16gb-256gb-10gpu,https://cdn.tgdd.vn/Products/Images/44/325306/apple-macbook-air-m2-2022-16gb-256gb-10gpu-xanh%20thumb-600x600.jpg,thegioididong
+224,225,Acer Aspire Lite 15 51M 5542 i5 1155G7 (NX.KS5SV.001),laptop,11.190.000₫,https://www.thegioididong.com/laptop/acer-aspire-lite-15-51m-5542-i5-nxks5sv001,,thegioididong
+225,226,Acer Gaming Nitro V ANV15 51 55CA i5 13420H (NH.QN8SV.004),laptop,24.490.000₫,https://www.thegioididong.com/laptop/acer-nitro-v-anv15-51-55ca-i5-nhqn8sv004,,thegioididong
+226,227,Lenovo Gaming Legion Pro 5 16IRX9 i9 14900HX (83DF0047VN),laptop,44.990.000₫,https://www.thegioididong.com/laptop/lenovo-legion-pro-5-16irx9-i9-83df0047vn,,thegioididong
+227,228,Dell Inspiron 15 3520 i5 1235U (N3520-i5U165W11BLU-FP),laptop,16.490.000₫,https://www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-n3520i5u165w11blufp,,thegioididong
+228,229,Dell Vostro 15 3520 i5 1235U (V3520-i5U165W11GRU),laptop,16.490.000₫,https://www.thegioididong.com/laptop/dell-vostro-15-3520-i5-v3520i5u165w11gru,,thegioididong
+229,230,Dell Vostro 15 3520 i5 1235U (i5U165W11GRU),laptop,16.490.000₫,https://www.thegioididong.com/laptop/dell-vostro-15-3520-i5-i5u165w11gru,,thegioididong
+230,231,Asus Vivobook 15 OLED A1505ZA i5 12500H (L1337W),laptop,16.490.000₫,https://www.thegioididong.com/laptop/asus-vivobook-15-oled-a1505za-i5-l1337w?utm_flashsale=1,,thegioididong
+231,232,MSI Gaming Bravo 15 B7ED R5 7535HS (010VN),laptop,13.990.000₫,https://www.thegioididong.com/laptop/msi-bravo-15-b7ed-r5-010vn?utm_flashsale=1,,thegioididong
+232,233,HP 15s fq5162TU i5 1235U (7C134PA),laptop,12.990.000₫,https://www.thegioididong.com/laptop/hp-15s-fq5162tu-i5-7c134pa?utm_flashsale=1,,thegioididong
+233,234,Acer Aspire Lite 15 51M 55NB i5 1155G7 (NX.KRSSV.001),laptop,11.190.000₫,https://www.thegioididong.com/laptop/acer-aspire-lite-15-51m-55nb-i5-nxkrssv001,,thegioididong
+234,235,HP Envy x360 14 fc0094TU Ultra 5 125U (A19C4PA),laptop,27.290.000₫,https://www.thegioididong.com/laptop/hp-envy-x360-14-fc0094tu-ultra-5-a19c4pa,,thegioididong
+235,236,Acer Swift Lite 14 AI SFL14 51M 56HS Ultra 5 125U (NX.J1HSV.002),laptop,18.690.000₫,https://www.thegioididong.com/laptop/acer-swift-lite-14-ai-sfl14-51m-56hs-ultra-5-nxj1hsv002,,thegioididong
+236,237,Lenovo IdeaPad Slim 5 14IMH9 Ultra 5 125H (83DA001NVN),laptop,20.990.000₫,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-14imh9-ultra-5-83da001nvn?utm_flashsale=1,,thegioididong
+237,238,MSI Gaming Thin 15 B13UCX i5 13420H (2080VN),laptop,16.990.000₫,https://www.thegioididong.com/laptop/msi-thin-15-b13ucx-i5-2080vn,,thegioididong
+238,239,Acer Gaming Nitro 5 Tiger AN515 58 52SP i5 12500H (NH.QFHSV.001),laptop,17.990.000₫,https://www.thegioididong.com/laptop/acer-nitro-5-tiger-an515-58-52sp-i5-nhqfhsv001?utm_flashsale=1,,thegioididong
+239,240,Dell Inspiron 15 3520 i5 1235U (N3520-i5U085W11SLU),laptop,15.490.000₫,https://www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-n3520-i5u085w11slu,,thegioididong
+240,241,Asus Gaming Vivobook K3605ZU i5 12500H (RP296W),laptop,23.290.000₫,https://www.thegioididong.com/laptop/asus-gaming-vivobook-k3605zu-i5-rp296w?utm_flashsale=1,,thegioididong
+241,242,Asus TUF Gaming A15 FA506NC R5 7535HS (HN017W),laptop,18.490.000₫,https://www.thegioididong.com/laptop/asus-tuf-gaming-a15-fa506nc-r5-hn017w,,thegioididong
+242,243,HP Pavilion X360 14 ek1047TU i7 1355U (80R25PA),laptop,24.990.000₫,https://www.thegioididong.com/laptop/hp-pavilion-x360-14-ek1047tu-i7-80r25pa?utm_flashsale=1,,thegioididong
+243,244,Dell Inspiron 15 3530 i7 1355U (71026454),laptop,21.490.000₫,https://www.thegioididong.com/laptop/dell-inspiron-15-3530-i7-71026454,,thegioididong
+244,245,HP 240 G9 i3 1215U (6L1X8PA),laptop,9.990.000₫,https://www.thegioididong.com/laptop/hp-240-g9-i3-6l1x8pa,,thegioididong
+245,246,Dell Inspiron 14 5440 Core 7 150U (7FN5J),laptop,24.990.000₫,https://www.thegioididong.com/laptop/dell-inspiron-14-5440-core-7-7fn5j,,thegioididong
+246,247,MSI Gaming GF63 Thin 12VE i5 12450H (460VN),laptop,16.990.000₫,https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-12ve-i5-460vn?utm_flashsale=1,,thegioididong
+247,248,Lenovo Ideapad Slim 5 16IMH9 Ultra 5 125H (83DC001RVN),laptop,21.990.000₫,https://www.thegioididong.com/laptop/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn,https://cdn.tgdd.vn/Products/Images/44/326498/lenovo-ideapad-slim-5-16imh9-ultra-5-83dc001rvn-thumb-600x600.jpg,thegioididong
+248,249,MSI Gaming Sword 16 HX B14VFKG i7 14700HX (045VN),laptop,36.990.000₫,https://www.thegioididong.com/laptop/msi-gaming-sword-16-hx-b14vfkg-i7-045vn,https://cdn.tgdd.vn/Products/Images/44/322100/msi-gaming-sword-16-hx-b14vfkg-i7-045vn-thumb-600x600.jpg,thegioididong
+249,250,Acer Swift Go SFG14 71 513F i5 13500H (NX.KPZSV.003),laptop,16.490.000₫,https://www.thegioididong.com/laptop/acer-swift-go-sfg14-71-513f-i5-nxkpzsv003?utm_flashsale=1,https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/330164/acer-swift-go-sfg14-71-513f-i5-nxkpzsv003-thumb-638628541868611385-600x600.jpg,thegioididong
+250,251,Dell Vostro 3420 i5 1235U (V4I5702W1),laptop,15.490.000₫,https://www.thegioididong.com/laptop/dell-vostro-3420-i5-v4i5702w1,https://cdn.tgdd.vn/Products/Images/44/325243/dell-vostro-3420-i5-v4i5702w1-thumb-new-600x600.jpg,thegioididong
+251,252,Asus TUF Gaming F15 FX507ZC4 i5 12500H (HN229W),laptop,21.490.000₫,https://www.thegioididong.com/laptop/asus-tuf-gaming-f15-fx507zc4-i5-hn229w,https://cdn.tgdd.vn/Products/Images/44/317709/asus-tuf-gaming-f15-fx507zc4-i5-hn229w-thumb-600x600.jpg,thegioididong
+252,253,Acer Swift Go 14 41 R251 R5 7430U (NX.KG3SV.005),laptop,16.490.000₫,https://www.thegioididong.com/laptop/acer-swift-go-14-41-r251-r5-nxkg3sv005,https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327506/acer-swift-go-14-41-r251-r5-nxkg3sv005-thumb-laptop-638632055248496672-600x600.jpg,thegioididong
+253,254,HP Pavilion 15 eg3094TU i5 1335U (8C5L5PA),laptop,16.390.000₫,https://www.thegioididong.com/laptop/hp-pavilion-15-eg3094tu-i5-8c5l5pa?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/44/311145/hp-pavilion-15-eg3094tu-i5-8c5l5pa-thumb-1-600x600.jpg,thegioididong
+254,255,Lenovo ThinkPad E14 Gen 6 Ultra 7 155U (21M7004UVN),laptop,27.990.000₫,https://www.thegioididong.com/laptop/lenovo-thinkpad-e14-ultra-7-21m7004uvn,https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/326639/lenovo-thinkpad-e14-ultra-7-21m7004uvn-thumb-638646018111183543-600x600.jpg,thegioididong
+255,256,MSI Gaming Cyborg 15 A13VEK i7 13620H (1423VN),laptop,24.990.000₫,https://www.thegioididong.com/laptop/msi-cyborg-15-a13vek-i7-1423vn,https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/327707/msi-cyborg-15-a13vek-i7-1423vn-thumb-638622527904312717-600x600.jpg,thegioididong
+256,257,HP Pavilion 15 eg2082TU i5 1240P (7C0Q5PA),laptop,14.990.000₫,https://www.thegioididong.com/laptop/hp-pavilion-15-eg2082tu-i5-7c0q5pa,https://cdn.tgdd.vn/Products/Images/44/302533/hp-pavilion-15-eg2082tu-i5-7c0q5pa-thumb-600x600.jpg,thegioididong
+257,258,Asus Vivobook 15 X1504VA i7 1355U (NJ023W),laptop,18.990.000₫,https://www.thegioididong.com/laptop/asus-vivobook-15-x1504va-nj023w,https://cdn.tgdd.vn/Products/Images/44/305009/asus-vivobook-15-x1504va-nj023w-thumb-600x600.jpg,thegioididong
+258,259,Asus TUF Gaming A15 FA507NUR R7 7435HS (LP057W),laptop,24.790.000₫,https://www.thegioididong.com/laptop/asus-fa507nur-r7-lp057w?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/44/327872/asus-fa507nur-r7-lp057w-thumb-600x600.jpg,thegioididong
+259,260,Asus TUF Gaming F15 FX507VV i7 13620H (LP151W),laptop,28.990.000₫,https://www.thegioididong.com/laptop/asus-fx507vv-i7-lp151w,https://cdn.tgdd.vn/Products/Images/44/327899/asus-fx507vv-i7-lp151w-thumb-600x600.jpg,thegioididong
+260,261,Acer Gaming Nitro V ANV15 51 53NE i5 13420H (NH.QNASV.002),laptop,19.690.000₫,https://www.thegioididong.com/laptop/acer-nitro-v-anv15-51-53ne-i5-nhqnasv002,https://cdn.tgdd.vn/Products/Images/44/319657/acer-nitro-v-anv15-51-53ne-i5-nhqnasv002-thumb-600x600.jpg,thegioididong
+261,262,HP Gaming VICTUS 16 r0130TX i5 13500H (8C5N5PA),laptop,22.990.000₫,https://www.thegioididong.com/laptop/hp-gaming-victus-16-r0130tx-i5-8c5n5pa?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/44/313973/hp-gaming-victus-16-r0130tx-i5-8c5n5pa-thumb-1-600x600.jpg,thegioididong
+262,263,Asus Zenbook 14 OLED UX3405MA Ultra 7 155H (PP152W),laptop,31.490.000₫,https://www.thegioididong.com/laptop/asus-zenbook-14-oled-ux3405ma-ultra-7-pp152w?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/44/321468/asus-zenbook-14-oled-ux3405ma-ultra-7-pp152w-thumb-600x600.jpg,thegioididong
+263,264,HP 245 G10 R5 7520U (8F155PA),laptop,9.490.000₫,https://www.thegioididong.com/laptop/hp-245-g10-r5-8f155pa?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/44/312871/hp-245-g10-r5-8f155pa-glr-thumb-600x600.jpg,thegioididong
+264,265,Asus Zenbook 14 OLED UX3405MA Ultra 9 185H (PP475W),laptop,33.490.000₫,https://www.thegioididong.com/laptop/asus-zenbook-14-oled-ux3405ma-ultra-9-pp475w?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/44/324821/asus-zenbook-14-oled-ux3405ma-ultra-9-pp475w-thumb-600x600.jpg,thegioididong
+265,266,MSI Gaming Cyborg 14 A13VE i7 13620H (090VN),laptop,25.990.000₫,https://www.thegioididong.com/laptop/msi-cyborg-14-a13ve-i7-090vn,https://cdn.tgdd.vn/Products/Images/44/325586/msi-cyborg-14-a13ve-i7-090vn-thumb-600x600.jpg,thegioididong
+266,267,Asus TUF Gaming F15 FX507VU i7 13620H (LP167W),laptop,26.490.000₫,https://www.thegioididong.com/laptop/asus-tuf-gaming-f15-fx507vu-i7-lp167w,https://cdn.tgdd.vn/Products/Images/44/320434/asus-tuf-gaming-f15-fx507vu-i7-lp167w-thumb-600x600.jpg,thegioididong
+267,268,Lenovo ThinkBook 16 G7 Ultra 5 125U (21MS007GVN),laptop,20.790.000₫,https://www.thegioididong.com/laptop/lenovo-thinkbook-16-g7-ultra-5-21ms007gvn,https://cdn.tgdd.vn/Products/Images/44/326640/lenovo-thinkbook-16-g7-ultra-5-21ms007gvn-thumb-600x600.jpg,thegioididong
+268,269,MSI Gaming GF63 Thin 12UCX i5 12450H (873VN),laptop,15.490.000₫,https://www.thegioididong.com/laptop/msi-gaming-gf63-thin-12ucx-i5-873vn,https://cdn.tgdd.vn/Products/Images/44/316940/msi-gaming-gf63-thin-12ucx-i5-873vn-glr-thumb-600x600.jpg,thegioididong
+269,270,Acer Gaming Aspire 7 A715 76G 59MW i5 12450H (NH.QMYSV.001),laptop,15.690.000₫,https://www.thegioididong.com/laptop/acer-aspire-7-gaming-a715-76g-59mw-i5-nhqmysv001,https://cdn.tgdd.vn/Products/Images/44/313176/acer-aspire-7-gaming-a715-76g-59mw-i5-nhqmysv001-thumb-600x600.jpg,thegioididong
+270,271,MSI Gaming Stealth 14 AI Studio A1VFG Ultra 7 155H (085VN),laptop,46.990.000₫,https://www.thegioididong.com/laptop/msi-stealth-14-ai-studio-a1vfg-ultra-7-085vn,https://cdn.tgdd.vn/Products/Images/44/325588/msi-stealth-14-ai-studio-a1vfg-ultra-7-085vn-thumb-600x600.jpg,thegioididong
+271,272,Acer Gaming Nitro 5 Tiger AN515 58 769J i7 12700H (NH.QFHSV.003),laptop,21.190.000₫,https://www.thegioididong.com/laptop/acer-nitro-5-an515-58-769j-i7-nhqfhsv003,https://cdn.tgdd.vn/Products/Images/44/313332/acer-nitro-5-an515-58-769j-i7-nhqfhsv003-thumb-600x600.jpg,thegioididong
+272,273,Dell Inspiron 15 3520 i5 1235U (71027003),laptop,15.390.000₫,https://www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-71027003,https://cdn.tgdd.vn/Products/Images/44/321193/dell-inspiron-15-3520-i5-71027003-glr-thumb-600x600.jpg,thegioididong
+273,274,Dell Inspiron 14 5440 Core 7 150U (N4I7204W1),laptop,23.990.000₫,https://www.thegioididong.com/laptop/dell-inspiron-14-5440-core-7-n4i7204w1,https://cdn.tgdd.vn/Products/Images/44/325244/dell-inspiron-14-5440-core-7-n4i7204w1-thumb-600x600.jpg,thegioididong
+274,275,HP 15 fd0304TU i3 1315U (A2NL5PA),laptop,10.490.000₫,https://www.thegioididong.com/laptop/hp-15-fd0304tu-i3-a2nl5pa?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/44/326051/hp-15-fd0304tu-i3-a2nl5pa-thumb-600x600.jpg,thegioididong
+275,276,Asus Vivobook 15 OLED A1505VA i9 13900H (MA586WS),laptop,22.490.000₫,https://www.thegioididong.com/laptop/asus-vivobook-15-oled-a1505va-i9-ma586ws?utm_flashsale=1,https://cdn.tgdd.vn/Products/Images/44/328950/asus-vivobook-15-oled-a1505va-i9-ma586ws-thumb-600x600.jpg,thegioididong
+276,277,Asus TUF Gaming F15 FX507VU i7 13620H (LP186W),laptop,26.990.000₫,https://www.thegioididong.com/laptop/asus-fx507vu-i7-lp186w,https://cdn.tgdd.vn/Products/Images/44/327898/asus-fx507vu-i7-lp186w-120724-044307-600x600.jpg,thegioididong
+277,278,iPad 9 WiFi,may-tinh-bang,7.090.000₫,https://www.thegioididong.com/may-tinh-bang/ipad-gen-9,https://cdn.tgdd.vn/Products/Images/522/247517/iPad-9-wifi-trang-600x600.jpg,thegioididong
+278,279,OPPO Pad Neo WiFi 6GB/128GB,may-tinh-bang,6.390.000₫,https://www.thegioididong.com/may-tinh-bang/oppo-pad-neo-6gb,,thegioididong
+279,280,Samsung Galaxy Tab S10 Ultra 5G,may-tinh-bang,32.990.000₫,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s10-ultra,https://cdn.tgdd.vn/Products/Images/522/322132/samsung-galaxy-tab-s10-ultra-gray-thumb-600x600.jpg,thegioididong
+280,281,TCL Tab 10L Gen 3 WiFi 4GB/64GB,may-tinh-bang,2.690.000₫,https://www.thegioididong.com/may-tinh-bang/tcl-tab-10l-gen-3,,thegioididong
+281,282,Samsung Galaxy Tab S10 Ultra WiFi 12GB/256GB,may-tinh-bang,29.990.000₫,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s10-ultra-wifi-256gb,,thegioididong
+282,283,Lenovo Tab Plus WiFi 8GB/256GB,may-tinh-bang,6.790.000₫,https://www.thegioididong.com/may-tinh-bang/lenovo-tab-plus-wifi-8gb-256gb,,thegioididong
+283,284,Samsung Galaxy Tab S10+,may-tinh-bang,24.990.000₫,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s10-plus,https://cdn.tgdd.vn/Products/Images/522/322130/samsung-galaxy-tab-s10-plus-gray-thumb-600x600.jpg,thegioididong
+284,285,Xiaomi Redmi Pad SE 8.7 WiFi 4GB/64GB,may-tinh-bang,2.690.000₫,https://www.thegioididong.com/may-tinh-bang/redmi-pad-se-8-7-wifi-4gb-64gb,,thegioididong
+285,286,TCL Tab 10 Gen 2 4G 4GB/64GB,may-tinh-bang,2.990.000₫,https://www.thegioididong.com/may-tinh-bang/tcl-tab-10-gen-2,,thegioididong
+286,287,TCL Tab 11 WiFi 4GB/128GB,may-tinh-bang,3.390.000₫,https://www.thegioididong.com/may-tinh-bang/tcl-tab-11,,thegioididong
+287,288,Samsung Galaxy Tab A9+,may-tinh-bang,5.990.000₫,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-a9-plus-5g,https://cdn.tgdd.vn/Products/Images/522/317623/samsung-galaxy-a9-plus-den-thumb-600x600.jpg,thegioididong
+288,289,iPad Pro M4 11 inch WiFi,may-tinh-bang,27.490.000₫,https://www.thegioididong.com/may-tinh-bang/ipad-pro-m4-11-inch-wifi-256gb,https://cdn.tgdd.vn/Products/Images/522/325513/ipad-pro-11-inch-m4-wifi-black-thumb-600x600.jpg,thegioididong
+289,290,Samsung Galaxy Tab A9,may-tinh-bang,3.690.000₫,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-a9-4g,https://cdn.tgdd.vn/Products/Images/522/317621/samsung-galaxy-tab-a9-den-thumb-600x600.jpg,thegioididong
+290,291,Samsung Galaxy Tab S9 WiFi,may-tinh-bang,14.990.000₫,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s9,https://cdn.tgdd.vn/Products/Images/522/303299/samsung-galaxy-tab-s9-grey-thumbnew-600x600.jpg,thegioididong
+291,292,Xiaomi Redmi Pad Pro WiFi 6GB/128GB,may-tinh-bang,6.390.000₫,https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-pro-6gb-128gb,,thegioididong
+292,293,iPad Air 6 M2 11 inch WiFi,may-tinh-bang,15.090.000₫,https://www.thegioididong.com/may-tinh-bang/ipad-air-m2-11-inch-wifi-128gb,https://cdn.tgdd.vn/Products/Images/522/325501/ipad-air-11-inch-m2-wifi-blue-thumb-600x600.jpg,thegioididong
+293,294,iPad Air 6 M2 13 inch 5G,may-tinh-bang,24.590.000₫,https://www.thegioididong.com/may-tinh-bang/ipad-air-m2-13-inch-wifi-cellular-128gb,https://cdn.tgdd.vn/Products/Images/522/325525/ipad-air-13-inch-m2-lte-kem-thumb-600x600.jpg,thegioididong
+294,295,"Masstel Tab 10.1"" 4G 3GB/32GB",may-tinh-bang,1.890.000₫,https://www.thegioididong.com/may-tinh-bang/masstel-tab-10-1,,thegioididong
+295,296,Xiaomi POCO Pad WiFi 8GB/256GB,may-tinh-bang,6.690.000₫,https://www.thegioididong.com/may-tinh-bang/xiaomi-poco-pad-8-256gb,,thegioididong
+296,297,Samsung Galaxy Tab S9 5G,may-tinh-bang,16.990.000₫,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s9-5g-128gb,https://cdn.tgdd.vn/Products/Images/522/311062/samsung-galaxy-tab-s9-grey-thumbnew-600x600.jpg,thegioididong
+297,298,Xiaomi Redmi Pad Pro WiFi 8GB/256GB,may-tinh-bang,8.090.000₫,https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-pro-8gb-256gb,,thegioididong
+298,299,iPad Pro M4 13 inch 5G,may-tinh-bang,42.990.000₫,https://www.thegioididong.com/may-tinh-bang/ipad-pro-m4-13-inch-wifi-cellular-256gb,https://cdn.tgdd.vn/Products/Images/522/325534/ipad-pro-13-inch-m4-lte-sliver-thumb-600x600.jpg,thegioididong
+299,300,iPad 10 WiFi,may-tinh-bang,8.990.000₫,https://www.thegioididong.com/may-tinh-bang/ipad-gen-10,https://cdn.tgdd.vn/Products/Images/522/294103/iPad-Gen-10-sliver-thumb-600x600.jpg,thegioididong
+300,301,Xiaomi Redmi Pad SE WiFi 4GB/128GB,may-tinh-bang,3.890.000₫,https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-se-4gb,,thegioididong
+301,302,Xiaomi Redmi Pad Pro WiFi 8GB/128GB,may-tinh-bang,7.090.000₫,https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-pro-8gb-128gb,,thegioididong
+302,303,Lenovo Tab M9,may-tinh-bang,2.790.000₫,https://www.thegioididong.com/may-tinh-bang/lenovo-tab-m9-wifi-4gb-64gb,https://cdn.tgdd.vn/Products/Images/522/328627/lenovo-tab-m9-xanh-thumb-600x600.jpg,thegioididong
+303,304,OPPO Pad Neo 4G 8GB/128GB,may-tinh-bang,7.690.000₫,https://www.thegioididong.com/may-tinh-bang/oppo-pad-neo,,thegioididong
+304,305,Samsung Galaxy Tab S9 FE WiFi series,may-tinh-bang,8.490.000₫,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s9-fe,https://cdn.tgdd.vn/Products/Images/522/309818/galaxy-tab-s9-fe-xanh-mint-thumb-600x600.jpg,thegioididong
+305,306,TCL Tab 10L Gen 2 WiFi 3GB/32GB,may-tinh-bang,1.990.000₫,https://www.thegioididong.com/may-tinh-bang/tcl-tab-10l-gen-2,,thegioididong
+306,307,Xiaomi Redmi Pad SE WiFi 6GB/128GB,may-tinh-bang,4.490.000₫,https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-se,,thegioididong
+307,308,OPPO Pad Air WiFi 4GB/64GB,may-tinh-bang,4.290.000₫,https://www.thegioididong.com/may-tinh-bang/oppo-pad-air,https://cdn.tgdd.vn/Products/Images/522/281821/OPPO-pad-thumb-x%C3%A1m-600x600.jpg,thegioididong
+308,309,Xiaomi Redmi Pad SE WiFi 8GB/256GB,may-tinh-bang,5.290.000₫,https://www.thegioididong.com/may-tinh-bang/xiaomi-redmi-pad-se-8gb,https://cdn.tgdd.vn/Products/Images/522/315622/xiaomi-redmi-pad-se-tim-thumb-600x600.jpeg,thegioididong
+309,310,Xiaomi Redmi Pad SE 8.7 4G 4GB/128GB,may-tinh-bang,4.190.000₫,https://www.thegioididong.com/may-tinh-bang/redmi-pad-se-8-7-4g-4gb-128gb,https://cdn.tgdd.vn/Products/Images/522/328523/redmi-pad-se-8-7-wifi-green-thumb-600x600.jpg,thegioididong
+310,311,Xiaomi Redmi Pad SE 8.7 4G 6GB/128GB,may-tinh-bang,4.690.000₫,https://www.thegioididong.com/may-tinh-bang/redmi-pad-se-8-7-4g-6gb-128gb,https://cdn.tgdd.vn/Products/Images/522/328524/redmi-pad-se-8-7-wifi-blue-thumb-600x600.jpg,thegioididong
+311,312,iPad mini 7 WiFi 256GB,may-tinh-bang,16.490.000₫,https://www.thegioididong.com/may-tinh-bang/ipad-mini-7-wifi-256gb,https://cdn.tgdd.vn/Products/Images/522/331230/ipad-mini-7-wifi-purple-thumb-600x600.jpg,thegioididong
+312,313,Xiaomi Pad 6 WiFi 8GB/256GB,may-tinh-bang,8.990.000₫,https://www.thegioididong.com/may-tinh-bang/xiaomi-pad-6,https://cdn.tgdd.vn/Products/Images/522/309848/xiaomi-pad-6-grey-thumb-600x600.jpg,thegioididong
+313,314,Samsung Galaxy Tab S6 Lite 2024 4G 4GB/64GB,may-tinh-bang,7.490.000₫,https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-s6-lite-2024,https://cdn.tgdd.vn/Products/Images/522/322134/samsung-galaxy-tab-s6-lite-2024-grey-thumb-600x600.jpg,thegioididong
+314,315,iPad 10 5G 64GB,may-tinh-bang,13.190.000₫,https://www.thegioididong.com/may-tinh-bang/ipad-10-wifi-cellular-64gb,https://cdn.tgdd.vn/Products/Images/522/295453/ipad-10-wifi-cellular-pink-thumb-600x600.jpeg,thegioididong
+315,316,Xiaomi Redmi Pad SE 8.7 WiFi 4GB/128GB,may-tinh-bang,3.190.000₫,https://www.thegioididong.com/may-tinh-bang/redmi-pad-se-8-7-wifi-4gb-128gb,https://cdn.tgdd.vn/Products/Images/522/328521/redmi-pad-se-8-7-wifi-green-thumb-600x600.jpg,thegioididong
+316,317,HONOR Pad X9 WiFi 4GB/128GB,may-tinh-bang,4.190.000₫,https://www.thegioididong.com/may-tinh-bang/honor-pad-x9,https://cdn.tgdd.vn/Products/Images/522/318353/honor-pad-x9-thumb-1-600x600.jpg,thegioididong
+317,318,iPad Air 6 M2 13 inch WiFi,may-tinh-bang,20.840.000₫,https://www.thegioididong.com/may-tinh-bang/ipad-air-m2-13-inch-wifi-128gb,https://cdn.tgdd.vn/Products/Images/522/325506/ipad-air-13-inch-m2-wifi-purple-thumb-600x600.jpg,thegioididong
+318,319,Xiaomi Pad 6S Pro 8GB/256GB,may-tinh-bang,13.490.000₫,https://www.thegioididong.com/may-tinh-bang/xiaomi-mi-pad-6s-pro,https://cdn.tgdd.vn/Products/Images/522/322133/xiaomi-mi-pad-6s-pro-grey-thumb-600x600.jpg,thegioididong
+319,320,iPad Pro M4 11 inch 5G 256GB,may-tinh-bang,32.990.000₫,https://www.thegioididong.com/may-tinh-bang/ipad-pro-m4-11-inch-wifi-cellular-256gb,https://cdn.tgdd.vn/Products/Images/522/325529/ipad-pro-11-inch-m4-lte-black-thumb-600x600.jpg,thegioididong
+320,321,Xiaomi Redmi Pad SE 8.7 WiFi 6GB/128GB,may-tinh-bang,3.490.000₫,https://www.thegioididong.com/may-tinh-bang/redmi-pad-se-8-7-wifi-6gb-128gb,https://cdn.tgdd.vn/Products/Images/522/328522/redmi-pad-se-8-7-wifi-blue-thumb-600x600.jpg,thegioididong
+321,322,OPPO Pad 2 WiFi 8GB/256GB,may-tinh-bang,9.690.000₫,https://www.thegioididong.com/may-tinh-bang/oppo-pad-2,https://cdn.tgdd.vn/Products/Images/522/303146/oppo-pad-2-thumb-600x600.jpeg,thegioididong
+322,323,OPPO Pad Air WiFi 4GB/128GB,may-tinh-bang,5.190.000₫,https://www.thegioididong.com/may-tinh-bang/oppo-pad-air-128gb,https://cdn.tgdd.vn/Products/Images/522/305838/oppo-pad-air-128gb-thumbnew-600x600.jpeg,thegioididong
+323,324,iPad Pro M4 13 inch WiFi,may-tinh-bang,36.790.000₫,https://www.thegioididong.com/may-tinh-bang/ipad-pro-m4-13-inch-wifi-256gb,https://cdn.tgdd.vn/Products/Images/522/325517/ipad-pro-13-inch-m4-wifi-sliver-thumb-600x600.jpg,thegioididong
+324,325,Lenovo Tab M11 4G 4GB/128GB,may-tinh-bang,5.190.000₫,https://www.thegioididong.com/may-tinh-bang/lenovo-tab-m11-4g,https://cdn.tgdd.vn/Products/Images/522/326644/lenovo-tab-m11-4g-grey-thumb-600x600.jpg,thegioididong
+325,326,Lenovo Tab M11 WiFi 4GB/128GB,may-tinh-bang,4.690.000₫,https://www.thegioididong.com/may-tinh-bang/lenovo-tab-m11-wifi,https://cdn.tgdd.vn/Products/Images/522/326643/lenovo-tab-m11-grey-thumb-600x600.jpg,thegioididong
+326,327,iPad 9 4G 64GB,may-tinh-bang,10.390.000₫,https://www.thegioididong.com/may-tinh-bang/ipad-9-wifi-cellular-64gb,https://cdn.tgdd.vn/Products/Images/522/250731/iPad-9-5G-trang-600x600.jpg,thegioididong
+327,328,Lenovo Tab M11 4G 8GB/128GB,may-tinh-bang,6.390.000₫,https://www.thegioididong.com/may-tinh-bang/lenovo-tab-m11-4g-8gb-128gb,https://cdn.tgdd.vn/Products/Images/522/326849/lenovo-tab-m11-grey-thumb-600x600.jpg,thegioididong
+328,329,iPad mini 7 5G,may-tinh-bang,17.990.000₫,https://www.thegioididong.com/may-tinh-bang/ipad-mini-7-5g,https://cdn.tgdd.vn/Products/Images/522/331232/ipad-mini-7-5g-grey-thumb-600x600.jpg,thegioididong
+329,330,iPad Air 6 M2 11 inch 5G,may-tinh-bang,19.290.000₫,https://www.thegioididong.com/may-tinh-bang/ipad-air-m2-11-inch-wifi-cellular-128gb,https://cdn.tgdd.vn/Products/Images/522/325521/ipad-air-11-inch-m2-lte-grey-thumb-600x600.jpg,thegioididong
+330,331,Lenovo Tab M11 4G 4GB/64GB,may-tinh-bang,5.390.000₫,https://www.thegioididong.com/may-tinh-bang/lenovo-tab-m11-4g-4gb-64gb,https://cdn.tgdd.vn/Products/Images/522/326848/lenovo-tab-m11-grey-thumb-600x600.jpg,thegioididong
+331,332,OPPO Pad 3 Pro 12GB/256GB,may-tinh-bang,-1,https://www.thegioididong.com/may-tinh-bang/oppo-pad-3-pro,https://cdn.tgdd.vn/Products/Images/522/332555/oppo-pad-3-pro-thumb-600x600.jpg,thegioididong

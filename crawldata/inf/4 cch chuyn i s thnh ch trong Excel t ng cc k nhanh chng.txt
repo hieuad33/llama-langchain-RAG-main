@@ -1,0 +1,142 @@
+4 cách chuyển đổi số thành chữ trong Excel tự động cực kỳ nhanh chóng
+ĐỪNG BỎ LỠ 1 số mẫu Chuột máy tính đang sale to giá sốc tại TGDĐ:
+Việc chuyển đổi số thành chữ trong các hóa đơn tính tiền đã trở thành điều không thể thiếu đối với những người làm trong lĩnh vực ngân hàng hay kể cả những doanh nghiệp lớn, nhỏ. Sau đây mình sẽ hướng dẫn cho các bạn các cách để có thể chuyển số thành chữ trong Excel tự động cực kỳ đơn giản, hãy theo dõi nhé!
+Lưu ý: Excel hiện chưa có hàm mặc định hiển thị số dưới dạng từ tiếng Anh trong trang tính, nhưng bạn có thể sử dụng các công thức bổ trợ Add-in. Dưới đây là các phương pháp phổ biến để chuyển đổi số thành chữ một cách tự động.
+1. Cách chuyển đổi số thành chữ bằng phần mềm vnTools
+Tải phần mềm vnTool và cài đặt
+Bước 1: Để có thể sử dụng phần mềm vnTools bạn phải tải phần mềm này về.
+Để có thể sử dụng phần mềm vnTools bạn phải tải phần mềm này về
+Bước 2: Sau khi tải về bạn nhấp 2 lần chuột trái vào bộ cài đặt > Nhấn Next .
+Sau khi tải về bạn nhấp 2 lần chuột trái vào bộ cài đặt
+Bước 3: Đọc hướng dẫn sử dụng và các điều khoản của phần mềm > Nhấn Next .
+Đọc hướng dẫn sử dụng và các điều khoản của phần mềm
+Bước 4: Chọn vùng cài đặt cho phần mềm > Nhấn Next .
+Chọn vùng cài đặt cho phần mềm > Nhấn Next.
+Bước 5: Tiếp tục nhấn Next .
+Tiếp tục nhấn Next
+Bước 6: Nhấn Install để bắt đầu cài đặt phần mềm > Đợi 1 xíu để phần mềm được cài đặt.
+Nhấn Install để bắt đầu cài đặt phần mềm
+Bước 7: Nhấn Finish để hoàn thành.
+Nhấn Finish để hoàn thành
+Dùng phần mềm vnTools chuyển số thành chữ
+Bước 1: Mở file Excel > Chọn thẻ File .
+Mở file Excel > Chọn thẻ File
+Bước 2: Chọn More > Chọn Options .
+Chọn More > Chọn Options
+Bước 3: Ở hộp thoại hiện lên > Chọn Add-Ins .
+Ở hộp thoại hiện lên > Chọn Add-Ins
+Bước 4: Ở phần Manage > Chọn Go...
+Ở phần Manage > Chọn Go...
+Bước 5: Cửa sổ Add-Ins hiện lên > Chọn Browse .
+Cửa sổ Add-Ins hiện lên > Chọn Browse
+Bước 6: Tìm đến vị trí đã lưu phần mềm vnTools > Nhấp chọn Ufunctions > Nhấn OK .
+Nhấp chọn Ufunctions > Nhấn OK
+Bước 7: Sau khi thực hiện bước 6 > Sẽ hiện ra lựa chọn NTD's Tools > Chọn lựa chọn NTD's Tools > Nhấn OK .
+Sẽ hiện ra lựa chọn NTD's Tools > Chọn lựa chọn NTD's Tools
+Bước 8: Quay trở lại giao diện Excel > Đi đến thẻ vnTools vừa thêm vào > Chọn Đổi số thành chữ .
+Đi đến thẻ vnTools vừa thêm vào > Chọn Đổi số thành chữ
+Bước 9: Ở bảng hiện lên > Chọn Ô cần chuyển đổi và Ô chứa kết quả .
+Trong đó:
+Ô cần chuyển đổi: là ô chứa giá trị số cần chuyển thành chữ. Ô chứa kết quả: là ô chứa kết quả sau khi dịch từ số ra chữ.
+Ở bảng hiện lên > Chọn Ô cần chuyển đổi và Ô chứa kết quả
+Bước 10: Và đây là kết quả sau khi chuyển số thành chữ trong Excel.
+kết quả sau khi chuyển số thành chữ trong Excel
+XEM NGAY bộ phần mềm chính hãng, sử dụng thả ga tại Thế Giới Di Động:
+3. Cách chuyển đổi số thành chữ bằng file Add-Ins
+Video hướng dẫn cách chuyển đổi số thành chữ bằng file Add-Ins
+Bước 1: Tải file Add-Ins về máy.
+Link tải file Add-Ins
+Bước 2: Mở file Excel > Chọn thẻ File .
+Mở file Excel > Chọn thẻ File
+Bước 3: Chọn More > Chọn Options .
+Chọn More > Chọn Options
+Bước 4: Ở hộp thoại hiện lên > Chọn Add-Ins .
+Ở hộp thoại hiện lên > Chọn Add-Ins
+Bước 5: Ở phần Manage > Chọn Go...
+Ở phần Manage > Chọn Go...
+Bước 6: Cửa sổ Add-Ins hiện lên > Chọn Browse .
+Cửa sổ Add-Ins hiện lên > Chọn Browse
+Bước 7: Tìm đến file Add-Ins vừa tải > Nhấp vào file UNIVNI > Nhấn OK .
+Tìm đến file Add-Ins vừa tải > Nhấp vào file UNIVNI > Nhấn OK
+Bước 8: Chọn lựa chọn Univni > Nhấn OK .
+Chọn lựa chọn Univni > Nhấn OK
+Bước 9: Sử dụng các hàm sau để đổi số thành chữ:
+Nếu bạn sử dụng font chữ Unicode bạn sẽ dùng hàm: =UNI(Số_Tiền) Nếu bạn sử dụng font chữ VNI bạn sẽ dùng hàm: =VNI(Số_Tiền)
+Sử dụng các hàm sau để đổi số thành chữ
+Bước 10: Và đây là kết quả sau khi nhập công thức.
+Và đây là kết quả sau khi nhập công thức
+4. Cách chuyển đổi số thành chữ bằng hàm =VND
+Ưu điểm: Nhanh chóng, chính xác, không có nhiều bước, không cần tải phần mềm. Nhược điểm: Có ít lựa chọn để chuyển đổi, phải sử dụng hàm.
+Bước 1: Tải file Excel =VND .
+Link tải file Excel =VND
+Bước 2: Mở file Excel > Chọn thẻ File .
+Mở file Excel > Chọn thẻ File
+Bước 3: Chọn More > Chọn Options .
+Lưu ý: Đối với 1 số máy sẽ không có chữ More nên bạn hãy cứ nhấn thẳng vào mục Options luôn nhé!
+Chọn More > Chọn Options
+Bước 4: Ở hộp thoại hiện lên > Chọn Add-Ins .
+Ở hộp thoại hiện lên > Chọn Add-Ins.
+Bước 5: Ở phần Manage > Chọn Go...
+Ở phần Manage > Chọn Go...
+Bước 6: Cửa sổ Add-Ins hiện lên > Chọn Browse .
+Cửa sổ Add-Ins hiện lên > Chọn Browse
+Bước 7: Tìm đến file Excel vừa tải > Nhấp vào file Doiso > Nhấn OK .
+Tìm đến file Excel vừa tải > Nhấp vào file Doiso > Nhấn OK
+Bước 8: Chọn file Doiso ở cửa sổ Add-Ins > Nhấn OK .
+Chọn file Doiso ở cửa sổ Add-Ins
+Bước 9: Sau khi đã Add-Ins xong bạn nhập hàm sau để chuyển đổi số thành tiền :
+Cú pháp của hàm : =VND(Số_cần_đổi)
+Cú pháp của hàm: =VND(Số_cần_đổi)
+Bước 10: Kết quả sau khi chuyển đổi sô thành chữ.
+Kết quả sau khi chuyển đổi sô thành chữ
+5. Cách chuyển đổi số thành chữ bằng phần mềm AccHelper
+Ưu điểm: Nhanh chóng, chính xác. Nhược điểm: Có ít lựa chọn để chuyển đổi, phải sử dụng hàm.
+1. Cách tải và cài đặt phần mềm AccHelper
+Bước 1: Tải phần mềm AccHelper về máy.
+Link tải phần mềm AccHelper
+Lưu ý: File sẽ được tải dưới dạng file nén.
+Tải phần mềm AccHelper về máy
+Bước 2: Giải nén file AccHelper.Zip được tải về.
+Nếu bạn chưa có phần mềm giải nén bạn có thể tham khảo cách tải, link tải cũng như cách sử dụng tại đây!
+2. Cách dùng phần mềm AccHelper để đổi số thành chữ trong Excel
+Để có thể sử dụng được phần mềm AccHelper bạn cần phải thêm vào Excel giống như phần mềm vnTools.
+Bước 1: Mở file Excel > Chọn thẻ File .
+Mở file Excel > Chọn thẻ File
+Bước 2: Chọn More > Chọn Options .
+Lưu ý: Đối với 1 số máy sẽ không có chữ More nên bạn hãy cứ nhấn thẳng vào mục Options luôn nhé!
+Chọn More > Chọn Options
+Bước 3: Ở hộp thoại hiện lên > Chọn Add-Ins .
+Ở hộp thoại hiện lên > Chọn Add-Ins
+Bước 4: Ở phần Manage > Chọn Go...
+Ở phần Manage > Chọn Go...
+Bước 5: Cửa sổ Add-Ins hiện lên > Chọn Browse .
+Cửa sổ Add-Ins hiện lên > Chọn Browse
+Bước 6: Tìm đến phần mềm AccHelper vừa giải nén > Nhấp vào file AccHelper > Nhấn OK .
+Lưu ý: Nếu bạn sử dụng Office 64 bit thì hãy chọn thư mục x64 nhé!
+Tìm đến phần mềm AccHelper vừa giải nén
+Bước 7: Chọn file Acchelper ở cửa sổ Add-Ins > Nhấn OK .
+Chọn file Acchelper ở cửa sổ Add-Ins > Nhấn OK
+Bước 8: Sử dụng hàm sau để đổi số thành chữ: =VND(số_cần_đổi) .
+Sử dụng hàm sau để đổi số thành chữ: =VND(số_cần_đổi)
+Bước 9: Và đây là kết quả sau khi chuyển đổi chữ thành số trong Excel.
+kết quả sau khi chuyển đổi chữ thành số trong Excel
+SĂN NGAY MÃ GIẢM SỐC TGDĐ TẠI ĐÂY!!
+6. Cách bỏ Add-Ins trong Excel
+Ngoài ra nếu bạn không muốn sử dụng những file đã được Add-Ins phía trên nữa thì bạn chỉ cần thực hiện như sau:
+Bước 1: Mở file Excel > Chọn thẻ File .
+Mở file Excel > Chọn thẻ File
+Bước 2: Chọn More > Chọn Options .
+Lưu ý: Đối với 1 số máy sẽ không có chữ More nên bạn hãy cứ nhấn thẳng vào mục Options luôn nhé!
+Chọn More > Chọn Options
+Bước 3: Ở hộp thoại hiện lên > Chọn Add-Ins .
+Ở hộp thoại hiện lên > Chọn Add-Ins
+Bước 4: Ở phần Manage > Chọn Go...
+Ở phần Manage > Chọn Go...
+Bước 5: Bỏ tích chọn ở các lựa chọn đã được chọn > Nhấn OK .
+Bỏ tích chọn ở các lựa chọn đã được chọn
+Bước 6: Tắt và mở lại toàn bộ file Excel đang mở là bạn đã bỏ được Add-Ins trong Excel.
+Mua phần mềm Microsoft Office tại Thế Giới Di Động:
+Xem thêm: Cách gộp ô trong Excel , Google Sheet đơn giản, nhanh chóng Cách xuống dòng trong Excel và Google Sheets nhanh, đơn giản Cách làm tròn trong Excel nhanh, đơn giản trong tíc tắc Cách chuyển file Excel sang PDF miễn phí trên máy tính cực đơn giản Cách sử dụng hàm Vlookup trong Excel , Google sheet chi tiết, đơn giản Cách chèn ký tự đặc biệt trong Excel nhanh, đơn giản cho mọi phiên bản
+Trên đây là cách chuyển đổi số thành chữ trong Excel tự động cực kỳ nhanh chóng. Hy vọng bài viết sẽ giúp bạn phục vụ công việc cũng như học tập một cách thuận lợi hơn.
+18.920 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

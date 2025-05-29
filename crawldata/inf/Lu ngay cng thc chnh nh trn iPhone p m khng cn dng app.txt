@@ -1,0 +1,121 @@
+Lưu ngay công thức chỉnh ảnh trên iPhone đẹp mà không cần dùng app
+iPhone
+là một trong những dòng điện thoại hỗ trợ nhiều tính năng chỉnh ảnh độc đáo, mới lạ mà không cần dùng app. Bài viết này sẽ hướng dẫn bạn công thức chỉnh ảnh trên iPhone siêu xịn. Cùng xem ngay nhé!
+Lưu ý :
+- Tùy vào tấm ảnh, độ sáng, thời gian chụp, góc chụp,... thông số chỉnh sửa của anh có thể linh hoạt thay đổi.
+- Những thông số khác có thể tăng giảm tùy theo thẩm mỹ của người chỉnh.
+- Hướng dẫn được thực hiện trên iPhone 13 Pro Max , hệ điều hành iOS (14.2).
+Bài hướng dẫn được thực hiện trên điện thoại Apple iPhone , bạn cũng có thể thực hiện tương tự trên iPad
+iPhone 16 tiếp tục nâng cấp khả năng chỉnh sửa ảnh với nhiều tính năng mạnh mẽ và trực quan hơn. Bạn có thể dễ dàng tạo ra những bức ảnh đẹp lung linh, thể hiện phong cách riêng mà không cần phải cài đặt thêm ứng dụng.
+Video hướng dẫn chi tiết cách chỉnh ảnh
+:
+1. Các thông số chỉnh ảnh trên iPhone bạn nên biết:
+Khi chỉnh sửa ảnh trên iPhone bằng ứng dụng Ảnh, bạn có thể điều chỉnh các thông số sau để tối ưu hóa hình ảnh. Dưới đây là các thông số chỉnh sửa ảnh bạn nên biết để có thể sửa ảnh đúng với mong muốn của mình:
+Phơi sáng (Exposure) : Điều chỉnh độ sáng tổng thể.
+Độ sáng (Brilliance) : Cải thiện độ sáng mà không mất chi tiết.
+Điểm sáng (Highlights) : Giảm để khôi phục vùng sáng, tăng để làm nổi bật.
+Vùng tối (Shadows) : Tăng để thấy chi tiết vùng tối, giảm để tạo chiều sâu.
+Độ tương phản (Contrast) : Tăng giúp ảnh sắc nét hơn, giảm làm dịu ảnh.
+Độ sáng tổng thể (Brightness) : Điều chỉnh độ sáng chung.
+Điểm đen (Black Point) : Làm vùng tối sâu hơn, tạo độ tương phản.
+Độ bão hòa (Saturation) : Tăng để màu sắc rực rỡ, giảm để màu nhạt.
+Độ rực màu (Vibrance) : Làm màu sắc tươi hơn mà không làm mất chi tiết.
+Nhiệt độ màu (Warmth) : Tăng để ảnh ấm hơn (vàng), giảm để lạnh hơn (xanh).
+Độ tông màu (Tint) : Điều chỉnh sắc xanh lá hoặc hồng tím.
+Độ sắc nét (Sharpness) : Làm rõ chi tiết trong ảnh.
+Độ nét viền (Definition) : Tăng chi tiết mà không làm nhiễu.
+Giảm nhiễu (Noise Reduction) : Làm ảnh mịn hơn, giảm hạt nhiễu.
+Hiệu ứng Vignette : Làm tối viền để tập trung vào chủ thể.
+Bộ lọc (Filters) : Chỉnh màu nhanh theo phong cách có sẵn.
+2. Các công thức chỉnh ảnh đẹp được yêu thích
+Chỉnh ảnh ngược sáng
+Trong một khung cảnh vô cùng thơ mộng, bạn muốn lưu giữ cho mình những khoảnh khắc đẹp nhưng lại chụp ra những ra bức ảnh ngược sáng, thiếu ánh sáng và không như mong mong muốn thì:
+Chỉnh ảnh ngược sáng
+- Đầu tiên, mở bức ảnh chụp bị ngược sáng trong phần Ảnh của iPhone lên và nhấn vào nút sửa ở góc trên cùng bên phải để có thể chỉnh sửa.
+Vào mục chỉnh sửa gốc phải
+- Sau đó áp dụng công thức chỉnh ảnh gợi ý dưới đây:
+Yếu tố Chỉ số Phơi sáng 50 Độ chói 80 Vùng sáng -80 Vùng tối 40 Tương phản -30 Độ sáng 10 Điểm đen 15 Độ bão hoà 10 Độ tươi 10 Độ ấm -10 Độ nét 5 Khử nhiễu 5
+- Một công thức khác có thể áp dụng với ảnh đỡ bị ngược sáng hơn là như sau:
+Yếu tố Chỉ số Phơi sáng 30 Độ chói 30 Vùng sáng -90 Vùng tối 60 Tương phản -50 Độ sáng 20 Điểm đen 12 Độ bão hoà 9 Độ tươi 20 Độ ấm -30
+Lưu ý : Tất cả thông số điều chỉnh một bức ảnh ngược sáng đều tăng riêng vùng sáng, thông số phần tương phản sẽ giảm. Các thông số khác như độ ấm, độ nét hay khử nhiễu chỉ tăng hoặc giảm một chút ít sao cho phù hợp.
+Chỉnh ảnh ngoài trời
+Yếu tố Chỉ số Phơi sáng +30 Độ chói +30 Vùng sáng -90 Vùng tối +60 Tương phản -50 Độ sáng +20 Điểm đen +12 Độ bão hoà +9 Độ tươi +20 Độ ẩm -30
+Chỉnh ảnh bầu trời trong xanh hơn
+Chỉnh ảnh bầu trời trên iPhone
+Yếu tố Chỉ số Độ chói +100 Vùng sáng -100 Vùng tối 0 Tương phản -16 Độ sáng +82 Điểm đen -12 Độ bão hòa 58 Tông màu 100 Độ tươi -12 Độ ẩm 9 Độ sắc nét 3
+Chỉnh ảnh trong nhà
+Chỉnh ảnh trên iPhone trong nhà
+Yếu tố Chỉ số Phơi sáng +20 Vùng sáng -20 Vùng tối +20 Tương phản -30 Độ bão hòa +30 Độ tươi +10 Độ ẩm -10
+Công thức chỉnh ảnh chân dung
+Công thức chỉnh ảnh chân dung trên iPhone
+Yếu tố Chỉ số Phơi sáng -18 Độ chói 49 Vùng sáng -100 Vùng tối 46 Tương phản -24 Độ sáng 34 Độ bão hòa 34 Độ sắc nét 17
+Chỉnh ảnh ban đêm
+Ảnh chụp ban đêm trước và sau khi áp dụng công thức chỉnh sửa
+Yếu tố Chỉ số Phơi sáng 13 Độ chói -3 Vùng sáng 31 Vùng tối 33 Tương phản -26 Độ sáng 23 Độ bão hòa 8 Độ tươi 42 Độ ẩm -72 Tông màu 8 Độ sắc nét 8
+Chỉnh sửa theo tone
+ảnh tone màu xanh đậm
+Tone màu xanh lục đậm mang đến chút gì đó thần bí, cực kỳ thích hợp với những bức hình với thiên nhiên, rừng rậm, tạo nên cảm giác hút mắt khó tả và sức hấp dẫn không thể rời mắt. Tone xanh đậm cũng đang là tone màu được ứng dụng khá nhiều trong thời gian gần đây.
+Ảnh chụp trước và sau khi áp dụng công thức chỉnh sửa theo tone màu xanh đậm
+Yếu tố Chỉ số Phủ màu -35 Độ chói 60 Độ tươi 30 Vùng sáng -85 Vùng tối 30 Tương phản -10 Điểm ấm -17 Độ bão hòa -17
+Chỉnh sửa ảnh màu nâu ấm
+Tone nâu ấm đang rất được ưa chuộng hiện nay để tạo nên những bức ảnh nhuốm màu “tâm trạng”. Màu nâu ấm cũng thích hợp để làm nổi bật lên sắc màu của mùa thu những tháng cuối năm.
+Ảnh chụp trước và sau khi áp dụng công thức chỉnh sửa theo tone màu nâu ấm
+Yếu tố Chỉ số Độ ấm 100 Phơi sáng -20 Độ sáng 25 Vùng sáng -40 Vùng tối 45 Tương phản -45 Độ tươi 42 Độ bão hòa -40
+Công thức chỉnh sửa ảnh tone màu xám lạnh
+Chỉnh ảnh tone màu xám lạnh giúp gia tăng sự phá cách, hiện đại, rất phù hợp với những ai yêu thích phong cách cá tính, thời thượng. Đây cũng là phong cách chỉnh sửa hình ảnh đang rất được yêu thích trong thời gian gần đây.
+Ảnh chụp trước và sau khi áp dụng công thức chỉnh sửa theo tone màu xám lạnh
+Yếu tố Chỉ số Phơi sáng -100 Độ chói 50 Vùng sáng 100 Vùng tối 35 Tương phản -33 Độ sáng -21 Điểm đen 11 Độ bão hòa -8 Độ tươi -81 Độ ấm -10 Độ sắc nét 15 Độ nét 15
+Công thức chỉnh sửa ảnh c
+ảnh hoàng hôn đẹp
+Chụp ảnh hoàng hôn thường ngược sáng nên hình chụp nguyên bản không thể mang lại cái nhìn trung thực nhất. Bằng công thức chỉnh ảnh dưới đây, bạn sẽ nhanh chóng khắc phục được điều này, đồng thời khiến bức hình thêm sinh động, rực rỡ.
+Ảnh chụp cảnh hoàng hôn trước và sau khi áp dụng công thức chỉnh sửa
+Yếu tố Chỉ số Độ chói 100 Vùng sáng -100 Vùng tối 15 Tương phản -15 Độ sáng 86 Điểm đen -15 Độ bão hòa 15 Độ tươi 100 Độ ấm -26 Tông màu 6 Độ sắc nét 15
+Cảnh bầu trời
+Nếu bạn không biết cách chụp và chỉnh ảnh sao cho bầu trời xanh thẳm và có chiều sâu, công thức dưới đây sẽ giúp bạn làm điều đó nhanh nhất.
+Ảnh chụp cảnh bầu trời trước và sau khi áp dụng công thức chỉnh sửa
+Yếu tố Chỉ số Phơi sáng 30 Vùng tối 60 Vùng sáng -90 Tương phản -50 Độ bão hòa 9 Độ tươi 20 Độ ấm -30 Điểm đen 12
+Cảnh vintage
+Phong cách retro hay vintage đã không còn xa lạ trong những khoảng thời gian gần đây. Và ngay trên iPhone, bạn có thể điều chỉnh cho bức hình của mình ngập tràn hơi thở “xưa cũ” mà không cần tải về bất cứ ứng dụng nào khác. Chỉ cần thực hiện đúng theo công thức có sẵn dưới đây.
+Ảnh chụp trước và sau khi áp dụng công thức chỉnh sửa theo phong cách vintage
+Yếu tố Chỉ số Phơi sáng -51 Độ chói 100 Vùng sáng -72 Tương phản -32 Độ sáng 14 Điểm đen -100 Độ bão hòa 42 Độ tươi 82 Độ ấm 53 Độ sắc nét 52
+3. Hướng dẫn cách
+chỉnh sửa ảnh chi tiết
+Bước 1
+: Mở tấm hình muốn chỉnh và bấm vào
+Sửa
+.
+Vào mục chỉnh sửa
+Bước 2
+: Chỉnh
+Phơi sáng
+và chỉnh
+Vùng sáng
+.
+Kéo thanh điều chỉnh Phơi sáng và Vùng sáng
+Bước 3
+: Chỉnh
+Vùng tối
+và chỉnh
+Tương phản.
+Thực hiện kéo chỉnh Vùng tối và Tương phản
+Bước 4
+: Chỉnh
+Độ bão hòa
+và
+Độ sắc nét
+.
+Chỉnh Độ bão hòa và Độ sắc nét
+Kết quả
+Hoàn tất chỉnh ảnh
+KHÔNG THỂ BỎ LỠ : Hướng dẫn cách kết nối iPhone với MacBook nhanh chóng, đơn giản
+4. Một số lưu ý với những công thức chỉnh ảnh trên iPhone
+- Khi sử dụng các công thức chỉnh ảnh trên iPhone thì bạn sẽ tiết kiệm thời gian cũng như dung lượng máy thay vì dùng app, và ngoài ra còn hạn chế việc bức ảnh bị vỡ nét.
+- Mỗi tấm ảnh đều có những thông số về kỹ thuật từ ánh sáng đến màu sắc, vì vậy việc chọn công thức chỉnh ảnh cần phải phù hợp với tông màu ảnh mình chụp. Các công thức chỉnh ảnh nêu trên thường phù hợp với những bức ảnh trời trong xanh nắng vàng, màu sắc của bức ảnh rực rỡ, đậm chất của mùa hè.
+- Ngoài ra, các công thức này cũng không thể copy và áp dụng cho nhiều ảnh nên khá mất thời gian.
+SĂN NGAY MÃ GIẢM SỐC TGDĐ TẠI ĐÂY!!
+Một số lưu ý với những công thức chỉnh ảnh trên iPhone
+Một số mẫu điện thoại iPhone đang kinh doanh tại Thế Giới Di Động:
+Xem thêm :
+Phần mềm chỉnh sửa ảnh trên iOS TOP 9 app chỉnh ảnh đẹp trên iPhone năm 2021 mà bạn không thể bỏ qua Công thức chỉnh ảnh màu vintage "xịn sò" như nhiếp ảnh gia Hướng dẫn cách lật ảnh bị ngược trên iPhone, điện thoại Android Hướng dẫn cách ghép ảnh trên iPhone cực đơn giản, không cần phần mềm Tổng hợp bảng giá iPhone hiện nay mới nhất 2023 cập nhật liên tục TOP 200+ hình nền hoa đẹp cho iPhone TOP 150+ hình nền iPhone cute Kho hình nền iPhone đẹp miễn phí Tải 100+ hình nền iPhone 16 Plus/Pro/Pro Max đẹp
+Hy vọng với hướng dẫn trên, bạn có thể dễ dàng chỉnh ảnh trên iPhone với những hiệu ứng bắt mắt và đa dạng. Cảm ơn bạn đã theo dõi và hẹn gặp lại ở các bài viết sau.
+98.744 lượt xem

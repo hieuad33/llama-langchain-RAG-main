@@ -1,0 +1,70 @@
+Cách test màn hình iPhone chuẩn xác, chi tiết nhất
+ĐỪNG BỎ LỠ 1 số Sạc, cáp chất lượng đang giảm giá, số lượng có hạn tại TGDĐ:
+Việc test màn hình một chiếc smartphone trước khi mua là điều mà bạn nên làm đầu tiên, dù là mới hay cũ. Mặc dù vậy, smartphone đập hộp vẫn có ít rủi ro hơn là mua hàng cũ, bạn cần phải có kiến thức trước khi quyết định mua một chiếc iPhone cũ. Bài viết này sẽ hướng dẫn cho bạn cách test màn hình iPhone chuẩn xác, chi tiết nhất.
+Bạn hãy tham khảo bài viết Nên mua iPhone cũ hay mua luôn iPhone mới? để biết nên mua iPhone mới hay cũ tốt hơn nhé!
+1. Kiểm tra cảm ứng iPhone
+Để test cảm ứng iPhone bạn chỉ cần giữ một biểu tượng trên màn hình iPhone (từ iOS 12 trở xuống) hoặc bấm và giữ icon xong chọn Sắp xếp lại ứng dụng (iOS 13).
+Đợi biểu tượng đó xuất hiện dấu X ở góc, bạn hãy giữ chúng và di chuyển khắp màn hình. Nếu thấy biểu tượng bị tuột khỏi tay ở một điểm nào đó trên màn hình thì tức là điểm đó có thể bị chết cảm ứng rồi đấy.
+Nhấn giữ một biểu tượng trên màn hình iPhone
+Để kiểm tra kỹ hơn bạn hãy mở ứng dụng Ghi Chú lên, chọn biểu tượng bút viết và vẽ lại một đường trên điểm mà bạn nghi là chết cảm ứng. Nếu thấy đường vẽ bị đứt đoạn ở điểm chết kia thì chắc chắn là chỗ đó bị liệt cảm ứng.
+Ghi chú lên màn hình iPhone
+Còn một cách bạn có thể kiểm tra cảm ứng bằng cách tắt máy và khởi động lại , khi hiện logo quả táo màu trắng và xung quanh là màu đen bạn hãy nhìn xem có điểm nào hiển thị màu khác như xanh, đỏ, tím vàng,... Nếu có thì chỗ đó là chết cảm ứng đấy, lỗi này thường xảy ra khi màn hình bị rơi, vào nước, bị đè lên,...
+Ngoài ra còn thêm lỗi loạn cảm ứng , lỗi này tương tự như liệt, màn hình cảm ứng có phản hồi nhưng không đúng với vị trí trên màn hình. Ví dụ bạn chạm vào ứng dụng Thời Tiết thì iPhone lại mở ứng dụng Điện Thoại .
+Khởi động lại iPhone
+Xem thêm : Sọc màn hình iPhone 5/X/11/13/14 và cách khắc phục nhanh chóng
+2. Kiểm tra ám màn iPhone
+Mỗi lỗi khác thường thấy trên iPhone đó là ám màu màn hình iPhone. Màu ám thường thấy có thể là ám vàng , ám xanh hoặc ám màu hồng . Nếu chỉ ngả màu rất nhẹ thì đó là sự khác biệt giữa những tấm nền và đó không phải là lỗi. Hoặc có thể lớp keo dán màn hình chưa khô gây nên hiện tượng ám màn.
+Kiểm tra ám màn iPhone
+Để test ám màn iPhone thì bạn có thể lấy hai chiếc iPhone, mở ứng dụng Cài đặt lên và để độ sáng hết cỡ . Nếu có ám màn thì chắc chắn là bạn sẽ thấy sự khác biệt giữa hai màn hình, nhưng chỉ rất nhẹ mà thôi. Còn nếu thấy ám màu nặng thì màn hình đó có vấn đề rồi đấy.
+Mở ứng dụng Cài đặt lên và để độ sáng hết cỡ
+3. Kiểm tra hở sáng màn iPhone
+Lỗi hở sáng trên iPhone rất ít người để ý, vì mức hở sáng màn hình không đáng kể khiến nhiều người không biết là có lỗi.
+Nguyên nhân của lỗi này là việc lắp ráp màn hình LCD với đèn nền không chuẩn . Khiến ánh sáng của đèn nền bị rò rỉ ra bên ngoài ở cạnh màn hình điện thoại, gây nên hiện tượng hở sáng.
+Để test lỗi hở sáng, bạn hãy mở một bức hình màu đen, mở camera lên xong che lại chụp là nhanh nhất. Sau đó tăng độ sáng màn hình hết cỡ và nhìn xung quanh các phần cạnh màn hình xem có hở sáng không. Thường thì lỗi này chỉ xuất hiện trên iPhone sử dụng màn LCD.
+Một số mẫu iPhone đang kinh doanh tại Thế Giới Di Động
+Kiểm tra hở sáng màn iPhone
+4. Kiểm tra nhanh màn iPhone
+Có nhiều cách để bạn có thể test nhanh màn hình iPhone xem màn hình này có phải "màn zin" hay "màn lô". Thứ nhất, hãy lấy một con iPhone mới ra và xem màu sắc hiển thị giữa hai màn hình, có thể tăng sáng hết cỡ lên để so sánh dễ hơn. Màn lô sẽ thường không sáng bằng màn zin, màu sắc sẽ không được trong như màn zin.
+Kiểm tra nhanh màn iPhone
+5. Cách kiểm tra màn hình iPhone có chuẩn không?
+Bạn cũng có thể kiểm tra bằng cách nhỏ một vài giọt nước vào màn hình . Nếu là màn zin thì những giọt nước này sẽ tụ lại một điểm, còn với màn lô thì nước sẽ loang ra.
+Hay dán một miếng băng dính lên màn hình, nếu bóc ra một cách dễ dàng và trơn tru thì đó là màn hình zin. Ngược lại nếu bóc khó và còn dính băng dính trên đó thì đó là màn hình lô.
+6. Một số lưu ý khi test màn hình iPhone
+Cần chuẩn bị 2 chiếc iPhone để test kỹ hơn và dễ dàng thấy rõ hơn về lỗi ám màn hình iPhone.
+Tuy nhiên, các cách kiểm tra trên chỉ mang tính tương đối và việc mua iPhone cũ có thể tiềm ẩn nhiều rủi ro, nhất là khi bạn không kiểm tra kỹ các lỗi về màn hình hoặc cảm ứng. Để đảm bảo trải nghiệm tốt nhất, bạn có thể tham khảo các dòng iPhone mới nhất như iPhone 16 series, với các phiên bản 16 Plus/16 Pro/16 Pro Max.
+Đặc biệt, iPhone 16 Pro Max sở hữu màn hình Super Retina XDR sắc nét sẽ giúp cải tiến về độ bền, khả năng chống trầy xước và chống nước, giúp bạn yên tâm hơn khi sử dụng lâu dài mà không lo các lỗi về màn hình.
+Một số lưu ý khi test màn hình iPhone
+Xem thêm: Cách kiểm tra iPhone cũ trước khi mua nhanh chóng và chuẩn xác nhất Cách nhận biết iPhone 12, 12 Pro, 12 Pro Max chính hãng cực đơn giản
+7. Những lỗi màn hình dễ thấy nhất trên iPhone
+Màn hình iPhone bị chảy mực
+- Vết đốm mang màu đen hoặc tím với sắc thái mờ nhạt hoặc đậm nét.
+- Màn hình hiển thị xuất hiện các vết loang màu, đốm có màu đen hoặc tím,…
+- Những vết đốm hoặc chảy mực này đều xuất phát từ những vị trí góc cạnh của viền thân máy, sau đó sẽ lan rộng ra khắp màn hình.
+Để biết chi tiết hơn về lỗi màn hình iPhone bị chảy mực hãy tham khảo bài viết Cách khắc phục màn hình điện thoại bị chảy mực đơn giản tại nhà .
+Màn hình iPhone bị chảy mực
+Màn hình iPhone bị sọc ngang, dọc
+- Màn hình xuất hiện các sọc màu, sọc trắng hoặc sọc đen nằm ngang và dọc màn hình.
+- Màn hình trắng mờ, các sọc xen kẽ nhau ở bất kì vị trí nào.
+- Màn hình bị sọc nhưng cảm ứng vẫn sử dụng bình thường.
+- Sẽ có trường hợp vừa sọc màn hình vừa liệt cảm ứng.
+Để biết chi tiết hơn về lỗi màn hình bị sọc ngang, dọc bạn hãy tham khảo bài viết Màn hình điện thoại bị sọc - Nguyên nhân và cách khắc phục hiệu quả .
+Màn hình iPhone bị sọc ngang, dọc
+Màn hình iPhone bị nhòe, nhiễu
+- Màn hình iPhone bị mờ, bị nhoè khi vuốt chuyển trang.
+- Màn hình mở cả khi bật ứng dụng bất kỳ.
+- Màn hình bị giật, lag và màu sắc thay đổi, nhấp nháy,...
+Để biết nhiều hơn về những lỗi màn hình thường gặp bạn hãy tham khảo bài viết 15 lỗi màn hình điện thoại thường gặp và cách khắc phục hiệu quả .
+Màn hình iPhone bị nhòe, nhiễu
+SĂN NGAY MÃ GIẢM SỐC TGDĐ TẠI ĐÂY!!
+8. Cách kiểm tra những bộ phận khác trên iPhone
+- Kiểm tra phím Home và âm lượng.
+- Kiểm tra iPhone có bị khóa iCloud không.
+- Kiểm tra IMEI iPhone.
+- Kiểm tra cảm biến iPhone.
+- Kiểm tra các tính năng cơ bản của iPhone.
+Để biết rõ hơn về cách kiểm tra iPhone bạn hãy tham khảo bài viết Cách kiểm tra iPhone cũ 99%, tránh gặp phải hàng kém chất lượng và Cách kiểm tra iPhone cũ trước khi mua .
+Nâng cấp iPhone đời mời với các mẫu iPhone CHÍNH HÃNG đang kinh doanh tại Thế Giới Di Động
+Xem thêm : 4 cách kiểm tra iPhone lock hay iPhone quốc tế đơn giản, nhanh chóng [Video] Cách tắt tự động cập nhật phần mềm, ứng dụng trên iPhone [Video] Cách kiểm tra phiên bản iOS, iPadOS nhanh trên iPhone, iPad Cách test màn hình Samsung chi tiết đơn giản cập nhật mới nhất
+Bài viết này đã hướng dẫn cho bạn cách test màn hình iPhone chuẩn xác, chi tiết nhất. Chúc bạn thành công!
+4.228 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

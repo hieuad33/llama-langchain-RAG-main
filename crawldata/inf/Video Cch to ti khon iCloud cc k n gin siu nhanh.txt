@@ -1,0 +1,67 @@
+[Video] Cách tạo tài khoản iCloud cực kì đơn giản, siêu nhanh
+ĐỪNG BỎ LỠ một số Sạc, cáp Apple chính hãng đang sale giá tốt tại TGDĐ:
+Bạn là tín đồ của Apple đang sở hữu cho mình một số sản phẩm như iPhone hay iPad ,… thì chắc hẳn biết đến iCloud và tầm quan trọng của nó đối với thiết bị mà bạn đang sở hữu. Vậy làm thế nào để đăng ký một tài khoản iCloud trên iPhone, iPad và tải các ứng dụng từ App Store thì hãy cùng mình tìm hiểu thông qua bài viết này nhé!
+1. 3 Cách tạo tài khoản iCloud thông dụng nhất
+Hướng dẫn được thực hiện trên iPhone 15 Pro Max 1TB , bạn cũng có thể thực hiện tương tự trên các dòng điện thoại iphone và iPad khác như iPad Air M3 .
+Cách tạo iCloud trên điện thoại
+Dưới đây là video hướng dẫn cách tạo iCloud :
+Bước 1 : Vào Cài đặt > Chọn mục đầu tiên Tài khoản Apple .
+Vào Cài đăt > Tài khoản Apple
+Bước 2 : Chọn Bạn không có tài khoản Apple > Nhập thông tin Họ, Tên, Ngày Sinh
+Chọn Bạn không có tài khoản Apple
+Bước 3 : Chọn Tiếp theo > Nhập Email > Chọn Tiếp theo . Nhập Mật khẩu và Xác minh lại mật khẩu > Chọn Tiếp theo
+Chọn nhập Email> Mật khẩu
+Lưu ý : Mật khẩu phải đạt ĐỦ CÁC YÊU CẦU đó là ký tự: 1 Chữ viết hoa CÓ số và 8 ký tự trở lên. Trong mật khẩu không có từ nào hoặc dãy số nào trùng với tên iCloud hoặc Email ( Ví dụ nguyenvana1990@gmail.com , Mật khẩu không được dùng là NGuyen1990, vvvv, Có thể dùng tên Gmail của của chồng nhưng mk lấy tên vợ , hoặc ngược lại , đây là gợi ý thôi ạ ! các bạn tự đặt khác tên email đi là được )
+Bước 5 : Sau khi nhập mật khẩu, bạn chọn Xác minh số điện thoại , Apple sẽ gửi mã xác minh về máy, bạn nhập theo mã số ID được gửi về.
+Bước 6: Chọn Tiếp tục > chọn Đồng ý ở góc cuối màn hình > Xuất hiện cửa sổ, xác nhận chọn Đồng ý > Nhập mật mã của điện thoại bạn.
+Chấp nhận điều khoản của Apple đề xuất
+Sau khi hoàn tất, màn hình điện thoại sẽ hiện như hình minh họa. Để tăng độ bảo mật của Apple ID bạn nên xác minh lại địa chỉ Email.
+Hoàn tất đăng ký
+Lưu ý : Sau khi tạo tài khoản ID Apple, iCloud, bạn hãy ghi chú lại mật khẩu và tài khoản để phòng khi quên mật khẩu iCloud nhé!
+Cách đăng ký tài khoản iCloud mới trên Macbook
+Bước 1 : Bạn hãy chọn vào logo Táo khuyết ở góc trên phía bên trái màn hình Macbook , nhấn chọn vào System Preferences (Tùy chọn hệ thống).
+Vào logo Táo khuyết nhấn chọn vào System Preferences
+Bước 2 : Tiếp theo, chọn phần Sign In (Đăng nhập) > Nhấp vào Create Apple ID (Tạo ID Apple).
+Nhấn chọn Sign In rồi chọn Create Apple ID
+Bước 3 : Nhập vào thông tin ngày sinh của bạn > Ấn chọn vào Next . Tiếp đến, chúng ta cũng thực hiện những bước giống như vậy đối với các mục khác như Số điện thoại hay Thông tin cá nhân .
+Nhập Date of birth của bạn rồi chọn Next
+Bước 4 : Tiến hành nhập vào mã xác minh được gửi vào số điện thoại mà bạn đã dùng để đăng ký tài khoản Apple.
+Nhập mã xác minh được gửi vào số điện thoại đã dùng để đăng ký tài khoản Apple
+Bước 5 : Nhấn chuột vào ô vuông bên cạnh mục để tick chọn phần I have read and agree… > Ấn vào Agree (Đồng ý).
+Tick chọn vào mục I have read and agree to the macOS…
+Lưu ý : Hướng dẫn tạo tài khoản Apple ID bên trên được thực hiện trên hệ điều hành macOS Big Sur 11.0 . Những phiên bản phần mềm khác trên MacBook có thể sẽ khác ở một vài chỗ.
+Cách tạo iCloud trên trình duyệt web
+Bước 1 : Chúng ta có thể tạo ID Apple (hay còn được biết đến là tạo tài khoản App Store) trên trình duyệt bằng cách truy cập vào trang web chính thức của Apple TẠI ĐÂY .
+Bước 2 : Tiếp theo, bạn hãy điền vào toàn bộ những thông tin được yêu cầu như tên người dùng, quốc gia, ngày tháng năm sinh, email, mật khẩu và đặc biệt là số điện thoại đang sử dụng.
+Tạo ID Apple
+Lưu ý : Tại mục Verify with , chúng ta có thể chọn một trong hai cách để xác nhận thông tin ở đây. Cách thứ nhất chính là gọi điện để báo mã và cách còn lại chính là nhận tin nhắn từ nhà sản xuất. Bạn hãy ấn vào mục Text message nếu có nhu cầu thực hiện cách nhận mã bằng tin nhắn. Ngược lại, nếu như bạn chọn cách nhận thông báo qua cuộc gọi thoại thì hãy chọn phần Phone call (bằng tiếng Anh).
+Bước 3 : Nhập vào dãy ký tự xuất hiện trên màn hình để xác nhận bạn không phải là robot > Tiếp theo, ấn vào phần Continue > Tiến hành nhập mã xác minh mà bạn đã nhận được từ một trong hai cách đã chọn nằm ở các bước trên.
+Nhập ký tự xác nhận và hoàn thành
+2. Giải đáp một số lỗi thường gặp khi đăng ký tài khoản iCloud
+Lỗi thiết bị không có đủ điều kiện để tạo iCloud
+Nguyên nhân : Các thiết bị của Apple của chúng ta như iPhone hay iPad đã vượt quá giới hạn số lần có thể đăng ý iCloud mới.
+Cách khắc phục : Các bạn sẽ tiến hành xóa tài khoản iCloud đi bằng cách chọn vào Setting ( Cài đặt ) > Vào phần General ( Cài đặt chung ) > Ấn Reset All Settings là hoàn tất.
+iPhone 16 sẽ nâng tầm trải nghiệm iCloud và App Store của bạn. Từ khả năng đồng bộ dữ liệu nhanh chóng, tải ứng dụng tốc độ cao, đến khả năng bảo mật tối ưu, iPhone 16 sẽ mang đến cho bạn sự tiện lợi và an tâm tuyệt đối. Khám phá thêm ngay!
+Lỗi số lượng tài khoản tối đa đã được kích hoạt trên iPhone này
+Nguyên nhân: Nếu như sử dụng một thiết bị iPhone, bạn chỉ được nhà sản xuất cung cấp cho Credit kích hoạt được 3 tài khoản Apple ID khác nhau sau khi khui seal.
+Vì vậy, nếu như mua iPhone cũ mà bạn gặp tình trạng này thì có khả năng người sử dụng trước đó đã kích hoạt hết toàn bộ 3 tài khoản iCloud nên chúng ta có thể gặp tình trạng “ Số lượng tài khoản tối đa đã được kích hoạt trên iPhone/iPad này ”.
+Cách khắc phục: Để có thể giải quyết vấn đề này, bạn hãy sử dụng tài khoản mới tạo đã bị lỗi để đăng nhập vào 1 thiết bị khác (những máy vẫn còn khả năng kích hoạt iCloud). Sau đó, bạn hãy lấy tài khoản đó rồi đăng nhập lại vào thiết bị ban đầu bị lỗi là đã hoàn tất.
+Lỗi tài khoản chưa được xác minh
+Cách khắc phục: Bạn hãy chọn vào nút Quên mật khẩu rồi tiếp tục nhập vào mail mới để Apple gửi lại mã kích hoạt khác. Chúng ta sẽ hoàn toàn có thể đăng nhập vào bình thường sau khi đã nhận được mail kích hoạt này.
+Trong quá trình sử dụng thiết bị sau khi đã tạo Apple ID, nếu như chẳng may mọi người bị quên mật khẩu tài khoản thì có thể thực hiện khôi phục mật khẩu iCloud để có thể tiếp tục sử dụng. Bạn sẽ không cần phải lưu số điện thoại trên SIM qua điện thoại iPhone bằng cách thủ công nếu như đã sao chép danh bạ từ SIM sang smartphone.
+Trong quá trình sử dụng và thao tác trên tài khoản iCloud đã tạo, chúng ta cũng nên thường xem kiểm tra chúng xem có tình trạng gì xảy ra hay không. Lý do của việc này là bởi tài khoản Apple ID cực kỳ quan trọng với tất cả các người dùng các sản phẩm Apple.
+Lỗi “Không thể tạo tài khoản của bạn vào lúc này”
+Đây là một tình trạng xảy ra khá phổ biến do có thể hệ thống đã bị lỗi. Vì vậy, các bạn có thể thực hiện vào một khoảng thời gian khác xem có khắc phục được vấn đề này hay không nhé.
+Vì sao khi đăng ký ID Apple thì có thông báo cập nhật iOS?
+Lý do của vấn đề này là bởi điện thoại iPhone của bạn đang sử dụng phiên bản phần mềm iOS quá thấp nên máy sẽ đòi hỏi chúng ta nâng cấp lên bản mới hơn thì mới có thể đăng nhập vào iCloud vừa mới tạo xong được.
+Ngoài ra, chúng ta có thể làm theo cách cập nhật iOS 15.1 mới nhất hiện nay cực đơn giản để không gặp phải vấn đề này.
+Có cách nào tạo iCloud mới không cần số điện thoại không?
+Đây là điều không thể và chắc chắn là mọi người phải cần có số điện thoại để thực hiện bước này và sẽ không có bất kỳ có một cách nào khác để thay thế.
+Một tài khoản Gmail có thể tạo được nhiều iCloud không?
+Câu trả lời cho câu hỏi này đương nhiên sẽ là không . Bạn chỉ có thể lập được 1 Apple ID duy nhất đối với mỗi tài khoản Gmail mà chúng ta sử dụng mà thôi.
+SĂN NGAY MÃ GIẢM SỐC TGDĐ TẠI ĐÂY!!
+Một số mẫu iPhone đang kinh doanh tại Thế Giới Di Động
+Xem thêm : Cách dùng ứng dụng Musi để nghe nhạc Youtube khi tắt màn hình Cách kiểm tra, check Serial, IMEI iPad chính hãng siêu đơn giản Cách khắc phục lỗi gọi video Messenger không nghe tiếng trên iPhone Cách cài đặt thời gian tự động khóa màn hình iPhone đơn giản Apple ProRes là gì? Chi tiết về định dạng nén video trên iPhone 13 Cách tải game, ứng dụng miễn phí trên iPhone đơn giản, nhanh chóng
+Hy vọng sau khi tham khảo bài viết bạn sẽ đăng ký thành công Apple ID và tải về những ứng dụng mà mình yêu thích. Cám ơn các bạn đã theo dõi, hẹn gặp lại ở những bài viết tiếp theo!
+2.551.189 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

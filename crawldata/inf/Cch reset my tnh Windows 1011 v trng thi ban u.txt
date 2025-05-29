@@ -1,0 +1,67 @@
+Cách reset máy tính Windows 10/11 về trạng thái ban đầu
+ĐỪNG BỎ LỠ 1 số mẫu chuột chất lượng đang được giảm giá, số lượng có hạn tại TGDĐ:
+Máy tính thường xuyên gặp trục trặc sẽ ảnh hưởng tới công việc của bạn rất nhiều. Vậy làm sao để khắc phục lỗi cố hữu này? Reset máy tính có thể là một giải pháp toàn diện. Cùng theo dõi ngay cách reset máy tính Windows 10 đơn giản, hiệu quả nhất nhé.
+1. Khi nào cần reset máy tính?
+Khi PC của bạn hoạt động không bình thường sau khi bạn cài đặt một ứng dụng hoặc thay đổi cài đặt hệ thống. Máy tính thường xuyên có hiện tượng đơ chậm và giật lag xảy ra quá nhiều, ảnh hưởng tới công việc của bạn.
+2. Những lưu ý trước khi reset máy tính
+Vì một số lý do dưới đây mà bạn không nên quá lạm dụng reset máy tính Windows , chỉ nên dùng khi lỗi xảy ra quá nhiều lần:
+- Reset Windows có thể sẽ xóa tất cả dữ liệu hiện có trên máy tính. Thiết bị của bạn sẽ trở lại nguyên bản như lúc mới mua.
+- Tất cả ứng dụng sẵn có trên máy sẽ bị xóa sạch, bạn phải tự tay cài lại từng ứng dụng.
+- Tài khoản Windows của bạn cũng sẽ bị xóa, bạn cần đăng nhập và thiết lập lại.
+- Tuy nhiên, nếu không muốn mất hết dữ liệu, bạn có thể chọn xóa một phần hoặc xóa tất cả.
+Bên cạnh việc cài lại Window hoàn toàn mới, bạn có thể tham khảo các tùy chọn khác để tránh rủi ro mất dữ liệu:
+Vấn đề Cách khắc phục thay thế Cập nhật lên phần mềm mới nhưng giật lag liên tục, hoạt động không giống trước đó Tham khảo Cách xóa update, gỡ cài đặt bản cập nhật Muốn quay về bản cập nhật cũ Tham khảo Cách quay về Windows 10 mà không mất dữ liệu
+3. Cách reset máy tính Window 11
+Để khởi động lại máy tính Window 11, bạn thực hiện các hướng dẫn sau:
+Hướng dẫn nhanh
+Vào Start > Chọn Settings > Chọn System > Chọn Recovery . Sau đó chọn > Reset this PC. Bạn sẽ nhận được thông báo Keep my Files (Giữ lại toàn bộ) hay Remove everything (Xóa tất cả giữa liệu)? Chọn theo nhu cầu của bạn và chờ máy tính reset.
+Hướng dẫn chi tiết
+Bước 1 : Mở mục Cài đặt bằng cách nhấn tổ hợp phím Windows + I hoặc nhấn vào biểu tượng Windows
+Mở Setting
+Bước 2 : Trong giao diện Settings , cuộn xuống tìm Recovery .
+Chọn System>Recovery
+Bước 3: Tại giao diện Recovery, chọn Reset this PC
+Chọn Reset PC
+Bước 4 : Reset  this PC , bạn sẽ có hai cách để cài đặt lại Windows:
+Chọn Keep my files (giữ lại các tập tin của tôi): Để giữ lại các file dữ liệu cá nhân Remove everything (Xóa tất cả): Xóa tất cả dữ liệu, đưa máy về trạng thái như khi mới mua
+Chọn các lựa chọn Reset
+Bước 5: Chọn cách thức cài đặt phù hợp (thông qua đám mây - Cloud download cập nhật bằng phần mềm Window mới nhất hoặc cài đặt bằng các tập tin hệ thống hiện có trên máy tính - Local reinstall ).
+Tùy chọn cài đặt lại
+Bước 6: Chọn Next để xác nhận thao tác và chuyển đến bước tiếp theo.
+Chọn Next để tiếp tục
+Bước 7: Kiểm tra lại các thông tin cài đặt và chọn Reset để thực hiện khôi phục.
+Nhấp Reset để bắt đầu cài đặt lại
+4. Cách reset máy tính Windows 10
+Hướng dẫn thực hiện phục hồi Windows bằng Recovery Disk :
+- Bước 1 : Vào BIOS hoặc UEFI để thay đổi trình tự khởi động sao cho hệ điều hành khởi động từ đĩa CD, DVD hoặc USB.d
+BIOS : Là Hệ thống Đầu vào/Đầu ra Cơ bản có nhiệm vụ giúp kiểm soát các tính năng cơ bản của máy tính. UEFI : Là phiên bản hiện đại hơn của BIOS, được sử dụng cho Windows 8 trở về sau. Để biết cách vào BIOS các dòng laptop hiện nay, bạn có thể tham khảo thêm hướng dẫn: Cách vào BIOS
+- Bước 2 : Đưa đĩa cài đặt Windows vào ổ DVD (hoặc kết nối nó với cổng USB).
+- Bước 3 : Khởi động lại máy tính và xác nhận khởi động từ đĩa CD.
+- Bước 4 : Trong menu xuất hiện, chọn trong menu Troubleshooting / Computer recovery (Khắc phục sự cố / Khôi phục máy tính), làm theo hướng dẫn của trình hướng dẫn. Chương trình khôi phục sẽ tự động thực hiện phần còn lại.
+- Bước 5 : Chờ cho đến khi quá trình khôi phục hoàn tất và khởi động lại máy tính.
+Bạn hãy chọn mục Troubleshoot trong 3 tùy chọn hiển thị trên màn hình laptop
+Sử dụng tính năng Refresh và Reset có sẵn trên máy
+- Refresh máy tính : Windows sẽ lưu lại các tệp tin, thiết lập cài đặt cá nhân của bạn. Các ứng dụng tải từ Windows Store sẽ được giữ lại, các chương trình cài đặt trên Desktop sẽ bị xóa bỏ.
+- Reset máy tính : Windows sẽ xóa tất cả mọi thứ trên hệ điều hành và khôi phục cài đặt gốc như khi bạn mới mua về.
+Hướng dẫn sử dụng tính năng Refresh và Reset có sẵn trên máy :
+Các phiên bản Windows sẽ có các bước tương tự nhau và cụ thể dưới đây là hướng dẫn cho Windows 10.
+- Bước 1 : Bạn vào Menu Start > Chọn Settings (Cài đặt) > Chọn Update & Security (Cập nhật và Bảo mật) .
+Bạn hãy tìm mục Cập nhật và Bảo mật trong phần Cài đặt của laptop
+- Bước 2 : Trong mục Recovery (Phục hồi) > Chọn Get started (Bắt đầu) tại mục Reset this PC (Đặt lại PC này) .
+Bạn hãy chọn nút Bắt đầu tại mục Đặt lại PC này trên màn hình
+- Bước 3 : Chọn Keep my files (Nếu bạn chỉ muốn xóa apps và cài đặt, nhưng vẫn giữ lại file cá nhân), chọn Remove everything (Nếu bạn muốn xóa tất cả bao gồm file cá nhân).
+Bạn có thể chọn 1 trong 2 tùy chọn Keep my files hoặc Remove everything
+SĂN NGAY MÃ GIẢM SỐC TGDĐ TẠI ĐÂY!!
+5. Một số câu hỏi liên quan
+Khi reset lại máy tính, ổ đĩa C có bị xóa không?
+Trả lời : Như đã nêu trên, bạn có thể lựa chọn xóa một phần dữ liệu hoặc xóa hoàn toàn dữ liệu máy tính.
+Thông thường, ổ đĩa C cũng sẽ bị xóa dữ liệu khi reset máy tính, chỉ còn những phần mềm hệ thống.
+Thời gian reset máy tính Windows 10 có lâu không?
+Trả lời : Thời gian reset máy tính Windows 10 lâu hay chậm phụ thuộc vào dòng máy bạn đang sử dụng. Thời gian reset nói chung giao động từ 15-45 phút.
+Khi reset máy tính, các phần mềm không phải mặc định có bị mất không?
+Trả lời : Khi reset máy, chỉ những phần mềm hệ thống còn tồn tại. Những phần mềm không phải mặc định như Microsoft Office cũng sẽ bị xóa.
+Nếu bạn sử dụng Microsoft Office có bản quyền, việc cài đặt lại cũng cực kỳ dễ dàng, tải về và nhập key là hoàn thành.
+Xem thêm : Cách cài đặt vân tay cho laptop Windows 10 đơn giản, nhanh chóng Cách chia, gộp ổ cứng máy tính Windows 10 cực dễ, không cần phần mềm Cách khắc phục lỗi màn hình máy tính bị đen trên Windows 10 Hướng dẫn bạn 5 cách reset card màn hình vô cùng hiệu quả Cách cài tiếng Việt cho máy tính Windows 10/11 dễ dàng
+Bài viết trên đây đã hướng dẫn cho các bạn 4 cách để reset máy tính Windows về trạng thái ban đầu đơn giản và hiệu quả. Hy vọng bài viết này sẽ giúp ích cho bạn.
+211.408 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

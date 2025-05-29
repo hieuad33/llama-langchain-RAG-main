@@ -1,0 +1,59 @@
+Cách kiểm tra WiFi có bao nhiêu người dùng cực đơn giản
+Bạn nghi ngờ có các thiết bị điện thoại hay máy tính lạ đang truy cập vào mạng WiFi nhà bạn nhưng không biết làm cách nào để kiểm tra ai đang sử dụng trộm WiFi? Hãy cùng tìm hiểu cách kiểm tra ai đang sử dụng chùa, dùng trộm WiFi nhà bạn một cách đơn giản, cùng theo dõi nhé!
+1. Kiểm tra đèn tín hiệu trên router
+Đây là đơn giản và nhanh chóng nhất để bạn tìm hiểu xem có các thiết bị lạ nào đang kết nối với WiFi nhà bạn. Đầu tiên,hãy ngắt kết nối của những thiết bị đang truy cập WiFi nhà bạn. Sau đó quan sát đèn tín hiệu trên router , nếu nó vẫn còn nhấp nháy thì chắc rằng đã có ai đó dùng trộm WiFi nhà bạn.
+Kiểm tra đèn tín hiệu là cách đơn giản để biết ai đang sử dụng WiFi nhà bạn
+Một số hạn chế của việc kiểm tra đèn tín hiệu trên router: - Đôi khi bạn không kiểm soát hết tất cả thiết bị đã kết nối với router, nên dễ bỏ sót một số thiết bị của nhà bạn và không vô hiệu hóa wifi của các thiết bị đó. - Ngoài ra, trong thời điểm bạn kiểm tra kết nối, người đang "câu trộm" wifi có thể đang đi đâu đó và không sử dụng mạng nhà bạn, dẫn đến việc bạn không xác định được thiết bị truy cập.
+2. Kiểm tra lịch sử truy cập trên router
+Bước 1 : Nhấn tổ hợp Win + R > Nhập cmd > Nhấn OK .
+Nhấn Win + R
+Bước 2: Nhập ipconfig > Enter .
+Nhập ipconfig và nhấn Enter.
+Bước 3 : Tại dòng Default Gateway , bạn sẽ thấy địa chỉ IP của Router .
+Địa chỉ IP của Router nằm ở dòng Default Gateway
+Với MacBook , bạn vào Network Preference và địa chỉ IP của bộ phát WiFi chính là địa chỉ nằm cạnh mục Router .
+Bước 4 : Nhập địa chỉ IP của Router vào thanh địa chỉ của trình duyệt.
+Nhập địa chỉ IP của Router vào thanh tìm kiếm
+Bước 5 : Nhập tên đăng nhập và mật khẩu > Chọn Login để đăng nhập.
+Trường hợp bạn không biết tên đăng nhập và mật khẩu, vui lòng liên hệ nhà mạng cung cấp dịch vụ WiFi của bạn để được hỗ trợ.
+Đăng nhập
+Bước 6 : Tại đây bạn sẽ thấy các thiết bị hiện đang kết nối với WiFi nhà bạn.
+Các thiết bị hiện đang kết nối với WiFi sẽ được hiển thị tại website
+Có thể bạn cũng quan tâm : TOP 8 thùng rác thông minh tốt nhất trên thị trường hiện nay (2021)
+3. Sử dụng công cụ để hỗ trợ
+Trên điện thoại
+Fing là ứng dụng miễn phí trên điện thoại, cho phép người dùng thực hiện việc kiểm tra các thiết bị hiện đang kết nối với WiFi nhà bạn.
+Hiện ứng dụng Fing đang có sẵn và miễn phí cho cả điện thoại Android và iOS .
+Link tải Fing cho Android : TẠI ĐÂY . Link tải Fing cho iOS : TẠI ĐÂY .
+Fing giúp  kiểm tra các thiết bị hiện đang kết nối với WiFi
+Trên máy tính
+- Wireless Network Watcher
+Là một tiện ích mở trên hệ điều hành Windows , giúp phát hiện thiết bị mới, quét mạng wifi và thiết bị đã ngắt kết nối trên WiFi nhà bạn. Quá trình quét địa chỉ IP khá nhanh. Sau khi quét, bạn sẽ nhận được các thông tin như địa chỉ IP, tên thiết bị, địa chỉ MAC, nhà sản xuất card mạng, trạng thái hoạt động và điểm phát hiện.
+Tiện ích này còn có chức năng thiết lập một thông báo và âm thanh cảnh báo khi phát hiện ra các thiết bị mới kết nối hoặc thiết bị đã ngắt kết nối với mạng WiFi của bạn.
+Nhà phát hành : NirSoft Freeware Nền tảng: Windows, macOS Link tải : TẠI ĐÂY .
+Wireless Network Watcher
+Sau khi tải file về, bạn chạy file WNetWatcher.exe dưới quyền Run as adminitrator > Hệ thống sẽ hiển thị các thông tin liên quan đến các thiết bị đang bắt Wifi như: Tên thiết bị, địa chỉ IP, địa chỉ Mac,...
+- WiFi bằng SoftPerfect WiFi Guard
+SoftPerfect WiFi Guard là tiện ích để phát hiện các kết nối mạng không rõ nguồn gốc hoặc các kết nối trái phép. Tiện ích này cũng có thể được sử dụng để quét và xác định các kết nối mạng không dây nhưng nó sẽ không quét các thiết bị ở tất cả các khoảng thời gian và đưa ra các cảnh báo cho bạn về các kết nối không rõ nguồn gốc.
+Nhà phát hành : SoftPerfect Research Nền tảng: Windows, macOS và Linux Link tải : TẠI ĐÂY .
+SoftPerfect WiFi Guard
+Sau khi tải file về, bạn mở phần mềm SoftPerfect WiFi Guard lên > Hệ thống sẽ tự động hiển thị các thông tin liên quan đến các thiết bị đang bắt Wifi như: Tên thiết bị, địa chỉ IP, địa chỉ Mac,...
+- Advanced IP Scanner
+Đây là một công cụ quản trị hệ thống mạng (Network A***inistration ) có thể thực hiện được thêm một số nhiệm vụ để quét các kết nối mạng của bạn giúp bạn tìm ra các thiết bị đang đăng nhập trộm WiFi nhà bạn. Advanced IP Scanner có phiên bản Portable , do đó bạn không cần phải thao tác cài đặt chương trình mà chỉ cần chạy các tập tin thực thi là xong.
+Nhà phát hành : Famatech Nền tảng: Windows Link tải : TẠI ĐÂY .
+Advanced IP Scanner
+Sau khi tải file về, bạn chạy file Advanced IP Scanner lên > Chọn ngôn ngữ English > Chọn Install > Sau khi vào giao diện chính, nhấn Scan > Hệ thống sẽ hiển thị các thông tin liên quan đến các thiết bị đang bắt Wifi như: Tình trạng, tên thiết bị, địa chỉ IP, địa chỉ Mac,...
+- Angry IP Scanner
+Angry IP Scanner là công cụ đa nền tảng hoạt động trên Mac và Linux khá tốt. Công cụ giúp ping mỗi địa chỉ IP trong phạm vi lựa chọn và sau đó hiển thị kết quả cùng với các thông tin mà bạn yêu cầu trong cửa sổ Fetchers .
+Nhà phát hành : Angryziber Software Nền tảng: Window, macOS và Linux Link tải : TẠI ĐÂY .
+Angry IP Scanner
+Sau khi tải file về, bạn chạy file Angry IP Scanner để tiến hành cài đặt > Sau khi cài đặt, mở ứng dụng Angry IP Scanner > Chọn Start để bắt đầu quét > Hệ thống sẽ hiển thị các thông tin liên quan đến các thiết bị đang bắt Wifi như: IP, Ping, Hostmane, Mac,..
+4. Bạn cần làm gì khi phát hiện ai đó dùng chùa WiFi nhà mình?
+Cách nhanh và an toàn nhất là hãy đổi mật khẩu WiFi và thường xuyên kiểm tra WiFi để nhanh chóng phát hiện các thiết bị lạ đang kết nối với WiFi.
+Để thay đổi mật khẩu WiFi, bạn cần xác định nhà bạn đang sử dụng dịch vụ internet của nhà mạng cung cấp nào. Sau đó bạn có thể thực hiện thay đổi mật khẩu WiFi trực tiếp trên Website của nhà mạng đó thông qua máy tính. Tìm hiểu thêm cách đổi mật khẩu WiFi tại bài viết: Cách đổi mật khẩu WiFi trên máy tính Windows 10 đơn giản, dễ dàng .
+Đổi mật khẩu WiFi là cách để hạn chết WiFi bị xâm nhập
+Xem thêm : Cách khắc phục lỗi không cập nhật được ứng dụng trên CH Play Hướng dẫn 3 cách khắc phục lỗi không nhận được thông báo trên Zalo Cách khắc phục lỗi điện thoại Android không kết nối được WiFi đơn giản Cách theo dõi lịch sử duyệt web của người dùng chung qua WiFi cực dễ
+Tham khảo một số mẫu laptop đang kinh doanh tại Thế Giới Di Động:
+Bài viết trên đã thông tin đến bạn cách kiểm tra ai đang sử dụng chùa, dùng trộm WiFi của mình một cách đơn giản. Cảm ơn đã theo dõi!
+30.567 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

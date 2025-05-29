@@ -1,0 +1,72 @@
+Cách đổi mật khẩu Wi-Fi Tenda, TP-Link trên điện thoại, máy tính
+Một số mẫu laptop đang kinh doanh tại Thế Giới Di Động:
+Việc đổi mật khẩu WiFi thường xuyên giúp bạn hạn chế được lượng truy cập WiFi không mong muốn và tốc độ truy cập mạng của bạn sẽ ổn định hơn. Vậy đổi mật khẩu WiFi như thế nào, chúng ta cùng tìm hiểu trong bài viết dưới đây nhé!
+1. Lưu ý trước khi đổi mật khẩu Wifi
+- Điện thoại của bạn phải kết nối với WiFi được phát ra từ Modem đó và cần nhấn nút Reset trên Modem trước khi tiến hành đổi mật khẩu. - Lấy địa chỉ IP Default Gateway để đăng nhập, nếu bạn chưa biết cách lấy hãy xem ngay hướng dẫn bên dưới. - Hướng dẫn này được thực hiện trên laptop đang chạy hệ điều hành Windows 10. Bạn có thể thực hiện tương tự trên điện thoại với trình duyệt Web như: Chrome, Safari.
+Cách để lấy địa chỉ IP Default Gateway cho Modem WiFi :
+- Bước 1: Mở cửa sổ Command Promtp bằng cách nhấn tổ hợp phím Windows + R > Gõ CMD > Chọn OK .
+- Bước 2: Trong cửa sổ Command Promtp ta nhập vào ipconfig > Chọn Enter .
+- Bước 3: Bạn sẽ thấy địa chỉ IP Default Gateway như hình dưới.
+Cách đổi mật khẩu Wi-Fi FPT, TP-Link, Viettel, VNPT. Tenda tại nhà
+• Gợi ý : Bạn có thể lấy User name, Password trên thân Modem WiFi.
+Có thể lấy User name, Password trên thân Modem WiFi
+Lưu ý : Cách thực hiện này cũng khá tương tự với cách xem mật khẩu WiFi .
+1. Khi nào bạn nên đổi và không nên đổi mật khẩu WiFi
+• Bạn nên đổi mật khẩu WiFi :
+- Khi có quá nhiều người truy cập vào WiFi của bạn gây ảnh hưởng đến chất lượng mạng.
+- Khi bạn quên mật khẩu WiFi.
+• Bạn có thể không cần đổi mật khẩu WiFi khi :
+- Tốc độ WiFi của bạn vẫn ổn định.
+- WiFi bạn sử dụng cho việc kinh doanh như quán cà phê, quán ăn,...
+Xem thêm : 12 cách bảo mật mạng không dây cho gia đình lướt web, làm việc an toàn
+2. Đổi mật khẩu modem WiFi TP-Link
+- Bước 1 : Bạn nhập địa chỉ IP vào trình duyệt (Thường là 192.168.1.1 hoặc nếu không được bạn có thể làm theo hướng dẫn ở đầu bài ).
+- Bước 2 : Lúc này sẽ xuất hiện màn hình đăng nhập, bạn nhập User name : admin , Password : admin (Nếu không được bạn có thể xem User name và Password được ghi trên thân của modem WiFi) > Chọn Login .
+- Bước 3 : Các bạn chọn theo đường dẫn Wireless > Chọn Wireless Security và thay đổi mật khẩu bằng cách nhập vào ô Wireless Password > Chọn Save hoặc Apply để lưu lại cài đặt.
+Cách đổi mật khẩu Wi-Fi FPT, TP-Link, Viettel, VNPT. Tenda tại nhà
+3. Đổi mật khẩu modem WiFi Tenda
+- Bước 1 : Bạn nhập địa chỉ IP vào trình duyệt (Thường là 192.168.0.1 hoặc nếu không được bạn có thể làm theo hướng dẫn ở đầu bài).
+- Bước 2 : Lúc này sẽ xuất hiện màn hình đăng nhập, bạn nhập User name : admin , Password : admin (Nếu không được bạn có thể xem User name và Password được ghi trên thân của modem WiFi) > Chọn Login .
+- Bước 3 : Bạn chọn Wireless > Chọn Wireless Security và thay đổi mật khẩu bằng cách nhập vào ô Security Key > Chọn Save hoặc Apply để lưu lại cài đặt.
+Cách đổi mật khẩu Wi-Fi FPT, TP-Link, Viettel, VNPT. Tenda tại nhà
+4. Đổi mật khẩu modem WiFi FPT
+- Bước 1 : Bạn nhập địa chỉ IP vào trình duyệt (Thường là 192.168.1.1 hoặc nếu không được bạn có thể làm theo hướng dẫn ở đầu bài).
+- Bước 2 : Lúc này sẽ xuất hiện màn hình đăng nhập, bạn nhập User name : admin , Password : admin (Nếu không được bạn có thể xem User name và Password được ghi trên thân của modem WiFi) > Chọn Login .
+- Bước 3 : Bạn chọn qua tab Wireless Setup > Chọn Wireless Security và thay đổi mật khẩu bằng cách nhập vào ô Security Passphrase > Chọn Save hoặc Apply để lưu lại cài đặt.
+Cách đổi mật khẩu Wi-Fi FPT, TP-Link, Viettel, VNPT. Tenda tại nhà
+5. Đổi mật khẩu modem WiFi Linksys
+- Bước 1 : Bạn nhập địa chỉ IP vào trình duyệt (Thường là 192.168.1.1 hoặc nếu không được bạn có thể làm theo hướng dẫn ở đầu bài).
+- Bước 2 : Lúc này sẽ xuất hiện màn hình đăng nhập, bạn nhập User name : admin , Password : admin (Nếu không được bạn có thể xem User name và Password được ghi trên thân của modem WiFi) > Chọn Login .
+- Bước 3 : Bạn chọn Wireless > Chọn Wireless Security và thay đổi mật khẩu bằng cách nhập vào ô WPA Shared Key > Chọn Save hoặc Apply để lưu lại cài đặt.
+Cách đổi mật khẩu Wi-Fi FPT, TP-Link, Viettel, VNPT. Tenda tại nhà
+6. Đổi mật khẩu modem WiFi Dlink
+- Bước 1 : Bạn nhập địa chỉ IP vào trình duyệt (Thường là 192.168.1.1 hoặc nếu không được bạn có thể làm theo hướng dẫn ở đầu bài).
+- Bước 2 : Lúc này sẽ xuất hiện màn hình đăng nhập, bạn nhập User name : admin , Password : admin (Nếu không được bạn có thể xem User name và Password được ghi trên thân của modem WiFi) > Chọn Login .
+- Bước 3 : Bạn chọn Setup > Chọn Network Settings và thay đổi mật khẩu bằng cách nhập vào ô Pre-Shared Key > Chọn Save hoặc Apply để lưu lại cài đặt.
+Cách đổi mật khẩu Wi-Fi FPT, TP-Link, Viettel, VNPT. Tenda tại nhà
+7. Đổi mật khẩu modem WiFi iGate VNPT
+- Bước 1 : Bạn nhập địa chỉ IP vào trình duyệt (Thường là 192.168.1.1 hoặc nếu không được bạn có thể làm theo hướng dẫn ở đầu bài).
+- Bước 2 : Lúc này sẽ xuất hiện màn hình đăng nhập, bạn nhập User name : admin , Password : admin (Nếu không được bạn có thể xem User name và Password được ghi trên thân của modem WiFi) > Chọn Login .
+- Bước 3 : Bạn chọn Network Settings > Chọn Wireless > Chọn Wireless Security và thay đổi mật khẩu bằng cách nhập vào ô WPA/WAPI passphrase > Chọn Save hoặc Apply để lưu lại cài đặt.
+Cách đổi mật khẩu Wi-Fi FPT, TP-Link, Viettel, VNPT. Tenda tại nhà
+Bạn cũng có thể dễ dàng xem mật khẩu WiFi Win 10 hoặc các máy tính hệ điều hành khác đơn giản.
+8. Đổi mật khẩu modem WiFi Viettel
+- Bước 1 : Bạn nhập địa chỉ IP vào trình duyệt (Bạn có thể làm theo hướng dẫn ở đầu bài để lấy IP).
+- Bước 2 : Lúc này sẽ xuất hiện màn hình đăng nhập, bạn nhập User name : admin, Password : admin (Nếu không được bạn có thể xem User name và Password được ghi trên thân của modem WiFi) > Chọn Login .
+- Bước 3 : Bạn chọn Basic Settings > Chọn Wireless Lan > Chọn SSID Setting > Chọn Modify .
+- Bước 4 : Thay đổi mật khẩu bằng cách nhập vào ô Pre Shared Key > Chọn Save hoặc Apply để lưu lại cài đặt.
+9. Đổi mật khẩu modem WiFi HuaWei VNPT
+- Bước 1 : Bạn nhập địa chỉ IP vào trình duyệt (Bạn có thể làm theo hướng dẫn ở đầu bài để lấy địa chỉ IP).
+- Bước 2 : Lúc này sẽ xuất hiện màn hình đăng nhập, bạn nhập Accout : root, Password : admin (Nếu không được bạn có thể xem User name và Password được ghi trên thân của modem WiFi) > Chọn Login.
+- Bước 3 : Bạn chọn WLAN và thay đổi mật khẩu bằng cách nhập vào ô WPA PresharedKey > Chọn Save hoặc Apply để lưu lại cài đặt.
+- Bước 1: Bạn nhập địa chỉ IP để truy cập vào trang quản trị (Thường là 192.168.1.1 hoặc nếu không được bạn có thể làm theo cách ở đầu bài).  - Bước 2: Lúc này sẽ xuất hiện màn hình đăng nhập, bạn nhập User name: admin, Password: admin ( Nếu không được bạn có thể xem User name và Password được ghi trên thân của modem WiFi) > Login.
+10. Đổi mật khẩu modem WiFi VNPT Yes Telecom
+- Bước 1 : Bạn nhập địa chỉ IP vào trình duyệt (Thường là 192.168.1.1 hoặc nếu không được bạn có thể làm theo hướng dẫn ở đầu bài).
+- Bước 2 : Lúc này sẽ xuất hiện màn hình đăng nhập, bạn nhập User name : admin , Password : admin (Nếu không được bạn có thể xem User name và Password được ghi trên thân của modem WiFi) > Chọn Login .
+- Bước 3 : Bạn chọn Wireless > Chọn Wireless Security Setup và thay đổi mật khẩu bằng cách nhập vào ô Pre-Shared Key > Chọn Save hoặc Apply để lưu lại cài đặt.
+- Bước 1: Bạn nhập địa chỉ IP để truy cập vào trang quản trị (Thường là 192.168.1.1 hoặc nếu không được bạn có thể làm theo cách ở đầu bài).  - Bước 2: Lúc này sẽ xuất hiện màn hình đăng nhập, bạn nhập User name: admin, Password: admin ( Nếu không được bạn có thể xem User name và Password được ghi trên thân của modem WiFi) > Login.
+Trên đây là cách đổi mật khẩu WiFi của một số modem trên máy tính. Rất mong bài viết hữu ích với bạn, chúc bạn thực hiện thành công!
+Một số thiết bị mạng đang kinh doanh tại Thế Giới Di Động:
+Xem thêm : Router Wifi là gì? Thiết bị mạng TP-Link của nước nào? Có tốt không?
+20.856 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

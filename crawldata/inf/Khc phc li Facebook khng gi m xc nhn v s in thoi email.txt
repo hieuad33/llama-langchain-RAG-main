@@ -1,0 +1,95 @@
+Khắc phục lỗi Facebook không gửi mã xác nhận về số điện thoại, email
+ĐỪNG BỎ LỠ 1 số Sạc dự phòng chất lượng đang giảm giá, số lượng có hạn tại TGDĐ:
+Nhiều người dùng Facebook thường sử dụng bảo mật 2 lớp để tài khoản của họ được bảo mật tuyệt đối nhưng đôi khi Facebook bị lỗi và không gửi mã xác nhận về điện thoại hoặc email mà bạn đã đăng ký. Nếu bạn chưa biết khắc phục lỗi trên như thế nào thì hãy cùng Thế Giới Di Động tìm hiểu qua bài viết dưới đây nhé!
+1. Khi nào cần nhận mã xác thực của Facebook?
+Lỗi Facebook không gửi mã xác nhận gây khó khăn cho người dùng, đặc biệt là khi sử dụng bảo mật hai lớp (2FA), quên mật khẩu hoặc tài khoản bị khóa.
+Việc không nhận được mã khiến việc truy cập, khôi phục tài khoản hoặc xác minh danh tính trở nên phức tạp, mất thời gian và thậm chí có thể dẫn đến mất tài khoản vĩnh viễn.
+Mặc dù mã xác thực quan trọng cho bảo mật, nhưng việc không nhận được chúng lại gây ra sự bất tiện và lo lắng cho người dùng.
+2. Tại sao Facebook không gửi mã xác nhận về số điện thoại, email?
+Việc Facebook không gửi mã xác nhận về số điện thoại, email thường bắt nguồn từ nhiều nguyên nhân như:
+- Sai số điện thoại : Số điện thoại của bạn bị sai hoặc nhầm lẫn trong lúc đăng ký.
+- Sai email : Bạn nhập sai email trong quá trình đăng ký khiến mã xác nhận không thể gửi về đúng email của bạn được.
+- Vấn đề mạng : Do kết nối mạng Internet bị chậm hoặc lỗi trong quá trình gửi mã xác nhận.
+- Cài đặt chặn tin nhắn : Có thể bạn đã cài đặt chặn tin nhắn từ các số không rõ nguồn gốc hoặc từ các dịch vụ cụ thể. Khi đó, bạn sẽ không thể nhận tin nhắn xác thực.
+- Email xác nhận bị chuyển vào hộp thư rác : Bạn vô tình chuyển email chứa mã xác nhận vào hộp thư rác.
+- Tắt chế độ di động : Điện thoại của bạn đang tắt chế độ di động nên không thể nhận tin nhắn SMS chứa mã xác nhận.
+- Lỗi hệ thống Facebook : Sự cố máy chủ hoặc các vấn đề kỹ thuật bên phía Facebook có thể ngăn mã xác nhận được gửi đi. Trong trường hợp này, hãy thử lại sau một thời gian ngắn.
+Facebook không gửi mã xác nhận về số điện thoại, email
+3. Cách khắc phục Facebook không gửi mã xác nhận về điện thoại
+Kiểm tra lại số điện thoại
+Để kiểm lại số điện thoại đã đăng ký bạn thực hiện như sau:
+Bước 1 : Truy cập vào ứng dụng Facebook > Chọn biểu tượng 3 gạch ngang > Chọn mục Cài đặt & quyền riêng tư > Nhấn vào Cài đặt.
+Truy cập vào phần Cài đặt trên Facebook
+Bước 2 : Chọn mục Thông tin cá nhân và tài khoản > Nhấn vào Thông tin liên hệ.
+Nhấn vào Thông tin liên hệ
+Bước 3 : Kiểm tra số điện thoại của bạn có đúng hay không, nếu không đúng, bạn nhấn vào Thêm số điện thoại > Nhập số điện thoại của bạn > Chọn Tiếp tục.
+Nhập số điện thoại muốn sửa chữa
+Bước 4 : Facebook sẽ gửi mã xác nhận đến số điện thoại của bạn, lúc này hãy nhập mã vào khung yêu cầu > Chọn Xác nhận.
+Nhập mã vào khung yêu cầu
+Xem thêm : Cách lấy lại mật khẩu Facebook không cần mã xác nhận Hướng dẫn cách bỏ theo dõi trên Facebook
+Đảm bảo điện thoại có thể nhận tin nhắn
+Có thể điện thoại của bạn có vấn đề khiến SMS, nên không nhận được xác thực của Facebook. Hãy kiểm tra kỹ tình trạng điện thoại của bạn và đảm bảo rằng chúng vẫn hoạt động tốt khi SMS gửi tới:
+- Sóng điện thoại ổn định không?
+- Điện thoại có đang kích hoạt chế độ máy bay không?
+- Có đang chặn các tin nhắn/ cuộc gọi từ Facebook hoặc các ứng dụng khác không?
+- Điện thoại có đang bị vô hiệu hóa tính năng gì không?
+- Bộ nhớ điện thoại có bị đầy không?
+Đảm bảo điện thoại có thể nhận tin nhắn
+Xem thêm : Cách sửa lỗi không nhận được tin nhắn trên Samsung Cách để biết ai đó vào Facebook của mình
+Yêu cầu gửi lại mã xác nhận
+Bước 1 : Đăng nhập vào Facebook: TẠI ĐÂY .
+Bước 2 : Truy cập lại mục nhập mã xác nhận > Nhấn vào Gọi (Số di động) hoặc Gửi lại mã để cung cấp mã xác minh.
+Nhấn vào gửi lại mã để cung cấp mã xác minh
+Thử sử dụng email để nhận mã
+Bước 1 : Truy cập vào ứng dụng Facebook > Chọn biểu tượng 3 gạch ngang > Chọn mục Cài đặt & quyền riêng tư > Nhấn vào Cài đặt.
+Truy cập vào phần Cài đặt trên Facebook
+Bước 2 : Chọn mục Thông tin cá nhân và tài khoản > Nhấn vào Thông tin liên hệ.
+Nhấn vào Thông tin liên hệ
+Bước 3 : Chọn Thêm địa chỉ email > Nhập email mà bạn muốn thêm > Nhấn vào Thêm Email.
+Tiến hành thêm địa chỉ email
+Bước 4 : Nhập mã xác minh gửi về cho email > Chọn Xác nhận.
+Nhập mã xác minh gửi về cho email
+Báo cáo lỗi tới trung tâm trợ giúp Facebook
+Ngoài các cách trên thì bạn có thể báo cáo lỗi tới trung tâm trợ giúp Facebook qua các bước sau đây:
+Bước 1 : Truy cập vào đường link hỗ trợ của Facebook: TẠI ĐÂY .
+Bước 2 : Điền các thông tin cần thiết, nhập Không nhận được mã xác nhận từ Facebook trong khung Thông tin bổ sung > Nhấn Gửi và chờ phản hồi từ Facebook
+Nhập Không nhận được mã xác nhận từ Facebook
+Nhận cuộc gọi để nhận mã xác thực
+Nếu không nhận được mã qua SMS, hãy chuyển sang xác thực bằng cuộc gọi. Trong bước "Xác nhận mã", chọn "Bạn chưa nhận được SMS?" rồi chọn "Gọi (Số di động)". Một giọng nói tự động sẽ đọc mã xác thực hai lần. Hãy chuẩn bị sẵn sàng để ghi lại mã.
+Soạn tin nhắn tới tổng đài
+Trong trường hợp bạn không nhận được mã xác thực vì lỗi nhà mạng, hãy soạn tin nhắn tới tổng đài. Cú pháp để yêu cầu gửi mã xác thực Facebook như sau:
+- Viettel : Soạn F gửi 9223 (1.000 VNĐ/tin)
+- VinaPhone : Soạn DK gửi 1571 (1.000 VNĐ/tin)
+- Mobifone : Soạn DK F1 gửi 32665 (1.000 VNĐ/tin)
+- Vietnamobile : Soạn FB gửi 32665.
+3. Cách khắc phục Facebook không gửi mã xác nhận về email
+Kiểm tra lại địa chỉ email
+Trong quá trình đăng ký đôi khi bạn sơ ý bấm nhầm một ký tự làm cho email bị sai địa chỉ khiến mã xác nhận không gửi về được.
+Lúc này bạn cần kiểm tra lại địa chỉ email xem đúng chưa, nếu chưa thì hãy sửa lại cho đúng nhé!
+Kiểm tra lại địa chỉ email
+Kiểm tra mục thư rác
+Đôi khi mã xác nhận đã được gửi về email của bạn rồi, nhưng do bất cẩn hoặc sơ ý mà bạn đã chuyển nó vào thư mục rác. Lúc này bạn cần kiểm tra thư mục rác theo các bước sau đây:
+Bước 1 : Truy cập vào Gmail của bạn > Nhấn vào biểu tượng 3 dấu gạch ngang.
+Truy cập vào gmail của bạn
+Bước 2 : Chọn mục Thư rác rồi tiến hành kiểm tra.
+Chọn mục thư rác rồi tiến hành kiểm tra
+Thử sử dụng số điện thoại thay vì email
+Nếu các bước khắc phục khong có hiệu quả, bạn hãy thử thêm số điện thoại để nhận mã thay vì nhận mã xác nhận qua email nhé!
+Bước 1 : Truy cập vào ứng dụng Facebook > Chọn biểu tượng 3 gạch ngang (Menu) > Chọn mục Cài đặt & quyền riêng tư > Nhấn vào Cài đặt.
+Truy cập vào phần Cài đặt trên Facebook
+Bước 2 : Chọn mục Thông tin cá nhân và tài khoản > Nhấn vào Thông tin liên hệ.
+Nhấn vào Thông tin liên hệ
+Bước 3 : Nhấn vào Thêm số điện thoại > Nhập số điện thoại của bạn > Chọn Tiếp tục.
+Nhập số điện thoại của bạn
+Bước 4 : Facebook sẽ gửi mã xác nhận đến số điện thoại của bạn, lúc này hãy nhập mã vào khung yêu cầu > Chọn Xác nhận.
+Nhập mã vào khung yêu cầu
+4. Câu hỏi thường gặp
+Bảo mật 2 lớp là gì?
+Bảo mật 2 lớp (hay còn gọi tắt là 2FA) là cách tăng cường an ninh cho tài khoản Facebook bằng cách yêu cầu mã đăng nhập đặc biệt hoặc xác nhận đăng nhập mỗi khi truy cập, kể cả trên thiết bị quen thuộc hay thiết bị mới. Điều này giúp bảo vệ tài khoản khỏi bị tấn công hoặc đánh cắp thông tin.
+Không truy cập được Facebook do điện thoại không nhận được mã xác thực, vậy Messenger có thể sử dụng được không?
+Nếu đăng nhập Facebook vào thiết bị mới sẽ cần mã xác thực. Còn nếu đã đăng nhập trước đó, chưa thoát tài khoản Facebook khỏi Messenger thì vẫn dùng được.
+Xem thêm : Cách xem số điện thoại qua nick Facebook Cách khắc phục lỗi không nhận được mã xác minh iCloud, ID Apple Cách xử lý khi không xem được trang cá nhân người khác trên Facebook
+Một số mẫu laptop tốt đang kinh doanh tại Thế Giới Di Động:
+Trên đây là những nguyên nhân cũng như cách khắc phục tình trạng không nhận được mã xác minh Facebook qua điện thoại và email. Hy vọng bài viết hữu ích đối với bạn. Chúc bạn thực hiện thành công!
+10.889 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

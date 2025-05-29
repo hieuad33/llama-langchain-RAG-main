@@ -1,0 +1,110 @@
+3 Cách quay màn hình MacBook có tiếng nhanh đơn giản nhất
+ĐỪNG BỎ LỠ một số mẫu MacBook đang GIẢM SỐC tại Thế Giới Di Động:
+Bạn mới dùng Macbook và chưa biết cách quay màn hình? Muốn tạo video hướng dẫn, ghi lại bài giảng hay gameplay chất lượng cao mà chưa tìm được cách? Đừng lo lắng! Bài viết này sẽ hướng dẫn bạn chi tiết cách quay màn hình Macbook, từ sử dụng công cụ có sẵn đến phần mềm bên thứ ba, đảm bảo chất lượng tốt nhất, phù hợp với mọi nhu cầu!
+1. Quay màn hình Macbook có tiếng bằng QuickTime Player
+QuickTime Player là phần mềm có sẵn trên Macbook, hỗ trợ phát hơn 30 định dạng âm thanh và video, chỉnh sửa video nhanh, ghi màn hình và xuất video sang file âm thanh. Được phát triển bởi Apple Inc., QuickTime Player chiếm khoảng 10.65 MB dung lượng trên macOS .
+Bước 1 : Vào biểu tượng Launchpad > Bấm chọn QuickTime Player để mở phần mềm.
+Mở LaunchPad > QuickTime Player
+Bước 2 : Chọn vào File (Tệp) > Tiếp tục chọn vào New Screen Recording (Bản ghi màn hình mới).
+QuickTime giúp bạn quay màn hình có tiếng trên Macbook
+Bước 3 : Thiết lập tính năng quay màn hình tuỳ chỉnh
+None : Quay màn hình mà không ghi tiếng
+Internal Microphone : Quay màn hình có tiếng từ Microphone
+Show Mouse Clicks in Recording : Hiển thị con trỏ chuột trong khi quay màn hình
+Thiết lập tính năng quay màn hình
+Bước 4 : Nhấn nút Record màu đỏ trên thanh điều khiển để bắt đầu ghi hình.
+Nhấn nút Record màu đỏ
+Quay toàn màn hình : Nhấn tổ hợp phím Shift + Command + 5 , chọn biểu tượng quay toàn màn hình, sau đó click vào bất kỳ vị trí nào trên màn hình để bắt đầu quay. Quay một phần màn hình : Nhấn Shift + Command + 5 , chọn biểu tượng quay một phần màn hình, kéo chuột để khoanh vùng khu vực muốn quay rồi nhấn Record
+Chọn và điều chỉnh khu vực quay màn hình
+Khi muốn dừng quay, nhấn nút Stop trên thanh menu hoặc dùng tổ hợp Command + Control + Esc . Video sẽ tự động lưu lại trên máy.
+Nhấn Command + Control + Esc để dừng quay màn hình
+Bước 5 : Sau khi hoàn thành quay màn hình, QuickTime Player sẽ tự động mở bản ghi video để bạn xem lại. Bạn có thể chỉnh sửa, chia sẻ hoặc lưu video vào thư mục mong muốn trên MacBook một cách dễ dàng
+2. Quay màn hình Macbook có tiếng bằng Screenshot Toolbar
+Trên macOS Mojave , bạn chỉ cần nhấn tổ hợp phím Shift + Command + 5 để mở Screenshot Toolbar, cho phép quay video toàn màn hình, một phần màn hình hoặc chụp ảnh màn hình trên MacBook Air/Pro.
+Công cụ này được tích hợp sẵn, hỗ trợ quay màn hình có hoặc không có tiếng, giúp thao tác ghi hình trở nên dễ dàng và linh hoạt hơn.
+Chụp màn hình trực quan và các chức năng
+Sau khi nhấn tổ hợp phím, cửa sổ quay màn hình sẽ hiện lên với các chức năng dưới đây:
+Giao diện quay màn hình trên Macbook
+Sau khi nhấn tổ hợp phím, thanh công cụ quay màn hình sẽ xuất hiện. Ngoài tính năng quay video, bạn cũng có thể chụp màn hình ngay tại đây, giúp thao tác trở nên nhanh chóng và tiện lợi hơn.
+Các chế độ quay và chụp màn hình trên máy Mac
+Quay toàn màn hình MacBook
+Bước 1 : Nhấn tổ hợp phím Command+ Shift+ 5 để mở công cụ Screenshot Toolbar
+Bước 2 : Tại giao diện ghi màn hình, bạn chọn Ghi toàn màn hình (Record Entire Screen) > Bấm Ghi .
+Click vào biểu tượng Quay toàn màn hình
+Bước 3 : Nhấn nút Record trên thanh công cụ hoặc vào bất kỳ vị trí nào trên màn hình để bắt đầu quay.
+Nhấn nút Record để bắt đầu quay
+Bước 4 : Để dừng quay, bạn bấm vào biểu tượng Dừng quay > Video sẽ được lưu mặc định ở bên ngoài màn hình máy.
+Click vào hình ảnh video lưu trên màn hình MacBook để xem nhanh video vừa quay.
+Video sẽ được lưu mặc định ở bên ngoài màn hình
+Quay một phần màn hình Macbook
+Bước 1 : Nhấn tổ hợp phím Command+ Shift+ 5 để mở công cụ Screenshot Toolbar
+Bước 2 : Chọn Ghi một phần màn hình (Record Selected Portion)
+Click biểu tượng Ghi một phần màn hình > Chọn Ghi
+Bước 3 : Kéo chuột để chọn khu vực cần quay > Nhấn Ghi để bắt đầu.
+Chọn khu vực cần quay
+Bước 4 : Để dừng quay, bấm vào biểu tượng Dừng quay > Video sẽ được lưu mặc định ở bên ngoài màn hình máy.
+Click vào hình ảnh video lưu trên màn hình MacBook để xem nhanh video vừa quay.
+Click vào biểu tượng Dừng
+3. Quay màn hình MacBook có tiếng bằng phần mềm thứ 3
+Wondershare DemoCreator là phần mềm quay màn hình và chỉnh sửa video mạnh mẽ, được nhiều người dùng ưa chuộng nhờ giao diện trực quan và tính năng đa dạng. Phần mềm này hỗ trợ quay màn hình, webcam, ghi âm, chỉnh sửa video, thêm hiệu ứng và xuất video chất lượng cao.
+Quay với phần mềm Wondershare DemoCreator
+Bước 1 : Cài đặt phần mềm Wondershare DemoCreator tại đây > Chạy phần mềm trên MacBook.
+Cài đặt phần mềm Wondershare DemoCreator
+Bước 2 : Cài đặt chế độ quay màn hình với các tùy chọn chế độ quay, âm thanh,…
+Cài đặt chế độ quay màn hình
+Bước 3 : Bấm nút Record để bắt đầu ghi màn hình.
+Bấm nút Record để quay
+Bước 4 : Bấm tổ hợp phím Shift + Command + 2 để kết thúc video quay hình.
+Video đã hoàn thành sẽ được mở trong trình chỉnh sửa của Wondershare DemoCreator.
+Quay với phần mềm Vidmore Screen Recorder
+Vidmore Screen Recorder là phần mềm quay màn hình mạnh mẽ, cho phép bạn ghi lại mọi hoạt động trên màn hình máy tính với chất lượng cao. Phần mềm này hỗ trợ quay video, ghi âm, chụp ảnh màn hình và nhiều tính năng tùy chỉnh khác.
+Bước 1 : Cài đặt phần mềm Vidmore Screen Recorder tại đây > Chạy phần mềm trên MacBook.
+Cài đặt phần mềm Vidmore Screen Recorder
+Bước 2 : Chọn Webcam Recorder để sử dụng tính năng ghi màn hình.
+Chọn Webcam Recorder
+Bước 3 : Tùy chỉnh các thông số quay màn hình trong Preferences bao gồm: vị trí lưu file; định dạng video, chất lượng video, tốc độ khung hình,…
+Tùy chỉnh các thông số quay màn hình
+Bước 4 : Chọn nút REC để bắt đầu quay. Bạn có thể vẽ lên video trong quá trình quay bằng các công cụ như bút, văn bản, mũi tên,…
+Chọn nút REC để bắt đầu quay
+Quay với phần mềm OBS Studio
+OBS Studio là phần mềm miễn phí, mã nguồn mở, hỗ trợ livestream và ghi hình chuyên nghiệp trên Windows, macOS, Linux. Người dùng dễ dàng tạo nhiều cảnh, trộn nguồn âm thanh/hình ảnh, chuyển cảnh mượt mà, phù hợp cả livestream cá nhân lẫn sản xuất nội dung chuyên nghiệp.
+Hướng dẫn cài đặt và sử dụng OBS Studio cơ bản
+Bước 1 : Tải OBS Studio tại đây > Cài đặt theo hướng dẫn.
+Bước 2 : Mở phần mềm > Thêm nguồn (màn hình, webcam, micro).
+Bước 3 : Tạo các cảnh (scene) để chuyển đổi khi ghi hình/livestream > Vào Settings để thiết lập chất lượng ghi hình, lưu file, hoặc nhập Stream Key để livestream.
+Bước 4 : Nhấn Start Streaming để phát trực tiếp hoặc Start Recording để ghi video.
+Xem chi tiết : Cách quay màn hình MacBook bằng OBS Studio
+Quay màn hình MacBook với phần mềm OBS Studio
+Quay với phần mềm Camtasia
+Camtasia là phần mềm quay màn hình và chỉnh sửa video chuyên nghiệp, nổi bật với giao diện thân thiện, nhiều hiệu ứng, chỉnh sửa đa lớp, phù hợp cho đào tạo, hướng dẫn, marketing. So với phần mềm miễn phí, Camtasia mạnh hơn hẳn về khả năng biên tập hậu kỳ.
+Hướng dẫn cài đặt và sử dụng Camtasia cơ bản
+Bước 1 : Tải và cài đặt Camtasia tại đây (có phí, dùng thử miễn phí) > Cài đặt theo hướng dẫn.
+Bước 2 : Mở phần mềm, chọn " New Recording " để quay màn hình, webcam, âm thanh > Sau khi quay, video tự động mở trong Camtasia Editor.
+Bước 3 : Kéo thả video vào timeline, cắt ghép, thêm hiệu ứng, chú thích, nhạc nền.
+Bước 4 : Xuất video với định dạng mong muốn hoặc chia sẻ trực tiếp lên các nền tảng.
+Xem chi tiết : Cách quay màn hình MacBook bằng Camtasia Studio
+Quay màn hình MacBook với phần mềm Camtasia
+4. Cách quay màn hình MacBook chất lượng cao
+Tối ưu âm thanh
+Vào System Preferences > Sound > Input , chọn đúng micrô (mic trong, tai nghe, micro ngoài), chỉnh Input Level cho âm rõ, không rè. Dùng micro ngoài (USB, Bluetooth…) cho chất lượng tốt hơn; nhớ chọn lại micro ngoài trong mục Input khi đã kết nối.
+Chọn độ phân giải & FPS
+Chọn 1080p cho nhu cầu cơ bản, 4K khi cần video siêu nét. 30 FPS cho hướng dẫn, họp online; 60 FPS cho video chuyển động nhanh, quay game. Thiết lập trong phần mềm quay (QuickTime, Screenshot Toolbar…).
+Sử dụng phím tắt
+Shift + Command + 5 : Mở Screenshot Toolbar để quay màn hình, bật/tắt micro, chọn vùng quay. Command + Control + Esc : Dừng quay nhanh. Tùy chỉnh nơi lưu, hẹn giờ, hiển thị chuột… trong mục Options .
+Cách quay màn hình MacBook chất lượng cao
+Lưu ý:
+Video sẽ tự lưu dạng “Screen Recording [ngày] at [giờ].mov” Nhấn Esc trước khi chọn Record để hủy quay. Một số ứng dụng không cho phép quay màn hình cửa sổ của họ. Có thể mở video bằng QuickTime, iMovie hoặc phần mềm chỉnh sửa video khác.
+5. So sánh các cách quay màn hình MacBook
+Tiêu chí chính QuickTime Player Screenshot Toolbar (Shift+Cmd+5) Wondershare DemoCreator Vidmore Screen Recorder OBS Studio Camtasia Tích hợp macOS Có Có Không Không Không Không Miễn phí Có Có Có giới hạn Có giới hạn Có Không (trả phí) Ghi âm hệ thống Không Không Có Có Có Có Ghi âm mic ngoài Có Có Có Có Có Có Quay webcam Có Không Có Có Có Có Chỉnh sửa video Cơ bản Không Có Có Cơ bản Mạnh mẽ Livestream Không Không Không Không Có Không Độ phân giải tối đa 1080p 4K 4K 4K 4K+ 4K Ưu điểm Đơn giản, miễn phí Nhanh, tiện, dễ dùng, miễn phí Nhiều hiệu ứng, dễ dùng Đa năng, nhiều tính năng Miễn phí, livestream Quay & chỉnh sửa chuyên nghiệp Nhược điểm Không ghi âm hệ thống, chỉnh sửa hạn chế Không webcam, không chỉnh sửa Bản free giới hạn, watermark Bản free giới hạn, watermark Khó dùng cho người mới Giá cao, nặng máy
+6. Câu hỏi thường gặp
+Cách quay màn hình MacBook có âm thanh hệ thống?
+Tính năng quay màn hình mặc định trên MacBook không hỗ trợ ghi âm thanh hệ thống, chỉ ghi được micro ngoài. Để quay cả âm thanh hệ thống, bạn cần cài đặt phần mềm hỗ trợ như BlackHole hoặc Soundflower, sau đó chọn thiết bị này làm đầu ra âm thanh khi quay màn hình.
+Quay màn hình MacBook bị giật lag, phải làm sao?
+Kiểm tra và giải phóng dung lượng ổ cứng, đóng các ứng dụng không cần thiết để giảm tải hệ thống. Giảm độ phân giải và tốc độ khung hình (FPS) khi quay để máy hoạt động mượt hơn. Khởi động lại máy hoặc cập nhật macOS nếu cần.
+Phần mềm nào tốt để chỉnh sửa video quay màn hình MacBook?
+Bạn nên dùng iMovie (miễn phí, dễ dùng, chỉnh sửa cơ bản) hoặc Final Cut Pro (chuyên nghiệp, nhiều tính năng nâng cao) để chỉnh sửa video quay màn hình trên MacBook.
+ĐỪNG BỎ LỠ một số mẫu laptop đang GIẢM SỐC tại Thế Giới Di Động:
+Xem thêm : Cách quay màn hình máy tính Window, Macbook Cách chụp, quay màn hình bằng PowerPoint Cách quay màn hình máy tính Windows 11 TOP 10 phần mềm quay màn hình máy tính miễn phí Cách quay màn hình máy tính bằng phần mềm VLC Media Player
+Trên đây là bài viết hướng dẫn các cách quay màn hình có tiếng trên Macbook đơn giản. Chúc bạn thực hiện thành công và hẹn gặp ở những bài viết tiếp theo nhé!
+36.602 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

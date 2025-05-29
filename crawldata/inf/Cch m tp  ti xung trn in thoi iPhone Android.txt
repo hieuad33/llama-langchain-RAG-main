@@ -1,0 +1,41 @@
+Cách mở tệp đã tải xuống trên điện thoại iPhone, Android
+ĐỪNG BỎ LỠ 1 số mẫu Sạc dự phòng hỗ trợ sạc nhanh đang siêu giảm giá tại TGDĐ:
+Trong quá trình sử dụng iPhone , điện thoại Android, đôi lúc bạn tự hỏi các file được tải về sẽ được lưu trữ ở đâu trên điện thoại cũng như làm thế nào để tìm lại được sau khi tải. Bài viết dưới đây sẽ giải đáp thắc mắc cho bạn cũng như hướng dẫn bạn tìm file.
+1. Tệp đã tải xuống nằm ở đâu trên điện thoại iPhone? Cách tìm tệp
+Khi bạn sử dụng một ứng dụng trên iPhone và tải xuống một tệp từ ứng dụng đó thì nó sẽ được tự động lưu trữ với ứng dụng có thể xử lý tệp đó.
+Ví dụ: Nếu bạn tải xuống một bộ phim từ Netflix thì bộ phim đó chỉ mở được bằng ứng dụng Netflix.
+Các tệp khác nhau thường yêu cầu các ứng dụng khác nhau để có thể mở nó. Trong quá trình sử dụng, khi bạn tải xuống một tệp và không thể mở nó, bạn nên tra trên công cụ tìm kiếm Google để tìm ứng dụng thích hợp để mở.
+Cách mở tệp đã lưu trên iPhone
+Ứng dụng Tài liệu (Files) là một ứng dụng có sẵn trên các dòng máy thuộc hệ điều hành iOS, bạn có thể sử dụng ứng dụng này để mở các tệp đã lưu ở định dạng PDF, Word, Docs được tải về từ Safari và các ứng dụng khác.
+Hướng dẫn thực hiện:
+Bạn nhập " Tài liệu " hoặc " Files " ở thanh tìm kiếm trên điện thoại để tìm ứng dụng Tệp (Files). Trong phần Duyệt (Browse), đây sẽ là nơi lưu trữ các tệp vừa mới tải xuống.
+Vào Tệp > Gần đây
+Nhấn vào tệp tin mà bạn muốn mở, khi đó thiết bị iPhone của bạn sẽ tự động mở bằng ứng dụng thích hợp.
+Nếu bạn muốn tìm nhiều File lưu trữ hơn, bạn có thể tìm trên file " Duyệt " với các vị trị lưu trữ:
+Trên iPhone: Dữ liệu lưu trên máy iCloud Drive: Dữ liệu lưu trên iCloud Drive: Dữ liệu lưu trên Google Drive Đã xóa gân đây: Các file dữ liệu đã xóa được lưu tạm ở đây trước khi xóa vĩnh viễn
+Vị trí đã lưu file trên iPhone
+Tải hình ảnh, video và cách lưu trữ chúng
+Nếu bạn nhận được một tấm hình hay video trên mail hoặc các ứng dụng nhắn tin thông dụng hiện nay, có hai cách để lưu lại trên điện thoại.
+Hướng dẫn thực hiện: Bạn mở hình hoặc video muốn tải về > Nhấn Chia sẻ (Share button) > Hai tùy chọn lưu ở hàng dưới cùng của cửa sổ được bật lên: Save Image (Lưu vào hình ảnh) và Save to Files (Lưu vào mục Tài liệu) .
+Chọn nơi để lưu trữ
+Nếu bạn chọn Save Image thì tệp sẽ được lưu vào thư mục Photos (Hình ảnh) và bạn có thể tìm lại khi mở ứng dụng Hình ảnh .
+Nếu bạn chọn Save to Files, bạn sẽ được yêu cầu chọn lưu vào một trong những thư mục trong ứng dụng Tài liệu (Files) . Khi cần tìm lại, bạn chỉ cần mở ứng dụng Tài liệu và tìm đến thư mục mà bạn đã lưu hình ảnh và video.
+2. Tệp đã tải xuống nằm ở đâu trên điện thoại Andoid? Cách tìm tệp
+Cách tìm tệp đã tải xuống trên điện thoại Samsung
+Trên các thiết bị Samsung , các tệp tin được tải xuống sẽ lưu trữ trong thư mục có tên là My files (Tài liệu của tôi)
+Để tìm lại các tệp tin đã tải xuống, bạn truy cập thư mục My files (Tài liệu của tôi) và tìm trong File gần đây .
+File của bạn > File gần đây
+Cách tìm tệp đã tải xuống trên điện thoại Xiaomi
+Bạn vào ứng dụng tên " Tài liệu của tôi " > Tìm nội dung mới nhất ở mục Gần đây
+Mở ứng dụng Quản lý tập tin > Gần đây
+Bên cạnh đó, bạn có thể xem lại các nội dung tải xuống ở mục Lưu trữ
+Mục
+Cách tìm tệp đã tải xuống trên điện thoại OPPO
+Bạn vào Trình quản lý tệp > Chọn Lưu trữ điện thoại > Chọn Tất cả các tập tin > Chọn Download .
+Xem hướng dẫn chi tiết trong bài File tải về nằm ở đâu trên điện thoại OPPO? Cách tìm file đã tải xuống .
+Các bạn tham khảo sản phẩm điện thoại Samsung đang được kinh doanh tại Thế Giới Di Động:
+SĂN NGAY MÃ GIẢM SỐC TGDĐ TẠI ĐÂY!!
+Màn hình luôn hiển thị Always On Display là gì? 8 cách chuyển file từ máy tính sang iPhone đơn giản, nhanh chóng Chuyển dữ liệu từ iPhone sang điện thoại Samsung bằng Smart Switch [Video] Cách ẩn ảnh, video trên iPhone hoàn toàn, không cần ứng dụng Cách lưu file đính kèm, hình ảnh và video trong iMessage đơn giản Tải 200+ hình nền iPhone 16/15/14/13/12 đẹp miễn phí
+Hy vọng với các thông tin trên sẽ giúp bạn giải đáp thắc mắc cũng như giúp bạn tìm lại được tệp tin đã lưu trên điện thoại. Hẹn gặp lại bạn ở những bài viết sau.
+388.436 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

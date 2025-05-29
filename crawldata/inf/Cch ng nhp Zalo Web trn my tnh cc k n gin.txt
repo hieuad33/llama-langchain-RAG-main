@@ -1,0 +1,48 @@
+Cách đăng nhập Zalo Web trên máy tính cực kì đơn giản
+Tham khảo các mẫu tai nghe đang GIẢM SỐC, chính hãng tại Thế Giới Di Động
+Zalo Web là phiên bản Zalo chạy trên tất cả các trình duyệt hiện nay như Google Chrome, Firefox, Microsoft Edge, Cốc cốc...Zalo Web có đầy đủ tính năng giống như ứng dụng Zalo trên điện thoại , Zalo PC trên laptop . Đăng nhập Zalo web giúp bạn duy trì đăng nhập song song 2 tài khoản cùng lúc mà không lo máy bị thoát tài khoản tự động. Cùng Thế Giới Di Động tìm hiểu trong bài viết dưới đây nhé!
+Bài viết này được áp dụng trên hầu hết các dòng laptop phổ biến hiện nay như laptop Gigabyte , laptop MSI , laptop Lenovo , laptop Samsung , laptop LG ,...
+1. Ưu nhược điểm của Zalo Web
+Ưu điểm của Zalo Web
+- Tài khoản có thể đăng nhập song song 2 thiết bị máy tính cùng lúc mà không sợ bị tự động thoát ra
+- Kiểm tra tin nhắn, cuộc gọi Zalo cực nhanh và đơn giản.
+- Truyền file qua lại giữa máy tính và điện thoại.
+- Tối ưu sử dụng vì nhiều tính năng chỉ có trên Zalo bản máy tính.
+- Đỡ tốn dung lượng máy vì vẫn đăng nhập Zalo máy tính được mà không cần cài đặt zalo trên máy tính .
+Nhược điểm của Zalo Web
+Zalo Web chỉ hiện thị tin nhắn kể từ lần bạn đăng nhập, các tin nhắn trước đó sẽ không hiển thị. Một số tính năng sẽ không khả dụng trên Zalo Web như chụp màn hình trên Zalo
+Thông báo đồng bộ tin nhắn từ Zalo khi đăng nhập Zalo Web
+2.  Hướng dẫn đăng nhập Zalo Web
+Cách 1: Đăng nhập Zalo Web với mã QR
+Video sau hướng dẫn bạn cách dùng Zalo trên máy tính, điện thoại bằng Web cực đơn giản :
+Bước 1: Bạn truy cập vào Zalo Web , hoặc có thể gõ " chat.zalo.me " trên thanh Tìm kiếm của trình duyệt > Chọn quét mã QR. Sau đó bạn mở Zalo trên điện thoại để quét QR.
+Chọn đăng nhập Zalo Web bằng mã QR
+Bước 2: Sau khi mở ứng dụng điện thoại > Chọn biểu tượng mã QR trên thanh tìm kiếm > Đưa camera điện thoại vào mã QR trên máy tính > Đăng nhập .
+Lưu ý : Mã QR chỉ có hiệu lực trong 1 phút , bạn hãy quét mã và xác nhận đăng nhập trong khoảng thời gian này. Nếu mã hết hạn, hãy nhấn chọn Lấy mã mới để thao tác lại.
+Cách quét mã QR bằng Zalo trên điện thoại
+Cách 2: Đăng nhập bằng số điện thoại và mật khẩu
+Bước 1 : Bạn chạm vào dấu 3 gạch ngang > chọn Đăng nhập với Mật khẩu
+Chọn đăng nhập với mật khẩu
+Bước 2: Bạn nhập số điện thoại đã đăng ký Zalo (không nhập số 0 đầu) và mật khẩu > Nhấn Enter hoặc chọn Đăng nhập với mật khẩu .
+Đăng nhập Zalo Web bằng số điện thoại
+3. Các tính năng trên Zalo Web
+Zalo trên web hiện tại cung cấp gần đầy đủ, với nhiều tính năng nổi bật, tạo trải nghiệm đồng nhất cho người dùng.Các tính năng quen thuộc với người dùng Zalo thì trên phiên bản Web đều có đầy đủ, tiện lợi khi sử dụng:
+Gửi biểu cảm và video call : Ngoài việc nhắn tin, người dùng có thể gửi biểu cảm vui nhộn và thực hiện cuộc gọi video. Sticker và GIF đa dạng : Phiên bản Zalo web cũng cung cấp nhiều bộ sticker và GIF độc đáo để bày tỏ cảm xúc khi trò chuyện. Tạo nhắc hẹn : Hỗ trợ tạo nhắc nhở lịch hẹn dễ dàng ngay trong cuộc trò chuyện. Gửi ảnh và video chất lượng HD : Cho phép gửi ảnh, video nhanh chóng và chất lượng cao, hỗ trợ gửi nhiều ảnh cùng lúc. Tin nhắn soạn sẵn : Cho phép tạo tin nhắn nhanh bằng phím tắt. Chỉnh sửa văn bản : Hỗ trợ định dạng tin nhắn như in đậm, in nghiêng, gạch chân. Tự động xóa tin nhắn : Tự động xóa tin nhắn sau khoảng thời gian đã thiết lập. Tin nhắn khẩn cấp : Gửi tin nhắn khẩn với cảnh báo đỏ và chuông báo động. Tìm kiếm tin nhắn : Tìm nhanh nội dung trong các cuộc trò chuyện qua từ khóa.
+4. Câu hỏi của khách hàng
+Không thể đăng nhập Zalo web trên điện thoại? Zalo cứ tự động mở ứng dụng?
+Hiện tại Zalo Web chỉ đăng nhập được trên máy tính, nếu bạn muốn sử dụng Zalo trên điện thoại thì cần tải ứng dụng để sử dụng.
+Cách lấy lại mật khẩu Zalo khi bị mất số điện thoại
+Khi gặp trường hợp này, nếu SIM bạn đăng ký Zalo là của bạn, chỉ vô tình làm mất hoặc hư SIM thì hãy tiến hành làm lại thẻ SIM sau đó đổi mật khẩu Zalo cho an toàn. Còn nếu bạn không phải là chủ SIM (bị nhà mạng thu hồi số hoặc mượn số điện thoại Zalo) thì hãy thay đổi số điện thoại đã đăng ký tài khoản Zalo đó nhé.
+Xem chi tiết cách làm tại: Cách lấy lại mật khẩu tài khoản Zalo khi mất SIM, mất số điện thoại
+Tại sao Zalo Web không hiển thị lịch sử trò chuyện như trên điện thoại?
+Nếu đăng nhập lần đầu trên Zalo Web sẽ không đồng bộ lịch sử trò chuyện trước đó. Các tin nhắn sau lần đầu tiên đăng nhập  Để thực hiện đồng bộ dữ liệu, bạn thực hiện như sau:
+Mở ứng dụng Zalo trên điện thoại > Chọn Thêm > Cài đặt (biểu tượng bánh răng) > Sao lưu & đồng bộ tin nhắn > Nhấn bật .
+Xem chi tiết cách làm tại: Cách sao lưu và khôi phục tin nhắn Zalo nhanh nhất
+Không thể đăng nhập vào Zalo thông qua Facebook?
+Hiện tại (7/11/2024) Zalo không hỗ trợ đồng bộ với tài khoản Facebook , cho nên dù cả 2 tài khoản này cùng dùng chung 1 số điện thoại nhưng cũng không thể đăng nhập Zalo thông qua Facebook được.
+Nếu bạn muốn đăng nhập Zalo trên web thì nên sử dụng Cửa sổ ẩn danh để web có thể xóa cache. Bạn có thể tham khảo thêm bài viết: Cache, cookies là gì? Cách xóa cache và cookies trên mọi trình duyệt . Ngoài ra, nếu chưa biết cách đăng nhập 2 tài khoản Zalo trên máy tính bạn có thể tham khảo bài cách đăng nhập 2 tài khoản Zalo trên máy tính cùng lúc .
+Xem thêm : [Video] Cách gửi nhạc, bài hát qua tin nhắn Zalo đơn giản, nhanh chóng [Video] Cách đưa biểu tượng Zalo ra màn hình chính trên Android Cách đăng ký tài khoản Zalo trên máy tính cực đơn giản, nhanh chóng Cách đăng nhập 3 tài khoản Zalo trên 1 điện thoại rất thuận tiện
+Một số mẫu laptop giúp bạn chat trên Zalo Web nhanh hơn:
+Vừa rồi là một số bước làm đơn giản để đăng nhập Zalo Web trên máy tính. Hy vọng thông tin hữu ích với bạn, chúc bạn thực hiện thành công!
+483.937 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

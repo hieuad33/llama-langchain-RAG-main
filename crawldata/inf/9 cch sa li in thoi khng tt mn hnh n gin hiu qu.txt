@@ -1,0 +1,56 @@
+9 cách sửa lỗi điện thoại không tắt màn hình đơn giản, hiệu quả
+Màn hình điện thoại của bạn dạo gần đây luôn sáng liên tục? Bạn rất lo lắng vì điều này đang khiến cho điện thoại sụt pin nhanh chóng. Hãy theo dõi bài viết để biết được nguyên nhân và các giải pháp đơn giản, dễ thực hiện!
+1. Kiểm tra lại thời gian khóa màn hình
+Trên điện thoại Android và iPhone được trang bị tính năng sau một khoảng thời gian không sử dụng thì điện thoại sẽ tự động khóa màn hình. Nếu bạn gặp lỗi màn hình luôn sáng thì nên kiểm tra lại tính năng này đã bật hay chưa. Bạn nên chọn mức thời gian tắt màn hình là 15 giây sau khi không hoạt động.
+Kiểm tra lại cài đặt thời gian khóa màn hình trên điện thoại
+Tham khảo bài viết để biết cách cài đặt thời gian tự động tắt trên iPhone và điện thoại Android: [Video] Cách cài đặt thời gian tự động khóa màn hình iPhone đơn giản Cách cài đặt thời gian tắt màn hình điện thoại Android đầy đủ nhất
+2. Tắt tính năng Nhấc lên để đánh thức
+Khi bật tính năng này thì điện thoại ở trên tay người dùng sẽ bật sáng màn hình mỗi khi tay chuyển động. Do vậy, bạn nên tắt tính năng này đi để tiết kiệm pin cũng như ngăn việc màn hình luôn sáng. Tính năng này trên iPhone gọi là Đưa lên để bật.
+Để tắt tính năng Đưa lên để bật trên iPhone, ta thực hiện theo hướng dẫn sau.
+Vào Cài đặt > Chọn mục Màn hình & Độ sáng > Tắt Đưa lên để bật .
+Tắt tính năng Đưa lên để bật ở iPhone
+Để tắt tính năng này trên điện thoại Android, ta thực hiện theo hướng dẫn sau.
+Vào Cài đặt > Mở mục Tính năng nâng cao > Chọn mở mục Chuyển động thao tác .
+Mở cài đặt Chuyển động thao tác
+Tắt Nhấc lên để đánh thức .
+Tắt tính năng Nhấc lên để đánh thức ở điện thoại Android
+3. Lỗi do ứng dụng nào đó mới tải về
+Nếu trước đây điện thoại hoạt động bình thường nhưng sau khi bạn tải một ứng dụng nào đó về thì mới xảy ra tình trạng màn hình sáng liên tục. Vậy thì có thể lỗi đến từ chính ứng dụng mới tải về này.
+Rất có thể ứng dụng này chứa các cài đặt, mã nguồn không tương thích với cài đặt của máy. Người dùng nên gỡ ứng dụng đó đi để tránh xảy ra các lỗi khác.
+Lỗi xảy ra do một ứng dụng mới tải về máy
+Tham khảo bài viết để biết cách xóa ứng dụng trên iPhone và điện thoại Android : [Video] 3 Cách xóa ứng dụng trên iPhone đơn giản chỉ trong 1 nốt nhạc Hướng dẫn cách xóa ứng dụng trên điện thoại Android đơn giản, hiệu quả
+4. Thử khởi động lại điện thoại
+Người dùng có thể thử khởi động lại điện thoại để xem có chữa được lỗi này không. Bởi vì thường thì khởi động lại máy sẽ giúp chữa được nhiều lỗi nhỏ hiện có.
+Khởi động lại điện thoại có thể sửa lỗi này
+Tham khảo bài viết để biết cách khởi động lại iPhone và điện thoại Android: Hướng dẫn cách khởi động lại iPhone mọi dòng máy đầy đủ, chi tiết nhất Cách khởi động lại điện thoại Android mọi dòng máy đầy đủ, chi tiết
+5. Khôi phục cài đặt gốc
+Nếu điện thoại đã được bạn thiết lập quá nhiều cài đặt thì đây cũng là một nguyên nhân gây ra lỗi. Bởi quá nhiều cài đặt sẽ dẫn đến việc xung đột cài đặt, một số cài đặt sẽ không thực hiện được.
+Người dùng nên khôi phục lại cài đặt gốc để khắc phục lỗi, nhưng trước khi khôi phục phải sao lưu để bảo vệ dữ liệu .
+Tham khảo bài viết để biết cách sao lưu dữ liệu trên iPhone và điện thoại Android: Cách sao lưu dữ liệu trên iPhone đơn giản, hiệu quả, nhanh chóng Cách sao lưu dữ liệu trên điện thoại Android đơn giản, nhanh chóng
+Sau khi đã sao lưu dữ liệu điện thoại thì bạn mới bắt tay vào khôi phục cài đặt gốc cho máy.
+Khôi phục lại cài đặt gốc cho điện thoại
+Tham khảo bài viết để biết cách khôi phục cài đặt gốc trên iPhone và điện thoại Android: Cách khôi phục cài đặt gốc, reset điện thoại iPhone an toàn, hiệu quả Cách khôi phục cài đặt gốc, reset điện thoại Android đầy đủ dòng máy
+6. Vệ sinh lại cụm cảm biến tiệm cận
+Cảm biến tiệm cận là linh kiện được đặt ở trên màn hình cảm ứng, giúp nhận diện hành động của người dùng.
+Tham khảo thêm: Cảm biến tiệm cận trên điện thoại là gì? Có ứng dụng như thế nào?
+Cụm cảm biến tiệm cận bị bụi bám bẩn cũng gây nên lỗi
+Việc màn hình sáng hoặc được tắt đi có liên quan đến cảm biến tiệm cận. Nếu gặp lỗi không tắt được màn hình thì có thể do bụi bặm đã nhiều bám vào cảm biến hoặc cảm biến đã bị hư.
+Bởi vì cảm biến tiệm cận nằm phía sau màn hình nên bạn chỉ có thể mang máy ra các trung tâm sửa chữa để được hỗ trợ kiểm tra, vệ sinh.
+7. Do miếng dán màn hình quá dày
+Miếng dán màn hình quá dày hoặc không có khe hở ở chỗ cảm biến tiệm cận cũng là nguyên nhân gây cản trở cảm biến hoạt động tốt. Bạn có thể thử tháo miếng dán ra và kiểm tra xem màn hình còn sáng liên tục hay không. Nếu câu trả lời là không thì nguyên nhân khá chắc là do miếng dán màn hình.
+Bạn nên đổi sang sử dụng các miếng dán màn hình khác. Nhấn VÀO ĐÂY để tham khảo các miếng dán màn hình đang kinh doanh tại Thế Giới Di Động.
+Không nên sử dụng miếng dán màn hình dày
+8. Cập nhật phiên bản mới hệ điều hành
+Nếu hệ điều hành quá cũ hoặc bạn chưa cập nhật phiên bản mới để vá lỗi thì đó cũng là nguyên nhân gây ra lỗi màn hình sáng liên tục không tắt. Vậy nên hãy thực hiện cập nhật hệ điều hành để khắc phục lỗi này.
+Cập nhật phiên bản mới nhất của hệ điều hành sẽ giúp sửa lỗi
+Tham khảo bài viết để biết cách cập nhật hệ điều hành trên iPhone và điện thoại Android: [Video] Cách cập nhập iOS trên iPhone lên phiên bản mới nhất đơn giản Cách kiểm tra, cập nhật điện thoại Android lên phiên bản mới nhất
+9. Màn hình điện thoại đã xảy ra vấn đề
+Nếu bạn đã thử hết tất cả những cách trên nhưng màn hình điện thoại vẫn còn sáng liên tục thì rất có thể màn hình đã bị hư. Nguyên nhân có thể do màn hình đã bị dính nước, bị va chạm mạnh, rơi rớt lúc nào đó mà bạn không để ý.
+Màn hình điện thoại bị vỡ, dính nước,... cũng sẽ gây lỗi
+Vì đây là lỗi phần cứng nên chỉ có thể mang ra các trung tâm sửa chữa uy tín để được hỗ trợ. Nếu điện thoại còn bảo hành thì người dùng nên đem đến các trung tâm bảo hành .
+Cách kiểm tra thời hạn bảo hành của điện thoại: Hướng dẫn cách kiểm tra bảo hành của các hãng điện thoại bằng IMEI .
+Một số mẫu điện thoại đang kinh doanh tại Thế Giới Di Động:
+Xem thêm: Cách xử lý khi màn hình điện thoại bị nhiễu màu, nhiễu từ hiệu quả 15 lỗi màn hình điện thoại thường gặp và cách khắc phục hiệu quả Màn hình điện thoại bị đen - Nguyên nhân và cách khắc phục hiệu quả Cách copy, gửi số điện thoại qua tin nhắn SMS trên iPhone, Android
+Trên đây là 9 cách sửa lỗi điện thoại không tắt màn hình đơn giản, hiệu quả. Cảm ơn bạn đã theo dõi và hẹn gặp lại ở các bài viết sau.
+53.453 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

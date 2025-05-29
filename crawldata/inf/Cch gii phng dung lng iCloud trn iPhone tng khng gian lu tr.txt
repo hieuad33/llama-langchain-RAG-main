@@ -1,0 +1,58 @@
+Cách giải phóng dung lượng iCloud trên iPhone tăng không gian lưu trữ
+Một số mẫu điện thoại iPhone đang kinh doanh tại Thế Giới Di Động
+Bạn là người chơi hệ bộ nhớ nên luôn cần không gian trống để tải app và lưu ảnh? Bạn luôn bị thông báo dung lượng iCloud gây phiền toái mỗi ngày? Bài viết này sẽ giúp bạn khắc phục dung lượng iCloud báo đầy bộ nhớ trên iPhone hiệu quả.
+Bài viết này được hướng dẫn bằng tiếng Việt (bao gồm phần giao diện và chỉ dẫn bằng chữ) hệ điều hành iOS 18.3. Nếu điện thoại bạn đang sử dụng tiếng Anh, bạn có thể xem hướng dẫn cách thay đổi ngôn ngữ từ Anh sang Việt trên iPhone, iPad
+1. Hết dung lượng iCloud có ảnh hưởng gì không?
+Khi iCloud hết dung lượng, bạn có thể gặp một số bất tiện trong quá trình sử dụng thiết bị Apple:
+Không thể sao lưu dữ liệu mới : Thiết bị không thể sao lưu iPhone, iPad lên iCloud, có thể gây gián đoạn nếu cần khôi phục dữ liệu. Không thể lưu ảnh và video vào iCloud Photos :Ảnh và video mới sẽ không được đồng bộ giữa các thiết bị Apple. Bạn cần dọn dẹp hoặc tăng thêm dung lượng để tiếp tục lưu trữ. Không thể gửi và nhận email trên iCloud Mail : Nếu sử dụng email @icloud.com, hộp thư sẽ không thể nhận hoặc gửi email mới khi iCloud đầy. Ứng dụng không thể đồng bộ dữ liệu : Các ứng dụng như Ghi chú, Lời nhắc, Safari, Pages, Numbers sẽ không thể đồng bộ giữa các thiết bị, gây gián đoạn khi làm việc.
+2. Cách kiểm tra dung lượng iCloud đơn giản
+Để truy cập vào iCloud bạn vào Cài đặt > Cuộn xuống dưới cùng tìm mục iCloud . Sau đó kiểm tra chi tiết dung lượng đã lưu trữ.
+Vào Cài đặt > cuộn xuống dưới cùng > chọn iCloud
+Tại đây sẽ có 3 phần chính bạn cần kiểm tra:
+Ảnh : Dữ liệu ảnh và video trong ứng dụng ảnh Các bản sao lưu : Dữ liệu được sao lưu hằng ngày từ ứng dụng bạn sử dụng iCloud Drive
+Đây là 3 danh mục chiếm dung lượng iCloud nhiều nhất. Bạn có thể xem lại các lưu trữ trong 3 mục này để xóa bớt dữ liệu.
+Các mục thường chiếm nhiều dung lượng iCloud nhất
+3. Cách giải phóng dung lượng iCloud
+Vì dữ liệu iCloud do Apple cung cấp là hữu hạn ( 5GB miễn phí ), do đó cách nhanh chóng nhất để khắc phục tình trạng iCloud đầy là giải phóng dung lượng để có thêm bộ nhớ.
+Một số lưu ý trước khi thực hiện: - Bạn sẽ không thể truy cập dữ liệu từ các thiết bị khác cùng Apple ID sau khi xóa ảnh iCloud. - Việc xóa dữ liệu sao lưu trên iCloud có thể xóa hoàn toàn mà không phục hồi được. Do đó, bạn chỉ nên xóa những dữ liệu không thật sự cần thiết. - Nếu dữ liệu hiện tại chỉ có trên iCloud mà không có ở trên iPhone và bạn không muốn mất hoàn toàn dữ liệu đó. Hãy tải chúng về từ iCloud.com trước khi xóa hoặc tắt tính năng sao lưu.
+Xoá dữ liệu những ứng dụng không cần thiết
+Mục Quản lý dung lượng trong iCloud gồm danh sách nhiều ứng dụng, hãy chọn các ứng dụng không cần thiết và xóa dữ liệu của chúng.
+Ngoài ra, dung lượng trong Sao lưu cũng bao gồm dữ liệu từ iPhone hiện tại và các bản sao lưu từ các thiết bị cũ hơn, bạn có thể vào đây kiểm tra và xóa những dữ liệu không còn sử dụng.
+- Bước 1: Trong giao diện iCloud chọn Quản lý dung lượng > Nhấn vào Các bản sao lưu .
+Truy cập Các bản sao lưu
+- Bước 2: Chọn thiết bị muốn tắt/bật sao lưu (trong trường hợp này là điện thoại iPhone hiện tại) > Sau đó tắt/bật tính năng sao lưu của từng ứng dụng hoặc chọn Xóa bản sao lưu để xóa tất cả.
+Xóa bản sao lưu
+Tắt Ảnh iCloud
+Ảnh là dữ liệu chiếm dung lượng nhiều nhất trên iCloud. Bạn có thể vô hiệu hóa việc sao lưu Ảnh từ thư viện để khắc phục tình trạng iCloud báo đầy bộ nhớ.
+Trong giao diện iCloud chọn Ảnh > Tắt & Xóa Ảnh iCloud.
+Tắt & Xóa Ảnh iCloud
+Dọn dẹp iCloud Drive
+iCloud Drive nơi bạn lưu trữ ghi chú, tài liệu, tệp tải về, tin nhắn,... Bạn sẽ cần dọn dẹp nó để có không gian cho iCloud sau một thời gian dài sử dụng.
+Trong giao diện iCloud chọn Quản lý dung lượng > iCloud Drive .
+Truy cập iCloud Drive
+Giao diện iCloud Drive bao gồm tất cả các tệp đang được lưu trữ. Nếu bạn thấy một nội dung nào đó đã cũ hoặc không cần thiết, hãy vuốt sang trái tại tệp đó và nhấp vào Xóa để xóa nó đi.
+Xóa tài liệu trên iCloud Drive
+Xem thêm : 9 cách xóa dung lượng ảo, dung lượng khác trên iPhone đơn giản
+4. Sao dữ liệu vào Google Drive
+Ngoài iCloud, bạn có thể sử dụng một bên thứ ba: Google Drive để sao lưu dữ liệu của mình. So với 5GB mà Apple cung cấp miễn phí cho bạn trên iCloud thì tại Google Drive bạn có đến 15GB miễn phí trên mỗi tài khoản Google để tha hồ lưu trữ dữ liệu.
+Các tiện ích sao lưu dữ liệu của Google Drive bao gồm: - Google Photos : Sao lưu ảnh và video - Google Contacts : Sao lưu danh bạ - Google Calendar : Sao lưu lịch Nếu iPhone của bạn chưa cài đặt Google Drive, bạn có thể nhấn tải về Tại đây . Trước khi sao lưu, bạn cần đảm bảo: - Điện thoại của bạn đã được kết nối với mạng hoặc Wi-Fi. - Nếu bạn sao lưu nhiều lần một ảnh thì chỉ ảnh mới nhất được sao lưu. Đối với danh bạ và lịch, bản sao lưu sau cũng sẽ được ghi đè lên bản sao lưu trước. - Trường hợp các ảnh được xếp thành album trong điện thoại thì album đó sẽ không được sao lưu sang Google Photos. - Danh bạ và lịch, từ các dịch vụ như Facebook hoặc Exchange sẽ không được sao lưu.
+- Bước 1: Để sao lưu bạn thực hiện mở ứng dụng Google Drive > Nhấn vào Trình đơn (biểu tượng 3 dấu gạch ngang) > Chọn Cài đặt .
+Cài đặt trên Google Drive
+- Bước 2: Trong cài đặt bạn chọn Sao lưu > Chọn Bắt đầu sao lưu.
+- Bước 3: Tại giao diện Sao lưu , bạn cũng có thể tắt/bật các tiện ích để lựa chọn các dữ liệu cần sao lưu trước khi lựa chọn Bắt đầu sao lưu.
+Tùy chọn dữ liệu cần sao lưu trên Google Drive
+5. Mua thêm dung lượng iCloud
+Nếu như đã thực hiện đủ mọi cách để tránh thông báo đầy bộ nhớ phiền toái từ iPhone nhưng vẫn không hiệu quả. Bạn có thể bỏ ra chỉ 19.000đ mỗi tháng để mua về bộ nhớ khổng lồ 50GB/tháng từ iCloud.
+Tại thời điểm xuất bản bài viết ngày 14/03/2025, gói iCloud được bán với mức giá thấp nhất là 19.000đ/50GB/tháng và được gia hạn tự động mỗi tháng.
+Việc sử dụng bộ nhớ từ iCloud sẽ giúp bạn dễ dàng và tiện lợi trong việc sao lưu dữ liệu trên ID Apple của mình, đề phòng trường hợp mất dữ liệu hoặc những vấn đề xấu như mất điện thoại, chuyển đổi sang iPhone mới,…
+- Bước 1: Để mua thêm dung lượng iCloud bạn vào giao diện iCloud > Quản lý dung lượng .
+Truy cập Quản lý dung lượng
+- Bước 2: Tiếp đến bạn chọn Nâng cấp dung lượng > Chọn gói nâng cấp phù hợp và chọn Mua .
+Chọn gói nâng cấp phù hợp và chọn mua
+- Bước 3: Màn hình thanh toán hiện ra, chọn Đăng ký để xác nhận thanh toán. Bạn có thể thanh toán bằng thẻ tín dụng/ghi nợ Visa/ Mastercard hoặc thanh toán bằng ví Momo .
+Xác nhận mua thêm dung lượng iCloud
+Một số mẫu iPad đang được kinh doanh tại Thế Giới Di Động:
+Xem thêm: 10 Cách khắc phục iPhone báo dung lượng đầy đơn giản, hiệu quả 4 bước chuyển dữ liệu từ iPhone sang iPhone bằng iCloud Cách tắt iCloud, xóa dữ liệu đồng bộ iCloud trên iPhone, iPad đơn giản 2 iPhone dùng chung 1 iCloud thì thế nào? Xem được gì? Có nên không? 7 Cách tăng dung lượng iPhone 16GB lên 32GB an toàn bạn nên biết [Video] Cách tạo tài khoản iCloud cực kì đơn giản, siêu nhanh
+Trên đây là những cách khắc phục dung lượng iCloud báo đầy bộ nhớ trên iPhone hiệu quả. Hi vọng có thể giải quyết được vấn đề bạn đang gặp phải. Cảm ơn bạn đã theo dõi và hẹn gặp lại ở các bài viết sau.
+132.408 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

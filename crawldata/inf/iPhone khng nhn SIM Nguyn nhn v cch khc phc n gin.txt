@@ -1,0 +1,82 @@
+iPhone không nhận SIM? Nguyên nhân và cách khắc phục đơn giản
+ĐỪNG BỎ LỠ 1 số Sạc, cáp chất lượng đang giảm giá, số lượng có hạn tại TGDĐ:
+Có lẽ đối với người dùng điện thoại thông minh nói chung và iPhone nói riêng thì lỗi không nhận sim khá quen thuộc và gây ra không ít phiền phức cho người dùng. Để hiểu hơn về nguyên nhân vì sao iPhone báo không có sim, bạn hãy theo dõi bài viết dưới đây. Cùng xem ngay thôi!
+Tóm tắt nhanh: Nếu bạn đang cần giải pháp ngay lập tức, hãy thử các cách sau trước khi đi sâu vào nguyên nhân: Bật/Tắt chế độ máy bay trong 5 giây để reset kết nối mạng. Tháo SIM và lắp lại để kiểm tra xem có bị bẩn hoặc lỏng không. Thử đổi sang SIM khác > Nếu máy nhận SIM mới, có thể SIM cũ bị lỗi. Tắt nguồn & khởi động lại iPhone > Đôi khi lỗi phần mềm nhỏ có thể khắc phục bằng cách này. Kiểm tra nhà mạng > Có thể nhà mạng đang bảo trì hoặc gặp lỗi đường truyền.
+1. Tại sao iPhone không nhận SIM
+Dấu hiệu lỗi do SIM
+Lắp SIM vào máy khác nhưng vẫn không hoạt động. Xuất hiện thông báo "Không có SIM" hoặc "SIM không hợp lệ" trên nhiều thiết bị khác nhau. SIM có dấu hiệu trầy xước, gãy hoặc bị hỏng.
+Dấu hiệu lỗi do iPhone
+Đổi SIM khác nhưng iPhone vẫn không nhận. Hiển thị trạng thái "SOS" hoặc "Không có dịch vụ" ngay cả khi đã thử nhiều phương pháp khắc phục. Lỗi xuất hiện sau khi cập nhật iOS hoặc thay đổi cài đặt mạng. Do iPhone bạn đang dùng thuộc phiên bản lock nên không thể nhận diện được thẻ SIM.
+Nếu xác định lỗi nằm ở SIM, bạn có thể thử đổi SIM mới. Nếu lỗi đến từ iPhone, hãy xem các giải pháp bên dưới.
+2. Cách khắc phục lỗi iPhone không nhận SIM
+Vệ sinh SIM
+Lâu ngày sử dụng tất cả các vật dụng đều dính nhiều bụi bẩn. Và SIM thì cũng không ngoại lệ nhưng người dùng thường hay không thể ý và bỏ qua khâu vệ sinh SIM.
+Vậy nên hãy thử vệ sinh SIM để khắc phục lỗi này. SIM có nhiều vi mạch rất nhỏ vì thế hãy thao tác cẩn thận và đúng cách để không làm hư hại trong quá trình vệ sinh.
+Tắt nguồn và khởi động lại
+Các chức năng của ứng dụng hoạt động không trơn tru, chậm hoặc các chức năng bị ảnh hưởng khi bộ nhớ RAM bị đầy khi sử dụng lâu ngày mà một trong những lỗi đó là điện thoại không nhận SIM.
+Cách thực hiện : Nhấn giữ nút nguồn > Trượt sang phải để tắt nguồn.
+Trượt để tắt nguồn
+Vậy nên hãy thử tắt nguồn và khởi động lại điện thoại để xóa bộ nhớ RAM một cách nhanh chóng để khắc phục lỗi.
+Tắt bật chế độ máy bay
+Bạn có thể tắt mạng và kết nối lại mạng bằng cách tắt và bật lại chế độ máy bay. Việc này tương tự như reset nhanh lại mạng, bắt lại sóng điện thoại và có thể đây là một trong những cách đáng để thử.
+Cách thực hiện: Vuốt màn hình từ dưới lên để hiện Trung tâm điều khiển , nếu bạn dùng điện thoại iPhone Xr, iPhone Xs trở về sau thì thì vuốt màn hình từ trên xuống > Chọn biểu tượng Máy bay .
+Tắt và bật chế độ máy bay
+Xem SIM có bị cắt lệch không?
+Thường đối với các loại SIM cũ thì sẽ không có khớp để tháo SIM nhỏ hơn vừa với khay SIM nên người dùng cần phải đến các cửa hàng điện thoại để cắt SIM ra. Vì thế trong quá trình cắt SIM bị lệch, bị phạm nên khi gắn vào điện thoại sẽ không khớp khiến điện thoại không nhận SIM.
+Vậy nên bạn hãy kiểm tra lại xem SIM có thật sự bị cắt lệch không. Nếu có hãy đến cửa hàng của các nhà mạng để nhờ họ đổi SIM hoặc tư vấn, hỗ trợ chi tiết hơn.
+Kiểm tra liệu sim có bị cắt lệch không
+Kiểm tra khay SIM
+Khay SIM lâu ngày sử dụng có thể bị rỉ sét hoặc hư hỏng khi va đập. Vậy nên hãy kiểm tra xem khay SIM có bị biến dạng, móp mép hay không. Nếu khay SIM bạn có lỗi bất thường thì đây có thể là nguyên nhân khiến bạn gặp lỗi điện thoại không thể nhận SIM.
+Nếu vậy hãy tìm đến trung tâm bảo hành để được thay khay SIM mới chất lượng hơn.
+Kiểm tra khay sim xem có hư hỏng không
+Kiểm tra iPhone có phải là chính hãng, iPhone Lock
+Điện thoại iPhone Lock hoặc không chính hãng có thể bị khóa mạng và không thể nhận SIM của nhà mạng Việt Nam. Một trong số những lỗi thường gặp đó là SIM mất mạng, điện thoại không nhận SIM,...Vậy nên hãy thử kiểm tra lỗi này có phải do điện thoại của là iPhone Lock hay không.
+Kiểm tra iPhone có phải là chính hãng không
+Cách kiểm tra:
+Vào Cài đặt > Cài đặt chung > Giới thiệu , kéo xuống mục Khóa nhà cung cấp/Khóa mạng . Nếu hiển thị "Có khóa SIM", có nghĩa là iPhone bị khóa mạng.
+Cách khắc phục:
+Liên hệ với nhà mạng mà bạn đang sử dụng để yêu cầu mở khóa chính thức.
+Khắc phục lỗi iPhone chỉ hiện "SOS" hoặc "Không có dịch vụ"
+Tình trạng này có thể do nhiều nguyên nhân khác nhau, bao gồm:
+SIM bị hỏng hoặc không còn hợp lệ. Lỗi phần cứng liên quan đến ăng-ten hoặc bộ phận nhận sóng. Nhà mạng gặp sự cố kỹ thuật.
+Cách khắc phục:
+Thử đổi SIM khác hoặc lắp SIM vào điện thoại khác để kiểm tra. Đặt lại cài đặt mạng: Có thể trong quá trình reset bạn đã thay đổi một mục nào đó làm ảnh hưởng đến cài đặt sóng, mạng trên điện thoại. Vì thế hãy đặt lại cài đặt để có thể đưa cài đặt mạng về trạng thái ban đầu và khắc phục một số lỗi nhỏ nhặt này.
+Bước 1 : Chọn Cài đặt > Chọn Cài đặt chung > Chọn Đặt lại .
+Vào cài đặt chung rồi chọn đặt lại iPhone
+Bước 2 : Chọn Đặt lại > Đặt lại cài đặt mạng .
+Vào chọn đặt lại cài đặt mạng trong mục đặt lại
+Khôi phục cài đặt gốc
+Khi các phần mềm bị xung đột sẽ khiến điện thoại bạn gặp một số lỗi như màn hình bị đảo, bàn phím không ăn, máy bị lag, treo,...Điện thoại không nhận SIM là một trong những lỗi thường gặp.
+Cùng theo dõi ngay bài viết Cách khôi phục cài đặt gốc, reset điện thoại iPhone để xem hướng dẫn chi tiết cách khôi phục cài đặt gốc nhé!
+Kiểm tra trạng thái SIM với nhà mạng
+Nếu SIM bạn đã dùng lâu ngày thì có thể liên hệ với tổng đài chăm sóc khách hàng của các nhà mạng để nhờ họ kiểm tra SIM của bạn đang hoạt động tốt hay không.
+Thông tin chi tiết của một số nhà mạng để bạn liên hệ:
+- Nhà mạng Viettel: 1800 8098.
+- Nhà mạng MobiFone: 1800 1090.
+- Nhà mạng Vietnamobile: 360 hoặc 789.
+- Nhà mạng Vinaphone: 1800 1091.
+- Nhà mạng Gmobile(Beeline): 199 hoặc 019 9888 0199.
+Và tốt nhất bạn nên đến cửa hàng của các nhà mạng để được tư vấn và giải quyết thắc mắc nhanh chóng.
+Đem SIM đến cửa hàng đại diện khắc phục
+Kiểm tra phần cứng của iPhone
+Các cách trên sẽ không hữu hiệu nếu điện thoại của bạn bị hư hỏng phần cứng trong điện thoại. Vậy nên đã thử hết các cách mà vẫn chưa thể sửa lỗi thì hãy đem đến các trung tâm sửa chữa hoặc bảo hành chính hãng, uy tín để kiểm tra bên trong của điện thoại nhé!
+SĂN NGAY MÃ GIẢM SỐC TGDĐ TẠI ĐÂY!!
+3. Một số câu hỏi liên quan
+iPhone quốc tế nhưng lắp SIM vào lại bị iPhone báo chưa được kích hoạt hãy liên hệ với nhà cung cấp? Cách xử lý
+Trả lời: Trong trường hợp này bạn nên tháo sim, khởi động lại máy và lắp lại SIM.
+Điện thoại đang bình thường nhưng không nhận SIM và báo không có dịch vụ? Cách khắc phục
+Trả lời : Trước tiên để biết lỗi này là do SIM hay do máy thì bạn thử gắn SIM của 1 nhà mạng khác vào máy của mình. Nếu SIM sử dụng được bình thường thì lỗi này là do SIM cũ của bạn, ngược lại nếu SIM mới lắp cũng gặp tình trạng như vậy thì có thể đây là lỗi từ máy.
+SIM tháo ra lắp lại thì được một lúc, máy báo không có SIM là lỗi do máy hay do SIM?
+Trả lời : Khởi động lại máy để dữ liệu hệ thống được tự động làm mới lại - mình điều chỉnh lại ngày giờ hệ thống của máy cho chính xác và kiểm tra lần nữa xem đã thành công chưa.
+iPhone báo "Không có SIM" nhưng vẫn gọi được qua WiFi?
+Trả lời : Nếu vẫn có thể sử dụng iMessage và FaceTime, rất có thể SIM đang gặp sự cố nhưng máy vẫn kết nối qua WiFi. Bạn hãy thử kiểm tra lại SIM hoặc thử lắp SIM khác để xác định lỗi.
+iPhone đổi SIM khác nhưng vẫn không nhận, có phải bị hỏng không?
+Trả lời : Nếu đã thử nhiều SIM khác nhau mà iPhone vẫn không nhận, có thể iPhone bị lỗi phần cứng như hỏng ăng-ten hoặc IC quản lý SIM.Trong trường hợp này, nên mang thiết bị đến trung tâm sửa chữa uy tín để kiểm tra.
+Khi nào nên đổi SIM hoặc mang máy đi sửa?
+Nếu bạn đã thử tất cả các cách trên nhưng iPhone vẫn không nhận SIM, hãy cân nhắc các giải pháp sau:
+Đổi SIM mới nếu SIM cũ đã sử dụng lâu năm hoặc có dấu hiệu hư hỏng. Mang iPhone đến trung tâm sửa chữa nếu nghi ngờ lỗi phần cứng. Nếu iPhone bị khóa mạng, liên hệ với nhà mạng gốc để yêu cầu mở khóa hoặc sử dụng SIM ghép. Nếu bạn cần hỗ trợ kiểm tra SIM hoặc sửa chữa điện thoại, hãy đến cửa hàng gần nhất để được tư vấn miễn phí.
+Một số mẫu điện thoại đang kinh doanh tại Thế Giới Di Động:
+Xem thêm : Cách khắc phục SIM bị cắt nhầm, bị gãy, mất số điện thoại đơn giản SIM không hợp lệ là sao? Cách khắc phục lỗi SIM không hợp lệ hiệu quả SIM không vừa điện thoại - Nguyên nhân và cách khắc phục cực dễ Cách sửa lỗi iPhone không có dịch vụ tại nhà đơn giản, nhanh chóng
+Mình hy vọng sau khi tham khảo bài viết SIM của bạn sẽ có thể hoạt động lại mượt mà trên iPhone. Cám ơn đã theo dõi, hẹn gặp lại ở những bài viết tiếp theo!
+93.200 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI

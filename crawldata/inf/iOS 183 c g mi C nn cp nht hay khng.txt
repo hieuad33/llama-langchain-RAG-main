@@ -1,0 +1,39 @@
+iOS 18.3 có gì mới? Có nên cập nhật hay không?
+SĂN NGAY các mẫu điện thoại iPhone được hỗ trợ nâng cấp iOS 18.3 & đang GIẢM SỐC đang kinh doanh tại Thế Giới Di Động (TGDĐ):
+iOS 18.3, bản cập nhật lớn thứ ba của hệ điều hành iOS 18, đã chính thức được phát hành bởi Apple vào ngày 27 tháng 1 năm 2025. Nếu bạn đang phân vân không biết có nên cập nhật lên iOS 18.3 hay không, bài viết dưới đây sẽ giúp bạn hiểu rõ hơn về những điểm mới của phiên bản này và cách nó có thể mang lại lợi ích cho thiết bị của bạn.
+1. Thông tin chung về iOS 18.3?
+iOS 18.3 chính thức được phát hành vào ngày 27 tháng 1 năm 2025. Đây là bản cập nhật lớn thứ ba của hệ điều hành iOS 18, sau các phiên bản iOS 18.1 và iOS 18.2.
+Bản cập nhật này chủ yếu tập trung vào việc cải thiện hiệu suất, bảo mật và sửa một số lỗi của hệ thống. Các tính năng mới và các sửa lỗi bảo mật đều mang lại nhiều lợi ích cho người dùng trong khi sử dụng iPhone .
+2. Các tính năng mới đáng chú ý trên iOS 18.3?
+Apple Intelligence tự động bật
+Một trong những thay đổi quan trọng nhất trong iOS 18.3 là việc Apple Intelligence được bật mặc định trên các thiết bị hỗ trợ. Trước đây, người dùng phải tự kích hoạt tính năng này, nhưng với iOS 18.3, tính năng này sẽ tự động hoạt động khi bạn cập nhật lên phiên bản mới.
+Nếu bạn không muốn sử dụng Apple Intelligence, bạn có thể dễ dàng tắt nó đi. Để tắt tính năng, chỉ cần vào Cài đặt > Apple Intelligence & Siri , rồi gạt nút màu xanh sang trái để tắt.
+Chạm Apple Intelligence > gạt sang trái để tắt
+Tuy nhiên hiện tại Apple Intelligence và các tính năng AI liên quan chưa hỗ trợ tiếng Việt. Nếu bạn muốn sử dụng, bạn có thể chuyển vùng sang Mỹ và đổi ngôn ngữ tiếng Anh để sử dụng.
+Tính năng mới Visual Intelligence
+Visual Intelligence là một tính năng mới trên nút Camera Control của iPhone 16 được giới thiệu trong phiên bản iOS 18.2.
+Với nâng cấp của iOS 18.3, bạn có thể nhận diện thực vật và động vật chỉ bằng cách chụp ảnh chúng qua camera, đồng thời thêm sự kiện vào Lịch từ các hình ảnh như poster hoặc tờ rơi.
+Tính năng này giúp tận dụng khả năng nhận diện hình ảnh của iPhone để cung cấp thông tin ngay lập tức.
+Visual Inteligence hỗ trợ tìm kiếm các thông tin theo hình ảnh đã chụp được
+Cải tiến tính năng tóm tắt thông báo
+Một cải tiến đáng chú ý khác trong iOS 18.3 là tính năng tóm tắt thông báo. Apple đã thực hiện một số thay đổi quan trọng đối với tính năng này:
+Bật/tắt tóm tắt thông báo : Bạn có thể tùy chọn bật/tắt tính năng tóm tắt thông báo khi cảm thấy không cần thiết.
+Tùy chỉnh tóm tắt thông báo: Bạn có thể quản lý tính năng tóm tắt thông báo ngay từ màn hình khóa hoặc Notification Center, giúp tùy chỉnh và tối ưu hóa việc nhận thông báo. Chọn các nhóm ứng dụng cần tóm tắt thông báo
+Bật/tắt tính năng tóm tắt thông báo cho từng ứng dụng
+Các thông báo tóm tắt được in nghiêng: Điều này để phân biệt với các thông báo thông thường, giúp người dùng dễ dàng nhận biết.
+Tính năng lặp lại trên Ứng dụng Máy tính
+Một tính năng đã bị xóa trong iOS 18 và nay được Apple mang trở lại trong iOS 18.3 là tính năng " lặp lại phép toán " trong ứng dụng Máy tính. Tính năng này giúp người dùng thực hiện các phép toán liên tiếp mà không cần phải nhập lại các phép toán trước đó.
+Để thực hiện: Bạn chỉ cần chạm hai lần vào dấu "=" để lặp lại phép toán cuối cùng. Điều này đặc biệt hữu ích cho những người thường xuyên sử dụng máy tính để tính toán các phép toán lặp lại như tính lãi suất hay các phép toán tài chính.
+Thêm hình nền mới Black Unity
+Bộ hình nền mới Black Unity được Apple ra mắt trong Bộ sưu tập Black Unity 2025 cùng với bao gồm dây đeo cho Apple Watch phiên bản đặc biệt và mặt đồng hồ Unity Rhythm.
+Lấy cảm hứng từ nhịp điệu của nhân loại, bộ sưu tập này kỷ niệm văn hóa và cộng đồng người Da Đen, với một phần lợi nhuận sẽ hỗ trợ các tổ chức toàn cầu tập trung vào sáng tạo và cộng đồng.
+Hình nền Black Unity có trên iPhone, iPad, Apple Watch
+3. Có nên cập nhật lên iOS 18.3? Thiết bị nào được hỗ trợ?
+Nếu bạn không sở hữu iPhone 16 hoặc các thiết bị tương thích với Visual Intelligence và Apple Intelligence, các tính năng mới này có thể không mang lại sự thay đổi lớn cho trải nghiệm sử dụng của bạn. Tuy nhiên, bản cập nhật vẫn mang đến nhiều cải tiến về hiệu suất và bảo mật.
+Các thiết bị được nâng cấp lên iOS 18.3:
+iPhone X iPhone XR, XS và XS Max iPhone 11, 11 Pro và 11 Pro Max iPhone SE (thế hệ thứ 2 trở lên) iPhone 12 series iPhone 13 series iPhone 14 series iPhone 15 series iPhone 16 series
+SĂN NGAY MÃ GIẢM GIÁ SỐC TỪ Thế Giới Di Động
+SĂN NGAY các mẫu điện thoại iPhone đang kinh doanh tại Thế Giới Di Động:
+Xem thêm : [Video] Cách cập nhập iOS trên iPhone iOS 18 có gì mới, hỗ trợ máy nào? Cách cập nhật Hướng dẫn nâng cấp hệ điều hành iPhone đơn giản nhất iOS 18.2 có gì mới? iOS 18.1 có những tính năng nào mới? iOS 18.4 hỗ trợ Siri tiếng Việt và các tính năng nào mới?
+Với những cải tiến đáng kể trong iOS 18.3, Apple sẽ hỗ trợ nâng cao trải nghiệm người dùng và mở rộng khả năng tương tác và sáng tạo. Hãy cùng Thế Giới Di Động cập nhật lên iOS 18.3 và khám phá thế giới của những cải tiến công nghệ, đảm bảo bạn luôn bắt kịp xu hướng và tận dụng tối đa từ chiếc iPhone của mình.
+603 lượt xem

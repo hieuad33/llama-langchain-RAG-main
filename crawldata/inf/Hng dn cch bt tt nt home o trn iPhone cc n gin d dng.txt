@@ -1,0 +1,49 @@
+Hướng dẫn cách bật, tắt nút home ảo trên iPhone cực đơn giản, dễ dàng
+ĐỪNG BỎ LỠ 1 số mẫu Sạc dự phòng hỗ trợ sạc nhanh đang giảm giá ưu đãi tại TGDĐ:
+Trên giao diện của điện thoại iPhone luôn được trang bị một tính năng độc quyền mà hiếm có hãng điện thoại làm được. Đó chính là nút home ảo (hay còn gọi là AssistiveTouch ). Nếu bạn vẫn chưa biết cách bật, tắt nút home ảo trên iPhone thì hãy cùng theo dõi bài viết này để được hướng dẫn cách làm đơn giản, dễ dàng nhé
+1. Cách bật, tắt nút Home ảo trên iPhone
+Từ iPhone X trở về sau
+Hướng dẫn dưới đây được thực hiện trên thiết bị iPhone X, phiên bản iOS 17.7 với những chú thích và đề mục viết bằng tiếng Việt. Ở các thiết bị và phiên bản khác, có thể có sự khác biệt trong thao tác.
+Bước Nút home ảo hay còn gọi là AssistiveTouch là tính năng nằm trong phần trợ năng của điện thoại. Để bật chức năng này, bạn hãy mở ứng dụng Cài đặt . Sau đó tới tìm tới phần Trợ năng > Cảm ứng
+Mở Trợ năng > Cảm ứng
+Bước 2: Bạn chọn AsistiveTouch và trượt thanh bật/tắt sang màu xanh để bật nút home ảo. Phím home sẽ hiển thị ngay khi bạn bật thành công.
+Bạn chọn AssistiveTouch, trượt thanh bật/tắt sang màu xanh
+Từ iPhone 8 trở về trước
+Hướng dẫn dưới đây được thực hiện trên thiết bị iPhone 8, phiên bản iOS 15.2 với những chú thích và đề mục viết bằng tiếng Việt. Ở các thiết bị và phiên bản khác, có thể có sự khác biệt trong thao tác.
+Để bật, tắt nút home ảo trên các dòng điện thoại iPhone sử dụng hệ điều hành iOS 13 trở lên bạn hãy làm như sau:
+- Bước 1 : Vào ứng dụng Cài đặt của iPhone > Chọn mục Trợ năng .
+Vào ứng dụng Cài đặt của iPhone > Chọn mục Trợ năng
+- Bước 2 : Nhấn vào tuỳ chọn Cảm ứng > Tại phần AssistiveTouch bạn có thể bật hoặc tắt tuỳ ý chế độ nút home ảo.
+Tại phần AssistiveTouch bạn có thể bật hoặc tắt tuỳ ý chế độ nút home ảo
+- Trên iOS 12 (iPhone 5) trở về trước
+Hướng dẫn dưới đây được thực hiện trên thiết bị iPhone 5 , phiên bản iOS 11.4.1 với những chú thích và đề mục viết bằng tiếng Việt . Ở các thiết bị và phiên bản khác, có thể có sự khác biệt trong thao tác.
+Để bật, tắt nút home ảo trên các dòng điện thoại iPhone sử dụng hệ điều hành iOS 12 trở về trước bạn hãy làm như sau:
+- Bước 1 : Vào ứng dụng Cài đặt của iPhone > Mở phần Cài đặt chung .
+Vào ứng dụng Cài đặt của iPhone > Mở phần Cài đặt chung
+- Bước 2 : Vào tuỳ chọn Trợ năng > Kéo xuống dưới, tại mục AssistiveTouch bạn có thể bật hoặc tắt nút home ảo theo nhu cầu sử dụng.
+Tại mục AssistiveTouch có thể bật hoặc tắt nút home ảo theo nhu cầu
+SĂN NGAY MÃ GIẢM SỐC TGDĐ TẠI ĐÂY!!
+2. Cách cài đặt nút Home ảo trên iPhone
+- Thiết lập công cụ
+Sau khi đã vào được mục AssistiveTouch để bật nút home ảo, bạn còn có thể thiết lập theo ý thích tối đa 8 biểu tượng tác vụ nhanh . Hãy làm theo hướng dẫn sau đây:
+- Bước 1 : Trong mục AssistiveTouch > Nhấn vào tuỳ chọn Tùy chỉnh menu điều khiển .
+Trong mục AssistiveTouch > Nhấn vào tuỳ chọn Tùy chỉnh menu điều khiển
+- Bước 2 : Nhấn dấu ( + ) để tăng số lượng các biểu tượng hoặc dấu ( - ) để giảm bớt các biểu tượng không mong muốn > Bấm chọn các biểu tượng để thay đổi chức năng các thao tác nhanh theo ý thích của bạn > Nhấn Xong để lưu thay đổi.
+Có thể tăng/ giảm số lượng biểu tượng cũng như thay đổi chức năng tuỳ ý
+- Tùy chỉnh độ mờ
+Để điều chỉnh độ mờ khi hiển thị của nút home ảo trên màn hình, bạn hãy làm như sau:
+- Bước 1 : Trong mục AssistiveTouch > Chọn Độ mờ khi không dùng > Kéo thanh điều chỉnh phần trăm độ mờ của nút home theo ý thích của bạn. Bạn có thể vừa kéo vừa xem mức độ biến đổi của nút home để dừng khi thấy đã hợp lý.
+Kéo thanh điều chỉnh phần trăm độ mờ của nút home
+- Tùy chỉnh độ nhạy di chuyển
+Cũng tại giao diện AssistiveTouch > Kéo để tùy chỉnh Độ nhạy di chuyển . Càng kéo về hướng bên trái có biểu tượng con rùa thì độ nhạy sẽ thấp hơn và kéo về bên phải có biểu tượng con thỏ thì độ nhạy sẽ được nâng cao .
+Trong giao diện AssistiveTouch bạn có thể kéo để tùy chỉnh Độ nhạy di chuyển
+3. Giải đáp một số thắc mắc
+- Sau khi đặt lại máy thì bật phím ảo thế nào?
+Sau khi tiến hành reset iPhone , bạn có thể bật lại phím home ảo bằng cách thực hiện tương tự như hướng dẫn đã trình bày trong bài viết phía trên.
+iPhone 16 đã mang đến một làn gió mới cho trải nghiệm iPhone với giao diện được thiết kế lại, các thao tác điều hướng trực quan và nút Action tùy biến linh hoạt. Khám phá iPhone 16 và trải nghiệm sự thay đổi!
+- Bật phần AssistiveTouch rồi nhưng không hiện Home ảo?
+Trong trường hợp này bạn nên thử khởi động lại iPhone và tiến hành bật lại nút Home ảo như hướng dẫn phía trên thêm một lần nữa.
+Xem thêm : 8 bước khóa màn hình iPhone bằng nút Home ảo Lỗi nút home ảo trên iPhone - Nguyên nhân và cách khắc phục [Video] Cách khởi động lại iPhone không cần sử dụng nút nguồn đơn giản iPhone mã KH/A của nước nào? Dùng có tốt không? Có nên mua hay không? Tổng hợp bảng giá iPhone hiện nay mới nhất 2023 cập nhật liên tục iOS 17 : Có gì mới, hỗ trợ máy nào? Cách cập nhật Chip Apple A17 Pro - Tiến trình 3nm tiên tiến, hiệu năng cực khủng Tìm hiểu chi tiết chip S9 trên Apple Watch - Hiệu năng cực đỉnh Đánh giá chip Apple A16 Bionic chi tiết về thông số và hiệu năng Cách reset iPhone
+Bài viết trên đây đã hướng dẫn cho bạn cách bật, tắt nút home ảo trên iPhone cực đơn giản, dễ dàng. Cảm ơn bạn đã theo dõi, chúc bạn thực hiện thành công và hẹn gặp lại bạn trong những bài viết sau.
+1.859.995 lượt xem
+Bạn có làm được hướng dẫn này không? Có Không Cám ơn bạn đã phản hồi Xin lỗi bài viết chưa đáp ứng nhu cầu của bạn. Vấn đề bạn gặp phải là gì? Đang làm gặp lỗi, không có trong hướng dẫn Đã làm nhưng không thành công Bài viết không đúng nhu cầu Bài viết đã cũ, thiếu thông tin GỬI
